@@ -1,0 +1,35 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+boto3 = "*"
+numpy = "*"
+sklearn = "*"
+pipenv = "*"
+ipykernel = "*"
+tqdm = "*"
+pillow = "*"
+pytesseract = "*"
+pdf2image = "*"
+ipywidgets = "*"
+opencv-python = "*"
+matplotlib = "*"
+dask = "*"
+dask-ml = "*"
+pypdf2 = "*"
+wand = "*"
+seaborn = "*"
+imageio = "*"
+yellowbrick = "*"
+gensim = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
+wordcloud = "*"
+
+[requires]
+python_version = "3.6"
