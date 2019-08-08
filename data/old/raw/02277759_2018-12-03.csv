@@ -1,0 +1,33 @@
+,conf,currYr,label,source,value,year,unit
+0,87.0,1.0,Tangible assets,Tangible assets 10 41,10,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 10 41,41,2017.0,£
+2,96.0,1.0,Stocks,Stocks 300 300,300,2018.0,£
+3,96.0,0.0,Stocks,Stocks 300 300,300,2017.0,£
+4,96.0,1.0,Debtors,Debtors 18944 11999,18944,2018.0,£
+5,96.0,0.0,Debtors,Debtors 18944 11999,11999,2017.0,£
+6,94.0,1.0,Cash at bank and in hand,Cash at bank and in hand 18245 8392,18245,2018.0,£
+7,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 18245 8392,8392,2017.0,£
+8,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 14 9636 8663,9636,2018.0,£
+9,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 14 9636 8663,8663,2017.0,£
+10,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 27853 12028,27853,2018.0,£
+11,94.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 27853 12028,12028,2017.0,£
+12,96.0,1.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 27863 12069,27863,2018.0,£
+13,95.0,0.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 27863 12069,12069,2017.0,£
+14,96.0,1.0,NET ASSETS,NET ASSETS 27863 12069,27863,2018.0,£
+15,95.0,0.0,NET ASSETS,NET ASSETS 27863 12069,12069,2017.0,£
+0,96.0,1.0,Education training and production,Education training and production 73415 67102 140517  132859,140517,2018.0,£
+1,71.0,0.0,Education training and production,Education training and production 73415 67102 140517  132859,132859,2017.0,£
+2,51.0,1.0,Other trading activities .,Other trading activities . 2 16278 16279 18808,16279,2018.0,£
+3,96.0,0.0,Other trading activities .,Other trading activities . 2 16278 16279 18808,18808,2017.0,£
+4,86.0,1.0,Investment income,Investment income 3 2 2 42,2,2018.0,£
+5,97.0,0.0,Investment income,Investment income 3 2 2 42,42,2017.0,£
+6,96.0,1.0,Total,Total 89695 67103 156798 151679,156798,2018.0,£
+7,96.0,0.0,Total,Total 89695 67103 156798 151679,151679,2017.0,£
+8,96.0,1.0,Education training and production,Education training and production 81862 59142 141004 160890,141004,2018.0,£
+9,95.0,0.0,Education training and production,Education training and production 81862 59142 141004 160890,160890,2017.0,£
+10,95.0,1.0,NET INCOMEEXPENDITURE,NET INCOMEEXPENDITURE 7833 7961 15794 9211,15794,2018.0,£
+11,95.0,0.0,NET INCOMEEXPENDITURE,NET INCOMEEXPENDITURE 7833 7961 15794 9211,9211,2017.0,£
+12,95.0,1.0,Total funds brought forward,Total funds brought forward 600 12669 12069 21280,12069,2018.0,£
+13,96.0,0.0,Total funds brought forward,Total funds brought forward 600 12669 12069 21280,21280,2017.0,£
+14,88.0,1.0,TOTAL FUNDS CARRIED FORWARD,TOTAL FUNDS CARRIED FORWARD 7233 20630 27863 12069,27863,2018.0,£
+15,94.0,0.0,TOTAL FUNDS CARRIED FORWARD,TOTAL FUNDS CARRIED FORWARD 7233 20630 27863 12069,12069,2017.0,£

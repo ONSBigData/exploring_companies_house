@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2017 2016 000 000,000,2017.0,$000
+1,96.0,0.0,Note,Note 2017 2016 000 000,000,2016.0,$000
+2,96.0,1.0,Fixed assets Aircraft,Fixed assets Aircraft  18279 19127 18279 19127,18279,2017.0,$000
+3,95.0,0.0,Fixed assets Aircraft,Fixed assets Aircraft  18279 19127 18279 19127,19127,2016.0,$000
+4,94.0,1.0,Debtors Amounts falling due within one year Cash and cash equivalents,Debtors Amounts falling due within one year Cash and cash equivalents  2708 106 254 106 2962,106,2017.0,$000
+5,96.0,0.0,Debtors Amounts falling due within one year Cash and cash equivalents,Debtors Amounts falling due within one year Cash and cash equivalents  2708 106 254 106 2962,2962,2016.0,$000
+6,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 10 1796 919,1796,2017.0,$000
+7,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 10 1796 919,919,2016.0,$000
+8,96.0,1.0,Net current liabilities  assets,Net current liabilities  assets 1690 2043,1690,2017.0,$000
+9,96.0,0.0,Net current liabilities  assets,Net current liabilities  assets 1690 2043,2043,2016.0,$000
+10,41.0,1.0,Creditors Amounts falling due after more than one year ll,Creditors Amounts falling due after more than one year ll 11119 16418,11119,2017.0,$000
+11,95.0,0.0,Creditors Amounts falling due after more than one year ll,Creditors Amounts falling due after more than one year ll 11119 16418,16418,2016.0,$000
+12,96.0,1.0,Deferred tax,Deferred tax 12 735  496,735,2017.0,$000
+13,1.0,0.0,Deferred tax,Deferred tax 12 735  496,496,2016.0,$000
+14,93.0,1.0,Net assets,Net assets 4735 4256,4735,2017.0,$000
+15,62.0,0.0,Net assets,Net assets 4735 4256,4256,2016.0,$000
+16,93.0,1.0,Retained earings,Retained earings 4735 256 4,256,2017.0,$000
+17,60.0,0.0,Retained earings,Retained earings 4735 256 4,4,2016.0,$000

@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 14 413134 431198,413134,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 14 413134 431198,431198,2016.0,£
+2,96.0,1.0,Investment property,Investment property 15 290000 290000,290000,2017.0,£
+3,96.0,0.0,Investment property,Investment property 15 290000 290000,290000,2016.0,£
+4,96.0,1.0,Debtors,Debtors 16 5525871 6123560,5525871,2017.0,£
+5,94.0,0.0,Debtors,Debtors 16 5525871 6123560,6123560,2016.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 1252596 1383178,1252596,2017.0,£
+7,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 1252596 1383178,1383178,2016.0,£
+8,95.0,1.0,Creditors Amounts falling due within one year,year 17 4236020 5138057,4236020,2017.0,£
+9,96.0,0.0,Creditors Amounts falling due within one year,year 17 4236020 5138057,5138057,2016.0,£
+10,96.0,1.0,Net current assets,Net current assets 2542447 2368681,2542447,2017.0,£
+11,95.0,0.0,Net current assets,Net current assets 2542447 2368681,2368681,2016.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 3245581 3089879,3245581,2017.0,£
+13,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 3245581 3089879,3089879,2016.0,£
+14,96.0,1.0,Deferred tax,Deferred tax 18 10665 9873,10665,2017.0,£
+15,96.0,0.0,Deferred tax,Deferred tax 18 10665 9873,9873,2016.0,£
+16,96.0,1.0,Net assets,Net assets 3234916 3080006,3234916,2017.0,£
+17,96.0,0.0,Net assets,Net assets 3234916 3080006,3080006,2016.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 19 25000 25000,25000,2017.0,£
+19,95.0,0.0,Called up share capital,Called up share capital 19 25000 25000,25000,2016.0,£
+20,95.0,1.0,Profit and loss account,Profit and loss account 3209916 3055006,3209916,2017.0,£
+21,95.0,0.0,Profit and loss account,Profit and loss account 3209916 3055006,3055006,2016.0,£

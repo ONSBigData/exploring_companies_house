@@ -1,0 +1,29 @@
+,conf,currYr,label,source,value,year,unit
+0,15.0,1.0,Note,Note 000 7000,000,2017.0,£000
+1,40.0,0.0,Note,Note 000 7000,7000,2016.0,£000
+2,96.0,1.0,Property plant and equipment,Property plant and equipment 8 4718 4764,4718,2017.0,£000
+3,95.0,0.0,Property plant and equipment,Property plant and equipment 8 4718 4764,4764,2016.0,£000
+4,95.0,1.0,Deferred tax,Deferred tax 14 112 127,112,2017.0,£000
+5,94.0,0.0,Deferred tax,Deferred tax 14 112 127,127,2016.0,£000
+6,96.0,1.0,Inventories  Trade and other receivables,Inventories 9 Trade and other receivables 10 12829 18755 10028 18740,10028,2017.0,£000
+7,96.0,0.0,Inventories  Trade and other receivables,Inventories 9 Trade and other receivables 10 12829 18755 10028 18740,18740,2016.0,£000
+8,96.0,1.0,Cash and cash equivalents,Cash and cash equivalents 795 643,795,2017.0,£000
+9,90.0,0.0,Cash and cash equivalents,Cash and cash equivalents 795 643,643,2016.0,£000
+10,95.0,1.0,TOTAL ASSETS,TOTAL ASSETS 37209 34302,37209,2017.0,£000
+11,95.0,0.0,TOTAL ASSETS,TOTAL ASSETS 37209 34302,34302,2016.0,£000
+12,96.0,1.0,Trade and other payables,Trade and other payables 11 17648 16107,17648,2017.0,£000
+13,96.0,0.0,Trade and other payables,Trade and other payables 11 17648 16107,16107,2016.0,£000
+14,96.0,1.0,Current tax liabilities,Current tax liabilities 13 389 356,389,2017.0,£000
+15,96.0,0.0,Current tax liabilities,Current tax liabilities 13 389 356,356,2016.0,£000
+16,95.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 14342 12948,14342,2017.0,£000
+17,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 14342 12948,12948,2016.0,£000
+18,95.0,1.0,TOTAL LIABILITIES,TOTAL LIABILITIES 18037 16463,18037,2017.0,£000
+19,96.0,0.0,TOTAL LIABILITIES,TOTAL LIABILITIES 18037 16463,16463,2016.0,£000
+20,93.0,1.0,NET ASSETS,NET ASSETS 19172 17839,19172,2017.0,£000
+21,94.0,0.0,NET ASSETS,NET ASSETS 19172 17839,17839,2016.0,£000
+22,94.0,1.0,Retained earnings,Retained earnings 19403 16721,19403,2017.0,£000
+23,95.0,0.0,Retained earnings,Retained earnings 19403 16721,16721,2016.0,£000
+24,93.0,1.0,Cash flow hedge reserve,Cash flow hedge reserve 233 1116,233,2017.0,£000
+25,96.0,0.0,Cash flow hedge reserve,Cash flow hedge reserve 233 1116,1116,2016.0,£000
+26,96.0,1.0,SHAREHOLDERS EQUITY,SHAREHOLDERS EQUITY 19172 17839,19172,2017.0,£000
+27,95.0,0.0,SHAREHOLDERS EQUITY,SHAREHOLDERS EQUITY 19172 17839,17839,2016.0,£000

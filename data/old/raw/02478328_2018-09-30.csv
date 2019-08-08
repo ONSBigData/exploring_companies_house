@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Investments,Investments 6 265000 265000,265000,2017.0,£
+1,96.0,0.0,Investments,Investments 6 265000 265000,265000,2016.0,£
+2,96.0,1.0,Debtors,Debtors 7 3574 2704,3574,2017.0,£
+3,93.0,0.0,Debtors,Debtors 7 3574 2704,2704,2016.0,£
+4,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 14571 20531,14571,2017.0,£
+5,81.0,0.0,Cash at bank and in hand,Cash at bank and in hand 14571 20531,20531,2016.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,due within one year 8 6452 6839,6452,2017.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,due within one year 8 6452 6839,6839,2016.0,£
+8,96.0,1.0,Net Current Assets,Net Current Assets 11693 16396,11693,2017.0,£
+9,96.0,0.0,Net Current Assets,Net Current Assets 11693 16396,16396,2016.0,£
+10,96.0,1.0,Net Assets,Net Assets 276693 281396,276693,2017.0,£
+11,95.0,0.0,Net Assets,Net Assets 276693 281396,281396,2016.0,£
+12,96.0,1.0,Called up share capital,Called up share capital 9 1000 1000,1000,2017.0,£
+13,96.0,0.0,Called up share capital,Called up share capital 9 1000 1000,1000,2016.0,£
+14,96.0,1.0,Share premium account Profit and loss account,Share premium account Profit and loss account 9 264000 264000 11693 16396,11693,2017.0,£
+15,96.0,0.0,Share premium account Profit and loss account,Share premium account Profit and loss account 9 264000 264000 11693 16396,16396,2016.0,£
+16,95.0,1.0,Shareholders Funds,Shareholders Funds 276693 281396,276693,2017.0,£
+17,96.0,0.0,Shareholders Funds,Shareholders Funds 276693 281396,281396,2016.0,£

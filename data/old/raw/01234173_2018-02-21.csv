@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Tangible assets,Tangible assets 4 3612 2784,3612,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 4 3612 2784,2784,2016.0,£
+2,96.0,1.0,Investments,Investments 5 3495 3495,3495,2017.0,£
+3,96.0,0.0,Investments,Investments 5 3495 3495,3495,2016.0,£
+4,95.0,1.0,Debtors,Debtors 6 570638 343818,570638,2017.0,£
+5,96.0,0.0,Debtors,Debtors 6 570638 343818,343818,2016.0,£
+6,94.0,1.0,Cash at bank and in hand,Cash at bank and in hand 677295 1597146,677295,2017.0,£
+7,94.0,0.0,Cash at bank and in hand,Cash at bank and in hand 677295 1597146,1597146,2016.0,£
+8,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 7 1038775 1735200,1038775,2017.0,£
+9,95.0,0.0,Amounts falling due within one year,Amounts falling due within one year 7 1038775 1735200,1735200,2016.0,£
+10,95.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 209158  205764,209158,2017.0,£
+11,43.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 209158  205764,205764,2016.0,£
+12,95.0,1.0,LIABILITIES,LIABILITIES 216265 212043,216265,2017.0,£
+13,96.0,0.0,LIABILITIES,LIABILITIES 216265 212043,212043,2016.0,£
+14,95.0,1.0,Income and expenditure account,Income and expenditure account 216265 212043,216265,2017.0,£
+15,96.0,0.0,Income and expenditure account,Income and expenditure account 216265 212043,212043,2016.0,£

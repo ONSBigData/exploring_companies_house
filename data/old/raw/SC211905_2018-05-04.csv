@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Intangible assets,Intangible assets 4 634333 720833,634333,2017.0,£
+1,95.0,0.0,Intangible assets,Intangible assets 4 634333 720833,720833,2016.0,£
+2,89.0,1.0,Tangible assets,Tangible assets 5 3702 4937,3702,2017.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 5 3702 4937,4937,2016.0,£
+4,95.0,1.0,Tangible assets 5 3702 4937 investments,investments 6 1210 1210,1210,2017.0,£
+5,95.0,0.0,Tangible assets 5 3702 4937 investments,investments 6 1210 1210,1210,2016.0,£
+6,96.0,1.0,Debtors,Debtors 7 480354 351702,480354,2017.0,£
+7,94.0,0.0,Debtors,Debtors 7 480354 351702,351702,2016.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 184926 133731,184926,2017.0,£
+9,89.0,0.0,Cash at bank and in hand,Cash at bank and in hand 184926 133731,133731,2016.0,£
+10,75.0,1.0,Creditors amounts falling due within one year,within one year 8 369907 251200,369907,2017.0,£
+11,85.0,0.0,Creditors amounts falling due within one year,within one year 8 369907 251200,251200,2016.0,£
+12,95.0,1.0,Net current assets,Net current assets 295373 234233,295373,2017.0,£
+13,96.0,0.0,Net current assets,Net current assets 295373 234233,234233,2016.0,£
+14,94.0,1.0,Total assets less current liabilities,Total assets less current liabilities 934618 961213,934618,2017.0,£
+15,93.0,0.0,Total assets less current liabilities,Total assets less current liabilities 934618 961213,961213,2016.0,£
+16,95.0,1.0,Net assets,Net assets 934618 961213,934618,2017.0,£
+17,96.0,0.0,Net assets,Net assets 934618 961213,961213,2016.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 2 2,2,2017.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 2 2,2,2016.0,£
+20,94.0,1.0,Profit and loss account,Profit and loss account 934616 961211,934616,2017.0,£
+21,96.0,0.0,Profit and loss account,Profit and loss account 934616 961211,961211,2016.0,£
+22,93.0,1.0,Shareholders funds,Shareholders funds 934618 961213,934618,2017.0,£
+23,95.0,0.0,Shareholders funds,Shareholders funds 934618 961213,961213,2016.0,£

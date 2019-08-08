@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Fixed assets,Fixed assets 21741 22018,21741,2018.0,£
+1,95.0,0.0,Fixed assets,Fixed assets 21741 22018,22018,2017.0,£
+2,95.0,1.0,Current assets,Current assets 45064 78180,45064,2018.0,£
+3,40.0,0.0,Current assets,Current assets 45064 78180,78180,2017.0,£
+4,96.0,1.0,Prepayments and accrued income,Prepayments and accrued income 1473 290,1473,2018.0,£
+5,95.0,0.0,Prepayments and accrued income,Prepayments and accrued income 1473 290,290,2017.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 19179 35793,19179,2018.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 19179 35793,35793,2017.0,£
+8,96.0,1.0,Net current assets,Net current assets 27358 42677,27358,2018.0,£
+9,96.0,0.0,Net current assets,Net current assets 27358 42677,42677,2017.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 49099 64695,49099,2018.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 49099 64695,64695,2017.0,£
+12,96.0,1.0,Provisions for liabilities,Provisions for liabilities 4131 4404,4131,2018.0,£
+13,95.0,0.0,Provisions for liabilities,Provisions for liabilities 4131 4404,4404,2017.0,£
+14,96.0,1.0,Accruals and deferred income,Accruals and deferred income 3097 2867,3097,2018.0,£
+15,95.0,0.0,Accruals and deferred income,Accruals and deferred income 3097 2867,2867,2017.0,£
+16,95.0,1.0,Net assets,Net assets 41871 57424,41871,2018.0,£
+17,96.0,0.0,Net assets,Net assets 41871 57424,57424,2017.0,£
+18,95.0,1.0,Mr S G Atkinson,Mr S G Atkinson 26013 25867 29685 22195,29685,2018.0,£
+19,96.0,0.0,Mr S G Atkinson,Mr S G Atkinson 26013 25867 29685 22195,22195,2017.0,£
+20,96.0,1.0,Mr S G Atkinson,Mr S G Atkinson 25214 77336 26109 26013,26109,2018.0,£
+21,95.0,0.0,Mr S G Atkinson,Mr S G Atkinson 25214 77336 26109 26013,26013,2017.0,£

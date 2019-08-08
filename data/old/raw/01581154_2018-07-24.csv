@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,36.0,1.0,Tangible Assets,Tangible Assets 1639374  1973860,1639374,2017.0,£
+1,64.0,0.0,Tangible Assets,Tangible Assets 1639374  1973860,1973860,2016.0,£
+2,96.0,1.0,Debtors,Debtors 930154 888925,930154,2017.0,£
+3,96.0,0.0,Debtors,Debtors 930154 888925,888925,2016.0,£
+4,95.0,1.0,Cash at bank and inhand,Cash at bank and inhand 429135 194469,429135,2017.0,£
+5,96.0,0.0,Cash at bank and inhand,Cash at bank and inhand 429135 194469,194469,2016.0,£
+6,96.0,1.0,Creditors Amounts Falling Due Within One Year,Creditors Amounts Falling Due Within One Year 726455 847905,726455,2017.0,£
+7,96.0,0.0,Creditors Amounts Falling Due Within One Year,Creditors Amounts Falling Due Within One Year 726455 847905,847905,2016.0,£
+8,96.0,1.0,NET CURRENT ASSETS LIABILITIES,NET CURRENT ASSETS LIABILITIES 667234 310578,667234,2017.0,£
+9,96.0,0.0,NET CURRENT ASSETS LIABILITIES,NET CURRENT ASSETS LIABILITIES 667234 310578,310578,2016.0,£
+10,96.0,1.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 2306608 2284438,2306608,2017.0,£
+11,96.0,0.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 2306608 2284438,2284438,2016.0,£
+12,96.0,1.0,Creditors Amounts Falling Due After More Than One Year,Creditors Amounts Falling Due After More Than One Year 252965 464080,252965,2017.0,£
+13,95.0,0.0,Creditors Amounts Falling Due After More Than One Year,Creditors Amounts Falling Due After More Than One Year 252965 464080,464080,2016.0,£
+14,96.0,1.0,Deferred Taxation,Deferred Taxation  171199 203704,171199,2017.0,£
+15,95.0,0.0,Deferred Taxation,Deferred Taxation  171199 203704,203704,2016.0,£
+16,96.0,1.0,NET ASSETS,NET ASSETS 1882444 1616654,1882444,2017.0,£
+17,96.0,0.0,NET ASSETS,NET ASSETS 1882444 1616654,1616654,2016.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 48 48,48,2017.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 48 48,48,2016.0,£
+20,96.0,1.0,Capital redemption reserve,Capital redemption reserve 52 52,52,2017.0,£
+21,95.0,0.0,Capital redemption reserve,Capital redemption reserve 52 52,52,2016.0,£
+22,96.0,1.0,Profit and Loss Account,Profit and Loss Account 1882344 1616554,1882344,2017.0,£
+23,96.0,0.0,Profit and Loss Account,Profit and Loss Account 1882344 1616554,1616554,2016.0,£
+24,96.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 1882444 1616654,1882444,2017.0,£
+25,95.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 1882444 1616654,1616654,2016.0,£

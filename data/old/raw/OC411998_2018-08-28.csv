@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Note,Note 2017 2017 2016 2016,2016,2017.0,£
+1,96.0,0.0,Note,Note 2017 2017 2016 2016,2016,2016.0,£
+2,95.0,1.0,Investments,Investments 7 3578064 2000,3578064,2017.0,£
+3,96.0,0.0,Investments,Investments 7 3578064 2000,2000,2016.0,£
+4,95.0,1.0,Total assets,Total assets  7858323 24000,7858323,2017.0,£
+5,95.0,0.0,Total assets,Total assets  7858323 24000,24000,2016.0,£
+6,96.0,1.0,Trade and other payables,Trade and other payables 9 24000 12000,24000,2017.0,£
+7,82.0,0.0,Trade and other payables,Trade and other payables 9 24000 12000,12000,2016.0,£
+8,93.0,1.0,Total liabilities,Total liabilities 24000 12000,24000,2017.0,£
+9,96.0,0.0,Total liabilities,Total liabilities 24000 12000,12000,2016.0,£
+10,96.0,1.0,NET ASSETS,NET ASSETS 7834323 12000,7834323,2017.0,£
+11,95.0,0.0,NET ASSETS,NET ASSETS 7834323 12000,12000,2016.0,£
+12,96.0,1.0,Members other interests,Members other interests 7834323 12000,7834323,2017.0,£
+13,94.0,0.0,Members other interests,Members other interests 7834323 12000,12000,2016.0,£

@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Tangible assets,Tangible assets 152629 161753,152629,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 152629 161753,161753,2017.0,£
+2,96.0,1.0,Stocks,Stocks 113891 112000,113891,2018.0,£
+3,96.0,0.0,Stocks,Stocks 113891 112000,112000,2017.0,£
+4,88.0,1.0,Debtors,Debtors 540230 444622,540230,2018.0,£
+5,96.0,0.0,Debtors,Debtors 540230 444622,444622,2017.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 147049 190493,147049,2018.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 147049 190493,190493,2017.0,£
+8,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 433989 362582,433989,2018.0,£
+9,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 433989 362582,362582,2017.0,£
+10,95.0,1.0,Net current assets,Net current assets 367181 384533,367181,2018.0,£
+11,96.0,0.0,Net current assets,Net current assets 367181 384533,384533,2017.0,£
+12,94.0,1.0,Total assets less current liabilities,Total assets less current liabilities 519810 546286,519810,2018.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 519810 546286,546286,2017.0,£
+14,95.0,1.0,Net assets,Net assets 519810 546286,519810,2018.0,£
+15,96.0,0.0,Net assets,Net assets 519810 546286,546286,2017.0,£
+0,96.0,1.0,Called up share capital,Called up share capital  600 600,600,2018.0,£
+1,96.0,0.0,Called up share capital,Called up share capital  600 600,600,2017.0,£
+2,95.0,1.0,Profit and loss account,Profit and loss account 519210 545686,519210,2018.0,£
+3,96.0,0.0,Profit and loss account,Profit and loss account 519210 545686,545686,2017.0,£
+4,96.0,1.0,Shareholder funds,Shareholder funds 519810 546286,519810,2018.0,£
+5,96.0,0.0,Shareholder funds,Shareholder funds 519810 546286,546286,2017.0,£

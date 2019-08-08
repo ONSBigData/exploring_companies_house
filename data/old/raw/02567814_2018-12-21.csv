@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,ST MARCH,31ST MARCH 2018 2018 2017,2018,2018.0,£
+1,96.0,0.0,ST MARCH,31ST MARCH 2018 2018 2017,2017,2017.0,£
+2,96.0,1.0,Tangible Assets,Tangible Assets 7 12542 11281,12542,2018.0,£
+3,94.0,0.0,Tangible Assets,Tangible Assets 7 12542 11281,11281,2017.0,£
+4,96.0,1.0,Stocks,Stocks 9 375 450,375,2018.0,£
+5,94.0,0.0,Stocks,Stocks 9 375 450,450,2017.0,£
+6,95.0,1.0,Debtors,Debtors 10 1988 13491,1988,2018.0,£
+7,96.0,0.0,Debtors,Debtors 10 1988 13491,13491,2017.0,£
+8,95.0,1.0,Cash at Bank and in Hand,Cash at Bank and in Hand 33372 34864,33372,2018.0,£
+9,96.0,0.0,Cash at Bank and in Hand,Cash at Bank and in Hand 33372 34864,34864,2017.0,£
+10,96.0,1.0,Creditors Amounts due within one year,one year 11 30435 44865,30435,2018.0,£
+11,95.0,0.0,Creditors Amounts due within one year,one year 11 30435 44865,44865,2017.0,£
+12,96.0,1.0,Net Current AssetsLiabilities,Net Current AssetsLiabilities 5300 3940,5300,2018.0,£
+13,96.0,0.0,Net Current AssetsLiabilities,Net Current AssetsLiabilities 5300 3940,3940,2017.0,£
+14,95.0,1.0,Total Assets Less Current Liabilities,Total Assets Less Current Liabilities 17842 15221,17842,2018.0,£
+15,95.0,0.0,Total Assets Less Current Liabilities,Total Assets Less Current Liabilities 17842 15221,15221,2017.0,£
+16,95.0,1.0,Provision for Liabilities and Charges,Provision for Liabilities and Charges 12 2291 2124,2291,2018.0,£
+17,96.0,0.0,Provision for Liabilities and Charges,Provision for Liabilities and Charges 12 2291 2124,2124,2017.0,£
+18,96.0,1.0,Net AssetsLiabilities,Net AssetsLiabilities 15551 13097,15551,2018.0,£
+19,95.0,0.0,Net AssetsLiabilities,Net AssetsLiabilities 15551 13097,13097,2017.0,£
+20,96.0,1.0,Called Up Share Capital,Called Up Share Capital 13 2 2,2,2018.0,£
+21,96.0,0.0,Called Up Share Capital,Called Up Share Capital 13 2 2,2,2017.0,£
+22,96.0,1.0,Adverse Balance,Adverse Balance 15549 13095,15549,2018.0,£
+23,96.0,0.0,Adverse Balance,Adverse Balance 15549 13095,13095,2017.0,£

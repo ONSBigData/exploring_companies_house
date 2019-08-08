@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,85.0,1.0,Notes,Notes 000 000 000 000,000,2017.0,£°000
+1,70.0,0.0,Notes,Notes 000 000 000 000,000,2016.0,£°000
+2,95.0,1.0,Investments,Investments 8 51103 51103,51103,2017.0,£°000
+3,96.0,0.0,Investments,Investments 8 51103 51103,51103,2016.0,£°000
+4,96.0,1.0,Debtors,Debtors 10 1050 1050,1050,2017.0,£°000
+5,96.0,0.0,Debtors,Debtors 10 1050 1050,1050,2016.0,£°000
+6,96.0,1.0,Net current liabilitiesassets,Net current liabilitiesassets 54676 1050,54676,2017.0,£°000
+7,94.0,0.0,Net current liabilitiesassets,Net current liabilitiesassets 54676 1050,1050,2016.0,£°000
+8,94.0,1.0,Total assets less current liabilities,Total assets less current liabilities 3573 52153,3573,2017.0,£°000
+9,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 3573 52153,52153,2016.0,£°000
+10,96.0,1.0,Net liabilitiesassets,Net liabilitiesassets 3573 363,3573,2017.0,£°000
+11,96.0,0.0,Net liabilitiesassets,Net liabilitiesassets 3573 363,363,2016.0,£°000
+12,96.0,1.0,Called up share capital,Called up share capital 13 4280 1280,4280,2017.0,£°000
+13,86.0,0.0,Called up share capital,Called up share capital 13 4280 1280,1280,2016.0,£°000
+14,96.0,1.0,Share premium account,Share premium account 14 94 94,94,2017.0,£°000
+15,96.0,0.0,Share premium account,Share premium account 14 94 94,94,2016.0,£°000
+16,96.0,1.0,Profit and loss reserves,Profit and loss reserves 14 4947 1011,4947,2017.0,£°000
+17,95.0,0.0,Profit and loss reserves,Profit and loss reserves 14 4947 1011,1011,2016.0,£°000
+18,96.0,1.0,Total equity,Total equity 3573 363,3573,2017.0,£°000
+19,95.0,0.0,Total equity,Total equity 3573 363,363,2016.0,£°000

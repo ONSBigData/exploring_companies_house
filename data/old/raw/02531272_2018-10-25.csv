@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Balance Sheet as at  March  None,Balance Sheet as at 31 March 2018 None 2018 2017,2018,2018.0,£
+1,96.0,0.0,Balance Sheet as at  March  None,Balance Sheet as at 31 March 2018 None 2018 2017,2017,2017.0,£
+2,96.0,1.0,Fixed assets     Tangible assets Note,Fixed assets     Tangible assets Note 3 306 408,306,2018.0,£
+3,96.0,0.0,Fixed assets     Tangible assets Note,Fixed assets     Tangible assets Note 3 306 408,408,2017.0,£
+4,96.0,1.0,Prepayments and sundry debtors,Prepayments and sundry debtors 253 232,253,2018.0,£
+5,96.0,0.0,Prepayments and sundry debtors,Prepayments and sundry debtors 253 232,232,2017.0,£
+6,96.0,1.0,Debtors   Cash at bank,Debtors   Cash at bank 328484 284907,328484,2018.0,£
+7,93.0,0.0,Debtors   Cash at bank,Debtors   Cash at bank 328484 284907,284907,2017.0,£
+8,96.0,1.0,Current liabilities amounts falling due within one year Note,falling due within one year Note 4  55563 49682,55563,2018.0,£
+9,96.0,0.0,Current liabilities amounts falling due within one year Note,falling due within one year Note 4  55563 49682,49682,2017.0,£
+10,96.0,1.0,Net current assets liabilities,Net current assets liabilities 273174 235457,273174,2018.0,£
+11,96.0,0.0,Net current assets liabilities,Net current assets liabilities 273174 235457,235457,2017.0,£
+12,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 273480 235865,273480,2018.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 273480 235865,235865,2017.0,£
+14,94.0,1.0,Share Capital Note,Share Capital Note 5 10 10,10,2018.0,£
+15,95.0,0.0,Share Capital Note,Share Capital Note 5 10 10,10,2017.0,£
+16,95.0,1.0,Profit and Loss account Note,Profit and Loss account Note 6 273470 235855,273470,2018.0,£
+17,96.0,0.0,Profit and Loss account Note,Profit and Loss account Note 6 273470 235855,235855,2017.0,£

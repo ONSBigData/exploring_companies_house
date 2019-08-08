@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Tangible assets,Tangible assets 33655 31271,33655,2018.0,£
+1,93.0,0.0,Tangible assets,Tangible assets 33655 31271,31271,2017.0,£
+2,96.0,1.0,Investments,Investments 217205 275841,217205,2018.0,£
+3,96.0,0.0,Investments,Investments 217205 275841,275841,2017.0,£
+4,96.0,1.0,Stocks,Stocks 31879 21911,31879,2018.0,£
+5,96.0,0.0,Stocks,Stocks 31879 21911,21911,2017.0,£
+6,96.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 7 700899 655565,700899,2018.0,£
+7,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 7 700899 655565,655565,2017.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 77250 292603,77250,2018.0,£
+9,82.0,0.0,Cash at bank and in hand,Cash at bank and in hand 77250 292603,292603,2017.0,£
+10,89.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 285205 338188,285205,2018.0,£
+11,95.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 285205 338188,338188,2017.0,£
+12,94.0,1.0,Net current assets,Net current assets 524823 631891,524823,2018.0,£
+13,93.0,0.0,Net current assets,Net current assets 524823 631891,631891,2017.0,£
+14,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 775683 939003,775683,2018.0,£
+15,92.0,0.0,Total assets less current liabilities,Total assets less current liabilities 775683 939003,939003,2017.0,£
+16,96.0,1.0,Other provisions,Other provisions 11 258494 277603,258494,2018.0,£
+17,95.0,0.0,Other provisions,Other provisions 11 258494 277603,277603,2017.0,£
+18,90.0,1.0,Net assets,Net assets 517189 661400,517189,2018.0,£
+19,96.0,0.0,Net assets,Net assets 517189 661400,661400,2017.0,£
+20,71.0,1.0,Called up share capital,Called up share capital 50000 50000,50000,2018.0,£
+21,95.0,0.0,Called up share capital,Called up share capital 50000 50000,50000,2017.0,£
+22,95.0,1.0,Other reserves,Other reserves 7810 61490,7810,2018.0,£
+23,95.0,0.0,Other reserves,Other reserves 7810 61490,61490,2017.0,£
+24,95.0,1.0,Profit and loss account,Profit and loss account 459379 549910,459379,2018.0,£
+25,95.0,0.0,Profit and loss account,Profit and loss account 459379 549910,549910,2017.0,£

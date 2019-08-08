@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5 5310 6247,5310,2018.0,£
+1,93.0,0.0,Tangible assets,Tangible assets 5 5310 6247,6247,2017.0,£
+2,96.0,1.0,Debtors,Debtors 6 438 234,438,2018.0,£
+3,96.0,0.0,Debtors,Debtors 6 438 234,234,2017.0,£
+4,92.0,1.0,Cash at bank and in hand,Cash at bank and in hand 5827 5964,5827,2018.0,£
+5,82.0,0.0,Cash at bank and in hand,Cash at bank and in hand 5827 5964,5964,2017.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 11475 12345,11475,2018.0,£
+7,95.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 11475 12345,12345,2017.0,£
+8,51.0,1.0,Net current liabilities,Net current liabilities 210 6147,210,2018.0,£
+9,89.0,0.0,Net current liabilities,Net current liabilities 210 6147,6147,2017.0,£
+10,92.0,1.0,Total assets less current liabilities Net assets,Total assets less current liabilities Net assets 100 100  100 100,100,2018.0,£
+11,84.0,0.0,Total assets less current liabilities Net assets,Total assets less current liabilities Net assets 100 100  100 100,100,2017.0,£
+12,96.0,1.0,Called up share capital,Called up share capital 100 100,100,2018.0,£
+13,96.0,0.0,Called up share capital,Called up share capital 100 100,100,2017.0,£
+14,96.0,1.0,Shareholders funds,Shareholders funds 100 100,100,2018.0,£
+15,96.0,0.0,Shareholders funds,Shareholders funds 100 100,100,2017.0,£

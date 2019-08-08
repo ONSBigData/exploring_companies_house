@@ -1,0 +1,53 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2018 2017,2018,2018.0,£
+1,95.0,0.0,Note,Note 2018 2017,2017,2017.0,£
+2,96.0,1.0,Debtors,Debtors 17 166531 15200,166531,2018.0,£
+3,96.0,0.0,Debtors,Debtors 17 166531 15200,15200,2017.0,£
+4,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 37089 224158,37089,2018.0,£
+5,35.0,0.0,Cash at bank and in hand,Cash at bank and in hand 37089 224158,224158,2017.0,£
+6,96.0,1.0,Total Current Assets,Total Current Assets 203590 239358,203590,2018.0,£
+7,96.0,0.0,Total Current Assets,Total Current Assets 203590 239358,239358,2017.0,£
+8,96.0,1.0,Creditors falling due within one year,Creditors falling due within one year 18 30669 13202,30669,2018.0,£
+9,96.0,0.0,Creditors falling due within one year,Creditors falling due within one year 18 30669 13202,13202,2017.0,£
+10,96.0,1.0,Net Current assets,Net Current assets 172921 226156,172921,2018.0,£
+11,96.0,0.0,Net Current assets,Net Current assets 172921 226156,226156,2017.0,£
+12,96.0,1.0,Net assets,Net assets 174296 226156,174296,2018.0,£
+13,96.0,0.0,Net assets,Net assets 174296 226156,226156,2017.0,£
+14,96.0,1.0,Unrestricted income funds,Unrestricted income funds 55884 44006,55884,2018.0,£
+15,94.0,0.0,Unrestricted income funds,Unrestricted income funds 55884 44006,44006,2017.0,£
+16,96.0,1.0,Designated income funds,Designated income funds 42645 27000,42645,2018.0,£
+17,96.0,0.0,Designated income funds,Designated income funds 42645 27000,27000,2017.0,£
+18,96.0,1.0,Restricted income funds,Restricted income funds 75767 155150,75767,2018.0,£
+19,94.0,0.0,Restricted income funds,Restricted income funds 75767 155150,155150,2017.0,£
+20,96.0,1.0,Total charity funds,Total charity funds 174296 226156,174296,2018.0,£
+21,96.0,0.0,Total charity funds,Total charity funds 174296 226156,226156,2017.0,£
+0,95.0,1.0,.Note Funds Funds, .Note Funds Funds 2018 2017,2018,2018.0,£
+1,96.0,0.0,.Note Funds Funds, .Note Funds Funds 2018 2017,2017,2017.0,£
+2,96.0,1.0,Core funding,Core funding 3 135000  135000 135000,135000,2018.0,£
+3,96.0,0.0,Core funding,Core funding 3 135000  135000 135000,135000,2017.0,£
+4,96.0,1.0,Annual Programme  a,Annual Programme 4 a 58329 58329 15084,58329,2018.0,£
+5,96.0,0.0,Annual Programme  a,Annual Programme 4 a 58329 58329 15084,15084,2017.0,£
+6,96.0,1.0,Festival  Box Office,Festival  Box Office 5 16188 198225 214413 153720,214413,2018.0,£
+7,96.0,0.0,Festival  Box Office,Festival  Box Office 5 16188 198225 214413 153720,153720,2017.0,£
+8,96.0,1.0,Touring Programme,Touring Programme 6  9100 9100 75738,9100,2018.0,£
+9,96.0,0.0,Touring Programme,Touring Programme 6  9100 9100 75738,75738,2017.0,£
+10,96.0,1.0,Research  Residencies,Research  Residencies 8 300 25200 25500 26200,25500,2018.0,£
+11,96.0,0.0,Research  Residencies,Research  Residencies 8 300 25200 25500 26200,26200,2017.0,£
+12,95.0,1.0,Research  Residencies 8 300 25200 25500 26200 income from other trading activities,income from other trading activities 9 1200  1200 8989,1200,2018.0,£
+13,96.0,0.0,Research  Residencies 8 300 25200 25500 26200 income from other trading activities,income from other trading activities 9 1200  1200 8989,8989,2017.0,£
+14,96.0,1.0,Total income,Total income 152688 290854 443542 424731,443542,2018.0,£
+15,94.0,0.0,Total income,Total income 152688 290854 443542 424731,424731,2017.0,£
+16,96.0,1.0,Expenditure on charitable activities,Expenditure on charitable activities 10 141915 370237 512152 313638,512152,2018.0,£
+17,59.0,0.0,Expenditure on charitable activities,Expenditure on charitable activities 10 141915 370237 512152 313638,313638,2017.0,£
+18,96.0,1.0,Total expenditure,Total expenditure 141915 370237 512152 313638,512152,2018.0,£
+19,68.0,0.0,Total expenditure,Total expenditure 141915 370237 512152 313638,313638,2017.0,£
+20,96.0,1.0,Net incomeexpenditure,Net incomeexpenditure 10773 79383 68610 111093,68610,2018.0,£
+21,96.0,0.0,Net incomeexpenditure,Net incomeexpenditure 10773 79383 68610 111093,111093,2017.0,£
+22,96.0,1.0,Tax on activities,Tax on activities 15 16750  16750,16750,2018.0,£
+23,91.0,0.0,Tax on activities,Tax on activities 15 16750  16750,16750,2017.0,£
+24,96.0,1.0,Net movement in funds for the year,Net movement in funds for the year 27523 79383 51860 111093,51860,2018.0,£
+25,96.0,0.0,Net movement in funds for the year,Net movement in funds for the year 27523 79383 51860 111093,111093,2017.0,£
+26,96.0,1.0,Total funds brought forward,Total funds brought forward 71006 155150 226156 115063,226156,2018.0,£
+27,96.0,0.0,Total funds brought forward,Total funds brought forward 71006 155150 226156 115063,115063,2017.0,£
+28,96.0,1.0,Total funds carried forward,Total funds carried forward 98529 75767 174296 226156,174296,2018.0,£
+29,96.0,0.0,Total funds carried forward,Total funds carried forward 98529 75767 174296 226156,226156,2017.0,£

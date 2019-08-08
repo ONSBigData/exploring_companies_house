@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 10 3483579 3012916,3483579,2017.0,£
+1,95.0,0.0,Tangible assets,Tangible assets 10 3483579 3012916,3012916,2016.0,£
+2,95.0,1.0,Stocks NH,Stocks NH 4462422 3570335,4462422,2017.0,£
+3,91.0,0.0,Stocks NH,Stocks NH 4462422 3570335,3570335,2016.0,£
+4,96.0,1.0,Debtors,Debtors 12 3136053 3044943,3136053,2017.0,£
+5,96.0,0.0,Debtors,Debtors 12 3136053 3044943,3044943,2016.0,£
+6,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year  14 7229984 6082352,7229984,2017.0,£
+7,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year  14 7229984 6082352,6082352,2016.0,£
+8,94.0,1.0,Net current assets,Net current assets 797227 1021439,797227,2017.0,£
+9,94.0,0.0,Net current assets,Net current assets 797227 1021439,1021439,2016.0,£
+10,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 4280806 4034355,4280806,2017.0,£
+11,89.0,0.0,Total assets less current liabilities,Total assets less current liabilities 4280806 4034355,4034355,2016.0,£
+12,95.0,1.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 14 2238057 2440215,2238057,2017.0,£
+13,94.0,0.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 14 2238057 2440215,2440215,2016.0,£
+14,96.0,1.0,Provisions for liabilities,Provisions for liabilities 15 17000 6000,17000,2017.0,£
+15,96.0,0.0,Provisions for liabilities,Provisions for liabilities 15 17000 6000,6000,2016.0,£
+16,96.0,1.0,Net assets,Net assets 2025749 1588140,2025749,2017.0,£
+17,95.0,0.0,Net assets,Net assets 2025749 1588140,1588140,2016.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 17 376 376,376,2017.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 17 376 376,376,2016.0,£
+20,96.0,1.0,Profit and loss account,Profit and loss account 2025373 1587764,2025373,2017.0,£
+21,94.0,0.0,Profit and loss account,Profit and loss account 2025373 1587764,1587764,2016.0,£
+22,96.0,1.0,Total equity,Total equity 2025749 1588140,2025749,2017.0,£
+23,96.0,0.0,Total equity,Total equity 2025749 1588140,1588140,2016.0,£

@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Tangible assets,Tangible assets 24999 33199,24999,2017.0,£
+1,95.0,0.0,Tangible assets,Tangible assets 24999 33199,33199,2016.0,£
+2,93.0,1.0,Stocks LO,Stocks LO 395950 408618,395950,2017.0,£
+3,91.0,0.0,Stocks LO,Stocks LO 395950 408618,408618,2016.0,£
+4,96.0,1.0,Debtors IN,Debtors IN 26261 40987,26261,2017.0,£
+5,93.0,0.0,Debtors IN,Debtors IN 26261 40987,40987,2016.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 16049 19978,16049,2017.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 16049 19978,19978,2016.0,£
+8,82.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 177084 150716,177084,2017.0,£
+9,37.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 177084 150716,150716,2016.0,£
+10,96.0,1.0,Net current assets,Net current assets 259176 318867,259176,2017.0,£
+11,82.0,0.0,Net current assets,Net current assets 259176 318867,318867,2016.0,£
+12,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 284175 352066,284175,2017.0,£
+13,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 284175 352066,352066,2016.0,£
+14,92.0,1.0,Provisions for liabilities,Provisions for liabilities 1586 6640,1586,2017.0,£
+15,33.0,0.0,Provisions for liabilities,Provisions for liabilities 1586 6640,6640,2016.0,£
+16,96.0,1.0,Net assets,Net assets 282589 345426,282589,2017.0,£
+17,96.0,0.0,Net assets,Net assets 282589 345426,345426,2016.0,£
+18,81.0,1.0,Called Up share capital,Called Up share capital 1340 1340,1340,2017.0,£
+19,96.0,0.0,Called Up share capital,Called Up share capital 1340 1340,1340,2016.0,£
+20,93.0,1.0,Profit and loss account,Profit and loss account 281249 344086,281249,2017.0,£
+21,91.0,0.0,Profit and loss account,Profit and loss account 281249 344086,344086,2016.0,£
+22,95.0,1.0,Total equity,Total equity 282589 345426,282589,2017.0,£
+23,94.0,0.0,Total equity,Total equity 282589 345426,345426,2016.0,£

@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors,Debtors 28 28,28,2018.0,£
+1,95.0,0.0,Debtors,Debtors 28 28,28,2017.0,£
+2,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 115075 115075,115075,2018.0,£
+3,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 115075 115075,115075,2017.0,£
+4,95.0,1.0,Net current liabilities,Net current liabilities 115047 115047,115047,2018.0,£
+5,96.0,0.0,Net current liabilities,Net current liabilities 115047 115047,115047,2017.0,£
+6,78.0,1.0,Total assets less current liabilities,Total assets less current liabilities 763453 767953,763453,2018.0,£
+7,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 763453 767953,767953,2017.0,£
+8,91.0,1.0,Net assets,Net assets 763453 767953,763453,2018.0,£
+9,96.0,0.0,Net assets,Net assets 763453 767953,767953,2017.0,£
+10,96.0,1.0,Called up share capital,Called up share capital 1504 1504,1504,2018.0,£
+11,96.0,0.0,Called up share capital,Called up share capital 1504 1504,1504,2017.0,£
+12,68.0,1.0,Revaluation reserve,Revaluation reserve 828999 831532,828999,2018.0,£
+13,83.0,0.0,Revaluation reserve,Revaluation reserve 828999 831532,831532,2017.0,£
+14,96.0,1.0,Profit and loss account,Profit and loss account 67050 65083,67050,2018.0,£
+15,95.0,0.0,Profit and loss account,Profit and loss account 67050 65083,65083,2017.0,£

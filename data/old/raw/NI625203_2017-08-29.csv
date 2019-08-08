@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Stocks,Stocks 7500 8125,7500,2017.0,£
+1,94.0,0.0,Stocks,Stocks 7500 8125,8125,2016.0,£
+2,96.0,1.0,Debtors,Debtors 3 207 382 61335,382,2017.0,£
+3,83.0,0.0,Debtors,Debtors 3 207 382 61335,61335,2016.0,£
+4,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 4658 12803,4658,2017.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 4658 12803,12803,2016.0,£
+6,92.0,1.0,Creditors amounts falling due within 4 one year,one year 174837 84675,174837,2017.0,£
+7,96.0,0.0,Creditors amounts falling due within 4 one year,one year 174837 84675,84675,2016.0,£
+8,96.0,1.0,Net current assetsliabilities,Net current assetsliabilities 44703 2412,44703,2017.0,£
+9,96.0,0.0,Net current assetsliabilities,Net current assetsliabilities 44703 2412,2412,2016.0,£
+10,94.0,1.0,Called up share capital,Called up share capital 5 1 1,1,2017.0,£
+11,95.0,0.0,Called up share capital,Called up share capital 5 1 1,1,2016.0,£
+12,96.0,1.0,Profit and loss reserves,Profit and loss reserves 44702 2413,44702,2017.0,£
+13,96.0,0.0,Profit and loss reserves,Profit and loss reserves 44702 2413,2413,2016.0,£
+14,95.0,1.0,Total equity,Total equity 44703 2412,44703,2017.0,£
+15,95.0,0.0,Total equity,Total equity 44703 2412,2412,2016.0,£

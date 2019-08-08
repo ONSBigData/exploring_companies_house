@@ -1,0 +1,43 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets    Investments,Tangible assets 12 114982 133465 Investments 13 4536770 3855718,4536770,2017.0,£
+1,95.0,0.0,Tangible assets    Investments,Tangible assets 12 114982 133465 Investments 13 4536770 3855718,3855718,2016.0,£
+2,96.0,1.0,Debtors,Debtors 14 169202 75002,169202,2017.0,£
+3,96.0,0.0,Debtors,Debtors 14 169202 75002,75002,2016.0,£
+4,80.0,1.0,Cash at bank and in hand,Cash at bank and in hand 411057 909011,411057,2017.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 411057 909011,909011,2016.0,£
+6,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 15 93645 77912,93645,2017.0,£
+7,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 15 93645 77912,77912,2016.0,£
+8,95.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 486614 906101,486614,2017.0,£
+9,94.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 486614 906101,906101,2016.0,£
+10,94.0,1.0,LIABILITIES,LIABILITIES 5138366 4895284,5138366,2017.0,£
+11,96.0,0.0,LIABILITIES,LIABILITIES 5138366 4895284,4895284,2016.0,£
+12,71.0,1.0,NET ASSETS,NET ASSETS 5138366 4895 284,4895,2017.0,£
+13,71.0,0.0,NET ASSETS,NET ASSETS 5138366 4895 284,284,2016.0,£
+14,93.0,1.0,Unrestricted funds,Unrestricted funds 5045562 4772410,5045562,2017.0,£
+15,77.0,0.0,Unrestricted funds,Unrestricted funds 5045562 4772410,4772410,2016.0,£
+16,80.0,1.0,Restricted funds,Restricted funds 92804 122 874,122,2017.0,£
+17,80.0,0.0,Restricted funds,Restricted funds 92804 122 874,874,2016.0,£
+18,96.0,1.0,TOTAL FUNDS,TOTAL FUNDS 5138366 4895284,5138366,2017.0,£
+19,96.0,0.0,TOTAL FUNDS,TOTAL FUNDS 5138366 4895284,4895284,2016.0,£
+0,96.0,1.0,Donations and legacies,Donations and legacies 2 1339749 177623 1517372 1771844,1517372,2017.0,£
+1,95.0,0.0,Donations and legacies,Donations and legacies 2 1339749 177623 1517372 1771844,1771844,2016.0,£
+2,94.0,1.0,Investment income,Investment income 3 96994 96994 38314,96994,2017.0,£
+3,84.0,0.0,Investment income,Investment income 3 96994 96994 38314,38314,2016.0,£
+4,96.0,1.0,Other income,Other income 195 195 779,195,2017.0,£
+5,96.0,0.0,Other income,Other income 195 195 779,779,2016.0,£
+6,95.0,1.0,Total,Total 1436938 177623 1614561 1810937,1614561,2017.0,£
+7,96.0,0.0,Total,Total 1436938 177623 1614561 1810937,1810937,2016.0,£
+8,86.0,1.0,Raising funds Charitable activities ont,Raising funds Charitable activities ont 416282 416282 441232,416282,2017.0,£
+9,95.0,0.0,Raising funds Charitable activities ont,Raising funds Charitable activities ont 416282 416282 441232,441232,2016.0,£
+10,96.0,1.0,Pastoral care to seafarers,Pastoral care to seafarers 998327 207693 1206020 926863,1206020,2017.0,£
+11,96.0,0.0,Pastoral care to seafarers,Pastoral care to seafarers 998327 207693 1206020 926863,926863,2016.0,£
+12,96.0,1.0,Total,Total 1414609 207693 1622302 1368095,1622302,2017.0,£
+13,93.0,0.0,Total,Total 1414609 207693 1622302 1368095,1368095,2016.0,£
+14,96.0,1.0,Net gainslosses on investments,Net gainslosses on investments 250823 250823 300018,250823,2017.0,£
+15,94.0,0.0,Net gainslosses on investments,Net gainslosses on investments 250823 250823 300018,300018,2016.0,£
+16,96.0,1.0,NET INCOMEEXPENDITURE,NET INCOMEEXPENDITURE 273152 30070 243082 742860,243082,2017.0,£
+17,96.0,0.0,NET INCOMEEXPENDITURE,NET INCOMEEXPENDITURE 273152 30070 243082 742860,742860,2016.0,£
+18,96.0,1.0,Total funds brought forward,Total funds brought forward 4772410 122874 4895284 4152424,4895284,2017.0,£
+19,93.0,0.0,Total funds brought forward,Total funds brought forward 4772410 122874 4895284 4152424,4152424,2016.0,£
+20,91.0,1.0,TOTAL FUNDS CARRIED FORWARD,TOTAL FUNDS CARRIED FORWARD 5045562 92804 5138366 4895284,5138366,2017.0,£
+21,95.0,0.0,TOTAL FUNDS CARRIED FORWARD,TOTAL FUNDS CARRIED FORWARD 5045562 92804 5138366 4895284,4895284,2016.0,£

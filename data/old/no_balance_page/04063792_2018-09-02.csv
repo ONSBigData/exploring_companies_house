@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,87.0,1.0,Notes,Notes 2017 2016,2017,2006.0,£
+1,84.0,0.0,Notes,Notes 2017 2016,2016,2005.0,£
+2,84.0,1.0,Fixed Assets,Fixed Assets 11000 11000,11000,2006.0,£
+3,48.0,0.0,Fixed Assets,Fixed Assets 11000 11000,11000,2005.0,£
+4,95.0,1.0,Current Assets,Current Assets 200 316,200,2006.0,£
+5,96.0,0.0,Current Assets,Current Assets 200 316,316,2005.0,£
+6,92.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 0 0,0,2006.0,£
+7,95.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 0 0,0,2005.0,£
+8,96.0,1.0,Net current assets liabilities,Net current assets liabilities 200 316,200,2006.0,£
+9,96.0,0.0,Net current assets liabilities,Net current assets liabilities 200 316,316,2005.0,£
+10,80.0,1.0,Total assets less current Liabilities,Total assets less current Liabilities 11200 11316,11200,2006.0,£
+11,80.0,0.0,Total assets less current Liabilities,Total assets less current Liabilities 11200 11316,11316,2005.0,£
+12,82.0,1.0,Creditors amounts falling due after more than one,Creditors amounts falling due after more than one 0 0,0,2006.0,£
+13,91.0,0.0,Creditors amounts falling due after more than one,Creditors amounts falling due after more than one 0 0,0,2005.0,£
+14,86.0,1.0,Provisions for liabilities,Provisions for liabilities 0 0,0,2006.0,£
+15,95.0,0.0,Provisions for liabilities,Provisions for liabilities 0 0,0,2005.0,£
+16,94.0,1.0,Accruals and deferred income,Accruals and deferred income 0 0,0,2006.0,£
+17,95.0,0.0,Accruals and deferred income,Accruals and deferred income 0 0,0,2005.0,£
+18,95.0,1.0,None Total net assets liabilities,None Total net assets liabilities 11200 11316,11200,2006.0,£
+19,62.0,0.0,None Total net assets liabilities,None Total net assets liabilities 11200 11316,11316,2005.0,£
+20,86.0,1.0,Capital and reserves,Capital and reserves 11200 11316,11200,2006.0,£
+21,64.0,0.0,Capital and reserves,Capital and reserves 11200 11316,11316,2005.0,£

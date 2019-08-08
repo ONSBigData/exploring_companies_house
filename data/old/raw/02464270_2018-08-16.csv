@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,77.0,1.0,Notes,Notes 000 7000,000,2017.0,£°000
+1,90.0,0.0,Notes,Notes 000 7000,7000,2016.0,£°000
+2,96.0,1.0,Receivables F,Receivables F6 37080 31897,37080,2017.0,£°000
+3,96.0,0.0,Receivables F,Receivables F6 37080 31897,31897,2016.0,£°000
+4,96.0,1.0,Deferred tax assets   b,Deferred tax assets 1  9b 146 248,146,2017.0,£°000
+5,96.0,0.0,Deferred tax assets   b,Deferred tax assets 1  9b 146 248,248,2016.0,£°000
+6,95.0,1.0,Cash and cash equivalents G  b,Cash and cash equivalents G  12b 65487 33434,65487,2017.0,£°000
+7,94.0,0.0,Cash and cash equivalents G  b,Cash and cash equivalents G  12b 65487 33434,33434,2016.0,£°000
+8,96.0,1.0,Total assets,Total assets 102872 65580,102872,2017.0,£°000
+9,96.0,0.0,Total assets,Total assets 102872 65580,65580,2016.0,£°000
+10,95.0,1.0,Ordinary share capital J,Ordinary share capital J7 7700 7700,7700,2017.0,£°000
+11,96.0,0.0,Ordinary share capital J,Ordinary share capital J7 7700 7700,7700,2016.0,£°000
+12,96.0,1.0,Retained earnings,Retained earnings 8 5494 4846,5494,2017.0,£°000
+13,95.0,0.0,Retained earnings,Retained earnings 8 5494 4846,4846,2016.0,£°000
+14,96.0,1.0,Total equity,Total equity 13194 12546,13194,2017.0,£°000
+15,96.0,0.0,Total equity,Total equity 13194 12546,12546,2016.0,£°000
+16,74.0,1.0,Payables and other financial liabilities F,Payables and other financial liabilities F  10 89678 52648,89678,2017.0,£°000
+17,95.0,0.0,Payables and other financial liabilities F,Payables and other financial liabilities F  10 89678 52648,52648,2016.0,£°000
+18,93.0,1.0,Total liabilities,Total liabilities 89678 53034,89678,2017.0,£°000
+19,96.0,0.0,Total liabilities,Total liabilities 89678 53034,53034,2016.0,£°000
+20,96.0,1.0,Total equity and liabilities,Total equity and liabilities 102872 65580,102872,2017.0,£°000
+21,96.0,0.0,Total equity and liabilities,Total equity and liabilities 102872 65580,65580,2016.0,£°000

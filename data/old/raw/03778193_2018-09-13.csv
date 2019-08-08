@@ -1,0 +1,29 @@
+,conf,currYr,label,source,value,year,unit
+0,79.0,1.0,Intangible assets,Intangible assets 4 23678 37578,23678,2018.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 4 23678 37578,37578,2017.0,£
+2,90.0,1.0,Tangible assets,Tangible assets 3297 3519,3297,2018.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 3297 3519,3519,2017.0,£
+4,76.0,1.0,Stocks,Stocks 531 537,531,2018.0,£
+5,96.0,0.0,Stocks,Stocks 531 537,537,2017.0,£
+6,72.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 14417 9897,14417,2018.0,£
+7,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 14417 9897,9897,2017.0,£
+8,68.0,1.0,Cash at bank and in hand,Cash at bank and in hand 205541 233 152,233,2018.0,£
+9,68.0,0.0,Cash at bank and in hand,Cash at bank and in hand 205541 233 152,152,2017.0,£
+10,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 109293 216954,109293,2018.0,£
+11,85.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 109293 216954,216954,2017.0,£
+12,96.0,1.0,Net current assets,Net current assets 111196 26540,111196,2018.0,£
+13,95.0,0.0,Net current assets,Net current assets 111196 26540,26540,2017.0,£
+14,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 138171 61637,138171,2018.0,£
+15,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 138171 61637,61637,2017.0,£
+16,96.0,1.0,Deferred tax,Deferred tax 9 560 598,560,2018.0,£
+17,96.0,0.0,Deferred tax,Deferred tax 9 560 598,598,2017.0,£
+18,86.0,1.0,Net assets,Net assets 137611 61039,137611,2018.0,£
+19,96.0,0.0,Net assets,Net assets 137611 61039,61039,2017.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 66 66,66,2018.0,£
+21,96.0,0.0,Called up share capital,Called up share capital 66 66,66,2017.0,£
+22,95.0,1.0,Share premium account,Share premium account 499 499,499,2018.0,£
+23,96.0,0.0,Share premium account,Share premium account 499 499,499,2017.0,£
+24,95.0,1.0,Capital redemption reserve,Capital redemption reserve 95 95,95,2018.0,£
+25,96.0,0.0,Capital redemption reserve,Capital redemption reserve 95 95,95,2017.0,£
+26,93.0,1.0,Profit and loss account,Profit and loss account 136951 60379,136951,2018.0,£
+27,96.0,0.0,Profit and loss account,Profit and loss account 136951 60379,60379,2017.0,£

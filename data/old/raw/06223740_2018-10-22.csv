@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note, Note 2018 2017,2018,2018.0,£
+1,96.0,0.0,Note, Note 2018 2017,2017,2017.0,£
+2,86.0,1.0,Debtors falling due after more than one year,Debtors falling due after more than one year   49391843 50139188,49391843,2018.0,£
+3,96.0,0.0,Debtors falling due after more than one year,Debtors falling due after more than one year   49391843 50139188,50139188,2017.0,£
+4,86.0,1.0,Cash at bank and in hand,Cash at bank and in hand 3548760  4858564,3548760,2018.0,£
+5,11.0,0.0,Cash at bank and in hand,Cash at bank and in hand 3548760  4858564,4858564,2017.0,£
+6,96.0,1.0,Creditors amounts falling due within one year .,Creditors amounts falling due within one year . 3842194 4941697,3842194,2018.0,£
+7,0.0,0.0,Creditors amounts falling due within one year .,Creditors amounts falling due within one year . 3842194 4941697,4941697,2017.0,£
+8,96.0,1.0,Net current assets, Net current assets 49919447 51609026,49919447,2018.0,£
+9,61.0,0.0,Net current assets, Net current assets 49919447 51609026,51609026,2017.0,£
+10,96.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 48406232 49359439,48406232,2018.0,£
+11,75.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 48406232 49359439,49359439,2017.0,£
+12,0.0,1.0,Net assets,Net assets 1513215 1126193,1513215,2018.0,£
+13,93.0,0.0,Net assets,Net assets 1513215 1126193,1126193,2017.0,£
+14,96.0,1.0,Called up share capital,Called up share capital 999  999,999,2018.0,£
+15,49.0,0.0,Called up share capital,Called up share capital 999  999,999,2017.0,£
+16,92.0,1.0,Profit and loss account,Profit and loss account 1512216 1125194,1512216,2018.0,£
+17,95.0,0.0,Profit and loss account,Profit and loss account 1512216 1125194,1125194,2017.0,£
+18,96.0,1.0,Total shareholders funds .,Total shareholders funds . 1513215 1126193,1513215,2018.0,£
+19,96.0,0.0,Total shareholders funds .,Total shareholders funds . 1513215 1126193,1126193,2017.0,£

@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 4 26325 16512,26325,2018.0,£
+1,92.0,0.0,Tangible assets,Tangible assets 4 26325 16512,16512,2017.0,£
+2,96.0,1.0,Investment properties,Investment properties 5 720496 546276,720496,2018.0,£
+3,96.0,0.0,Investment properties,Investment properties 5 720496 546276,546276,2017.0,£
+4,96.0,1.0,Debtors,Debtors 9975 6999,9975,2018.0,£
+5,96.0,0.0,Debtors,Debtors 9975 6999,6999,2017.0,£
+6,95.0,1.0,Prepayments and accrued income,Prepayments and accrued income 5124 2431,5124,2018.0,£
+7,96.0,0.0,Prepayments and accrued income,Prepayments and accrued income 5124 2431,2431,2017.0,£
+8,96.0,1.0,Cash at bank,Cash at bank 151041 209703,151041,2018.0,£
+9,81.0,0.0,Cash at bank,Cash at bank 151041 209703,209703,2017.0,£
+10,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 35470 29573,35470,2018.0,£
+11,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 35470 29573,29573,2017.0,£
+12,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 110670 189560,110670,2018.0,£
+13,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 110670 189560,189560,2017.0,£
+14,79.0,1.0,LIABILITIES,LIABILITIES 857491 752348,857491,2018.0,£
+15,95.0,0.0,LIABILITIES,LIABILITIES 857491 752348,752348,2017.0,£
+16,96.0,1.0,Amounts falling due after more than one year,one year 86450 8539,86450,2018.0,£
+17,96.0,0.0,Amounts falling due after more than one year,one year 86450 8539,8539,2017.0,£
+18,96.0,1.0,NET ASSETS,NET ASSETS 771041 743809,771041,2018.0,£
+19,96.0,0.0,NET ASSETS,NET ASSETS 771041 743809,743809,2017.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 370002 370002,370002,2018.0,£
+21,96.0,0.0,Called up share capital,Called up share capital 370002 370002,370002,2017.0,£
+22,96.0,1.0,Retained earnings,Retained earnings 401039 373807,401039,2018.0,£
+23,96.0,0.0,Retained earnings,Retained earnings 401039 373807,373807,2017.0,£
+24,95.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 771041 743809,771041,2018.0,£
+25,96.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 771041 743809,743809,2017.0,£

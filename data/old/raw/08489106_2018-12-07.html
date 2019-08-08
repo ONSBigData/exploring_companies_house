@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:frs-102="http://xbrl.frc.org.uk/FRS-102/2014-09-01" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2008/inlineXBRL" xmlns:ixt2="http://www.xbrl.org/inlineXBRL/transformation/2011-07-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:uk-bus="http://xbrl.frc.org.uk/cd/2014-09-01/business" xmlns:uk-core="http://xbrl.frc.org.uk/fr/2014-09-01/core" xmlns:uk-direp="http://xbrl.frc.org.uk/reports/2014-09-01/direp" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+<head>
+   
+    <style type="text/css">
+    tr.rowHighlight:hover {
+        backgRound: lightBlue !important;
+    }
+
+    .rowHighlight:hover td {
+        backgRound: transparent;
+    }
+
+    /*.divFinalAccount td {
+        font: 11pt 'Open Sans', sans-serif;
+        /*text-align: right;
+        font-style: normal;
+        font-size: 11pt;
+        font-family: 'Open Sans', sans-serif;
+        padding-right: 1.1mm;
+        font-weight: normal;
+    }*/
+
+    .renderhtml td {
+        text-align: left !important;
+        font-style: normal;
+        font-size: 11pt;
+        font-family: 'Open Sans', sans-serif;
+        padding-right: 1.1mm;
+        font-weight: normal;
+    }
+
+    .divFinalAccount td.u {
+        text-decoration: underline;
+    }
+
+    .divFinalAccount td.t {
+        text-align: left;
+    }
+
+    divFinalAccount TD.bullet {
+        text-align: left;
+    }
+
+    .divFinalAccount TD.tu {
+        text-decoration: underline;
+        text-align: left;
+    }
+
+    .divFinalAccount TD.b {
+        font-weight: bold !important;
+    }
+
+    .divFinalAccount TD.bu {
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.bt {
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.big {
+        text-align: left;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .hoverElement {
+        cursor: pointer;
+    }
+
+
+
+    .divFinalAccount TD.bc {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.i {
+        font-style: italic;
+    }
+
+    .divFinalAccount TD.bi {
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.comp {
+        font-style: italic;
+    }
+
+    .divFinalAccount TD.grey {
+        backgRound-color: #e0e0e0;
+        text-align: right;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.greyt {
+        backgRound-color: #e0e0e0;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.j {
+        text-align: justify;
+    }
+
+    .divFinalAccount TD.notes {
+        text-align: justify;
+    }
+
+    .divFinalAccount TD.black {
+        backgRound-color: black;
+        text-align: left;
+        font-size: 11pt;
+        color: white;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.white {
+        text-align: left;
+        color: white;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.bcu {
+        text-decoration: underline;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.c {
+        text-align: center;
+    }
+
+    .divFinalAccount TD.control {
+        text-align: left;
+        font-style: italic;
+        color: red;
+    }
+
+    .divFinalAccount TD.clientinput {
+        border-left-style: solid;
+        border-bottom-style: solid;
+        border-right-style: solid;
+        border-top-style: solid;
+        text-align: left;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .divFinalAccount TD.sign {
+        text-align: left;
+        font-style: normal;
+        vertical-align: bottom;
+        font-weight: normal;
+    }
+
+    .divFinalAccount TR.h1 {
+        height: 4mm;
+    }
+
+    .divFinalAccount TR.h2 {
+        height: 2mm;
+    }
+
+    .divFinalAccount TD.legalst {
+        padding-bottom: 2mm;
+        text-align: center;
+        font-size: 11pt;
+        font-family: 'Open Sans', sans-serif;
+        padding-top: 7mm;
+        page-break-after: never;
+        font-weight: bold;
+    }
+
+    .addNote {
+        font-weight: bold !important;
+    }
+
+    .divFinalAccount TD.legal {
+        text-align: left;
+        font-style: normal;
+        font-size: 11pt;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: normal;
+    }
+
+    .divFinalAccount TD.legalstA {
+        padding-bottom: 2mm;
+        text-align: center;
+        font-size: 11pt;
+        font-family: Times;
+        padding-top: 7mm;
+        page-break-after: avoid;
+        font-weight: bold;
+    }
+
+    .divFinalAccount TD.legalA {
+        text-align: left;
+        font-style: normal;
+        font-size: 11pt;
+        font-family: Times;
+        font-weight: normal;
+    }
+
+    .divFinalAccount div.address {
+        position: absolute;
+        left: 10mm;
+        top: 42mm;
+    }
+
+    .divFinalAccount table.body {
+        position: absolute;
+        top: 70mm;
+    }
+
+    .divFinalAccount hr.1 {
+        width: 100%;
+        height: 5;
+        text-align: center;
+        color: black;
+    }
+
+    .divFinalAccount hr.2 {
+        width: 100%;
+        height: 5;
+        text-align: center;
+        color: #80b0ff;
+    }
+
+    .divFinalAccount hr.3 {
+        width: 100%;
+        height: 1;
+        text-align: center;
+        color: black;
+    }
+
+    .divFinalAccount hr.4 {
+        width: 100%;
+        height: 2;
+        text-align: center;
+        color: black;
+    }
+
+    .divFinalAccount input.readonly {
+        backgRound-color: #e0e0e0;
+    }
+
+    .divFinalAccount input.q {
+        height: 30;
+        border-style: solid;
+        border-color: navy;
+        border-width: thin;
+    }
+
+    .divFinalAccount div.title {
+        font-weight: bold;
+    }
+
+    .divFinalAccount #center {
+        text-align: center;
+    }
+
+    .divFinalAccount p {
+        text-align: justify;
+    }
+
+    .divFinalAccount p {
+        font: normal 11pt 'Open Sans', sans-serif;
+    }
+
+    .divFinalAccount li {
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .divFinalAccount #top {
+        border-top-style: solid;
+        border-color: black;
+        border-width: 1px;
+    }
+
+    .divFinalAccount #bottom {
+        border-bottom-style: solid;
+        border-color: black;
+        border-width: 1px;
+    }
+
+    .divFinalAccount #both {
+        border-bottom-style: solid;
+        border-top-style: solid;
+        border-color: black;
+        border-width: 1px;
+    }
+
+    .divFinalAccount #doublebottom {
+        border-bottom-style: double;
+        border-color: black;
+    }
+
+    .divFinalAccount #doublebottom2 {
+        border-bottom-style: double;
+        border-top-style: solid;
+        border-color: black;
+    }
+
+    .divFinalAccount #total {
+        border-bottom-style: double;
+        border-top-style: solid;
+        border-color: black;
+        border-top-width: 1px;
+    }
+
+    .divFinalAccount tr.orange {
+        backgRound-color: orange;
+    }
+
+    .divFinalAccount tr.red {
+        backgRound-color: red;
+    }
+
+    .divFinalAccount .pagebefore {
+        page-break-before: always;
+    }
+
+    .divFinalAccount .pageafter {
+        page-break-after: always;
+    }
+
+    .divFinalAccount .pagenever {
+        page-break-after: avoid;
+    }
+
+    .divFinalAccount .pageboth {
+        page-break-after: always;
+        page-break-before: always;
+    }
+
+    .divFinalAccount #clientbutton {
+        border-top: 1px;
+        text-decoration: none;
+        text-transform: uppercase;
+        backgRound-color: navy;
+        text-align: center;
+        font-size: 9px;
+        font-family: Verdana;
+        padding: 4px;
+        border-left: 1px;
+        color: #FFF;
+        font-weight: bold;
+    }
+
+    .divFinalAccount #clienttable {
+        text-decoration: none;
+        width: 70%;
+        text-transform: uppercase;
+        text-align: left;
+    }
+
+    .divFinalAccount #clientheading {
+        border-top: none;
+        border-right: none;
+        text-align: left;
+        font-size: 9px;
+        font-family: Verdana;
+        border-style: solid;
+        padding: 4px;
+        border-left: none;
+        border-color: navy;
+        font-weight: bold;
+        border-width: 1px;
+    }
+
+    .divFinalAccount A {
+        text-decoration: none;
+    }
+
+    @media screen {
+        .divFinalAccount tr.odd {
+            backgRound-color: #ddffdd;
+        }
+
+        .divFinalAccount A {
+            font-weight: normal !important;
+        }
+
+        .divFinalAccount .footer {
+            display: none;
+        }
+
+        .divFinalAccount .lastfooter {
+            display: none;
+        }
+    }
+
+    @media print {
+        .divFinalAccount A {
+            color: black;
+        }
+
+        .divFinalAccount table.footer {
+            position: relative;
+            top: -11mm;
+        }
+
+        .divFinalAccount .noprint {
+            display: none;
+        }
+
+        .divFinalAccount table.header {
+            position: relative;
+            top: -11mm;
+        }
+
+        .divFinalAccount table.firstheader {
+            margin-bottom: 11mm;
+        }
+    }
+
+    /*Shanks Edits*/
+    td {
+        font: normal 11pt 'Open Sans', sans-serif;
+    }
+
+    tr.spaceUnder &gt; td {
+        padding-bottom: 20em;
+    }
+
+    .custom_boldGrey {
+        font: bold 11pt 'Open Sans', sans-serif;
+        color: #7d7d7d;
+        display: block;
+        min-width: 185px;
+        float: left;
+        margin-right: 5px;
+    }
+
+    table.table td {
+        font-family: inherit;
+    }
+
+    tr.CompanyInfoTbl td.Order1 {
+        width: 48%;
+        text-align: right;
+        font: bold 11pt 'Open Sans', sans-serif;
+        padding-right: 2%;
+    }
+
+    tr.CompanyInfoTbl td.Order2 {
+        width: 2%;
+        text-align: center;
+        font: bold 11pt 'Open Sans', sans-serif;
+    }
+
+    tr.CompanyInfoTbl td.Order3 {
+        width: 48%;
+        text-align: left;
+        font: normal 11pt 'Open Sans', sans-serif;
+        padding-left: 2%;
+        /*padding-left: 55%;*/
+    }
+
+    tr.textReport p {
+        line-height: 20px !important;
+        font: normal 11pt 'Open Sans', sans-serif;
+        color: black;
+    }
+
+    td.FullTotal {
+        font-weight: bold !important;
+        border-top: 1px solid black !important;
+        border-bottom: 3px solid black !important;
+    }
+
+    td.CategoryTotal {
+        border-top: 1px solid black !important;
+    }
+
+    ul.bulletlist li {
+        list-style-type: disc;
+        list-style-position: outside;
+        margin-left: 0%;
+        padding-left: 2%;
+        line-height: 20px;
+    }
+
+    ul.in-para li {
+        margin-left: 20px;
+        padding-left: 5px;
+    }
+
+    table.tb_dbhandled {
+        border-collapse: collapse;
+        table-layout: auto;
+        width: 100%;
+    }
+
+        table.tb_dbhandled td {
+            /*border: solid 1px #fab;*/
+            word-wrap: break-word;
+            padding: 1px 1px 1px 10px; /*T-R-B-L*/
+            /*width: 100%;*/
+        }
+
+    td.numeric {
+        text-align: right !important;
+    }
+
+    td.date {
+        text-align: center !important;
+    }
+
+    .renderhtml td, .renderhtml {
+        text-align: justify;
+        font-family: 'Open Sans', sans-serif;
+        /*padding: 0px 0px 0px 10px;*/
+        margin: 0px 0px 0px 10px;
+    }
+
+    /* Report Outline - Generic Components */
+    .statutoryinfo {
+        font: bold11pt 'Open Sans', sans-serif;
+        text-align: left;
+    }
+
+    .report_title {
+        text-align: center;
+        font: bold 22pt 'Open Sans', sans-serif;
+    }
+
+    .report_subtitle {
+        text-align: center;
+        font: bold 18pt 'Open Sans', sans-serif;
+    }
+
+    .page_header {
+        text-align: left;
+        font: bold 11pt 'Open Sans', sans-serif;
+    }
+
+    td.page_header span.span_left {
+        display: inline-block;
+        text-align: left;
+        width: 70%;
+    }
+
+    td.page_header span.span_right {
+        display: inline-block;
+        text-align: right;
+        width: 28%;
+    }
+
+    .table_of_content_title {
+        text-align: center;
+        font: bold 22pt 'Open Sans', sans-serif;
+        color: #333;
+    }
+
+    .page_title {
+        text-align: center;
+        font: bold 20pt 'Open Sans', sans-serif;
+    }
+
+    .page_subtitle {
+        text-align: center;
+        line-height: 3;
+        font: bold 18pt 'Open Sans', sans-serif;
+    }
+
+    .page_subtitle_p {
+        text-align: center;
+        line-height: 3;
+        font: bold 18pt 'Open Sans', sans-serif;
+    }
+
+    .page_subtitle_p p {
+        font-weight: bold;
+    }
+
+    .page_leftfootnote {
+        text-align: left;
+        font: bold 11pt 'Open Sans', sans-serif;
+    }
+
+    .page_rightfootnote {
+        text-align: right;
+        width: 100%;
+        font: bold 11pt 'Open Sans', sans-serif;
+    }
+
+    td.center, .center {
+        text-align: center;
+    }
+
+    .dbText {
+        font: bold 11pt 'Open Sans', sans-serif;
+        color: red;
+    }
+
+    /*divider*/
+    margin_TopBottom8px {
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+    td.list_items li.list_heading,
+    tr.list_items li.list_heading {
+        font-weight: bold;
+    }
+
+    td.list_items li.list_desc,
+    tr.list_items li.list_desc {
+        font-weight: normal;
+        margin: 2px 0px 20px 0px;
+        /*padding: 0px 0px 0px 10px;*/
+    }
+
+    .b {
+        font-weight: bold !important;
+    }
+</style>
+    <title>Accounts</title>
+</head>
+
+<body xml:lang="en">
+    <div class="divFinalAccount" style="margin-left:auto;margin-right:auto;">
+       <div style="display:none">
+            <ix:header>
+                <ix:hidden>
+                    <ix:nonNumeric contextRef="FY1_start" name="uk-bus:StartDateForPeriodCoveredByReport">2017-10-01</ix:nonNumeric>
+                     <ix:nonNumeric contextRef="FY1_end" name="uk-bus:EndDateForPeriodCoveredByReport">2018-09-30</ix:nonNumeric>
+                    <ix:nonNumeric contextRef="FY1_period" name="uk-bus:UKCompaniesHouseRegisteredNumber">08489106</ix:nonNumeric>
+                    <ix:nonNumeric contextRef="FY1_period" name="uk-bus:EntityCurrentLegalOrRegisteredName">ASHAHCO LIMITED</ix:nonNumeric>
+                    <ix:nonNumeric contextRef="FY1_period" format="ixt2:booleanfalse" name="uk-bus:EntityDormantTruefalse">false</ix:nonNumeric>
+                    
+                    
+                    
+                </ix:hidden>
+                <ix:references>
+                    <!-- FRC taxonomy entry points, same entry point will be used for FRS 105 as well -->
+                    <!-- FRS102 -->
+                    <link:schemaRef xlink:href="https://xbrl.frc.org.uk/FRS-102/2014-09-01/FRS-102-2014-09-01.xsd" xlink:type="simple" xmlns:uk-bus="http://xbrl.frc.org.uk/cd/2014-09-01/business"/>
+
+                   
+                </ix:references>
+                <ix:resources>
+                    <xbrli:context id="FY1_period">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2017-10-01</xbrli:startDate>
+                            <xbrli:endDate>2018-09-30</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                    <xbrli:context id="FY1_period_director1">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                            <xbrli:segment>
+                                <xbrldi:explicitMember dimension="uk-bus:EntityOfficersDimension">uk-bus:Director1</xbrldi:explicitMember>
+                            </xbrli:segment>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2017-10-01</xbrli:startDate>
+                            <xbrli:endDate>2018-09-30</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                    
+                    <xbrli:context id="FY1_period_accounting_status">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                            <xbrli:segment>
+                                <xbrldi:explicitMember dimension="uk-bus:AccountsStatusDimension">uk-bus:AuditExempt-NoAccountantsReport
+</xbrldi:explicitMember>
+                            </xbrli:segment>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2017-10-01</xbrli:startDate>
+                            <xbrli:endDate>2018-09-30</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                    
+                    <xbrli:context id="FY1_period_accounting_standards">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                            <xbrli:segment>
+                                <xbrldi:explicitMember dimension="uk-bus:AccountingStandardsDimension">uk-bus:Micro-entities</xbrldi:explicitMember>
+                            </xbrli:segment>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2017-10-01</xbrli:startDate>
+                            <xbrli:endDate>2018-09-30</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                    <xbrli:context id="FY1_period_accounts_type">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                            <xbrli:segment>
+                                <xbrldi:explicitMember dimension="uk-bus:AccountsTypeDimension">uk-bus:AbbreviatedAccounts</xbrldi:explicitMember>
+                            </xbrli:segment>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2017-10-01</xbrli:startDate>
+                            <xbrli:endDate>2018-09-30</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                    <xbrli:context id="FY1_period_legal_entity">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                            <xbrli:segment>
+                                <xbrldi:explicitMember dimension="uk-bus:LegalFormEntityDimension">uk-bus:PrivateLimitedCompanyLtd</xbrldi:explicitMember>
+                            </xbrli:segment>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2017-10-01</xbrli:startDate>
+                            <xbrli:endDate>2018-09-30</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                    <xbrli:context id="FY1_start">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:instant>2017-10-01</xbrli:instant>
+                        </xbrli:period>
+                    </xbrli:context>
+                    <xbrli:context id="FY1_end">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:instant>2018-09-30</xbrli:instant>
+                        </xbrli:period>
+                    </xbrli:context>
+                    <xbrli:context xmlns="http://www.xbrl.org/2003/instance" id="eFY0">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">08489106</xbrli:identifier>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:instant>2017-09-30</xbrli:instant>
+                        </xbrli:period>
+                    </xbrli:context>
+                    <xbrli:unit id="Pure">
+                        <xbrli:measure>xbrli:pure</xbrli:measure>
+                    </xbrli:unit>
+                    <xbrli:unit id="GBP">
+                        <xbrli:measure>iso4217:GBP</xbrli:measure>
+                    </xbrli:unit>
+                </ix:resources>
+            </ix:header>
+        </div>
+
+        
+
+
+<table style="width:100%">
+    <tr>
+        <td class="statutoryinfo">Registered number: 08489106 (England and Wales)</td>
+    </tr>
+    <!-- #region Submission Data - Do not modify or delete this section as it is required in submission-->
+    <tr style="display:none;">
+    <td>
+        <table>
+            <tr class="h2">
+                <td class="t"> <ix:nonNumeric contextRef="FY1_period" name="uk-bus:UKCompaniesHouseRegisteredNumber">08489106</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period_legal_entity" format="ixt2:nocontent" name="uk-bus:LegalFormEntity">This company is a private limited company</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period" name="uk-bus:DescriptionPrincipalActivities">This company sells stuff to other companies</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period" format="ixt2:nocontent" name="uk-bus:EntityTradingStatus">The company was trading for the entire period</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period_accounts_type" format="ixt2:nocontent" name="uk-bus:AccountsTypeFullOrAbbreviated">Full Accounts</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_end" name="uk-bus:EndDateForPeriodCoveredByReport">2018-09-30</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period" name="uk-bus:EntityDormantTruefalse">false</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period" name="uk-bus:EntityCurrentLegalOrRegisteredName">ASHAHCO LIMITED</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period_accounting_standards" format="ixt2:nocontent" name="uk-bus:AccountingStandardsApplied">The accounts were prepared in accordance with FRS102</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_period_accounting_status" format="ixt2:nocontent" name="uk-bus:AccountsStatusAuditedOrUnaudited">The accounts have been audited</ix:nonNumeric>
+</td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+                    <ix:nonNumeric contextRef="FY1_period_director1" name="uk-core:DirectorSigningFinancialStatements"/>
+                    <ix:nonNumeric contextRef="FY1_period_director1" name="uk-direp:DirectorSigningDirectorsReport"/>
+                    <ix:nonNumeric contextRef="FY1_period_director1" name="uk-bus:NameEntityOfficer">Anisha Shah</ix:nonNumeric>
+                </td>
+            </tr>
+            <tr class="h2">
+                <td class="t">
+<ix:nonNumeric contextRef="FY1_start" name="uk-bus:StartDateForPeriodCoveredByReport">2017-10-01</ix:nonNumeric>
+</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+    <!-- #endregion -->
+    
+    <tr>
+        <td class="notes">
+            <hr class="3"/>
+        </td>
+    </tr>
+    <tr class="h1">
+        <td class="breadcrumb report_title">ASHAHCO LIMITED</td>
+    </tr>
+    <tr>
+        <td class="notes">
+            <hr class="3"/>
+        </td>
+    </tr>
+    <tr class="spaceUnder">
+        <td/>
+    </tr>
+    <tr>        
+        <td class="breadcrumb center">
+            <span class="report_title">
+                 
+                    
+
+                Unaudited Micro Entity Accounts
+                </span>            
+            <br/>
+            <span class="report_subtitle">
+                
+ For   
+   
+ 
+ The Year Ended 
+30-09-2018 
+
+            </span>
+        </td>
+    </tr>    
+    <tr class="spaceUnder">
+        <td/>
+    </tr>
+    <tr class="spaceUnder">
+        <td/>
+    </tr>
+    <tr>
+        <td>
+            <table style="width:100%;">
+                <tr>
+                                        <td style="width:40%;">
+                       
+                           
+                    </td>
+
+                        <td style="width:30%;"/>
+                        <td style="width:30%;"/>
+                    
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+        
+        <div>
+            <br class="pageafter"/>
+        </div>        
+        
+         <table class="header" style="width:100%;">
+    <tr>
+        <td>
+            <hr class="col-lg-12 FixedHeight margin_TopBottom8px"/> 
+        </td>
+    </tr>
+    <tr class=" breadcrumb">
+        <td class="page_header">
+            <span class="span_left">
+                ASHAHCO LIMITED
+            </span>
+            <span class="span_right">
+                FINANCIAL STATEMENTS
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom:5em;"/>
+    </tr>
+</table>
+
+<table class="table" style="width:100%;">
+    <tr>
+        <td class="table table_of_content_title" colspan="11">
+            TABLE OF CONTENTS
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Company Information
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Balance Sheet
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Notes to the Financial Statements
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+</table>
+
+        <div/>
+            <table style="page-break-after: always; width: 100%; height: 300px;">
+                <tr>
+                    <td>
+                        <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+        <div>
+            <br class="pageafter"/>
+        </div>
+
+        <div/>
+
+        
+
+
+ <table class="header" style="width:100%;">
+    <tr>
+        <td>
+            <hr class="col-lg-12 FixedHeight margin_TopBottom8px"/> 
+        </td>
+    </tr>
+    <tr class=" breadcrumb">
+        <td class="page_header">
+            <span class="span_left">
+                ASHAHCO LIMITED
+            </span>
+            <span class="span_right">
+                FINANCIAL STATEMENTS
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom:5em;"/>
+    </tr>
+</table>
+
+<table class="accounts" width="100%">
+    <tr>
+        <td class="page_title" colspan="11">
+            COMPANY INFORMATION
+        </td>
+    </tr>
+    <tr class="block_header">
+        <td class="page_subtitle" colspan="11">
+            <span>
+                
+ For   
+   
+ 
+ The Year Ended 
+30-09-2018 
+
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom:10em;"/>
+    </tr>
+
+
+    <tr class="CompanyInfoTbl">
+        <td class="Order1">
+            <span>DIRECTORS (Served during the year)</span>
+        </td>
+        <td class="Order2">:</td>
+                    <td class="Order3">Anisha Shah</td>
+    </tr>
+    <tr>
+        <td style="padding-bottom:2em;"/>
+    </tr>
+
+
+
+        <tr class="CompanyInfoTbl">
+            <td class="Order1">
+<span>REGISTERED OFFICE</span>
+</td>
+            <td class="Order2">:</td>
+                <td class="Order3">Flat 713 Falcon Wharf</td>
+        </tr>
+                    <tr class="CompanyInfoTbl">
+                <td class="Order1"/>
+                <td class="Order2"/>
+                <td class="Order3">34 Lombard Road</td>
+            </tr>
+                    <tr class="CompanyInfoTbl">
+                <td class="Order1"/>
+                <td class="Order2"/>
+                <td class="Order3">London</td>
+            </tr>
+                    <tr class="CompanyInfoTbl">
+                <td class="Order1"/>
+                <td class="Order2"/>
+                <td class="Order3">England</td>
+            </tr>
+                    <tr class="CompanyInfoTbl">
+                <td class="Order1"/>
+                <td class="Order2"/>
+                <td class="Order3">SW11 3RF</td>
+            </tr>
+                <tr>
+            <td style="padding-bottom: 1em;"/>
+        </tr>
+
+        <tr class="CompanyInfoTbl">
+            <td class="Order1">COMPANY NUMBER</td>
+            <td class="Order2">:</td>
+            <td class="Order3">08489106</td>
+        </tr>
+
+        
+
+        <tr class="spaceUnder">
+            <td/>
+        </tr>
+        <tr>
+            <td colspan="3" style="width:100%;">
+                <table style="width:100%;">
+                    <tr>
+                                                <td style="width:40%;">
+                            
+
+                               
+                        </td>
+
+                            <td style="width:30%;"/>
+                            <td style="width:30%;"/>
+                        
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+            <div class="page_rightfootnote add_form_label">
+                Page 1
+            </div>
+        <div>
+            <br class="pageafter"/>
+        </div>
+                
+
+        
+
+
+
+
+
+
+ <table class="header" style="width:100%;">
+    <tr>
+        <td>
+            <hr class="col-lg-12 FixedHeight margin_TopBottom8px"/> 
+        </td>
+    </tr>
+    <tr class=" breadcrumb">
+        <td class="page_header">
+            <span class="span_left">
+                ASHAHCO LIMITED
+            </span>
+            <span class="span_right">
+                FINANCIAL STATEMENTS
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom:5em;"/>
+    </tr>
+</table>    <div/>
+    <table style="width:100%;">
+        <tr>
+            <td class="page_title" colspan="11">BALANCE SHEET</td>
+        </tr>
+        <tr class="block_header">
+            <td class="page_subtitle" colspan="11">
+                As at
+                    <span> <ix:nonNumeric contextRef="FY1_end" name="uk-bus:BalanceSheetDate">2018-09-30</ix:nonNumeric>
+</span>
+
+            </td>
+        </tr>
+        <tr>
+            <td colspan="11" style="padding-bottom:5em;"/>
+        </tr>
+        <tr class="h1">
+            <td style="width:70%"/>
+                <td style="width:5%"/>
+                <td class="b date" style="width:10%">2018</td>
+                            <td style="width:5%"/>
+                <td class="b date" style="width:10%">2017</td>
+        </tr>
+        <tr class="h1">            
+            <td class="bt">
+<!--Notes-->
+</td>
+                <td/>
+                <td class="b date">£</td>
+                            <td/>
+                <td class="b date">£</td>
+        </tr>        
+
+                    <tr class="h1 rowHighlight">
+                <td class="t">Fixed assets</td>
+                    <td/>
+                    <td class="hoverElement numeric">
+                         <ix:nonFraction contextRef="FY1_end" decimals="0" format="ixt2:numdotdecimal" name="uk-core:FixedAssets" unitRef="GBP">160,000</ix:nonFraction>
+                    </td>
+                                    <td/>
+                    <td class="comp hoverElement numeric">
+                         <ix:nonFraction contextRef="eFY0" decimals="2" format="ixt2:numdotdecimal" name="uk-core:FixedAssets" unitRef="GBP">160,413</ix:nonFraction>
+                    </td>
+            </tr>
+        
+            <tr class="h1 rowHighlight">
+                <td class="t">Current assets</td>
+                
+                    <td/>
+                    <td class="lhoverElement numeric">
+                        75,131
+                    </td>
+                                    <td/>
+                    <td class="comp hoverElement numeric">
+                        89,044
+                    </td>
+            </tr>
+                    <tr class="h1 rowHighlight" style="display:none;">
+                <td class="t">Cash in hand/bank</td>
+                
+                    <td/>
+                    <td class="lhoverElement numeric">
+                        75,030
+                    </td>
+                                    <td/>
+                    <td class="comp hoverElement numeric">
+                        87,779
+                    </td>
+            </tr>
+
+
+                    <tr class="h1 rowHighlight">
+                <td class="t">Creditors: Amounts falling due within one year</td>
+                    <td/>
+                    <td class="lhoverElement numeric">
+                         (30)
+                    </td>
+                                    <td/>
+                    <td class="comp hoverElement numeric">
+                         (8,639)
+                    </td>
+            </tr>
+                    <tr class="h1 rowHighlight">
+                <td class="t">Net current assets (liabilities)</td>
+                    <td/>
+                    <td class="hoverElement numeric">
+                        75,101
+                    </td>
+                                    <td/>
+                    <td class="comp hoverElement numeric">
+                         80,405
+                    </td>
+            </tr>
+                    <tr class="h1 rowHighlight">
+                <td class="t">Total assets less current liabilities</td>
+                    <td/>
+                    <td class="hoverElement numeric">
+                        235,101
+                    </td>
+                                    <td/>
+                    <td class="comp hoverElement numeric">
+                        240,818
+                    </td>
+            </tr>
+        
+
+
+
+            <tr class="h1 rowHighlight">
+
+                <td class="bt" style="text-align:left;font-weight:bold;">Net assets (liabilities)</td>
+                    <td/>
+                    <td class="comp hoverElement FullTotal numeric">
+                        
+                            <ix:nonFraction contextRef="FY1_end" decimals="0" format="ixt2:numdotdecimal" name="uk-core:NetAssetsLiabilities" unitRef="GBP">235,101</ix:nonFraction>
+                        
+                    </td>
+                                    <td/>
+                    <td class="comp hoverElement FullTotal numeric">
+                        
+                            <ix:nonFraction contextRef="eFY0" decimals="0" format="ixt2:numdotdecimal" name="uk-core:NetAssetsLiabilities" unitRef="GBP">240,818</ix:nonFraction>
+                        
+                    </td>
+            </tr>
+
+        <tr>
+            <td style="padding-bottom:2em;"/>
+        </tr>
+
+                <tr class="h1 rowHighlight">
+                    <td class="bt" style="text-align:left;font-weight:bold;">Capital and reserves</td>
+                        <td/>
+                        <td class="hoverElement FullTotal numeric">
+                                                            
+                                235,101
+                            
+                        </td>
+                                            <td/>
+                        <td class="comp hoverElement FullTotal numeric">
+                                                 
+                                240,818
+                            
+                        </td>
+                </tr>
+                    <tr class="h1 rowHighlight" style="display:none;">
+                        <td class="t">Called up share capital</td>
+                            <td/>
+                            <td class="hoverElement numeric">
+                                10
+                            </td>
+                                                    <td/>
+                            <td class="comp hoverElement numeric">
+
+                                10
+                            </td>
+                    </tr>
+                    <tr class="h1 rowHighlight" style="display:none;">
+                        <td class="t">Profit and Loss account</td>
+                            <td/>
+                            <td class="hoverElement numeric">
+                                                         
+                                    235,091                         
+                                
+                            </td>
+                                                    <td/>
+                            <td class="comp hoverElement numeric">
+                                                         
+                                    240,808
+                                
+                            </td>
+                    </tr>
+                <tr class="h1 rowHighlight" style="display:none;">
+                    <td class="bt">Shareholder's fund</td>
+                        <td/>
+                        <td class="hoverElement FullTotal numeric">
+                            
+                                235,101
+                            
+                        </td>
+                                            <td/>
+                        <td class="comp hoverElement FullTotal numeric">
+                            
+                                240,818
+                            
+                        </td>
+                </tr>
+
+        <tr>
+            <td style="padding-bottom:3em;"/>
+        </tr>
+
+        <tr class="h1" style="page-break-before: auto">
+            <td class="notes" colspan="7" style="text-align:left;">
+                <span style="display:none">
+                    <ix:nonNumeric contextRef="FY1_period" name="uk-direp:StatementThatCompanyEntitledToExemptionFromAuditUnderSection477CompaniesAct2006RelatingToSmallCompanies">
+                        For the year ending 30/09/2018 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+                    </ix:nonNumeric>
+                </span>
+                <ul class="bulletlist">
+                    <li>
+                        <span>
+                            For the year ending 30-09-2018 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.
+                        </span>
+                    </li>
+                    <li>
+                        <ix:nonNumeric contextRef="FY1_period" name="uk-direp:StatementThatMembersHaveNotRequiredCompanyToObtainAnAudit">
+                            The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.
+                        </ix:nonNumeric>
+                    </li>
+                    <li>
+                        <ix:nonNumeric contextRef="FY1_period" name="uk-direp:StatementThatDirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct">
+                            The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.
+                        </ix:nonNumeric>
+                    </li>
+                    <li>
+                        <ix:nonNumeric contextRef="FY1_period" name="uk-direp:StatementThatAccountsHaveBeenPreparedInAccordanceWithProvisionsSmallCompaniesRegime">
+These accounts have been prepared in accordance with the micro-entity provisions and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+                        </ix:nonNumeric>
+                    </li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="padding-bottom:5em;"/>
+        </tr>
+        
+        <tr class="h2">
+            <td class="bt" colspan="11" style="text-align:left;font-weight:bold;">
+                <span>Approved by the board of directors on </span>
+<span>
+                    
+                    <ix:nonNumeric contextRef="FY1_end" name="uk-core:DateAuthorisationFinancialStatementsForIssue">2018-12-05</ix:nonNumeric>
+                </span>
+                
+                <span>
+                    and signed on behalf of the board,
+                </span>
+            </td>            
+        </tr>
+        
+        <tr>
+            <td style="padding-bottom:3em;"/>
+        </tr>
+
+        <tr class="h1">
+            <td class="t" colspan="11">.............................</td>
+        </tr>
+        
+
+            <tr>
+                <td class="page_leftfootnote" colspan="11">
+                Anisha Shah (Director)
+                </td>                
+            </tr>
+        <tr>
+            <td class="page_leftfootnote" colspan="11">Company registration number: 08489106</td>
+        </tr>
+        <tr>
+            <td style="padding-bottom:5em;"/>
+        </tr>
+    </table>
+
+            <div class="page_rightfootnote add_form_label">
+                Page 2
+            </div>
+        <div>
+            <br class="pageafter"/>
+        </div>        
+
+        
+
+ <table class="header" style="width:100%;">
+    <tr>
+        <td>
+            <hr class="col-lg-12 FixedHeight margin_TopBottom8px"/> 
+        </td>
+    </tr>
+    <tr class=" breadcrumb">
+        <td class="page_header">
+            <span class="span_left">
+                ASHAHCO LIMITED
+            </span>
+            <span class="span_right">
+                FINANCIAL STATEMENTS
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom:5em;"/>
+    </tr>
+</table>
+
+<table style="width:100%;">
+    <tr>
+        <td class="page_title" colspan="11">NOTES TO THE FINANCIAL STATEMENTS</td>
+    </tr>
+    <tr class="block_header">
+        <td class="page_subtitle" colspan="11">
+            
+ For   
+   
+ 
+ The Year Ended 
+30-09-2018 
+
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom:5em;"/>
+    </tr>
+</table>
+
+
+
+
+
+    <table style="width:100%;">
+            <tr class="h1">
+                <td class="bt">
+                    (1) General Information
+                </td>
+            </tr>
+            <tr class="h2">
+                <td class="notes" style="text-align:left !important;margin-left:10px;">
+                    <div class="renderhtml" style="width:99%;">
+                        <table class="tb_dbhandled">
+<tbody>
+<tr>
+<td colspan="11">The company is a private company limited by shares and is registered in England and Wales. The address of the registered office is Flat 713 Falcon Wharf 34 Lombard Road, London, England, SW11 3RF.</td>
+</tr>
+</tbody>
+</table>
+                    </div>
+
+                </td>
+            </tr>
+                <tr>
+                    <td>
+                        <br/>
+                    </td>
+                </tr>
+            <tr class="h1">
+                <td class="bt">
+                    (2) Average number of employees
+                </td>
+            </tr>
+            <tr class="h2">
+                <td class="notes" style="text-align:left !important;margin-left:10px;">
+                    <div class="renderhtml" style="width:99%;">
+                        <table class="tb_dbhandled">
+<tbody>
+<tr>
+<td colspan="11">The average number of persons employed by the company during the year was 0 [30.09.2017 : 1]</td>
+</tr>
+</tbody>
+</table>
+                    </div>
+
+                </td>
+            </tr>
+                <tr>
+                    <td>
+                        <br/>
+                    </td>
+                </tr>
+            <tr class="h1">
+                <td class="bt">
+                    (3) Transition to FRS 105
+                </td>
+            </tr>
+            <tr class="h2">
+                <td class="notes" style="text-align:left !important;margin-left:10px;">
+                    <div class="renderhtml" style="width:99%;">
+                        <table class="tb_dbhandled">    <tbody>        <tr>            <td colspan="11">These are the first financial statements that comply with FRS 105. The company transitioned to FRS 105 as at 01 October 2017. This has affected the previously reported financial position and financial performance as follows:</td>        </tr>    </tbody>
+</table>
+<table style="width: 100%;">    <tbody>        <tr>            <td colspan="5" style="padding-bottom: 1em;"/>        </tr>        <tr>            <td style="width: 70%"/>            <td style="width: 5%"/>            <td class="date" style="width: 10%; font-weight: bold;">01-10-2017</td>            <td style="width: 5%"/>            <td class="date" style="width: 10%; font-weight: bold;">30-09-2017</td>        </tr>        <tr>            <td>Reconciliation  of equity</td>            <td/>            <td class="date" style="font-weight: bold">£ </td>            <td/>            <td class="date" style="font-weight: bold">£ </td>        </tr>        <tr>            <td colspan="5" style="padding-bottom: 1em;"/>        </tr>        <tr>            <td>Capital and  reserves (as previously stated)</td>            <td/>            <td class="numeric">240818.20</td>            <td/>            <td class="numeric">240818.20</td>        </tr>        <tr>            <td>Deferred tax  provision removed</td>            <td/>            <td class="numeric">0.00</td>            <td/>            <td class="numeric">0.00</td>        </tr>        <tr>            <td style="font-weight: bold;">Capital and  reserves (as restated)</td>            <td/>            <td class="numeric FullTotal">240818.20</td>            <td/>            <td class="numeric FullTotal">240818.20</td>        </tr>        <tr>            <td style="padding-bottom: 1em;"/>        </tr>        <tr>            <td>Reconciliation  of profit for the year</td>            <td/>            <td/>            <td/>            <td/>        </tr>        <tr>            <td>Profit for  the year (as previously stated)</td>            <td/>            <td/>            <td/>            <td class="numeric">35128.67</td>        </tr>        <tr>            <td>Deferred tax  charge reversed</td>            <td/>            <td/>            <td/>            <td class="numeric">0.00</td>        </tr>        <tr>            <td style="font-weight: bold;">Profit for the year (as restated)</td>            <td/>            <td/>            <td/>            <td class="numeric FullTotal">35128.67</td>        </tr>        <tr>            <td style="padding-bottom: 1em;"/>        </tr>        <tr>            <td>Deferred tax  is not recognised under FRS 105.</td>            <td/>            <td/>            <td/>            <td/>        </tr>    </tbody>
+</table>
+                    </div>
+
+                </td>
+            </tr>
+     </table>
+
+            <div class="page_rightfootnote add_form_label">
+                Page 3
+            </div>
+    </div>
+</body>
+</html>

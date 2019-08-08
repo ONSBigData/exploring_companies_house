@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Stocks,Stocks 19222 258663,19222,2017.0,£
+1,96.0,0.0,Stocks,Stocks 19222 258663,258663,2016.0,£
+2,96.0,1.0,Debtors,Debtors 3926157 2335854,3926157,2017.0,£
+3,96.0,0.0,Debtors,Debtors 3926157 2335854,2335854,2016.0,£
+4,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 621031 127504,621031,2017.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 621031 127504,127504,2016.0,£
+6,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 3405933 1731966,3405933,2017.0,£
+7,94.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 3405933 1731966,1731966,2016.0,£
+8,96.0,1.0,Net current assets,Net current assets 1160477 990055,1160477,2017.0,£
+9,95.0,0.0,Net current assets,Net current assets 1160477 990055,990055,2016.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 1160477 990055,1160477,2017.0,£
+11,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 1160477 990055,990055,2016.0,£
+12,96.0,1.0,Net assets,Net assets 1160477 754740,1160477,2017.0,£
+13,96.0,0.0,Net assets,Net assets 1160477 754740,754740,2016.0,£
+14,96.0,1.0,Other amounts,Other amounts 1160477 754740,1160477,2017.0,£
+15,96.0,0.0,Other amounts,Other amounts 1160477 754740,754740,2016.0,£
+16,95.0,1.0,Loans and other debts due to members,Loans and other debts due to members 1160477 754740,1160477,2017.0,£
+17,95.0,0.0,Loans and other debts due to members,Loans and other debts due to members 1160477 754740,754740,2016.0,£

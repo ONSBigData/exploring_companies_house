@@ -1,0 +1,33 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 4 3986708 26985342,3986708,2017.0,£
+1,95.0,0.0,Tangible assets,Tangible assets 4 3986708 26985342,26985342,2016.0,£
+2,96.0,1.0,Investments,Investments 6  1,6,2017.0,£
+3,92.0,0.0,Investments,Investments 6  1,1,2016.0,£
+4,96.0,1.0,Stocks,Stocks 91046 201890,91046,2017.0,£
+5,95.0,0.0,Stocks,Stocks 91046 201890,201890,2016.0,£
+6,95.0,1.0,Debtors,Debtors 7 432737 466447,432737,2017.0,£
+7,96.0,0.0,Debtors,Debtors 7 432737 466447,466447,2016.0,£
+8,73.0,1.0,Cash at bank and in hand,Cash at bank and in hand 595318 857636,595318,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 595318 857636,857636,2016.0,£
+10,93.0,1.0,Creditors amounts falling due within one year,one year 8 999890 1261442,999890,2017.0,£
+11,96.0,0.0,Creditors amounts falling due within one year,one year 8 999890 1261442,1261442,2016.0,£
+12,96.0,1.0,Net current assets,Net current assets 119211 264531,119211,2017.0,£
+13,95.0,0.0,Net current assets,Net current assets 119211 264531,264531,2016.0,£
+14,66.0,1.0,Total assets less current liabilities,Total assets less current liabilities 39855918 27249874,39855918,2017.0,£
+15,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 39855918 27249874,27249874,2016.0,£
+16,96.0,1.0,Creditors amounts falling due after more than one year,more than one year 9  740000,9,2017.0,£
+17,88.0,0.0,Creditors amounts falling due after more than one year,more than one year 9  740000,740000,2016.0,£
+18,95.0,1.0,Provisions for liabilities,Provisions for liabilities 5253985 3066575,5253985,2017.0,£
+19,95.0,0.0,Provisions for liabilities,Provisions for liabilities 5253985 3066575,3066575,2016.0,£
+20,95.0,1.0,Net assets,Net assets 34601933 23443299,34601933,2017.0,£
+21,95.0,0.0,Net assets,Net assets 34601933 23443299,23443299,2016.0,£
+22,96.0,1.0,Called up share capital,Called up share capital 11 1200 1200,1200,2017.0,£
+23,90.0,0.0,Called up share capital,Called up share capital 11 1200 1200,1200,2016.0,£
+24,96.0,1.0,Share premium account,Share premium account 199500 199500,199500,2017.0,£
+25,95.0,0.0,Share premium account,Share premium account 199500 199500,199500,2016.0,£
+26,94.0,1.0,Revaluation reserve,Revaluation reserve 12 2983076 17680134,2983076,2017.0,£
+27,96.0,0.0,Revaluation reserve,Revaluation reserve 12 2983076 17680134,17680134,2016.0,£
+28,95.0,1.0,Profit and loss reserves,Profit and loss reserves 13  31418157 5562465,31418157,2017.0,£
+29,29.0,0.0,Profit and loss reserves,Profit and loss reserves 13  31418157 5562465,5562465,2016.0,£
+30,94.0,1.0,Total equity,Total equity 34601933 23443299,34601933,2017.0,£
+31,96.0,0.0,Total equity,Total equity 34601933 23443299,23443299,2016.0,£

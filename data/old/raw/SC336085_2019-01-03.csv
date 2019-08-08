@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,62.0,1.0,Debtors,Debtors 976 0,976,2018.0,£
+1,95.0,0.0,Debtors,Debtors 976 0,0,2017.0,£
+2,96.0,1.0,Cash In Bank and In Hand,Cash In Bank and In Hand 15672 8271,15672,2018.0,£
+3,94.0,0.0,Cash In Bank and In Hand,Cash In Bank and In Hand 15672 8271,8271,2017.0,£
+4,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 998 1014,998,2018.0,£
+5,94.0,0.0,Amounts falling due within one year,Amounts falling due within one year 998 1014,1014,2017.0,£
+6,64.0,1.0,NET ASSETS,NET ASSETS 15650 7287,15650,2018.0,£
+7,91.0,0.0,NET ASSETS,NET ASSETS 15650 7287,7287,2017.0,£
+8,95.0,1.0,Restricted,Restricted 10113 1094,10113,2018.0,£
+9,96.0,0.0,Restricted,Restricted 10113 1094,1094,2017.0,£
+10,96.0,1.0,Unrestricted,Unrestricted 5537 6163,5537,2018.0,£
+11,56.0,0.0,Unrestricted,Unrestricted 5537 6163,6163,2017.0,£
+12,93.0,1.0,Total Funds,Total Funds 15650 7257,15650,2018.0,£
+13,96.0,0.0,Total Funds,Total Funds 15650 7257,7257,2017.0,£

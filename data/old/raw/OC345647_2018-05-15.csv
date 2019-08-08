@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2017 2016,2017,2017.0,£
+1,96.0,0.0,Note,Note 2017 2016,2016,2016.0,£
+2,89.0,1.0,Fixed Assets,Fixed Assets 1 0 0,0,2017.0,£
+3,94.0,0.0,Fixed Assets,Fixed Assets 1 0 0,0,2016.0,£
+4,96.0,1.0,Debtors,Debtors 2 0 158,0,2017.0,£
+5,95.0,0.0,Debtors,Debtors 2 0 158,158,2016.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 0 2087,0,2017.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 0 2087,2087,2016.0,£
+8,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 3 0 0,0,2017.0,£
+9,87.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 3 0 0,0,2016.0,£
+10,96.0,1.0,Net Current assets,Net Current assets 0 2245,0,2017.0,£
+11,94.0,0.0,Net Current assets,Net Current assets 0 2245,2245,2016.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 0 2245,0,2017.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 0 2245,2245,2016.0,£
+14,95.0,1.0,Loans and other debts due to members,Loans and other debts due to members 5 0 2245,0,2017.0,£
+15,95.0,0.0,Loans and other debts due to members,Loans and other debts due to members 5 0 2245,2245,2016.0,£

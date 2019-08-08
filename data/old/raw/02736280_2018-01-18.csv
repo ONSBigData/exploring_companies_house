@@ -1,0 +1,37 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Goodwill,Goodwill 29895 64584,29895,2017.0,£
+1,96.0,0.0,Goodwill,Goodwill 29895 64584,64584,2016.0,£
+2,96.0,1.0,Other intangible assets,Other intangible assets 468312 530860,468312,2017.0,£
+3,94.0,0.0,Other intangible assets,Other intangible assets 468312 530860,530860,2016.0,£
+4,95.0,1.0,Total intangible assets,Total intangible assets 498207 595444,498207,2017.0,£
+5,96.0,0.0,Total intangible assets,Total intangible assets 498207 595444,595444,2016.0,£
+6,0.0,1.0,Tangible assets,Tangible assets 83044 101430,83044,2017.0,£
+7,96.0,0.0,Tangible assets,Tangible assets 83044 101430,101430,2016.0,£
+8,96.0,1.0,Investments,Investments 200 200,200,2017.0,£
+9,97.0,0.0,Investments,Investments 200 200,200,2016.0,£
+10,96.0,1.0,Stocks,Stocks 675907 426720,675907,2017.0,£
+11,94.0,0.0,Stocks,Stocks 675907 426720,426720,2016.0,£
+12,96.0,1.0,Debtors,Debtors 1932573 1362179,1932573,2017.0,£
+13,95.0,0.0,Debtors,Debtors 1932573 1362179,1362179,2016.0,£
+14,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 614404 51259,614404,2017.0,£
+15,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 614404 51259,51259,2016.0,£
+16,95.0,1.0,Creditors amounts falling due within one year,one year 2457428 1437654,2457428,2017.0,£
+17,95.0,0.0,Creditors amounts falling due within one year,one year 2457428 1437654,1437654,2016.0,£
+18,96.0,1.0,Net current assets,Net current assets 765456 402504,765456,2017.0,£
+19,96.0,0.0,Net current assets,Net current assets 765456 402504,402504,2016.0,£
+20,92.0,1.0,Total assets less current liabilities,Total assets less current liabilities 1346907 1099578,1346907,2017.0,£
+21,94.0,0.0,Total assets less current liabilities,Total assets less current liabilities 1346907 1099578,1099578,2016.0,£
+22,96.0,1.0,Provisions for liabilities,Provisions for liabilities 296 12046,296,2017.0,£
+23,96.0,0.0,Provisions for liabilities,Provisions for liabilities 296 12046,12046,2016.0,£
+24,91.0,1.0,Net assets,Net assets 1346611 1087532,1346611,2017.0,£
+25,96.0,0.0,Net assets,Net assets 1346611 1087532,1087532,2016.0,£
+26,96.0,1.0,Called up share capital,Called up share capital 11 11430 11430,11430,2017.0,£
+27,96.0,0.0,Called up share capital,Called up share capital 11 11430 11430,11430,2016.0,£
+28,96.0,1.0,Share premium account,Share premium account 282677 282677,282677,2017.0,£
+29,95.0,0.0,Share premium account,Share premium account 282677 282677,282677,2016.0,£
+30,96.0,1.0,Capital redemption reserve,Capital redemption reserve 10000 10000,10000,2017.0,£
+31,96.0,0.0,Capital redemption reserve,Capital redemption reserve 10000 10000,10000,2016.0,£
+32,95.0,1.0,Profit and loss reserves,Profit and loss reserves 1042504 783425,1042504,2017.0,£
+33,96.0,0.0,Profit and loss reserves,Profit and loss reserves 1042504 783425,783425,2016.0,£
+34,84.0,1.0,Total equity,Total equity 1346611 1087532,1346611,2017.0,£
+35,96.0,0.0,Total equity,Total equity 1346611 1087532,1087532,2016.0,£

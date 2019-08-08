@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,24.0,1.0,Note,Note 000 000,000,2017.0,£000
+1,10.0,0.0,Note,Note 000 000,000,2016.0,£000
+2,96.0,1.0,Tax asset G,Tax asset G9 3899 5169,3899,2017.0,£000
+3,96.0,0.0,Tax asset G,Tax asset G9 3899 5169,5169,2016.0,£000
+4,92.0,1.0,Receivables D,Receivables D5 17156 7311,17156,2017.0,£000
+5,96.0,0.0,Receivables D,Receivables D5 17156 7311,7311,2016.0,£000
+6,96.0,1.0,Prepayments and accrued income D,Prepayments and accrued income D6 2709 1780,2709,2017.0,£000
+7,96.0,0.0,Prepayments and accrued income D,Prepayments and accrued income D6 2709 1780,1780,2016.0,£000
+8,96.0,1.0,Cash and cash equivalents E  b,Cash and cash equivalents E  12b 39730 24183,39730,2017.0,£000
+9,96.0,0.0,Cash and cash equivalents E  b,Cash and cash equivalents E  12b 39730 24183,24183,2016.0,£000
+10,96.0,1.0,Total assets,Total assets 63494 38443,63494,2017.0,£000
+11,96.0,0.0,Total assets,Total assets 63494 38443,38443,2016.0,£000
+12,96.0,1.0,Ordinary share capital H,Ordinary share capital H7 97600 77600,97600,2017.0,£000
+13,96.0,0.0,Ordinary share capital H,Ordinary share capital H7 97600 77600,77600,2016.0,£000
+14,95.0,1.0,Accumulated losses,Accumulated losses 71581 55223,71581,2017.0,£000
+15,96.0,0.0,Accumulated losses,Accumulated losses 71581 55223,55223,2016.0,£000
+16,95.0,1.0,Total equity,Total equity 26019 22377,26019,2017.0,£000
+17,96.0,0.0,Total equity,Total equity 26019 22377,22377,2016.0,£000
+18,96.0,1.0,Provisions F,Provisions F  10 10 137,10,2017.0,£000
+19,97.0,0.0,Provisions F,Provisions F  10 10 137,137,2016.0,£000
+20,96.0,1.0,Payables and other financial liabilities Dl,Payables and other financial liabilities D1l 37465 15929,37465,2017.0,£000
+21,96.0,0.0,Payables and other financial liabilities Dl,Payables and other financial liabilities D1l 37465 15929,15929,2016.0,£000
+22,95.0,1.0,Total liabilities,Total liabilities 37475 16066,37475,2017.0,£000
+23,95.0,0.0,Total liabilities,Total liabilities 37475 16066,16066,2016.0,£000
+24,93.0,1.0,Total equity and liabilities,Total equity and liabilities 63494 38443,63494,2017.0,£000
+25,96.0,0.0,Total equity and liabilities,Total equity and liabilities 63494 38443,38443,2016.0,£000

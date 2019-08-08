@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,97.0,1.0,Note,Note 2017 2016,2017,2017.0,£'000
+1,96.0,0.0,Note,Note 2017 2016,2016,2016.0,£'000
+2,95.0,1.0,Debtors,Debtors 7 9414 9414,9414,2017.0,£'000
+3,93.0,0.0,Debtors,Debtors 7 9414 9414,9414,2016.0,£'000
+4,72.0,1.0,Creditors amounts falling due within one year,within one year 8 1246 1179,1246,2017.0,£'000
+5,96.0,0.0,Creditors amounts falling due within one year,within one year 8 1246 1179,1179,2016.0,£'000
+6,93.0,1.0,Net current assets,Net current assets 8168 8235,8168,2017.0,£'000
+7,95.0,0.0,Net current assets,Net current assets 8168 8235,8235,2016.0,£'000
+8,96.0,1.0,Total assets less current liabilities,liabilities 8168 8235,8168,2017.0,£'000
+9,89.0,0.0,Total assets less current liabilities,liabilities 8168 8235,8235,2016.0,£'000
+10,96.0,1.0,Creditors amounts falling due after more than one year,after more than one year 8 7000 7000,7000,2017.0,£'000
+11,96.0,0.0,Creditors amounts falling due after more than one year,after more than one year 8 7000 7000,7000,2016.0,£'000
+12,96.0,1.0,Net assets,Net assets 1168 1235,1168,2017.0,£'000
+13,95.0,0.0,Net assets,Net assets 1168 1235,1235,2016.0,£'000
+14,96.0,1.0,Profit and loss account,Profit and loss account 332 265,332,2017.0,£'000
+15,96.0,0.0,Profit and loss account,Profit and loss account 332 265,265,2016.0,£'000
+16,79.0,1.0,Total Shareholders funds,Total Shareholders funds 1168 1235,1168,2017.0,£'000
+17,93.0,0.0,Total Shareholders funds,Total Shareholders funds 1168 1235,1235,2016.0,£'000

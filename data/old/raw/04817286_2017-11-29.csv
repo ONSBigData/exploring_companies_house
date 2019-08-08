@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Tangible assets,Tangible assets 4 334287 349269,334287,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 4 334287 349269,349269,2016.0,£
+2,96.0,1.0,Stocks   Debtors    Cash at bank and in hand,Stocks 1500 1500 Debtors 5 44258 59849 Cash at bank and in hand 161745 64706,161745,2017.0,£
+3,95.0,0.0,Stocks   Debtors    Cash at bank and in hand,Stocks 1500 1500 Debtors 5 44258 59849 Cash at bank and in hand 161745 64706,64706,2016.0,£
+4,94.0,1.0,Amounts falling due within one year,Amounts falling due within one year 6 57430 53062,57430,2017.0,£
+5,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 6 57430 53062,53062,2016.0,£
+6,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS  150073 72993,150073,2017.0,£
+7,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS  150073 72993,72993,2016.0,£
+8,86.0,1.0,LIABILITIES,LIABILITIES 484360 422262,484360,2017.0,£
+9,94.0,0.0,LIABILITIES,LIABILITIES 484360 422262,422262,2016.0,£
+10,96.0,1.0,Amounts falling due after more than one . year,year 7 3000 3000,3000,2017.0,£
+11,96.0,0.0,Amounts falling due after more than one . year,year 7 3000 3000,3000,2016.0,£
+12,96.0,1.0,PROVISIONS FOR LIABILITIES,PROVISIONS FOR LIABILITIES 7610 10792,7610,2017.0,£
+13,96.0,0.0,PROVISIONS FOR LIABILITIES,PROVISIONS FOR LIABILITIES 7610 10792,10792,2016.0,£
+14,96.0,1.0,NET ASSETS .,NET ASSETS . 473750 408470,473750,2017.0,£
+15,96.0,0.0,NET ASSETS .,NET ASSETS . 473750 408470,408470,2016.0,£
+16,96.0,1.0,Called up share capital,Called up share capital 100 100,100,2017.0,£
+17,96.0,0.0,Called up share capital,Called up share capital 100 100,100,2016.0,£
+18,95.0,1.0,Retained earnings,Retained earnings 473650 408370,473650,2017.0,£
+19,94.0,0.0,Retained earnings,Retained earnings 473650 408370,408370,2016.0,£
+20,95.0,1.0,SHAREHOLDERS FUNDS .,SHAREHOLDERS FUNDS . 473750 408470,473750,2017.0,£
+21,95.0,0.0,SHAREHOLDERS FUNDS .,SHAREHOLDERS FUNDS . 473750 408470,408470,2016.0,£

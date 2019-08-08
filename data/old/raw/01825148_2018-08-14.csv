@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,93.0,1.0,Note,Note 000 000,000,2017.0,£000
+1,77.0,0.0,Note,Note 000 000,000,2016.0,£000
+2,96.0,1.0,Investments,Investments 6 40 40,40,2017.0,£000
+3,95.0,0.0,Investments,Investments 6 40 40,40,2016.0,£000
+4,96.0,1.0,Debtors,Debtors 7 17980 18249,17980,2017.0,£000
+5,96.0,0.0,Debtors,Debtors 7 17980 18249,18249,2016.0,£000
+6,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 8 242 269,242,2017.0,£000
+7,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 8 242 269,269,2016.0,£000
+8,96.0,1.0,Net current assets,Net current assets 17738 17980,17738,2017.0,£000
+9,92.0,0.0,Net current assets,Net current assets 17738 17980,17980,2016.0,£000
+10,1.0,1.0,Net assets,Net assets 17778 18020,17778,2017.0,£000
+11,95.0,0.0,Net assets,Net assets 17778 18020,18020,2016.0,£000
+12,96.0,1.0,Profit and loss account,Profit and loss account 17778 18020,17778,2017.0,£000
+13,96.0,0.0,Profit and loss account,Profit and loss account 17778 18020,18020,2016.0,£000
+14,44.0,1.0,Shareholders funds,Shareholders funds 17778 8920,17778,2017.0,£000
+15,91.0,0.0,Shareholders funds,Shareholders funds 17778 8920,8920,2016.0,£000

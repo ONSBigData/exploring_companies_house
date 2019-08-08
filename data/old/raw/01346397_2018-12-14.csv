@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 947032 631132,947032,2017.0,£
+1,93.0,0.0,Tangible assets,Tangible assets 947032 631132,631132,2016.0,£
+2,96.0,1.0,Investments,Investments 100 100,100,2017.0,£
+3,96.0,0.0,Investments,Investments 100 100,100,2016.0,£
+4,95.0,1.0,Investment property,Investment property 130000 182651,130000,2017.0,£
+5,93.0,0.0,Investment property,Investment property 130000 182651,182651,2016.0,£
+6,93.0,1.0,Stocks,Stocks 911960 737481,911960,2017.0,£
+7,96.0,0.0,Stocks,Stocks 911960 737481,737481,2016.0,£
+8,95.0,1.0,Debtors amounts falling due within one year io,Debtors amounts falling due within one year io 2169549 2267683,2169549,2017.0,£
+9,96.0,0.0,Debtors amounts falling due within one year io,Debtors amounts falling due within one year io 2169549 2267683,2267683,2016.0,£
+10,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 61065 96670,61065,2017.0,£
+11,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 61065 96670,96670,2016.0,£
+12,96.0,1.0,Creditors amounts falling due within one year,year 11 4323801 2803236,4323801,2017.0,£
+13,96.0,0.0,Creditors amounts falling due within one year,year 11 4323801 2803236,2803236,2016.0,£
+14,96.0,1.0,Net current liabilitiesassets,Net current liabilitiesassets 1181227 298598,1181227,2017.0,£
+15,74.0,0.0,Net current liabilitiesassets,Net current liabilitiesassets 1181227 298598,298598,2016.0,£
+16,82.0,1.0,Total assets less current liabilities,Total assets less current liabilities 104095 1112481,104095,2017.0,£
+17,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 104095 1112481,1112481,2016.0,£
+18,96.0,1.0, Creditors amounts falling due after more than one year,than one year 229246 522270,229246,2017.0,£
+19,96.0,0.0, Creditors amounts falling due after more than one year,than one year 229246 522270,522270,2016.0,£
+20,96.0,1.0,Deferred tax,Deferred tax 14 29726 29726,29726,2017.0,£
+21,96.0,0.0,Deferred tax,Deferred tax 14 29726 29726,29726,2016.0,£
+22,96.0,1.0,Other provisions,Other provisions 15 2250,15,2017.0,£
+23,91.0,0.0,Other provisions,Other provisions 15 2250,2250,2016.0,£
+24,69.0,1.0,Net liabilitiesassets, Net liabilitiesassets 363067 558235,363067,2017.0,£
+25,91.0,0.0,Net liabilitiesassets, Net liabilitiesassets 363067 558235,558235,2016.0,£

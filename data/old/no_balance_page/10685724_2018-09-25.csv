@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Investment property,Investment property 4 3775000,4,2017.0,£
+1,96.0,0.0,Investment property,Investment property 4 3775000,3775000,2016.0,£
+2,96.0,1.0,Debtors,Debtors 5 43780,5,2017.0,£
+3,97.0,0.0,Debtors,Debtors 5 43780,43780,2016.0,£
+4,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 6 165290,6,2017.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 6 165290,165290,2016.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 354420,7,2017.0,£
+7,94.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 354420,354420,2016.0,£
+8,96.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 8 3403921,8,2017.0,£
+9,95.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 8 3403921,3403921,2016.0,£
+10,96.0,1.0,Called up share capital,Called up share capital  10 180300,10,2017.0,£
+11,96.0,0.0,Called up share capital,Called up share capital  10 180300,180300,2016.0,£
+12,96.0,1.0,Profit and loss account,Profit and loss account 11 45429,11,2017.0,£
+13,95.0,0.0,Profit and loss account,Profit and loss account 11 45429,45429,2016.0,£

@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Goadwill .,Goadwill . 575000 875000,575000,2017.0,£
+1,51.0,0.0,Goadwill .,Goadwill . 575000 875000,875000,2016.0,£
+2,95.0,1.0,Debtors  .  mo   Cash at bank and in hand,Debtors  . 7 mo 1 1 Cash at bank and in hand 920486 565903,920486,2017.0,£
+3,96.0,0.0,Debtors  .  mo   Cash at bank and in hand,Debtors  . 7 mo 1 1 Cash at bank and in hand 920486 565903,565903,2016.0,£
+4,96.0,1.0,Creditors amounts falling due oo within one year,within one year 8  1220132 1254202,1220132,2017.0,£
+5,82.0,0.0,Creditors amounts falling due oo within one year,within one year 8  1220132 1254202,1254202,2016.0,£
+6,96.0,1.0,Net current liabilities    Total assets less current  liabilities,Net current liabilities 88 645 688298 Total assets less current  liabilities 275355 186702,275355,2017.0,£
+7,96.0,0.0,Net current liabilities    Total assets less current  liabilities,Net current liabilities 88 645 688298 Total assets less current  liabilities 275355 186702,186702,2016.0,£
+8,94.0,1.0,Net assets,Net assets  975355 186702,975355,2017.0,£
+9,0.0,0.0,Net assets,Net assets  975355 186702,186702,2016.0,£
+10,96.0,1.0,Profit and loss account . . +,Profit and loss account . . + 275354 186701,275354,2017.0,£
+11,91.0,0.0,Profit and loss account . . +,Profit and loss account . . + 275354 186701,186701,2016.0,£
+12,96.0,1.0,Shareholders funds,Shareholders funds 275385 186702,275385,2017.0,£
+13,43.0,0.0,Shareholders funds,Shareholders funds 275385 186702,186702,2016.0,£

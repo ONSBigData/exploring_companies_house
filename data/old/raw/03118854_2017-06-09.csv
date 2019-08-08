@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Notes,Notes 000 000,000,2016.0,£000
+1,96.0,0.0,Notes,Notes 000 000,000,2015.0,£000
+2,93.0,1.0,Debtors receivable within one year,Debtors receivable within one year 10 206294 228213,206294,2016.0,£000
+3,96.0,0.0,Debtors receivable within one year,Debtors receivable within one year 10 206294 228213,228213,2015.0,£000
+4,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 30 8305,30,2016.0,£000
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 30 8305,8305,2015.0,£000
+6,59.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 11 498466  469694,498466,2016.0,£000
+7,33.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 11 498466  469694,469694,2015.0,£000
+8,95.0,1.0,Net current liabilities Total assets less current liabilities,Net current liabilities Total assets less current liabilities 292142  233176 886626 897981,886626,2016.0,£000
+9,93.0,0.0,Net current liabilities Total assets less current liabilities,Net current liabilities Total assets less current liabilities 292142  233176 886626 897981,897981,2015.0,£000
+10,30.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 12 249834 207520,249834,2016.0,£000
+11,92.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 12 249834 207520,207520,2015.0,£000
+12,96.0,1.0,Net assets,Net assets 636792 690461,636792,2016.0,£000
+13,96.0,0.0,Net assets,Net assets 636792 690461,690461,2015.0,£000
+14,96.0,1.0,Calledup share capital,Calledup share capital 13 212437 212437,212437,2016.0,£000
+15,95.0,0.0,Calledup share capital,Calledup share capital 13 212437 212437,212437,2015.0,£000
+16,94.0,1.0,Share premium account,Share premium account 77019 77019,77019,2016.0,£000
+17,96.0,0.0,Share premium account,Share premium account 77019 77019,77019,2015.0,£000
+18,95.0,1.0,Profit and loss account,Profit and loss account 347336 401005,347336,2016.0,£000
+19,94.0,0.0,Profit and loss account,Profit and loss account 347336 401005,401005,2015.0,£000
+20,94.0,1.0,Shareholders funds,Shareholders funds 636792 690461,636792,2016.0,£000
+21,96.0,0.0,Shareholders funds,Shareholders funds 636792 690461,690461,2015.0,£000

@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Intangible assets,Intangible assets 8 147615 159345,147615,2017.0,£
+1,95.0,0.0,Intangible assets,Intangible assets 8 147615 159345,159345,2016.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 9 347661 360028,347661,2017.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 9 347661 360028,360028,2016.0,£
+4,96.0,1.0,Stocks,Stocks 10 1236 2318,1236,2017.0,£
+5,96.0,0.0,Stocks,Stocks 10 1236 2318,2318,2016.0,£
+6,96.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 11 132445 175815,132445,2017.0,£
+7,95.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 11 132445 175815,175815,2016.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 58275 16772,58275,2017.0,£
+9,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 58275 16772,16772,2016.0,£
+10,95.0,1.0,Creditors amounts falling due within one year,year 12 80048 103763,80048,2017.0,£
+11,96.0,0.0,Creditors amounts falling due within one year,year 12 80048 103763,103763,2016.0,£
+12,96.0,1.0,Net current assets,Net current assets 111908 91142,111908,2017.0,£
+13,96.0,0.0,Net current assets,Net current assets 111908 91142,91142,2016.0,£
+14,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 607184 610515,607184,2017.0,£
+15,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 607184 610515,610515,2016.0,£
+16,96.0,1.0,Creditors amounts falling due after more than one year, than one year 13 714478 691714,714478,2017.0,£
+17,96.0,0.0,Creditors amounts falling due after more than one year, than one year 13 714478 691714,691714,2016.0,£
+18,96.0,1.0,Deferred tax,Deferred tax 14 5755 1894,5755,2017.0,£
+19,96.0,0.0,Deferred tax,Deferred tax 14 5755 1894,1894,2016.0,£
+20,96.0,1.0,Net liabilities,Net liabilities 113049 83093,113049,2017.0,£
+21,96.0,0.0,Net liabilities,Net liabilities 113049 83093,83093,2016.0,£
+22,96.0,1.0,Profit and loss account,Profit and loss account 16 113050 83094,113050,2017.0,£
+23,96.0,0.0,Profit and loss account,Profit and loss account 16 113050 83094,83094,2016.0,£
+24,95.0,1.0,Shareholders deficit,Shareholders deficit 113049 83093,113049,2017.0,£
+25,96.0,0.0,Shareholders deficit,Shareholders deficit 113049 83093,83093,2016.0,£

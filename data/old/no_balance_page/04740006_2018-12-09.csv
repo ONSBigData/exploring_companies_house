@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Fixed assets,Fixed assets 1679 2730,1679,2018.0,£
+1,95.0,0.0,Fixed assets,Fixed assets 1679 2730,2730,2017.0,£
+2,95.0,1.0,Current assets,Current assets 6145 4862,6145,2018.0,£
+3,95.0,0.0,Current assets,Current assets 6145 4862,4862,2017.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8606 12693,8606,2018.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8606 12693,12693,2017.0,£
+6,96.0,1.0,Net current liabilities,Net current liabilities 2461 7831,2461,2018.0,£
+7,96.0,0.0,Net current liabilities,Net current liabilities 2461 7831,7831,2017.0,£
+8,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 782 5101,782,2018.0,£
+9,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 782 5101,5101,2017.0,£
+10,96.0,1.0,Net liabilities,Net liabilities 782 5101,782,2018.0,£
+11,94.0,0.0,Net liabilities,Net liabilities 782 5101,5101,2017.0,£
+12,96.0,1.0,Capital and reserves,Capital and reserves 782 5101,782,2018.0,£
+13,96.0,0.0,Capital and reserves,Capital and reserves 782 5101,5101,2017.0,£

@@ -1,0 +1,31 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 000 000,000,2017.0,£000
+1,96.0,0.0,Note,Note 000 000,000,2016.0,£000
+2,95.0,1.0,Tangible assets,Tangible assets 11 839 701,839,2017.0,£000
+3,96.0,0.0,Tangible assets,Tangible assets 11 839 701,701,2016.0,£000
+4,96.0,1.0,Stocks,Stocks 12 4274 3874,4274,2017.0,£000
+5,96.0,0.0,Stocks,Stocks 12 4274 3874,3874,2016.0,£000
+6,95.0,1.0,Debtors amounts falling due after more than one year,one year 13 8859 8011,8859,2017.0,£000
+7,96.0,0.0,Debtors amounts falling due after more than one year,one year 13 8859 8011,8011,2016.0,£000
+8,96.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 13 5022 6202,5022,2017.0,£000
+9,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 13 5022 6202,6202,2016.0,£000
+10,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 2049 1443,2049,2017.0,£000
+11,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 2049 1443,1443,2016.0,£000
+12,94.0,1.0,Creditors amounts falling due within one year,year  14 3169 3358,3169,2017.0,£000
+13,96.0,0.0,Creditors amounts falling due within one year,year  14 3169 3358,3358,2016.0,£000
+14,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 17035 16172,17035,2017.0,£000
+15,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 17035 16172,16172,2016.0,£000
+16,96.0,1.0,LIABILITIES,LIABILITIES 17874 16873,17874,2017.0,£000
+17,96.0,0.0,LIABILITIES,LIABILITIES 17874 16873,16873,2016.0,£000
+18,96.0,1.0,Other provisions,Other provisions 243 128,243,2017.0,£000
+19,96.0,0.0,Other provisions,Other provisions 243 128,128,2016.0,£000
+20,96.0,1.0,NET ASSETS,NET ASSETS 17631 16745,17631,2017.0,£000
+21,92.0,0.0,NET ASSETS,NET ASSETS 17631 16745,16745,2016.0,£000
+22,96.0,1.0,Called up share capital,Called up share capital 17 8002 8002,8002,2017.0,£000
+23,95.0,0.0,Called up share capital,Called up share capital 17 8002 8002,8002,2016.0,£000
+24,96.0,1.0,Share premium account,Share premium account 18762 18762,18762,2017.0,£000
+25,96.0,0.0,Share premium account,Share premium account 18762 18762,18762,2016.0,£000
+26,96.0,1.0,Other reserves,Other reserves 4292 4292,4292,2017.0,£000
+27,96.0,0.0,Other reserves,Other reserves 4292 4292,4292,2016.0,£000
+28,96.0,1.0,Profit and loss account,Profit and loss account 13425 14311,13425,2017.0,£000
+29,96.0,0.0,Profit and loss account,Profit and loss account 13425 14311,14311,2016.0,£000

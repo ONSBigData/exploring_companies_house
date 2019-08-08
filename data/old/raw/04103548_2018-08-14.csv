@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Fixed Assets,Fixed Assets  2 3000 3000,3000,2017.0,£
+1,96.0,0.0,Fixed Assets,Fixed Assets  2 3000 3000,3000,2016.0,£
+2,96.0,1.0,Cash  Bank,Cash  Bank 582 1135,582,2017.0,£
+3,83.0,0.0,Cash  Bank,Cash  Bank 582 1135,1135,2016.0,£
+4,96.0,1.0,Due within One Year,Due within One Year 3 126 126,126,2017.0,£
+5,96.0,0.0,Due within One Year,Due within One Year 3 126 126,126,2016.0,£
+6,96.0,1.0,Net Current Assets  Liabilities,Net Current Assets  Liabilities 456 1009,456,2017.0,£
+7,96.0,0.0,Net Current Assets  Liabilities,Net Current Assets  Liabilities 456 1009,1009,2016.0,£
+8,96.0,1.0,Net Assets .,Net Assets . 3456 4009,3456,2017.0,£
+9,96.0,0.0,Net Assets .,Net Assets . 3456 4009,4009,2016.0,£
+10,97.0,1.0,Called up Share Capital,Called up Share Capital 4 4,4,2017.0,£
+11,97.0,0.0,Called up Share Capital,Called up Share Capital 4 4,4,2016.0,£
+12,96.0,1.0,Brought Forward,Brought Forward 4009 3587,4009,2017.0,£
+13,96.0,0.0,Brought Forward,Brought Forward 4009 3587,3587,2016.0,£
+14,94.0,1.0,For the year,For the year 557 418,557,2017.0,£
+15,91.0,0.0,For the year,For the year 557 418,418,2016.0,£
+16,95.0,1.0,Carried Forward,Carried Forward 3456 4009,3456,2017.0,£
+17,93.0,0.0,Carried Forward,Carried Forward 3456 4009,4009,2016.0,£

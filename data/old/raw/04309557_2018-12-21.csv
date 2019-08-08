@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,88.0,1.0,Tangible fixed assets,Tangible fixed assets 7 209494 217642 209494 217642,209494,2018.0,£
+1,84.0,0.0,Tangible fixed assets,Tangible fixed assets 7 209494 217642 209494 217642,217642,2017.0,£
+2,89.0,1.0,Investment in subsidiary,Investment in subsidiary   1 1,1,2018.0,£
+3,91.0,0.0,Investment in subsidiary,Investment in subsidiary   1 1,1,2017.0,£
+4,91.0,1.0,Stock,Stock 1412 4255 4412 1255,4412,2018.0,£
+5,70.0,0.0,Stock,Stock 1412 4255 4412 1255,1255,2017.0,£
+6,69.0,1.0,Debtors,Debtors 8 108533 174141 108533 174141,108533,2018.0,£
+7,69.0,0.0,Debtors,Debtors 8 108533 174141 108533 174141,174141,2017.0,£
+8,86.0,1.0,Cash at bank and in hand,Cash at bank and in hand 150286 82214 150286 82214,150286,2018.0,£
+9,87.0,0.0,Cash at bank and in hand,Cash at bank and in hand 150286 82214 150286 82214,82214,2017.0,£
+10,96.0,1.0,Creditors amounts falling due within one year,one year 9 87558 89000 87559 89001,87559,2018.0,£
+11,95.0,0.0,Creditors amounts falling due within one year,one year 9 87558 89000 87559 89001,89001,2017.0,£
+12,72.0,1.0,Net Current Assets,Net Current Assets 172673 168610 172672 168609,172672,2018.0,£
+13,77.0,0.0,Net Current Assets,Net Current Assets 172673 168610 172672 168609,168609,2017.0,£
+14,95.0,1.0,Creditors amounts falling due after more than one year,more than one year 10  3631  3631,3631,2018.0,£
+15,91.0,0.0,Creditors amounts falling due after more than one year,more than one year 10  3631  3631,3631,2017.0,£
+16,82.0,1.0,Net Assets,Net Assets 11 382167 382621 382167 382624,382167,2018.0,£
+17,93.0,0.0,Net Assets,Net Assets 11 382167 382621 382167 382624,382624,2017.0,£
+18,96.0,1.0,Restricted funds,Restricted funds 813 13065 813 13065,813,2018.0,£
+19,96.0,0.0,Restricted funds,Restricted funds 813 13065 813 13065,13065,2017.0,£
+20,85.0,1.0,General funds  Liquid funds,General funds  Liquid funds 173486 151914 173486 151914,173486,2018.0,£
+21,81.0,0.0,General funds  Liquid funds,General funds  Liquid funds 173486 151914 173486 151914,151914,2017.0,£
+22,85.0,1.0,Non liquid funds,Non liquid funds 209494 217642 209494 217642,209494,2018.0,£
+23,88.0,0.0,Non liquid funds,Non liquid funds 209494 217642 209494 217642,217642,2017.0,£

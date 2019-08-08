@@ -1,0 +1,37 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible fixed assets,Tangible fixed assets 12 280723 360723 280723 360723,280723,2018.0,£
+1,96.0,0.0,Tangible fixed assets,Tangible fixed assets 12 280723 360723 280723 360723,360723,2017.0,£
+2,95.0,1.0,Investments,Investments 100 100,100,2018.0,£
+3,96.0,0.0,Investments,Investments 100 100,100,2017.0,£
+4,96.0,1.0,Investment in Joint venture,Investment in Joint venture 13 6 6 6 6,6,2018.0,£
+5,95.0,0.0,Investment in Joint venture,Investment in Joint venture 13 6 6 6 6,6,2017.0,£
+6,96.0,1.0,Stocks,Stocks 14 78939 72520 78939 72520,78939,2018.0,£
+7,95.0,0.0,Stocks,Stocks 14 78939 72520 78939 72520,72520,2017.0,£
+8,96.0,1.0,Debtors,Debtors 45 442129 617132 461259 630044,461259,2018.0,£
+9,95.0,0.0,Debtors,Debtors 45 442129 617132 461259 630044,630044,2017.0,£
+10,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 224647 49449 198676 19358,198676,2018.0,£
+11,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 224647 49449 198676 19358,19358,2017.0,£
+12,95.0,1.0,Amounts falling due within one year,one year 16 324777 393845 318036 385862,318036,2018.0,£
+13,96.0,0.0,Amounts falling due within one year,one year 16 324777 393845 318036 385862,385862,2017.0,£
+14,95.0,1.0,Net Current Assets,Net Current Assets 420938 345256 420838 336060,420838,2018.0,£
+15,96.0,0.0,Net Current Assets,Net Current Assets 420938 345256 420838 336060,336060,2017.0,£
+16,96.0,1.0,Net Assets .,Net Assets . 701667 705985 701667 696889,701667,2018.0,£
+17,96.0,0.0,Net Assets .,Net Assets . 701667 705985 701667 696889,696889,2017.0,£
+18,96.0,1.0,General funds, General funds 18 336667 321613 336649 312499,336649,2018.0,£
+19,96.0,0.0,General funds, General funds 18 336667 321613 336649 312499,312499,2017.0,£
+20,93.0,1.0,Designated funds, Designated funds  18 46437 40293 46455 40311,46455,2018.0,£
+21,96.0,0.0,Designated funds, Designated funds  18 46437 40293 46455 40311,40311,2017.0,£
+22,96.0,1.0,Endownment fund, Endownment fund 19 180000 182000 180000 182000,180000,2018.0,£
+23,96.0,0.0,Endownment fund, Endownment fund 19 180000 182000 180000 182000,182000,2017.0,£
+24,95.0,1.0,Other Restricted funds, Other Restricted funds 19 138563 162079 138563 162079,138563,2018.0,£
+25,96.0,0.0,Other Restricted funds, Other Restricted funds 19 138563 162079 138563 162079,162079,2017.0,£
+0,86.0,1.0,629100 594923 47671 89994 Other trading activities Shop income 629100 Other income 47671 income from investments Gift Aid receivable from subsidiaries,52761 25137 income from investments Gift Aid receivable from subsidiaries 9 52761,9,2018.0,£
+1,94.0,0.0,629100 594923 47671 89994 Other trading activities Shop income 629100 Other income 47671 income from investments Gift Aid receivable from subsidiaries,52761 25137 income from investments Gift Aid receivable from subsidiaries 9 52761,52761,2017.0,£
+2,95.0,1.0,Total income,3910829 3704099 Total income 2 3282485,2,2018.0,£
+3,96.0,0.0,Total income,3910829 3704099 Total income 2 3282485,3282485,2017.0,£
+4,96.0,1.0,Other expenditure,53951  Other expenditure 4 53951,4,2018.0,£
+5,96.0,0.0,Other expenditure,53951  Other expenditure 4 53951,53951,2017.0,£
+6,94.0,1.0,Net Incomeexpenditure,4778 295892 Net Incomeexpenditure 47 44681,47,2018.0,£
+7,96.0,0.0,Net Incomeexpenditure,4778 295892 Net Incomeexpenditure 47 44681,44681,2017.0,£
+8,96.0,1.0,Net movement in funds,Net movement in funds 30294 23516 2000 4778 295892,4778,2018.0,£
+9,96.0,0.0,Net movement in funds,Net movement in funds 30294 23516 2000 4778 295892,295892,2017.0,£

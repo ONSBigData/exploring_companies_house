@@ -1,0 +1,11 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Stock,Stock 5 5795,5,2018.0,£
+1,96.0,0.0,Stock,Stock 5 5795,5795,2017.0,£
+2,96.0,1.0,Creditors,Creditors  6 13187 1796,13187,2018.0,£
+3,96.0,0.0,Creditors,Creditors  6 13187 1796,1796,2017.0,£
+4,70.0,1.0,NET CURRENT LIABILITIES,NET CURRENT LIABILITIES 6752 1308,6752,2018.0,£
+5,96.0,0.0,NET CURRENT LIABILITIES,NET CURRENT LIABILITIES 6752 1308,1308,2017.0,£
+6,95.0,1.0,Called up share capital,Called up share capital 7 100 100,100,2018.0,£
+7,96.0,0.0,Called up share capital,Called up share capital 7 100 100,100,2017.0,£
+8,81.0,1.0,Profit and loss account,Profit and loss account 6852 1408,6852,2018.0,£
+9,96.0,0.0,Profit and loss account,Profit and loss account 6852 1408,1408,2017.0,£

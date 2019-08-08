@@ -1,0 +1,69 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 15 242139 250708,242139,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 15 242139 250708,250708,2017.0,£
+2,96.0,1.0,Stocks,Stocks 16407 6258,16407,2018.0,£
+3,94.0,0.0,Stocks,Stocks 16407 6258,6258,2017.0,£
+4,95.0,1.0,Debtors,Debtors 16 30858 28160,30858,2018.0,£
+5,96.0,0.0,Debtors,Debtors 16 30858 28160,28160,2017.0,£
+6,75.0,1.0,Cash at bank and in hand,Cash at bank and in hand 25 353156 320941,353156,2018.0,£
+7,92.0,0.0,Cash at bank and in hand,Cash at bank and in hand 25 353156 320941,320941,2017.0,£
+8,96.0,1.0,Creditors amounts falling due within one year,due within one year 17 67931 70533,67931,2018.0,£
+9,96.0,0.0,Creditors amounts falling due within one year,due within one year 17 67931 70533,70533,2017.0,£
+10,94.0,1.0,Net current assets,Net current assets 332490 284826,332490,2018.0,£
+11,96.0,0.0,Net current assets,Net current assets 332490 284826,284826,2017.0,£
+12,96.0,1.0,Net assets,Net assets 574629 535534,574629,2018.0,£
+13,96.0,0.0,Net assets,Net assets 574629 535534,535534,2017.0,£
+14,95.0,1.0,General funds,General funds 20 246042 207896,246042,2018.0,£
+15,96.0,0.0,General funds,General funds 20 246042 207896,207896,2017.0,£
+16,95.0,1.0,Designated funds,Designated funds 21 315000 300000,315000,2018.0,£
+17,96.0,0.0,Designated funds,Designated funds 21 315000 300000,300000,2017.0,£
+18,95.0,1.0,Restricted funds,Restricted funds 22 13587 27638,13587,2018.0,£
+19,94.0,0.0,Restricted funds,Restricted funds 22 13587 27638,27638,2017.0,£
+20,95.0,1.0,Total charity funds,Total charity funds 574629 535534,574629,2018.0,£
+21,96.0,0.0,Total charity funds,Total charity funds 574629 535534,535534,2017.0,£
+0,94.0,1.0,Donations and legacies,Donations and legacies 476002 119744 595746,119744,2018.0,£
+1,96.0,0.0,Donations and legacies,Donations and legacies 476002 119744 595746,595746,2017.0,£
+2,96.0,1.0,Charitable activities,Charitable activities 133302 133302,133302,2018.0,£
+3,94.0,0.0,Charitable activities,Charitable activities 133302 133302,133302,2017.0,£
+4,96.0,1.0,Investment income,Investment income 565 565,565,2018.0,£
+5,93.0,0.0,Investment income,Investment income 565 565,565,2017.0,£
+6,96.0,1.0,Total income,Total income 609869 119744 729613,119744,2018.0,£
+7,94.0,0.0,Total income,Total income 609869 119744 729613,729613,2017.0,£
+8,96.0,1.0,Raising funds,Raising funds 26062 26062,26062,2018.0,£
+9,96.0,0.0,Raising funds,Raising funds 26062 26062,26062,2017.0,£
+10,96.0,1.0,Charitable activities,Charitable activities 540522 5000 108356 653878,108356,2018.0,£
+11,96.0,0.0,Charitable activities,Charitable activities 540522 5000 108356 653878,653878,2017.0,£
+12,96.0,1.0,Total expenditure,Total expenditure 566584 5000 108356 679940,108356,2018.0,£
+13,96.0,0.0,Total expenditure,Total expenditure 566584 5000 108356 679940,679940,2017.0,£
+14,95.0,1.0,Net incomeexpenditure,Net incomeexpenditure 43285 5000 11388 49673,11388,2018.0,£
+15,96.0,0.0,Net incomeexpenditure,Net incomeexpenditure 43285 5000 11388 49673,49673,2017.0,£
+16,96.0,1.0,Transfers between funds,Transfers between funds 30000 30000,30000,2018.0,£
+17,96.0,0.0,Transfers between funds,Transfers between funds 30000 30000,30000,2017.0,£
+18,94.0,1.0,Total funds brought forward,Total funds brought forward 194611 275000 16250 485861,16250,2018.0,£
+19,96.0,0.0,Total funds brought forward,Total funds brought forward 194611 275000 16250 485861,485861,2017.0,£
+20,94.0,1.0,Total funds carried forward,Total funds carried forward 207896 300000 27638 535534,27638,2018.0,£
+21,96.0,0.0,Total funds carried forward,Total funds carried forward 207896 300000 27638 535534,535534,2017.0,£
+0,95.0,1.0,General Designated Restricted,General Designated Restricted 2018 2017,2018,2018.0,£
+1,96.0,0.0,General Designated Restricted,General Designated Restricted 2018 2017,2017,2017.0,£
+2,96.0,1.0,Donations and legacies,143250 632533 595746 Donations and legacies 2 489283,2,2018.0,£
+3,96.0,0.0,Donations and legacies,143250 632533 595746 Donations and legacies 2 489283,489283,2017.0,£
+4,96.0,1.0,Charitable activities,189557 133302 Charitable activities 3 189557,3,2018.0,£
+5,97.0,0.0,Charitable activities,189557 133302 Charitable activities 3 189557,189557,2017.0,£
+6,96.0,1.0,Investment income,101 565 Investment income 5 101,5,2018.0,£
+7,97.0,0.0,Investment income,101 565 Investment income 5 101,101,2017.0,£
+8,90.0,1.0,Raising funds,20539 26062 Raising funds 6 20539,6,2018.0,£
+9,96.0,0.0,Raising funds,20539 26062 Raising funds 6 20539,20539,2017.0,£
+10,96.0,1.0,Charitable activities,157301 762557 653878 Charitable activities 7 600256,7,2018.0,£
+11,95.0,0.0,Charitable activities,157301 762557 653878 Charitable activities 7 600256,600256,2017.0,£
+12,96.0,1.0,157301 783096 679940 Total expenditure 620795 on investments,on investments 58146 14051,58146,2018.0,£
+13,95.0,0.0,157301 783096 679940 Total expenditure 620795 on investments,on investments 58146 14051,14051,2017.0,£
+14,96.0,1.0,Net incomeexpenditure before transfers between funds,before transfers between funds 58146 14051,58146,2018.0,£
+15,88.0,0.0,Net incomeexpenditure before transfers between funds,before transfers between funds 58146 14051,14051,2017.0,£
+16,96.0,1.0,Transfers between funds,Transfers between funds 23 20000,23,2018.0,£
+17,96.0,0.0,Transfers between funds,Transfers between funds 23 20000,20000,2017.0,£
+18,96.0,1.0,Net movement in funds,Net movement in funds 38146 14051,38146,2018.0,£
+19,95.0,0.0,Net movement in funds,Net movement in funds 38146 14051,14051,2017.0,£
+20,95.0,1.0,Total funds brought forward,Total funds brought forward 207896 300000 27638 535534 485861,535534,2018.0,£
+21,94.0,0.0,Total funds brought forward,Total funds brought forward 207896 300000 27638 535534 485861,485861,2017.0,£
+22,96.0,1.0,Total funds carried forward,Total funds carried forward 246042 315000 13587 574629 535534,574629,2018.0,£
+23,96.0,0.0,Total funds carried forward,Total funds carried forward 246042 315000 13587 574629 535534,535534,2017.0,£

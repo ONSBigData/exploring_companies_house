@@ -1,0 +1,5 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,None None Debtors,None None Debtors 3 2 2,2,2006.0,£
+1,97.0,0.0,None None Debtors,None None Debtors 3 2 2,2,2005.0,£
+2,96.0,1.0,LIABILITIES,LIABILITIES 2 2,2,2006.0,£
+3,96.0,0.0,LIABILITIES,LIABILITIES 2 2,2,2005.0,£

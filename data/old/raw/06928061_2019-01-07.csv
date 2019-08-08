@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Fixed assets,Fixed assets 4300 1180,4300,2018.0,£
+1,95.0,0.0,Fixed assets,Fixed assets 4300 1180,1180,2017.0,£
+2,96.0,1.0,Current assets,Current assets 472699 431296,472699,2018.0,£
+3,96.0,0.0,Current assets,Current assets 472699 431296,431296,2017.0,£
+4,80.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 127158 161484,127158,2018.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 127158 161484,161484,2017.0,£
+6,96.0,1.0,Net current assets,Net current assets 345541 269812,345541,2018.0,£
+7,95.0,0.0,Net current assets,Net current assets 345541 269812,269812,2017.0,£
+8,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 349841 270992,349841,2018.0,£
+9,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 349841 270992,270992,2017.0,£
+10,96.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 71590 80586,71590,2018.0,£
+11,96.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 71590 80586,80586,2017.0,£
+12,96.0,1.0,Accruals and deferred income,Accruals and deferred income 800 800,800,2018.0,£
+13,95.0,0.0,Accruals and deferred income,Accruals and deferred income 800 800,800,2017.0,£
+14,96.0,1.0,Net assets,Net assets 277451 189606,277451,2018.0,£
+15,95.0,0.0,Net assets,Net assets 277451 189606,189606,2017.0,£
+16,96.0,1.0,Capital and reserves,Capital and reserves 277451 189606,277451,2018.0,£
+17,96.0,0.0,Capital and reserves,Capital and reserves 277451 189606,189606,2017.0,£

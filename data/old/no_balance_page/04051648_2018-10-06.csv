@@ -1,0 +1,121 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,UK corporation tax on profits for the year,UK corporation tax on profits for the year 26811 25329,26811,2017.0,£°000
+1,92.0,0.0,UK corporation tax on profits for the year,UK corporation tax on profits for the year 26811 25329,25329,2016.0,£°000
+2,96.0,1.0,Adjustment in respect of prior year,Adjustment in respect of prior year 348 3441,348,2017.0,£°000
+3,96.0,0.0,Adjustment in respect of prior year,Adjustment in respect of prior year 348 3441,3441,2016.0,£°000
+4,96.0,1.0,Total current tax,Total current tax 26463 21888,26463,2017.0,£°000
+5,96.0,0.0,Total current tax,Total current tax 26463 21888,21888,2016.0,£°000
+6,95.0,1.0,Origination and reversal of temporary differences,Origination and reversal of temporary differences 2566 1207,2566,2017.0,£°000
+7,96.0,0.0,Origination and reversal of temporary differences,Origination and reversal of temporary differences 2566 1207,1207,2016.0,£°000
+8,96.0,1.0,Effect of change in tax rates,Effect of change in tax rates 36 216,36,2017.0,£°000
+9,95.0,0.0,Effect of change in tax rates,Effect of change in tax rates 36 216,216,2016.0,£°000
+10,92.0,1.0,Adjustment in respect of prior year,Adjustment in respect of prior year 2650 290,2650,2017.0,£°000
+11,96.0,0.0,Adjustment in respect of prior year,Adjustment in respect of prior year 2650 290,290,2016.0,£°000
+12,96.0,1.0,Total deferred tax charge note,Total deferred tax charge note 10 5252 1133,5252,2017.0,£°000
+13,95.0,0.0,Total deferred tax charge note,Total deferred tax charge note 10 5252 1133,1133,2016.0,£°000
+14,96.0,1.0,Tax on profit on ordinary activities,Tax on profit on ordinary activities 31715 23021,31715,2017.0,£°000
+15,95.0,0.0,Tax on profit on ordinary activities,Tax on profit on ordinary activities 31715 23021,23021,2016.0,£°000
+16,96.0,1.0,Origination and reversal of temporary differences,Origination and reversal of temporary differences 1082 6388,1082,2017.0,£°000
+17,95.0,0.0,Origination and reversal of temporary differences,Origination and reversal of temporary differences 1082 6388,6388,2016.0,£°000
+18,96.0,1.0,Profit before taxation,Profit before taxation 152477 130780,152477,2017.0,£°000
+19,95.0,0.0,Profit before taxation,Profit before taxation 152477 130780,130780,2016.0,£°000
+20,86.0,1.0,Income tax at UK corporation tax rate of .   .,Income tax at UK corporation tax rate of 19.25 2016 20 . 29352 26156,29352,2017.0,£°000
+21,96.0,0.0,Income tax at UK corporation tax rate of .   .,Income tax at UK corporation tax rate of 19.25 2016 20 . 29352 26156,26156,2016.0,£°000
+22,96.0,1.0,Expenses not deductible for tax,Expenses not deductible for tax 25 380,25,2017.0,£°000
+23,96.0,0.0,Expenses not deductible for tax,Expenses not deductible for tax 25 380,380,2016.0,£°000
+24,96.0,1.0,Remeasurement of deferred tax due to change in UK tax rate,Remeasurement of deferred tax due to change in UK tax rate 36 216,36,2017.0,£°000
+25,96.0,0.0,Remeasurement of deferred tax due to change in UK tax rate,Remeasurement of deferred tax due to change in UK tax rate 36 216,216,2016.0,£°000
+26,95.0,1.0,Adjustment in respect of prior year,Adjustment in respect of prior year 2302 3731,2302,2017.0,£°000
+27,95.0,0.0,Adjustment in respect of prior year,Adjustment in respect of prior year 2302 3731,3731,2016.0,£°000
+28,96.0,1.0,Total income tax expense,Total income tax expense 31715 23021,31715,2017.0,£°000
+29,95.0,0.0,Total income tax expense,Total income tax expense 31715 23021,23021,2016.0,£°000
+0,69.0,1.0,Note,Note 000 7000,000,2017.0,£°000
+1,7.0,0.0,Note,Note 000 7000,7000,2016.0,£°000
+2,92.0,1.0,Goodwill,Goodwill 11 128474 128474,128474,2017.0,£°000
+3,95.0,0.0,Goodwill,Goodwill 11 128474 128474,128474,2016.0,£°000
+4,96.0,1.0,Intangible assets,Intangible assets 12 266146 265910,266146,2017.0,£°000
+5,93.0,0.0,Intangible assets,Intangible assets 12 266146 265910,265910,2016.0,£°000
+6,95.0,1.0,Property plant and equipment,Property plant and equipment 13 142825 127369,142825,2017.0,£°000
+7,96.0,0.0,Property plant and equipment,Property plant and equipment 13 142825 127369,127369,2016.0,£°000
+8,94.0,1.0,Investment properties,Investment properties 14 2166 2204,2166,2017.0,£°000
+9,96.0,0.0,Investment properties,Investment properties 14 2166 2204,2204,2016.0,£°000
+10,96.0,1.0,Deferred income tax assets,Deferred income tax assets 10 11138 17472,11138,2017.0,£°000
+11,96.0,0.0,Deferred income tax assets,Deferred income tax assets 10 11138 17472,17472,2016.0,£°000
+12,96.0,1.0,Other investments,Other investments 15 8 8,8,2017.0,£°000
+13,96.0,0.0,Other investments,Other investments 15 8 8,8,2016.0,£°000
+14,95.0,1.0,Inventories,Inventories 16 332476 295399,332476,2017.0,£°000
+15,95.0,0.0,Inventories,Inventories 16 332476 295399,295399,2016.0,£°000
+16,96.0,1.0,Trade and other receivables,Trade and other receivables 17 203457 190234,203457,2017.0,£°000
+17,95.0,0.0,Trade and other receivables,Trade and other receivables 17 203457 190234,190234,2016.0,£°000
+18,94.0,1.0,Cash and cash equivalents,Cash and cash equivalents 181195 201691,181195,2017.0,£°000
+19,96.0,0.0,Cash and cash equivalents,Cash and cash equivalents 181195 201691,201691,2016.0,£°000
+20,96.0,1.0,Total assets,Total assets 1267885 1228761,1267885,2017.0,£°000
+21,92.0,0.0,Total assets,Total assets 1267885 1228761,1228761,2016.0,£°000
+22,96.0,1.0,Trade and other payables,Trade and other payables 18 523234 515521,523234,2017.0,£°000
+23,96.0,0.0,Trade and other payables,Trade and other payables 18 523234 515521,515521,2016.0,£°000
+24,91.0,1.0,Current income tax liabilities,Current income tax liabilities 36418 47288,36418,2017.0,£°000
+25,96.0,0.0,Current income tax liabilities,Current income tax liabilities 36418 47288,47288,2016.0,£°000
+26,96.0,1.0,Borrowings,Borrowings 19 200000 200000,200000,2017.0,£°000
+27,96.0,0.0,Borrowings,Borrowings 19 200000 200000,200000,2016.0,£°000
+28,95.0,1.0,Retirement benefit obligation,Retirement benefit obligation 21 56117 72175,56117,2017.0,£°000
+29,96.0,0.0,Retirement benefit obligation,Retirement benefit obligation 21 56117 72175,72175,2016.0,£°000
+30,96.0,1.0,Provisions for liabilities,Provisions for liabilities 20 5639 12803,5639,2017.0,£°000
+31,96.0,0.0,Provisions for liabilities,Provisions for liabilities 20 5639 12803,12803,2016.0,£°000
+32,96.0,1.0,Total liabilities,Total liabilities 821408 847787,821408,2017.0,£°000
+33,96.0,0.0,Total liabilities,Total liabilities 821408 847787,847787,2016.0,£°000
+34,96.0,1.0,Net assets,Net assets 446477 380974,446477,2017.0,£°000
+35,96.0,0.0,Net assets,Net assets 446477 380974,380974,2016.0,£°000
+36,96.0,1.0,Called up share capital,Called up share capital 23 54000 54000,54000,2017.0,£°000
+37,96.0,0.0,Called up share capital,Called up share capital 23 54000 54000,54000,2016.0,£°000
+38,95.0,1.0,Share premium account,Share premium account 257571 257571,257571,2017.0,£°000
+39,96.0,0.0,Share premium account,Share premium account 257571 257571,257571,2016.0,£°000
+40,96.0,1.0,Exchange reserve,Exchange reserve 1496  1026,1496,2017.0,£°000
+41,0.0,0.0,Exchange reserve,Exchange reserve 1496  1026,1026,2016.0,£°000
+42,95.0,1.0,Retained earnings,Retained earnings 133410 68377,133410,2017.0,£°000
+43,96.0,0.0,Retained earnings,Retained earnings 133410 68377,68377,2016.0,£°000
+44,95.0,1.0,Total shareholders funds,Total shareholders funds 446477 380974,446477,2017.0,£°000
+45,96.0,0.0,Total shareholders funds,Total shareholders funds 446477 380974,380974,2016.0,£°000
+0,43.0,1.0,Note, Note 7000 000,7000,2017.0,£°000
+1,72.0,0.0,Note, Note 7000 000,000,2016.0,£°000
+2,94.0,1.0,Property plant and equipment,Property plant and equipment 13 532 741,532,2017.0,£°000
+3,93.0,0.0,Property plant and equipment,Property plant and equipment 13 532 741,741,2016.0,£°000
+4,95.0,1.0,Investments,Investments 15 174358 249358,174358,2017.0,£°000
+5,96.0,0.0,Investments,Investments 15 174358 249358,249358,2016.0,£°000
+6,96.0,1.0,Deferred income tax assets,Deferred income tax assets 10 163 178,163,2017.0,£°000
+7,96.0,0.0,Deferred income tax assets,Deferred income tax assets 10 163 178,178,2016.0,£°000
+8,94.0,1.0,Trade and other receivables,Trade and other receivables 17 136625 132404,136625,2017.0,£°000
+9,96.0,0.0,Trade and other receivables,Trade and other receivables 17 136625 132404,132404,2016.0,£°000
+10,95.0,1.0,Cash and cash equivalents,Cash and cash equivalents 2274 5792,2274,2017.0,£°000
+11,95.0,0.0,Cash and cash equivalents,Cash and cash equivalents 2274 5792,5792,2016.0,£°000
+12,96.0,1.0,Total assets,Total assets 313952 388473,313952,2017.0,£°000
+13,95.0,0.0,Total assets,Total assets 313952 388473,388473,2016.0,£°000
+14,95.0,1.0,Trade and other payables,Trade and other payables 18 389 75337,389,2017.0,£°000
+15,96.0,0.0,Trade and other payables,Trade and other payables 18 389 75337,75337,2016.0,£°000
+16,96.0,1.0,Net assets,Net assets 313114 312585,313114,2017.0,£°000
+17,96.0,0.0,Net assets,Net assets 313114 312585,312585,2016.0,£°000
+18,95.0,1.0,Called up share capital,Called up share capital 23 54000 54000,54000,2017.0,£°000
+19,94.0,0.0,Called up share capital,Called up share capital 23 54000 54000,54000,2016.0,£°000
+20,95.0,1.0,Share premium account,Share premium account 257571 257571,257571,2017.0,£°000
+21,95.0,0.0,Share premium account,Share premium account 257571 257571,257571,2016.0,£°000
+22,96.0,1.0,Retained earnings,Retained earnings 1543 1014,1543,2017.0,£°000
+23,96.0,0.0,Retained earnings,Retained earnings 1543 1014,1014,2016.0,£°000
+24,96.0,1.0,Total shareholders funds,Total shareholders funds 313114 312585,313114,2017.0,£°000
+25,96.0,0.0,Total shareholders funds,Total shareholders funds 313114 312585,312585,2016.0,£°000
+0,96.0,1.0,United Kingdom,United Kingdom  1902077 1830593,1902077,2017.0,£°000
+1,96.0,0.0,United Kingdom,United Kingdom  1902077 1830593,1830593,2016.0,£°000
+2,96.0,1.0,Rest of the world,Rest of the world 12851 12047,12851,2017.0,£°000
+3,96.0,0.0,Rest of the world,Rest of the world 12851 12047,12047,2016.0,£°000
+0,95.0,1.0,At  January,At 1 January 2017 12803,2017,2017.0,£°000
+1,96.0,0.0,At  January,At 1 January 2017 12803,12803,2016.0,£°000
+2,96.0,1.0,At  December,At 31 December 2017 5639,2017,2017.0,£°000
+3,96.0,0.0,At  December,At 31 December 2017 5639,5639,2016.0,£°000
+4,96.0,1.0,Present value of funded obligation,Present value of funded obligation 237111 234401,237111,2017.0,£°000
+5,95.0,0.0,Present value of funded obligation,Present value of funded obligation 237111 234401,234401,2016.0,£°000
+6,96.0,1.0,Fair value of plan assets,Fair value of plan assets 180994 162226,180994,2017.0,£°000
+7,95.0,0.0,Fair value of plan assets,Fair value of plan assets 180994 162226,162226,2016.0,£°000
+8,96.0,1.0,Retirement benefit obligation,Retirement benefit obligation 56117 72175,56117,2017.0,£°000
+9,96.0,0.0,Retirement benefit obligation,Retirement benefit obligation 56117 72175,72175,2016.0,£°000
+10,96.0,1.0,Deferred income tax asset,Deferred income tax asset 10088 12737,10088,2017.0,£°000
+11,95.0,0.0,Deferred income tax asset,Deferred income tax asset 10088 12737,12737,2016.0,£°000
+12,95.0,1.0,Net retirement benefit obligation,Net retirement benefit obligation 46029 59438,46029,2017.0,£°000
+13,96.0,0.0,Net retirement benefit obligation,Net retirement benefit obligation 46029 59438,59438,2016.0,£°000

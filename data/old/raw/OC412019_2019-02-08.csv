@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2018 2017,2018,2018.0,£
+1,96.0,0.0,Note,Note 2018 2017,2017,2017.0,£
+2,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 10000 10000,10000,2018.0,£
+3,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 10000 10000,10000,2017.0,£
+4,71.0,1.0,Net current assets,Net current assets 10000  10000,10000,2018.0,£
+5,59.0,0.0,Net current assets,Net current assets 10000  10000,10000,2017.0,£
+6,92.0,1.0,Total assets less current liabilities,Total assets less current liabilities 10000 10000,10000,2018.0,£
+7,94.0,0.0,Total assets less current liabilities,Total assets less current liabilities 10000 10000,10000,2017.0,£
+8,96.0,1.0,Net assets attributable to members,Net assets attributable to members 10000 10000,10000,2018.0,£
+9,96.0,0.0,Net assets attributable to members,Net assets attributable to members 10000 10000,10000,2017.0,£
+10,95.0,1.0,Members capital,Members capital 10000 10000,10000,2018.0,£
+11,95.0,0.0,Members capital,Members capital 10000 10000,10000,2017.0,£
+12,96.0,1.0,Total Members interests,Total Members interests 10000 10000,10000,2018.0,£
+13,96.0,0.0,Total Members interests,Total Members interests 10000 10000,10000,2017.0,£

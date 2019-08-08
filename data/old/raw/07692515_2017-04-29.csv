@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors,Debtors 890358 555518,890358,2016.0,£
+1,96.0,0.0,Debtors,Debtors 890358 555518,555518,2015.0,£
+2,95.0,1.0,Cash at bank and In hand,Cash at bank and In hand 15058 3027,15058,2016.0,£
+3,95.0,0.0,Cash at bank and In hand,Cash at bank and In hand 15058 3027,3027,2015.0,£
+4,95.0,1.0,Amounts falling due within one year,Amounts falling due within one year 903982 557382,903982,2016.0,£
+5,93.0,0.0,Amounts falling due within one year,Amounts falling due within one year 903982 557382,557382,2015.0,£
+6,95.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 1434 1163,1434,2016.0,£
+7,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 1434 1163,1163,2015.0,£
+8,94.0,1.0,LIABILITIES,LIABILITIES 1434 1163,1434,2016.0,£
+9,96.0,0.0,LIABILITIES,LIABILITIES 1434 1163,1163,2015.0,£
+10,95.0,1.0,Called up share capital,Called up share capital 2 300 300,300,2016.0,£
+11,96.0,0.0,Called up share capital,Called up share capital 2 300 300,300,2015.0,£
+12,95.0,1.0,Profit and loss account,Profit and loss account 1134 863,1134,2016.0,£
+13,96.0,0.0,Profit and loss account,Profit and loss account 1134 863,863,2015.0,£
+14,96.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 1434 1163,1434,2016.0,£
+15,94.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 1434 1163,1163,2015.0,£

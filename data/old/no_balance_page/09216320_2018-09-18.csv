@@ -1,0 +1,13 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Notes,Notes 2017 2016,2017,2006.0,£
+1,83.0,0.0,Notes,Notes 2017 2016,2016,2005.0,£
+2,37.0,1.0,Called up share capital not paid,Called up share capital not paid 100 100,100,2006.0,£
+3,72.0,0.0,Called up share capital not paid,Called up share capital not paid 100 100,100,2005.0,£
+4,33.0,1.0,Current Assets,Current Assets 28293 110,28293,2006.0,£
+5,46.0,0.0,Current Assets,Current Assets 28293 110,110,2005.0,£
+6,50.0,1.0,None None Net current assets liabilities,None None Net current assets liabilities 20708 110,20708,2006.0,£
+7,95.0,0.0,None None Net current assets liabilities,None None Net current assets liabilities 20708 110,110,2005.0,£
+8,5.0,1.0,None None Total assets less current liabilities,None None Total assets less current liabilities 26548 210,26548,2006.0,£
+9,96.0,0.0,None None Total assets less current liabilities,None None Total assets less current liabilities 26548 210,210,2005.0,£
+10,94.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 301 301,301,2006.0,£
+11,91.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 301 301,301,2005.0,£

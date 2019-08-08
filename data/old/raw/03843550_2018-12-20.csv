@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Intangible assets,Intangible assets 3 65324 109471,65324,2018.0,£
+1,95.0,0.0,Intangible assets,Intangible assets 3 65324 109471,109471,2017.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 4 1093 2166,1093,2018.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 4 1093 2166,2166,2017.0,£
+4,96.0,1.0,Debtors,Debtors 5 241200 455705,241200,2018.0,£
+5,96.0,0.0,Debtors,Debtors 5 241200 455705,455705,2017.0,£
+6,95.0,1.0,Creditors amounts falling due within one year,one year 6 129004  301640,129004,2018.0,£
+7,40.0,0.0,Creditors amounts falling due within one year,one year 6 129004  301640,301640,2017.0,£
+8,96.0,1.0,Net current assets,Net current assets 179177 386259,179177,2018.0,£
+9,96.0,0.0,Net current assets,Net current assets 179177 386259,386259,2017.0,£
+10,67.0,1.0,Total assets less current liabilities,Total assets less current liabilities 245594 497896,245594,2018.0,£
+11,93.0,0.0,Total assets less current liabilities,Total assets less current liabilities 245594 497896,497896,2017.0,£
+12,95.0,1.0,Called up share capital,Called up share capital 7 22237 22237,22237,2018.0,£
+13,94.0,0.0,Called up share capital,Called up share capital 7 22237 22237,22237,2017.0,£
+14,95.0,1.0,Capita redemption reserve,Capita redemption reserve 276811 276811,276811,2018.0,£
+15,96.0,0.0,Capita redemption reserve,Capita redemption reserve 276811 276811,276811,2017.0,£
+16,91.0,1.0,Profit and loss reserves,Profit and loss reserves 53454 198848,53454,2018.0,£
+17,96.0,0.0,Profit and loss reserves,Profit and loss reserves 53454 198848,198848,2017.0,£
+18,92.0,1.0,Total equity,Total equity 245594 497896,245594,2018.0,£
+19,93.0,0.0,Total equity,Total equity 245594 497896,497896,2017.0,£

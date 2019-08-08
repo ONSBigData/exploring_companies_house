@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Tangible assets,Tangible assets 4 5949 8498,5949,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 4 5949 8498,8498,2016.0,£
+2,95.0,1.0,Debtors,Debtors 5 74152 76187,74152,2017.0,£
+3,87.0,0.0,Debtors,Debtors 5 74152 76187,76187,2016.0,£
+4,88.0,1.0,Creditors amounts falling due within one year,within one year 6 89211 115029,89211,2017.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,within one year 6 89211 115029,115029,2016.0,£
+6,95.0,1.0,Net current liabilities,Net current liabilities 15059 12839,15059,2017.0,£
+7,96.0,0.0,Net current liabilities,Net current liabilities 15059 12839,12839,2016.0,£
+8,95.0,1.0,Total assets Jess current liabilities,Total assets Jess current liabilities 9110 4341,9110,2017.0,£
+9,96.0,0.0,Total assets Jess current liabilities,Total assets Jess current liabilities 9110 4341,4341,2016.0,£
+10,96.0,1.0,Net liabilities,Net liabilities  9110 4341,9110,2017.0,£
+11,95.0,0.0,Net liabilities,Net liabilities  9110 4341,4341,2016.0,£
+12,95.0,1.0,Called up share capital,Called up share capital 100 100,100,2017.0,£
+13,96.0,0.0,Called up share capital,Called up share capital 100 100,100,2016.0,£
+14,96.0,1.0,Profit and loss account,Profit and loss account 9210 4441,9210,2017.0,£
+15,96.0,0.0,Profit and loss account,Profit and loss account 9210 4441,4441,2016.0,£
+16,96.0,1.0,Shareholders deficit,Shareholders deficit 9110 4341,9110,2017.0,£
+17,94.0,0.0,Shareholders deficit,Shareholders deficit 9110 4341,4341,2016.0,£

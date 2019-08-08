@@ -1,0 +1,71 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Intangible assets,Intangible assets 13 7905 7905,7905,2017.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 13 7905 7905,7905,2016.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 14 1172412 1329243,1172412,2017.0,£
+3,94.0,0.0,Tangible assets,Tangible assets 14 1172412 1329243,1329243,2016.0,£
+4,95.0,1.0,Investments,Investments 15 121500 121500,121500,2017.0,£
+5,96.0,0.0,Investments,Investments 15 121500 121500,121500,2016.0,£
+6,96.0,1.0,Stocks,Stocks 16 1965018 1495640,1965018,2017.0,£
+7,95.0,0.0,Stocks,Stocks 16 1965018 1495640,1495640,2016.0,£
+8,96.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 4786257 3904290,4786257,2017.0,£
+9,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 4786257 3904290,3904290,2016.0,£
+10,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 18 9611403 7822688,9611403,2017.0,£
+11,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 18 9611403 7822688,7822688,2016.0,£
+12,95.0,1.0,Creditors amounts falling due within one year,year 19 5136879 3987940,5136879,2017.0,£
+13,96.0,0.0,Creditors amounts falling due within one year,year 19 5136879 3987940,3987940,2016.0,£
+14,96.0,1.0,Net current assets,Net current assets 11225799 9234678,11225799,2017.0,£
+15,96.0,0.0,Net current assets,Net current assets 11225799 9234678,9234678,2016.0,£
+16,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 12527616 10693326,12527616,2017.0,£
+17,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 12527616 10693326,10693326,2016.0,£
+18,96.0,1.0,Deferred taxation,Deferred taxation 21 171627 188923,171627,2017.0,£
+19,96.0,0.0,Deferred taxation,Deferred taxation 21 171627 188923,188923,2016.0,£
+20,96.0,1.0,Net assets,Net assets 12355989 10504403,12355989,2017.0,£
+21,96.0,0.0,Net assets,Net assets 12355989 10504403,10504403,2016.0,£
+22,96.0,1.0,Called up share capital,Called up share capital 23 1000 1000,1000,2017.0,£
+23,96.0,0.0,Called up share capital,Called up share capital 23 1000 1000,1000,2016.0,£
+24,95.0,1.0,Profit.and loss. account,Profit.and loss. account 24 12354989 10503403,12354989,2017.0,£
+25,95.0,0.0,Profit.and loss. account,Profit.and loss. account 24 12354989 10503403,10503403,2016.0,£
+26,95.0,1.0,Equity attributable to owners of the parent Company,parent Company 12355989 10504403,12355989,2017.0,£
+27,96.0,0.0,Equity attributable to owners of the parent Company,parent Company 12355989 10504403,10504403,2016.0,£
+0,94.0,1.0,Opening defined benefit obligation,Opening defined benefit obligation 6403000 5497000,6403000,2017.0,£
+1,95.0,0.0,Opening defined benefit obligation,Opening defined benefit obligation 6403000 5497000,5497000,2016.0,£
+2,96.0,1.0,Interest cost,Interest cost 170000 199000,170000,2017.0,£
+3,95.0,0.0,Interest cost,Interest cost 170000 199000,199000,2016.0,£
+4,96.0,1.0,Actuarial gainslosses,Actuarial gainslosses 65000 968000,65000,2017.0,£
+5,96.0,0.0,Actuarial gainslosses,Actuarial gainslosses 65000 968000,968000,2016.0,£
+6,93.0,1.0,Benefits paid,Benefits paid  207000 261000,207000,2017.0,£
+7,96.0,0.0,Benefits paid,Benefits paid  207000 261000,261000,2016.0,£
+8,95.0,1.0,Closing defined benefit obligation,Closing defined benefit obligation 6301000 6403000,6301000,2017.0,£
+9,95.0,0.0,Closing defined benefit obligation,Closing defined benefit obligation 6301000 6403000,6403000,2016.0,£
+10,95.0,1.0,Opening fair value of scheme assets,Opening fair value of scheme assets 6428000 5774000,6428000,2017.0,£
+11,95.0,0.0,Opening fair value of scheme assets,Opening fair value of scheme assets 6428000 5774000,5774000,2016.0,£
+12,96.0,1.0,Actuarial gainslosses,Actuarial gainslosses 247000 452000,247000,2017.0,£
+13,91.0,0.0,Actuarial gainslosses,Actuarial gainslosses 247000 452000,452000,2016.0,£
+14,96.0,1.0,Contributions by employer,Contributions by employer 250000 250000,250000,2017.0,£
+15,96.0,0.0,Contributions by employer,Contributions by employer 250000 250000,250000,2016.0,£
+16,96.0,1.0,Benefits paid,Benefits paid 207000 261000,207000,2017.0,£
+17,59.0,0.0,Benefits paid,Benefits paid 207000 261000,261000,2016.0,£
+0,96.0,1.0,Intangible assets,Intangible assets 13 5 5,5,2017.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 13 5 5,5,2016.0,£
+2,96.0,1.0,Tangible assets,Tangible assets  14 1172412 1329243,1172412,2017.0,£
+3,96.0,0.0,Tangible assets,Tangible assets  14 1172412 1329243,1329243,2016.0,£
+4,94.0,1.0,Investments,Investments 15 129500 129500,129500,2017.0,£
+5,95.0,0.0,Investments,Investments 15 129500 129500,129500,2016.0,£
+6,96.0,1.0,Stocks,Stocks 46 1632673  1399716,1632673,2017.0,£
+7,0.0,0.0,Stocks,Stocks 46 1632673  1399716,1399716,2016.0,£
+8,94.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 17 4281764 3751977,4281764,2017.0,£
+9,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 17 4281764 3751977,3751977,2016.0,£
+10,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 18 9351738 7743689,9351738,2017.0,£
+11,93.0,0.0,Cash at bank and in hand,Cash at bank and in hand 18 9351738 7743689,7743689,2016.0,£
+12,81.0,1.0,Creditors amounts falling due within one  year,year 19 4967934  4462074,4967934,2017.0,£
+13,22.0,0.0,Creditors amounts falling due within one  year,year 19 4967934  4462074,4462074,2016.0,£
+14,95.0,1.0,Net current assets,Net current assets 10298241 8433308,10298241,2017.0,£
+15,96.0,0.0,Net current assets,Net current assets 10298241 8433308,8433308,2016.0,£
+16,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 11600158  9892056,11600158,2017.0,£
+17,55.0,0.0,Total assets less current liabilities,Total assets less current liabilities 11600158  9892056,9892056,2016.0,£
+18,96.0,1.0,Deferred taxation,Deferred taxation 21 171627 188923,171627,2017.0,£
+19,95.0,0.0,Deferred taxation,Deferred taxation 21 171627 188923,188923,2016.0,£
+20,95.0,1.0,Called up share capital,Called up share capital 23 1000  1000,1000,2017.0,£
+21,5.0,0.0,Called up share capital,Called up share capital 23 1000  1000,1000,2016.0,£
+22,96.0,1.0,Profit and loss account,Profit and loss account 24 11427531 9702133,11427531,2017.0,£
+23,95.0,0.0,Profit and loss account,Profit and loss account 24 11427531 9702133,9702133,2016.0,£

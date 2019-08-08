@@ -1,0 +1,29 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 000 000,000,2017.0,£000
+1,96.0,0.0,Note,Note 000 000,000,2016.0,£000
+2,96.0,1.0,Cash at bank,Cash at bank 7 254 254,254,2017.0,£000
+3,96.0,0.0,Cash at bank,Cash at bank 7 254 254,254,2016.0,£000
+4,96.0,1.0,Total assets,Total assets 1685 1967,1685,2017.0,£000
+5,95.0,0.0,Total assets,Total assets 1685 1967,1967,2016.0,£000
+6,96.0,1.0,Other liabilities,Other liabilities 10 46 17,46,2017.0,£000
+7,96.0,0.0,Other liabilities,Other liabilities 10 46 17,17,2016.0,£000
+8,96.0,1.0,Current tax payable,Current tax payable 6 15 25,15,2017.0,£000
+9,96.0,0.0,Current tax payable,Current tax payable 6 15 25,25,2016.0,£000
+10,95.0,1.0,Total liabilities,Total liabilities 61 42,61,2017.0,£000
+11,95.0,0.0,Total liabilities,Total liabilities 61 42,42,2016.0,£000
+12,96.0,1.0,Share capital,Share capital 8 6250 6250,6250,2017.0,£000
+13,96.0,0.0,Share capital,Share capital 8 6250 6250,6250,2016.0,£000
+14,96.0,1.0,Accumulated losses,Accumulated losses 4626 4325,4626,2017.0,£000
+15,96.0,0.0,Accumulated losses,Accumulated losses 4626 4325,4325,2016.0,£000
+16,96.0,1.0,Total shareholders equity,Total shareholders equity 1624 1925,1624,2017.0,£000
+17,96.0,0.0,Total shareholders equity,Total shareholders equity 1624 1925,1925,2016.0,£000
+18,96.0,1.0,Total liabilities and shareholders equity,Total liabilities and shareholders equity 1685 1967,1685,2017.0,£000
+19,96.0,0.0,Total liabilities and shareholders equity,Total liabilities and shareholders equity 1685 1967,1967,2016.0,£000
+0,95.0,1.0,Statement of Comprehensive Income for the year ended  December,Statement of Comprehensive Income for the year ended 31 December 2017 11,2017,2017.0,£000
+1,96.0,0.0,Statement of Comprehensive Income for the year ended  December,Statement of Comprehensive Income for the year ended 31 December 2017 11,11,2016.0,£000
+2,96.0,1.0,Statement of financial position as at  December,Statement of financial position as at 31 December 2017 12,2017,2017.0,£000
+3,95.0,0.0,Statement of financial position as at  December,Statement of financial position as at 31 December 2017 12,12,2016.0,£000
+4,96.0,1.0,Statement of changes in equity for the year ended  December,Statement of changes in equity for the year ended 31 December 2017 13,2017,2017.0,£000
+5,95.0,0.0,Statement of changes in equity for the year ended  December,Statement of changes in equity for the year ended 31 December 2017 13,13,2016.0,£000
+6,96.0,1.0,Statement of cash flow for the year ended  December,Statement of cash flow for the year ended 31 December 2017 14,2017,2017.0,£000
+7,96.0,0.0,Statement of cash flow for the year ended  December,Statement of cash flow for the year ended 31 December 2017 14,14,2016.0,£000

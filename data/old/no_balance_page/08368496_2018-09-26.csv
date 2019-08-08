@@ -1,0 +1,45 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Strategic Report,Strategic Report 2  6,2,2017.0,£
+1,26.0,0.0,Strategic Report,Strategic Report 2  6,6,2016.0,£
+2,96.0,1.0,Notes to the Financial Statements,Notes to the Financial Statements 19  43,19,2017.0,£
+3,83.0,0.0,Notes to the Financial Statements,Notes to the Financial Statements 19  43,43,2016.0,£
+0,94.0,1.0,Investments,Investments 14 569489 555949,569489,2017.0,£
+1,88.0,0.0,Investments,Investments 14 569489 555949,555949,2016.0,£
+2,90.0,1.0,Within one year,Within one year 18 559149 545609,559149,2017.0,£
+3,95.0,0.0,Within one year,Within one year 18 559149 545609,545609,2016.0,£
+4,96.0,1.0,Net current liabilities,Net current liabilities 559149 545609,559149,2017.0,£
+5,96.0,0.0,Net current liabilities,Net current liabilities 559149 545609,545609,2016.0,£
+6,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 10340 10340,10340,2017.0,£
+7,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 10340 10340,10340,2016.0,£
+8,92.0,1.0,Calledup equity share capital,Calledup equity share capital 30 10340 10340,10340,2017.0,£
+9,96.0,0.0,Calledup equity share capital,Calledup equity share capital 30 10340 10340,10340,2016.0,£
+10,96.0,1.0,Deficitshareholders funds,Deficitshareholders funds 10340 10340,10340,2017.0,£
+11,95.0,0.0,Deficitshareholders funds,Deficitshareholders funds 10340 10340,10340,2016.0,£
+0,96.0,1.0,Intangible assets,Intangible assets 12 1217152 657730,1217152,2017.0,£
+1,95.0,0.0,Intangible assets,Intangible assets 12 1217152 657730,657730,2016.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 13 5917967 5696860,5917967,2017.0,£
+3,94.0,0.0,Tangible assets,Tangible assets 13 5917967 5696860,5696860,2016.0,£
+4,96.0,1.0,Goodwill,Goodwill 14 499895 540372,499895,2017.0,£
+5,96.0,0.0,Goodwill,Goodwill 14 499895 540372,540372,2016.0,£
+6,15.0,1.0,Stocks,Stocks 15 4145798 7976120,4145798,2017.0,£
+7,94.0,0.0,Stocks,Stocks 15 4145798 7976120,7976120,2016.0,£
+8,92.0,1.0,Debtors,Debtors 16 9475812 9250581,9475812,2017.0,£
+9,94.0,0.0,Debtors,Debtors 16 9475812 9250581,9250581,2016.0,£
+10,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 1501275 101755,1501275,2017.0,£
+11,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 1501275 101755,101755,2016.0,£
+12,96.0,1.0,Creditors Amounts falling due within one year,within one year 17 18556479 19648575,18556479,2017.0,£
+13,96.0,0.0,Creditors Amounts falling due within one year,within one year 17 18556479 19648575,19648575,2016.0,£
+14,95.0,1.0,Net current liabilitiesassets,Net current liabilitiesassets 3433594 2320119,3433594,2017.0,£
+15,96.0,0.0,Net current liabilitiesassets,Net current liabilitiesassets 3433594 2320119,2320119,2016.0,£
+16,76.0,1.0,Total assets less current liabilities,Total assets less current liabilities 4201420 4574843,4201420,2017.0,£
+17,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 4201420 4574843,4574843,2016.0,£
+18,94.0,1.0,More than one year,More than one year 18 1280887 1747793,1280887,2017.0,£
+19,96.0,0.0,More than one year,More than one year 18 1280887 1747793,1747793,2016.0,£
+20,96.0,1.0,Deferred taxation,Deferred taxation 23 157406 116737,157406,2017.0,£
+21,39.0,0.0,Deferred taxation,Deferred taxation 23 157406 116737,116737,2016.0,£
+22,94.0,1.0,Calledup equity share capital,Calledup equity share capital 29 10340 10340,10340,2017.0,£
+23,95.0,0.0,Calledup equity share capital,Calledup equity share capital 29 10340 10340,10340,2016.0,£
+24,93.0,1.0,Profit and loss account,Profit and loss account 30 2363949 2355788,2363949,2017.0,£
+25,95.0,0.0,Profit and loss account,Profit and loss account 30 2363949 2355788,2355788,2016.0,£
+26,90.0,1.0,Noncontrolling interest,Noncontrolling interest 388838 344185,388838,2017.0,£
+27,95.0,0.0,Noncontrolling interest,Noncontrolling interest 388838 344185,344185,2016.0,£

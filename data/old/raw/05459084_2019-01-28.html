@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:FRS-102="http://xbrl.frc.org.uk/FRS-102/2014-09-01" xmlns:Q1="http://xbrl.org/2005/xbrldt" xmlns:accrep="http://xbrl.frc.org.uk/reports/2014-09-01/accrep" xmlns:aurep="http://xbrl.frc.org.uk/reports/2014-09-01/aurep" xmlns:bus="http://xbrl.frc.org.uk/cd/2014-09-01/business" xmlns:common="http://xbrl.frc.org.uk/general/2014-09-01/common" xmlns:core="http://xbrl.frc.org.uk/fr/2014-09-01/core" xmlns:countries="http://xbrl.frc.org.uk/cd/2014-09-01/countries" xmlns:curr="http://xbrl.frc.org.uk/cd/2014-09-01/currencies" xmlns:direp="http://xbrl.frc.org.uk/reports/2014-09-01/direp" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2010-04-20" xmlns:lang="http://xbrl.frc.org.uk/cd/2014-09-01/languages" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:num="http://www.xbrl.org/dtr/type/numeric" xmlns:ref="http://www.xbrl.org/2006/ref" xmlns:types="http://xbrl.frc.org.uk/general/2014-09-01/types" xmlns:uk-ref="http://xbrl.frc.org.uk/general/2014-09-01/ref" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xl="http://www.xbrl.org/2003/XLink" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<meta content="application/xhtml+xml; charset=UTF-8" http-equiv="Content-Type"/>
+<title>44_ELM_PARK_GARDENS_LIMIT - Accounts</title>
+<style type="text/css">@page land { size:landscape; }@page port { size:portrait; }.pageFirst { page-break-after:always;  background-color:white;    border-top:1px solid black;  border-bottom:1px solid black;    border-left:1px solid black;    border-right:1px solid black;   } .portraitPage {    page:port;  width:21cm; height:29.7cm; page-break-after:always; background-color:white; border-top:1px solid black; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; position:relative; } .landscapePage {  page:land;  width:29.7cm; height:21cm; page-break-after:always; background-color:white; border-top:1px solid black; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; position:relative; } a.tooltip {color:black;text-decoration:none}a.tooltip span{display:none}a.tooltip:hover span{display:inline;position:absolute;z-index:5002;background:#ffffff}a.anchor {color:blue;}a.tooltipRTF {color:black;text-decoration:none;display:none}span:hover a.tooltipRTF {display:block;position:absolute;background:#ffffff}span.tooltipRTFtext {position:absolute;left:10;width:200;border:1pt solid black;text-align:left;font-weight:normal;z-index:5002;bottom:20;font-family:Arial;font-size:9;background-color:#FFFFCC; }.c,.crn,.cjn,.cln,.ccn,.crb,.cjb,.clb,.ccb,.crni,.cjni,.clni,.ccni,.crbi,.cjbi,.clbi,.ccbi{position:absolute;word-wrap:break-word}.crn,.cjn,.cln,.ccn,.crni,.cjni,.clni,.ccni{font-weight:normal}.crb,.clb,.cjb,.ccb,.crbi,.cjbi,.clbi,.ccbi{font-weight:bold}.crni,.cjni,.clni,.ccni,.crbi,.cjbi,.clbi,.ccbi{font-style:italic}.crn,.crb,.crni,.crbi{text-align:right}.cln,.clb,.clni,.clbi{text-align:left}.ccn,.ccb,.ccni,.ccbi{text-align:center}.cjn,.cjb,.cjni,.cjbi{text-align:justify}.fn0{font-size:0px}.fn1{font-size:11.7px;font-family:Calibri}.fn2{font-size:10.4px;font-family:Arial}.fn3{font-size:15.2px;font-family:Arial}.fn4{font-size:12.8px;font-family:Arial}.fn5{font-size:6.4px;font-family:Arial}.fn6{font-size:9.6px;font-family:Arial}.fn7{font-size:0px;font-family:Arial}.fn8{font-size:9.6px;font-family:Courier New}.sln{border-top:1px solid black}.dln{border-top:4px double black}.u{text-decoration:underline}ul,li{ margin-top:0px;margin-bottom:0px;margin-right:0px;margin-left:8px;   padding-top:0px;padding-bottom:0px;padding-right:0px;padding-left:8px;} .img_0_0{width:212px;height:140px;position:absolute;background-repeat:no-repeat;background-image:url('data:image/png;base64,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')}</style>
+</head>
+<body style="background-color:white" xml:lang="en">
+<div class="pageFirst" style="height:727pt;width:516pt;">
+<div class="ccn fn1 img_0_0" style="top:584.54pt;left:178.06pt;width:159.89pt;"/>
+<div class="clb fn2" style="top:31.08pt;left:46.61pt;width:423.77pt;"/>
+<div class="crb fn2" style="top:52.31pt;left:43.61pt;width:420.55pt;">
+<ix:nonNumeric contextRef="C" name="bus:CountryFormationOrIncorporation"/>Company Registration No. <ix:nonNumeric contextRef="C" name="bus:UKCompaniesHouseRegisteredNumber">05459084</ix:nonNumeric> (England and Wales)</div>
+<div class="ccb fn3" style="top:162.17pt;left:46.61pt;width:420.55pt;">
+<ix:nonNumeric contextRef="C" name="bus:EntityCurrentLegalOrRegisteredName">44 ELM PARK GARDENS LIMITED</ix:nonNumeric>
+</div>
+<div class="ccb fn3" style="top:188.45pt;left:46.61pt;width:420.55pt;">UNAUDITED FINANCIAL STATEMENTS</div>
+<div class="ccb fn3" style="top:214.74pt;left:46.61pt;width:420.55pt;">FOR THE YEAR ENDED 31 MAY 2018</div>
+<div class="ccb fn3" style="top:241.12pt;left:46.61pt;width:420.55pt;">PAGES FOR FILING WITH REGISTRAR</div>
+</div>
+<div class="portraitPage" style="height:727pt;width:516pt;">
+<div class="clb fn2" style="top:31.08pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn3" style="top:40.75pt;left:46.61pt;width:423.77pt;">
+<ix:nonNumeric contextRef="C" name="bus:EntityCurrentLegalOrRegisteredName">44 ELM PARK GARDENS LIMITED</ix:nonNumeric>
+</div>
+<div class="clb fn3" style="top:54.9pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn4" style="top:69.04pt;left:46.61pt;width:423.77pt;">CONTENTS</div>
+<div class="cln fn5" style="top:80.95pt;left:46.61pt;width:420.77pt;"/>
+<div class="clb fn4" style="top:86.91pt;left:46.61pt;width:423.77pt;"/>
+<div class="cln fn0 sln" style="top:98.82pt;left:46.61pt;width:420.77pt;"/>
+<div class="cln fn0 sln" style="top:695.49pt;left:46.61pt;width:420.77pt;"/>
+<div class="clb fn2" style="top:134.45pt;left:344.32pt;width:117.98pt;">Page</div>
+<div class="cln fn2" style="top:167.47pt;left:89.49pt;width:254.81pt;">Statement of financial position</div>
+<div class="cln fn2" style="top:167.47pt;left:344.32pt;width:114.98pt;">1</div>
+<div class="cln fn2" style="top:211.5pt;left:89.49pt;width:254.81pt;">Notes to the financial statements</div>
+<div class="cln fn2" style="top:211.5pt;left:344.32pt;width:114.98pt;">2 - 4</div>
+</div>
+<div class="portraitPage" style="height:727pt;width:516pt;">
+<div class="clb fn2" style="top:31.08pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn3" style="top:40.75pt;left:46.61pt;width:423.77pt;">
+<ix:nonNumeric contextRef="C" name="bus:EntityCurrentLegalOrRegisteredName">44 ELM PARK GARDENS LIMITED</ix:nonNumeric>
+</div>
+<div class="clb fn3" style="top:54.9pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn4" style="top:69.04pt;left:46.61pt;width:423.77pt;">STATEMENT OF FINANCIAL POSITION </div>
+<div class="cln fn5" style="top:80.95pt;left:46.61pt;width:420.77pt;"/>
+<div class="clbi fn4" style="top:86.91pt;left:46.61pt;width:423.77pt;">AS AT <div style="display:inline">31 MAY 2018<div style="display:none">
+<ix:nonNumeric contextRef="B" format="ixt:datelonguk" name="bus:BalanceSheetDate">31 May 2018</ix:nonNumeric>
+</div>
+</div>
+</div>
+<div class="clb fn2" style="top:98.82pt;left:46.61pt;width:423.77pt;"/>
+<div class="cln fn0 sln" style="top:108.5pt;left:46.61pt;width:420.77pt;"/>
+<div class="cln fn0 sln" style="top:695.49pt;left:46.61pt;width:420.77pt;"/>
+<div class="ccn fn6" style="top:701.96pt;left:46.61pt;width:420.77pt;">- 1 -</div>
+<div class="clb fn2" style="top:122.11pt;left:296.45pt;width:59.56pt;">2018</div>
+<div class="clb fn2" style="top:122.11pt;left:409.57pt;width:59.55pt;">2017</div>
+<div class="ccb fn2" style="top:133.12pt;left:199.49pt;width:43.39pt;">Notes</div>
+<div class="crb fn2" style="top:133.12pt;left:236.88pt;width:59.56pt;">£</div>
+<div class="crb fn2" style="top:133.12pt;left:293.45pt;width:59.56pt;">£</div>
+<div class="crb fn2" style="top:133.12pt;left:350.01pt;width:59.55pt;">£</div>
+<div class="crb fn2" style="top:133.12pt;left:406.57pt;width:59.55pt;">£</div>
+<div class="cln fn7" style="top:133.12pt;left:466.77pt;width:0.65pt;"/>
+<div class="clb fn2" style="top:155.13pt;left:46.61pt;width:365.95pt;">Non-current assets</div>
+<div class="cln fn2" style="top:166.14pt;left:46.61pt;width:152.88pt;">Property and equipment</div>
+<div class="ccb fn2" style="top:166.14pt;left:199.49pt;width:43.39pt;">2</div>
+<div class="crn fn2" style="top:166.14pt;left:296.45pt;width:56.56pt;">
+<ix:nonFraction contextRef="B" decimals="0" format="ixt:numcommadot" name="core:PropertyPlantEquipment" scale="0" unitRef="GBP">30,000</ix:nonFraction>
+</div>
+<div class="crn fn2" style="top:166.14pt;left:409.57pt;width:56.55pt;">
+<ix:nonFraction contextRef="E" decimals="0" format="ixt:numcommadot" name="core:PropertyPlantEquipment" scale="0" unitRef="GBP">30,000</ix:nonFraction>
+</div>
+<div class="clb fn2" style="top:188.15pt;left:46.61pt;width:196.27pt;">Current assets</div>
+<div class="crn fn2" style="top:188.15pt;left:239.88pt;width:56.56pt;">-</div>
+<div class="crn fn2" style="top:188.15pt;left:353.01pt;width:56.55pt;">-</div>
+<div class="clb fn2" style="top:210.16pt;left:46.61pt;width:155.88pt;">Current liabilities</div>
+<div class="ccb fn2" style="top:210.16pt;left:199.49pt;width:43.39pt;">3</div>
+<div class="crn fn2" style="top:210.16pt;left:242.69pt;width:56.56pt;">(<ix:nonFraction contextRef="B_AM_AN" decimals="0" format="ixt:numcommadot" name="core:Creditors" scale="0" unitRef="GBP">1,239</ix:nonFraction>)</div>
+<div class="crn fn2" style="top:210.16pt;left:355.81pt;width:56.55pt;">(<ix:nonFraction contextRef="E_AM_AN" decimals="0" format="ixt:numcommadot" name="core:Creditors" scale="0" unitRef="GBP">1,239</ix:nonFraction>)</div>
+<div class="cln fn0 sln" style="top:226.01pt;left:270.7pt;width:25.74pt;"/>
+<div class="cln fn0 sln" style="top:226.01pt;left:383.82pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:232.17pt;left:46.61pt;width:252.84pt;">Net current liabilities</div>
+<div class="crn fn2" style="top:232.17pt;left:299.25pt;width:56.56pt;">(<ix:nonFraction contextRef="B" decimals="0" format="ixt:numcommadot" name="core:NetCurrentAssetsLiabilities" scale="0" sign="-" unitRef="GBP">1,239</ix:nonFraction>)</div>
+<div class="crn fn2" style="top:232.17pt;left:412.37pt;width:56.55pt;">(<ix:nonFraction contextRef="E" decimals="0" format="ixt:numcommadot" name="core:NetCurrentAssetsLiabilities" scale="0" sign="-" unitRef="GBP">1,239</ix:nonFraction>)</div>
+<div class="cln fn0 sln" style="top:248.02pt;left:327.26pt;width:25.74pt;"/>
+<div class="cln fn0 sln" style="top:248.02pt;left:440.38pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:254.19pt;left:46.61pt;width:196.27pt;">Total assets less current liabilities</div>
+<div class="crn fn2" style="top:254.19pt;left:296.45pt;width:56.56pt;">
+<ix:nonFraction contextRef="B" decimals="0" format="ixt:numcommadot" name="core:TotalAssetsLessCurrentLiabilities" scale="0" unitRef="GBP">28,761</ix:nonFraction>
+</div>
+<div class="crn fn2" style="top:254.19pt;left:409.57pt;width:56.55pt;">
+<ix:nonFraction contextRef="E" decimals="0" format="ixt:numcommadot" name="core:TotalAssetsLessCurrentLiabilities" scale="0" unitRef="GBP">28,761</ix:nonFraction>
+</div>
+<div class="clb fn2" style="top:276.2pt;left:46.61pt;width:155.88pt;">Non-current liabilities</div>
+<div class="ccb fn2" style="top:276.2pt;left:199.49pt;width:43.39pt;">4</div>
+<div class="crn fn2" style="top:276.2pt;left:299.25pt;width:56.56pt;">(<ix:nonFraction contextRef="B_AM_AT" decimals="0" format="ixt:numcommadot" name="core:Creditors" scale="0" unitRef="GBP">29,633</ix:nonFraction>)</div>
+<div class="crn fn2" style="top:276.2pt;left:412.37pt;width:56.55pt;">(<ix:nonFraction contextRef="E_AM_AT" decimals="0" format="ixt:numcommadot" name="core:Creditors" scale="0" unitRef="GBP">29,633</ix:nonFraction>)</div>
+<div class="cln fn0 sln" style="top:303.05pt;left:327.26pt;width:25.74pt;"/>
+<div class="cln fn0 sln" style="top:303.05pt;left:440.38pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:309.22pt;left:46.61pt;width:196.27pt;">Net liabilities</div>
+<div class="crn fn2" style="top:309.22pt;left:299.25pt;width:56.56pt;">(<ix:nonFraction contextRef="B" decimals="0" name="core:NetAssetsLiabilities" scale="0" sign="-" unitRef="GBP">872</ix:nonFraction>)</div>
+<div class="crn fn2" style="top:309.22pt;left:412.37pt;width:56.55pt;">(<ix:nonFraction contextRef="E" decimals="0" name="core:NetAssetsLiabilities" scale="0" sign="-" unitRef="GBP">872</ix:nonFraction>)</div>
+<div class="cln fn0 dln" style="top:325.07pt;left:327.26pt;width:25.74pt;"/>
+<div class="cln fn0 dln" style="top:325.07pt;left:440.38pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:342.24pt;left:46.61pt;width:155.88pt;">Equity</div>
+<div class="cln fn2" style="top:353.24pt;left:46.61pt;width:152.88pt;">Retained earnings</div>
+<div class="ccb fn2" style="top:353.24pt;left:199.49pt;width:43.39pt;"/>
+<div class="crn fn2" style="top:353.24pt;left:299.25pt;width:56.56pt;">(<ix:nonFraction contextRef="B_AU_AV" decimals="0" name="core:Equity" scale="0" sign="-" unitRef="GBP">872</ix:nonFraction>)</div>
+<div class="crn fn2" style="top:353.24pt;left:412.37pt;width:56.55pt;">(<ix:nonFraction contextRef="E_AU_AV" decimals="0" name="core:Equity" scale="0" sign="-" unitRef="GBP">872</ix:nonFraction>)</div>
+<div class="cln fn0 dln" style="top:369.09pt;left:327.26pt;width:25.74pt;"/>
+<div class="cln fn0 dln" style="top:369.09pt;left:440.38pt;width:25.74pt;"/>
+<div class="cln" style="top:386pt;left:47pt;width:420pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:nonNumeric contextRef="C" name="direp:EntityHasTakenExemptionUnderCompaniesActInNotPublishingItsOwnProfitLossAccountTruefalse">
+<span class="fn2">
+<ix:exclude>The director of the company has elected not to include a copy of the income statement within the financial statements.</ix:exclude>
+<span style="display:none">true</span>
+</span>
+</ix:nonNumeric>
+</p>
+</div>
+<div class="cln" style="top:418pt;left:47pt;width:420pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:nonNumeric contextRef="C" name="direp:StatementThatCompanyEntitledToExemptionFromAuditUnderSection477CompaniesAct2006RelatingToSmallCompanies">
+<span class="fn2">For the financial year ended 31 May 2018 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.</span>
+</ix:nonNumeric>
+</p>
+</div>
+<div class="cln" style="top:449pt;left:47pt;width:420pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:nonNumeric contextRef="C" name="direp:StatementThatDirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct">
+<span class="fn2">The director acknowledges his responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of financial statements.</span>
+</ix:nonNumeric>
+</p>
+</div>
+<div class="cln" style="top:481pt;left:47pt;width:420pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:nonNumeric contextRef="C" continuedAt="C_BN_0" name="direp:StatementThatMembersHaveNotRequiredCompanyToObtainAnAudit">
+<span class="fn2">T</span>
+</ix:nonNumeric>
+<span class="fn2"/>
+<ix:continuation continuedAt="C_BN_1" id="C_BN_0">
+<span class="fn2">he members have not required the company to obtain an audit of its financial statements for the year in question in accordance with section 476</span>
+</ix:continuation>
+<span class="fn2"/>
+<ix:continuation id="C_BN_1">
+<span class="fn2">.</span>
+</ix:continuation>
+</p>
+</div>
+<div class="cln" style="top:513pt;left:47pt;width:420pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:nonNumeric contextRef="C" name="direp:StatementThatAccountsHaveBeenPreparedInAccordanceWithProvisionsSmallCompaniesRegime">
+<span class="fn2">These financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies' regime.</span>
+</ix:nonNumeric>
+</p>
+</div>
+<div class="cjn fn2" style="top:544.3pt;left:46.61pt;width:419.51pt;">The financial statements were approved and signed by the director and authorised for issue on <ix:nonNumeric contextRef="B" format="ixt:datelonguk" name="core:DateAuthorisationFinancialStatementsForIssue">28 January 2019</ix:nonNumeric>
+</div>
+<div class="cln fn2" style="top:588.32pt;left:46.61pt;width:419.51pt;">
+<ix:nonNumeric contextRef="C_AW_AX" name="core:DirectorSigningFinancialStatements"/>Mr A Yazitzis</div>
+<div class="clb fn2" style="top:599.33pt;left:46.61pt;width:422.51pt;">Director</div>
+<div class="clb fn2" style="top:621.34pt;left:46.61pt;width:422.51pt;">Company Registration No. 05459084</div>
+</div>
+<div class="portraitPage" style="height:727pt;width:516pt;">
+<div class="clb fn2" style="top:31.08pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn3" style="top:40.75pt;left:46.61pt;width:423.77pt;">
+<ix:nonNumeric contextRef="C" name="bus:EntityCurrentLegalOrRegisteredName">44 ELM PARK GARDENS LIMITED</ix:nonNumeric>
+</div>
+<div class="clb fn3" style="top:54.9pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn4" style="top:69.04pt;left:46.61pt;width:423.77pt;">NOTES TO THE FINANCIAL STATEMENTS </div>
+<div class="cln fn5" style="top:80.95pt;left:46.61pt;width:420.77pt;"/>
+<div class="clbi fn4" style="top:86.91pt;left:46.61pt;width:423.77pt;">FOR THE YEAR ENDED 31 MAY 2018</div>
+<div class="clb fn2" style="top:98.82pt;left:46.61pt;width:423.77pt;"/>
+<div class="cln fn0 sln" style="top:108.5pt;left:46.61pt;width:420.77pt;"/>
+<div class="cln fn0 sln" style="top:695.49pt;left:46.61pt;width:420.77pt;"/>
+<div class="ccn fn6" style="top:701.96pt;left:46.61pt;width:420.77pt;">- 2 -</div>
+<div class="clb fn2" style="top:122.11pt;left:46.61pt;width:24.12pt;">1</div>
+<div class="clb fn2" style="top:122.11pt;left:67.73pt;width:402.65pt;">Accounting policies</div>
+<div class="cln fn7" style="top:122.11pt;left:468.03pt;width:0.65pt;"/>
+<div class="clb fn2" style="top:144.12pt;left:67.73pt;width:402.65pt;">Company information</div>
+<div class="cln" style="top:155pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">44 Elm Park Gardens Limited is a</span>
+<span class="fn2"> private </span>
+<span class="fn2">company</span>
+<span class="fn2"> limited by shares</span>
+<span class="fn2"> incorporated in England and Wales.</span>
+<span class="fn2"> </span>
+<span class="fn2">The registered office is</span>
+<span class="fn2"> Flat 8, 44 Elm Park Gardens, London, SW10 9PA.</span>
+</p>
+</div>
+<div class="clb fn2" style="top:186.83pt;left:46.61pt;width:24.12pt;">1.1</div>
+<div class="clb fn2" style="top:186.83pt;left:67.73pt;width:402.65pt;">Accounting convention</div>
+<div class="cln" style="top:198pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006 as applicable to companies subject to the small companies regime. The disclosure requirements of section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.</span>
+</p>
+</div>
+<div class="cln" style="top:258pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">The financial statements are prepared in</span>
+<span class="fn2"> sterling</span>
+<span class="fn2">, which is the functional currency of the company. </span>
+<span class="fn2">Monetary a</span>
+<span class="fn2">mounts </span>
+<span class="fn2">in these financial statements are </span>
+<span class="fn2">rounded to the nearest £.</span>
+</p>
+</div>
+<div class="cln" style="top:290pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">The financial statements have been prepared under the historical cost convention, modified to include the revaluation of freehold properties and to include investment properties and certain financial instruments at fair value. The principal accounting policies adopted are set out below.</span>
+</p>
+</div>
+<div class="clb fn2" style="top:330.98pt;left:46.61pt;width:24.12pt;">1.2</div>
+<div class="clb fn2" style="top:330.98pt;left:67.73pt;width:402.65pt;">Tangible Fixed Assets and Depreciation</div>
+<div class="cln" style="top:342pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Tangible Fixed Assets consist of the property 44 Elm Park Gardens.</span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2"> </span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">There is no record as to whether the figure £30,000 is the original cost of the Freehold or a valuation.</span>
+</p>
+</div>
+<div class="clb fn2" style="top:383.15pt;left:46.61pt;width:24.12pt;">1.3</div>
+<div class="clb fn2" style="top:383.15pt;left:67.73pt;width:402.65pt;">Impairment of non-current assets</div>
+<div class="cln" style="top:394pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">At each reporting </span>
+<span class="fn2">period </span>
+<span class="fn2">end date, the </span>
+<span class="fn2">company </span>
+<span class="fn2">reviews the carrying amounts of its tangible</span>
+<span class="fn2"> assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the company </span>
+<span class="fn2">estimates the recoverable amount of the cash-generating unit to which the asset belongs.</span>
+</p>
+</div>
+<div class="cln" style="top:455pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.</span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2"> </span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.</span>
+</p>
+</div>
+<div class="cln" style="top:554pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit) </span>
+<span class="fn2">in </span>
+<span class="fn2">prior years. A reversal of an impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.</span>
+</p>
+</div>
+<div class="clb fn2" style="top:633.77pt;left:46.61pt;width:24.12pt;">1.4</div>
+<div class="clb fn2" style="top:633.77pt;left:67.73pt;width:402.65pt;">Cash and cash equivalents</div>
+<div class="cln" style="top:645pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:nonNumeric contextRef="C" continuedAt="C_BO_0" name="core:CashCashEquivalentsPolicy">
+<span class="fn2">Cash and cash equivalents </span>
+</ix:nonNumeric>
+<span class="fn2"/>
+<ix:continuation continuedAt="C_BO_1" id="C_BO_0">
+<span class="fn2">are basic financial assets</span>
+</ix:continuation>
+<span class="fn2"/>
+<ix:continuation continuedAt="C_BO_2" id="C_BO_1">
+<span class="fn2"> and</span>
+</ix:continuation>
+<span class="fn2"/>
+<ix:continuation id="C_BO_2">
+<span class="fn2"> include cash in hand, deposits held at call with banks, other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities.</span>
+</ix:continuation>
+</p>
+</div>
+</div>
+<div class="portraitPage" style="height:727pt;width:516pt;">
+<div class="clb fn2" style="top:31.08pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn3" style="top:40.75pt;left:46.61pt;width:423.77pt;">
+<ix:nonNumeric contextRef="C" name="bus:EntityCurrentLegalOrRegisteredName">44 ELM PARK GARDENS LIMITED</ix:nonNumeric>
+</div>
+<div class="clb fn3" style="top:54.9pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn4" style="top:69.04pt;left:46.61pt;width:423.77pt;">NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)</div>
+<div class="cln fn5" style="top:80.95pt;left:46.61pt;width:420.77pt;"/>
+<div class="clbi fn4" style="top:86.91pt;left:46.61pt;width:423.77pt;">FOR THE YEAR ENDED 31 MAY 2018</div>
+<div class="clb fn2" style="top:98.82pt;left:46.61pt;width:423.77pt;"/>
+<div class="cln fn0 sln" style="top:108.5pt;left:46.61pt;width:420.77pt;"/>
+<div class="clb fn2" style="top:121.45pt;left:46.61pt;width:24.12pt;">1</div>
+<div class="clb fn2" style="top:121.45pt;left:67.73pt;width:402.65pt;">Accounting policies (Continued)</div>
+<div class="cln fn0 sln" style="top:695.49pt;left:46.61pt;width:420.77pt;"/>
+<div class="ccn fn6" style="top:701.96pt;left:46.61pt;width:420.77pt;">- 3 -</div>
+<div class="clb fn2" style="top:144.12pt;left:46.61pt;width:24.12pt;">1.5</div>
+<div class="clb fn2" style="top:144.12pt;left:67.73pt;width:402.65pt;">Financial instruments</div>
+<div class="cln" style="top:155pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:nonNumeric contextRef="C" continuedAt="C_BP_0" name="core:FinancialInstrumentsClassificationPolicy">
+<span class="fn2">The company has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments. </span>
+</ix:nonNumeric>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2"> </span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:continuation continuedAt="C_BP_1" id="C_BP_0">
+<span class="fn2">Financial instruments are recognised in the company's statement of financial position when the company becomes party to the contractual provisions of the instrument.</span>
+</ix:continuation>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2"> </span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<ix:continuation continuedAt="C_BP_2" id="C_BP_1">
+<span class="fn2">Financial assets and liabilities are offset</span>
+</ix:continuation>
+<span class="fn2"/>
+<ix:continuation continuedAt="C_BP_3" id="C_BP_2">
+<span class="fn2">, with</span>
+</ix:continuation>
+<span class="fn2"/>
+<ix:continuation continuedAt="C_BP_4" id="C_BP_3">
+<span class="fn2"> the net amounts presented in the financial statements</span>
+</ix:continuation>
+<span class="fn2"/>
+<ix:continuation continuedAt="C_BP_5" id="C_BP_4">
+<span class="fn2">,</span>
+</ix:continuation>
+<span class="fn2"/>
+<ix:continuation id="C_BP_5">
+<span class="fn2"> when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.</span>
+</ix:continuation>
+</p>
+</div>
+<div class="clbi fn2" style="top:254.26pt;left:67.73pt;width:402.65pt;">Basic financial assets</div>
+<div class="cln" style="top:265pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Basic financial assets, which include trade and other receivables and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest</span>
+<span class="fn2"> </span>
+<span class="fn2">method unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.</span>
+<span class="fn2"> Financial assets classified as receivable within one year are not amortised.</span>
+</p>
+</div>
+<div class="clbi fn2" style="top:325.56pt;left:67.73pt;width:402.65pt;">Classification of financial liabilities</div>
+<div class="cln" style="top:336pt;left:68pt;width:400pt;text-align:left;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.</span>
+</p>
+</div>
+<div class="clbi fn2" style="top:377.51pt;left:67.73pt;width:402.65pt;">Basic financial liabilities</div>
+<div class="cln" style="top:388pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Basic financial liabilities, including trade and other payables, bank loans, loans from</span>
+<span class="fn2"> </span>
+<span class="fn2">fellow group companies and preference shares that are classified as debt, are</span>
+<span class="fn2"> </span>
+<span class="fn2">initially recognised at transaction price unless the arrangement constitutes a</span>
+<span class="fn2"> </span>
+<span class="fn2">financing transaction, where the debt instrument is measured at the present value of</span>
+<span class="fn2"> </span>
+<span class="fn2">the future </span>
+<span class="fn2">paymen</span>
+<span class="fn2">ts discounted at a market rate of interest.</span>
+<span class="fn2"> Financial liabilities classified as payable within one year are not amortised.</span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2"> </span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Debt instruments are subsequently carried at amortised cost, using the effective</span>
+<span class="fn2"> </span>
+<span class="fn2">interest rate method.</span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2"> </span>
+</p>
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Trade payables</span>
+<span class="fn2"> are obligations to pay for goods or services that have been acquired</span>
+<span class="fn2"> </span>
+<span class="fn2">in the ordinary course of business from suppliers. A</span>
+<span class="fn2">m</span>
+<span class="fn2">ounts payable are classified as</span>
+<span class="fn2"> </span>
+<span class="fn2">current liabilities if payment is due within one year or less. If not, they are presented</span>
+<span class="fn2"> </span>
+<span class="fn2">as non-current liabilities. Trade payables are recognised initially at transaction price</span>
+<span class="fn2"> </span>
+<span class="fn2">and subsequently measured at amortised cost using the effective interest method.</span>
+</p>
+</div>
+<div class="clb fn2" style="top:516.67pt;left:46.61pt;width:24.12pt;">1.6</div>
+<div class="clb fn2" style="top:516.67pt;left:67.73pt;width:402.65pt;">Equity instruments</div>
+<div class="cln" style="top:528pt;left:68pt;width:400pt;text-align:justify;font-family:Arial;font-size:7.8pt;">
+<p style="margin-top:0.00px;margin-bottom:0.00px;text-align:Left;">
+<span class="fn2">Equity instruments issued by the company are recorded at the proceeds received, net of direct issue costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.</span>
+</p>
+</div>
+</div>
+<div class="portraitPage" style="height:727pt;width:516pt;">
+<div class="clb fn2" style="top:31.08pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn3" style="top:40.75pt;left:46.61pt;width:423.77pt;">
+<ix:nonNumeric contextRef="C" name="bus:EntityCurrentLegalOrRegisteredName">44 ELM PARK GARDENS LIMITED</ix:nonNumeric>
+</div>
+<div class="clb fn3" style="top:54.9pt;left:46.61pt;width:423.77pt;"/>
+<div class="clb fn4" style="top:69.04pt;left:46.61pt;width:423.77pt;">NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)</div>
+<div class="cln fn5" style="top:80.95pt;left:46.61pt;width:420.77pt;"/>
+<div class="clbi fn4" style="top:86.91pt;left:46.61pt;width:423.77pt;">FOR THE YEAR ENDED 31 MAY 2018</div>
+<div class="clb fn2" style="top:98.82pt;left:46.61pt;width:423.77pt;"/>
+<div class="cln fn0 sln" style="top:108.5pt;left:46.61pt;width:420.77pt;"/>
+<div class="cln fn0 sln" style="top:695.49pt;left:46.61pt;width:420.77pt;"/>
+<div class="ccn fn6" style="top:701.96pt;left:46.61pt;width:420.77pt;">- 4 -</div>
+<div class="clb fn2" style="top:122.11pt;left:46.61pt;width:24.12pt;">2</div>
+<div class="clb fn2" style="top:122.11pt;left:67.73pt;width:344.84pt;">Property and equipment</div>
+<div class="cln fn7" style="top:122.11pt;left:410.22pt;width:0.65pt;"/>
+<div class="crb fn2" style="top:133.12pt;left:356.85pt;width:110.53pt;">Land and buildings</div>
+<div class="crb fn2" style="top:144.12pt;left:356.85pt;width:110.53pt;">£</div>
+<div class="clb fn2" style="top:155.13pt;left:67.73pt;width:344.84pt;">Cost</div>
+<div class="cln fn2" style="top:166.14pt;left:67.73pt;width:292.12pt;">At 1 June 2017 and 31 May 2018</div>
+<div class="crn fn2" style="top:166.14pt;left:359.85pt;width:107.53pt;">
+<ix:nonFraction contextRef="A_AE_AZ" decimals="0" format="ixt:numcommadot" name="core:PropertyPlantEquipmentGrossCost" scale="0" unitRef="GBP">30,000</ix:nonFraction>
+</div>
+<div class="cln fn0 sln" style="top:181.99pt;left:441.64pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:188.48pt;left:67.73pt;width:295.12pt;">Depreciation and impairment</div>
+<div class="crn fn8" style="top:188.48pt;left:359.85pt;width:107.53pt;"/>
+<div class="cln fn2" style="top:199.82pt;left:67.73pt;width:292.12pt;">At 1 June 2017 and 31 May 2018</div>
+<div class="crn fn2" style="top:199.82pt;left:359.85pt;width:107.53pt;">-</div>
+<div class="cln fn0 sln" style="top:215.66pt;left:441.64pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:221.83pt;left:67.73pt;width:344.84pt;">Carrying amount</div>
+<div class="cln fn2" style="top:232.83pt;left:67.73pt;width:292.12pt;">At 31 May 2018</div>
+<div class="crn fn2" style="top:232.83pt;left:359.85pt;width:107.53pt;">
+<ix:nonFraction contextRef="B_AE_AZ" decimals="0" format="ixt:numcommadot" name="core:PropertyPlantEquipment" scale="0" unitRef="GBP">30,000</ix:nonFraction>
+</div>
+<div class="cln fn0 dln" style="top:248.68pt;left:441.64pt;width:25.74pt;"/>
+<div class="cln fn2" style="top:254.85pt;left:67.73pt;width:292.12pt;">At 31 May 2017</div>
+<div class="crn fn2" style="top:254.85pt;left:359.85pt;width:107.53pt;">
+<ix:nonFraction contextRef="E_AE_AZ" decimals="0" format="ixt:numcommadot" name="core:PropertyPlantEquipment" scale="0" unitRef="GBP">30,000</ix:nonFraction>
+</div>
+<div class="cln fn0 dln" style="top:270.69pt;left:441.64pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:287.87pt;left:46.61pt;width:24.12pt;">3</div>
+<div class="clb fn2" style="top:287.87pt;left:67.73pt;width:287.66pt;">Current liabilities</div>
+<div class="crb fn2" style="top:298.87pt;left:349.39pt;width:59.56pt;">2018</div>
+<div class="crb fn2" style="top:298.87pt;left:405.95pt;width:61.43pt;">2017</div>
+<div class="crb fn2" style="top:309.88pt;left:349.39pt;width:59.56pt;">£</div>
+<div class="crb fn2" style="top:309.88pt;left:405.95pt;width:61.43pt;">£</div>
+<div class="cln fn7" style="top:309.88pt;left:468.03pt;width:0.65pt;"/>
+<div class="cln fn2" style="top:331.89pt;left:67.73pt;width:228.1pt;">Other payables</div>
+<div class="crn fn2" style="top:331.89pt;left:352.39pt;width:56.56pt;">
+<ix:nonFraction contextRef="B_AM_AN" decimals="0" format="ixt:numcommadot" name="core:OtherCreditors" scale="0" unitRef="GBP">1,239</ix:nonFraction>
+</div>
+<div class="crn fn2" style="top:331.89pt;left:408.95pt;width:58.43pt;">
+<ix:nonFraction contextRef="E_AM_AN" decimals="0" format="ixt:numcommadot" name="core:OtherCreditors" scale="0" unitRef="GBP">1,239</ix:nonFraction>
+</div>
+<div class="cln fn0 dln" style="top:347.73pt;left:383.21pt;width:25.74pt;"/>
+<div class="cln fn0 dln" style="top:347.73pt;left:441.64pt;width:25.74pt;"/>
+<div class="clb fn2" style="top:364.91pt;left:46.61pt;width:24.12pt;">4</div>
+<div class="clb fn2" style="top:364.91pt;left:67.73pt;width:231.1pt;">Non-current liabilities</div>
+<div class="crb fn2" style="top:375.92pt;left:349.39pt;width:59.56pt;">2018</div>
+<div class="crb fn2" style="top:375.92pt;left:405.95pt;width:61.43pt;">2017</div>
+<div class="crb fn2" style="top:386.92pt;left:349.39pt;width:59.56pt;">£</div>
+<div class="crb fn2" style="top:386.92pt;left:405.95pt;width:61.43pt;">£</div>
+<div class="cln fn7" style="top:386.92pt;left:468.03pt;width:0.65pt;"/>
+<div class="cln fn2" style="top:408.93pt;left:67.73pt;width:228.1pt;">Other payables</div>
+<div class="crn fn2" style="top:408.93pt;left:352.39pt;width:56.56pt;">
+<ix:nonFraction contextRef="B_AM_AT" decimals="0" format="ixt:numcommadot" name="core:OtherCreditors" scale="0" unitRef="GBP">29,633</ix:nonFraction>
+</div>
+<div class="crn fn2" style="top:408.93pt;left:408.95pt;width:58.43pt;">
+<ix:nonFraction contextRef="E_AM_AT" decimals="0" format="ixt:numcommadot" name="core:OtherCreditors" scale="0" unitRef="GBP">29,633</ix:nonFraction>
+</div>
+<div class="cln fn0 dln" style="top:424.78pt;left:383.21pt;width:25.74pt;"/>
+<div class="cln fn0 dln" style="top:424.78pt;left:441.64pt;width:25.74pt;"/>
+</div>
+<div style="display:none">
+<ix:header>
+<ix:hidden>
+<ix:nonNumeric contextRef="B" name="bus:EndDateForPeriodCoveredByReport">2018-05-31</ix:nonNumeric>
+<ix:nonNumeric contextRef="B" name="bus:StartDateForPeriodCoveredByReport">2017-06-01</ix:nonNumeric>
+<ix:nonNumeric contextRef="C" name="bus:EntityDormantTruefalse">false</ix:nonNumeric>
+<ix:nonNumeric contextRef="C" name="bus:EntityTradingStatus"/>
+<ix:nonNumeric contextRef="C" name="bus:NameProductionSoftware">CCH Software</ix:nonNumeric>
+<ix:nonNumeric contextRef="C" name="bus:VersionProductionSoftware">CCH Accounts Production 2018.300</ix:nonNumeric>
+<ix:nonNumeric contextRef="C_BC_BD" name="bus:LegalFormEntity"/>
+<ix:nonNumeric contextRef="C_BE_BF" name="bus:AccountingStandardsApplied"/>
+<ix:nonNumeric contextRef="C_BG_BH" name="bus:AccountsStatusAuditedOrUnaudited"/>
+<ix:nonNumeric contextRef="C" name="bus:DescriptionPrincipalActivities">No description of principal activity</ix:nonNumeric>
+<ix:nonNumeric contextRef="C" name="bus:ScopeAccounts"/>
+<ix:nonNumeric contextRef="B" format="ixt:datelonguk" name="aurep:DateAuditorsReport">28 January 2019</ix:nonNumeric>
+<ix:nonNumeric contextRef="C_BJ_BK" name="bus:ApplicableLegislation"/>
+<ix:nonNumeric contextRef="C_AW_AX" name="bus:NameEntityOfficer">Mr A Yazitzis</ix:nonNumeric>
+<ix:nonNumeric contextRef="C_BL_BM" name="bus:AccountsTypeFullOrAbbreviated"/>
+</ix:hidden>
+<ix:references>
+<link:schemaRef xlink:href="https://xbrl.frc.org.uk/FRS-102/2014-09-01/FRS-102-2014-09-01.xsd" xlink:type="simple"/>
+</ix:references>
+<ix:resources>
+<xbrli:context id="C">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2017-06-01</xbrli:startDate>
+<xbrli:endDate>2018-05-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="B">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="E">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="B_AE_AZ">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:PropertyPlantEquipmentClassesDimension">core:LandBuildings</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="E_AE_AZ">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:PropertyPlantEquipmentClassesDimension">core:LandBuildings</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="B_AM_AN">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:CurrentFinancialInstruments</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="E_AM_AN">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:CurrentFinancialInstruments</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="B_AM_AT">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="E_AM_AT">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="B_AU_AV">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:EquityClassesDimension">core:RetainedEarningsAccumulatedLosses</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="E_AU_AV">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:EquityClassesDimension">core:RetainedEarningsAccumulatedLosses</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="C_AW_AX">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="bus:EntityOfficersDimension">bus:Director1</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2017-06-01</xbrli:startDate>
+<xbrli:endDate>2018-05-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="A_AE_AZ">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="core:PropertyPlantEquipmentClassesDimension">core:LandBuildings</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-05-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="C_BC_BD">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="bus:LegalFormEntityDimension">bus:PrivateLimitedCompanyLtd</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2017-06-01</xbrli:startDate>
+<xbrli:endDate>2018-05-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="C_BE_BF">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="bus:AccountingStandardsDimension">bus:FRS102</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2017-06-01</xbrli:startDate>
+<xbrli:endDate>2018-05-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="C_BG_BH">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="bus:AccountsStatusDimension">bus:AuditExemptWithAccountantsReport</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2017-06-01</xbrli:startDate>
+<xbrli:endDate>2018-05-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="C_BJ_BK">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="bus:ApplicableLegislationDimension">bus:SmallCompaniesRegimeForAccounts</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2017-06-01</xbrli:startDate>
+<xbrli:endDate>2018-05-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="C_BL_BM">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.companieshouse.gov.uk/">05459084</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:explicitMember dimension="bus:AccountsTypeDimension">bus:FullAccounts</xbrldi:explicitMember>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2017-06-01</xbrli:startDate>
+<xbrli:endDate>2018-05-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:unit id="Pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+<xbrli:unit id="Shares">
+<xbrli:measure>xbrli:shares</xbrli:measure>
+</xbrli:unit>
+<xbrli:unit id="GBP">
+<xbrli:measure>iso4217:GBP</xbrli:measure>
+</xbrli:unit>
+</ix:resources>
+</ix:header>
+</div>
+</body>
+</html>

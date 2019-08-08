@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,91.0,1.0,Notes,Notes 000 000 000 000,000,2017.0,£1
+1,92.0,0.0,Notes,Notes 000 000 000 000,000,2016.0,£1
+2,95.0,1.0,Investments,Investments 8 2870089 2870089,2870089,2017.0,£1
+3,96.0,0.0,Investments,Investments 8 2870089 2870089,2870089,2016.0,£1
+4,96.0,1.0,Debtors failing due after one year,Debtors failing due after one year 9 1057629 1042305,1057629,2017.0,£1
+5,94.0,0.0,Debtors failing due after one year,Debtors failing due after one year 9 1057629 1042305,1042305,2016.0,£1
+6,96.0,1.0,Creditors amounts falling due within one 10 year,year 53591 52816,53591,2017.0,£1
+7,96.0,0.0,Creditors amounts falling due within one 10 year,year 53591 52816,52816,2016.0,£1
+8,94.0,1.0,Net current assets,Net current assets 1004038 989489,1004038,2017.0,£1
+9,93.0,0.0,Net current assets,Net current assets 1004038 989489,989489,2016.0,£1
+10,96.0,1.0,Creditors amounts falling due after more 10 than one year,than one year 709081 698808,709081,2017.0,£1
+11,96.0,0.0,Creditors amounts falling due after more 10 than one year,than one year 709081 698808,698808,2016.0,£1
+12,96.0,1.0,Net assets,Net assets 3165046 3160770,3165046,2017.0,£1
+13,95.0,0.0,Net assets,Net assets 3165046 3160770,3160770,2016.0,£1
+14,96.0,1.0,Called up share capital,Called up share capital 11 2900653 2900653,2900653,2017.0,£1
+15,96.0,0.0,Called up share capital,Called up share capital 11 2900653 2900653,2900653,2016.0,£1
+16,95.0,1.0,Profit and loss reserves,Profit and loss reserves 264393 260117,264393,2017.0,£1
+17,96.0,0.0,Profit and loss reserves,Profit and loss reserves 264393 260117,260117,2016.0,£1
+18,96.0,1.0,Total equity,Total equity 3165046 3160770,3165046,2017.0,£1
+19,95.0,0.0,Total equity,Total equity 3165046 3160770,3160770,2016.0,£1

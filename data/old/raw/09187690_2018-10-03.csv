@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Investments,Investments 101 101,101,2017.0,£
+1,91.0,0.0,Investments,Investments 101 101,101,2016.0,£
+2,96.0,1.0,Debtors,Debtors 696695 440742,696695,2017.0,£
+3,95.0,0.0,Debtors,Debtors 696695 440742,440742,2016.0,£
+4,90.0,1.0,Cash at bank and in hand,Cash at bank and in hand 305211 556595,305211,2017.0,£
+5,94.0,0.0,Cash at bank and in hand,Cash at bank and in hand 305211 556595,556595,2016.0,£
+6,95.0,1.0,Creditors amounts falling due within one year,one year 5691 900,5691,2017.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,one year 5691 900,900,2016.0,£
+8,95.0,1.0,Net current assets,Net current assets 996215 996437,996215,2017.0,£
+9,96.0,0.0,Net current assets,Net current assets 996215 996437,996437,2016.0,£
+10,44.0,1.0,Total assets less current liabilities,Total assets less current liabilities 996316 996538,996316,2017.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 996316 996538,996538,2016.0,£
+12,92.0,1.0,Called up share capital,Called up share capital 175 175,175,2017.0,£
+13,96.0,0.0,Called up share capital,Called up share capital 175 175,175,2016.0,£
+14,95.0,1.0,Share premium account,Share premium account 976098 976098,976098,2017.0,£
+15,96.0,0.0,Share premium account,Share premium account 976098 976098,976098,2016.0,£
+16,96.0,1.0,Profit and loss reserves,Profit and loss reserves 20043 20265,20043,2017.0,£
+17,96.0,0.0,Profit and loss reserves,Profit and loss reserves 20043 20265,20265,2016.0,£
+18,95.0,1.0,Total equity,Total equity 996316 996538,996316,2017.0,£
+19,96.0,0.0,Total equity,Total equity 996316 996538,996538,2016.0,£

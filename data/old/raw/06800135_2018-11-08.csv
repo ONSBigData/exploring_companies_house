@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,93.0,1.0,Intangible assets,Intangible assets 5 20365 18365,20365,2018.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 5 20365 18365,18365,2017.0,£
+2,95.0,1.0,Debtors,Debtors 7 3516 3516,3516,2018.0,£
+3,95.0,0.0,Debtors,Debtors 7 3516 3516,3516,2017.0,£
+4,88.0,1.0,Cash at bank and in hand,Cash at bank and in hand 7875 7177,7875,2018.0,£
+5,93.0,0.0,Cash at bank and in hand,Cash at bank and in hand 7875 7177,7177,2017.0,£
+6,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 8 690 330,690,2018.0,£
+7,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 8 690 330,330,2017.0,£
+8,94.0,1.0,Net current assets,Net current assets 10701 10363,10701,2018.0,£
+9,90.0,0.0,Net current assets,Net current assets 10701 10363,10363,2017.0,£
+10,95.0,1.0,Net assets,Net assets 33686 28728,33686,2018.0,£
+11,95.0,0.0,Net assets,Net assets 33686 28728,28728,2017.0,£
+12,96.0,1.0,Other reserves,Other reserves 28728 18493,28728,2018.0,£
+13,93.0,0.0,Other reserves,Other reserves 28728 18493,18493,2017.0,£
+14,96.0,1.0,Profit and loss account,Profit and loss account 4958 10235,4958,2018.0,£
+15,96.0,0.0,Profit and loss account,Profit and loss account 4958 10235,10235,2017.0,£
+16,95.0,1.0,Total equity,Total equity 33686 28728,33686,2018.0,£
+17,92.0,0.0,Total equity,Total equity 33686 28728,28728,2017.0,£

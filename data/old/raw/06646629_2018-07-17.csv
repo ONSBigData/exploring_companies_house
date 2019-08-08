@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Notes,Notes 000 000,000,2017.0,£000
+1,96.0,0.0,Notes,Notes 000 000,000,2016.0,£000
+2,96.0,1.0,Debtors,Debtors 6 5009 13776,5009,2017.0,£000
+3,96.0,0.0,Debtors,Debtors 6 5009 13776,13776,2016.0,£000
+4,96.0,1.0,Cash at Bank and in Hand,Cash at Bank and in Hand 1419 1186,1419,2017.0,£000
+5,96.0,0.0,Cash at Bank and in Hand,Cash at Bank and in Hand 1419 1186,1186,2016.0,£000
+6,95.0,1.0,Creditors Amounts Falling Due within One Year,Creditors Amounts Falling Due within One Year 7 658 9428,658,2017.0,£000
+7,96.0,0.0,Creditors Amounts Falling Due within One Year,Creditors Amounts Falling Due within One Year 7 658 9428,9428,2016.0,£000
+8,95.0,1.0,Net Current Assets,Net Current Assets 5770 5534,5770,2017.0,£000
+9,94.0,0.0,Net Current Assets,Net Current Assets 5770 5534,5534,2016.0,£000
+10,92.0,1.0,Creditors Amounts Falling Due after One Year,Creditors Amounts Falling Due after One Year  8 3000 3000,3000,2017.0,£000
+11,96.0,0.0,Creditors Amounts Falling Due after One Year,Creditors Amounts Falling Due after One Year  8 3000 3000,3000,2016.0,£000
+12,95.0,1.0,Net Assets .,Net Assets . 2770 2534,2770,2017.0,£000
+13,96.0,0.0,Net Assets .,Net Assets . 2770 2534,2534,2016.0,£000
+14,96.0,1.0,Called up Share Capital,Called up Share Capital 10 700 700,700,2017.0,£000
+15,96.0,0.0,Called up Share Capital,Called up Share Capital 10 700 700,700,2016.0,£000
+16,93.0,1.0,Profit and Loss Account,Profit and Loss Account 2070 1834,2070,2017.0,£000
+17,96.0,0.0,Profit and Loss Account,Profit and Loss Account 2070 1834,1834,2016.0,£000
+18,96.0,1.0,Equity Shareholders Funds,Equity Shareholders Funds 2770 2534,2770,2017.0,£000
+19,96.0,0.0,Equity Shareholders Funds,Equity Shareholders Funds 2770 2534,2534,2016.0,£000

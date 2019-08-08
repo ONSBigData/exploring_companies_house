@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Notes,Notes 2018 2017,2018,2018.0,£
+1,96.0,0.0,Notes,Notes 2018 2017,2017,2017.0,£
+2,96.0,1.0,Debtors,Debtors 3 19966 22900,19966,2018.0,£
+3,96.0,0.0,Debtors,Debtors 3 19966 22900,22900,2017.0,£
+4,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 59 540 17138,540,2018.0,£
+5,55.0,0.0,Cash at bank and in hand,Cash at bank and in hand 59 540 17138,17138,2017.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,due within one year 4 23943 23937,23943,2018.0,£
+7,95.0,0.0,Creditors amounts falling due within one year,due within one year 4 23943 23937,23937,2017.0,£
+8,96.0,1.0,Net current assets,Net current assets 55563 16101,55563,2018.0,£
+9,94.0,0.0,Net current assets,Net current assets 55563 16101,16101,2017.0,£
+10,96.0,1.0,Net assets,Net assets 55563 16101,55563,2018.0,£
+11,94.0,0.0,Net assets,Net assets 55563 16101,16101,2017.0,£
+12,96.0,1.0,Called up share capital,Called up share capital 100 100,100,2018.0,£
+13,96.0,0.0,Called up share capital,Called up share capital 100 100,100,2017.0,£
+14,96.0,1.0,Profit and loss account,Profit and loss account 55463 16001,55463,2018.0,£
+15,96.0,0.0,Profit and loss account,Profit and loss account 55463 16001,16001,2017.0,£
+16,95.0,1.0,Shareholders funds,Shareholders funds 55563 16101,55563,2018.0,£
+17,94.0,0.0,Shareholders funds,Shareholders funds 55563 16101,16101,2017.0,£

@@ -1,0 +1,29 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Property plant and equipment,Property plant and equipment 5 66392 62361,66392,2017.0,£
+1,95.0,0.0,Property plant and equipment,Property plant and equipment 5 66392 62361,62361,2016.0,£
+2,96.0,1.0,Freehold investment properties,Freehold investment properties 6 1460000 1381000,1460000,2017.0,£
+3,95.0,0.0,Freehold investment properties,Freehold investment properties 6 1460000 1381000,1381000,2016.0,£
+4,95.0,1.0,Inventories,Inventories 7 631722 557022,631722,2017.0,£
+5,96.0,0.0,Inventories,Inventories 7 631722 557022,557022,2016.0,£
+6,96.0,1.0,Debtors,Debtors 8 15360 53336,15360,2017.0,£
+7,96.0,0.0,Debtors,Debtors 8 15360 53336,53336,2016.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 337042 367228,337042,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 337042 367228,367228,2016.0,£
+10,95.0,1.0,CREDITORS amounts falling due within one year,within one year 9 232360 220565,232360,2017.0,£
+11,95.0,0.0,CREDITORS amounts falling due within one year,within one year 9 232360 220565,220565,2016.0,£
+12,95.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 751764 757021,751764,2017.0,£
+13,94.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 751764 757021,757021,2016.0,£
+14,96.0,1.0,LIABILITIES,LIABILITIES 2278156 2200382,2278156,2017.0,£
+15,96.0,0.0,LIABILITIES,LIABILITIES 2278156 2200382,2200382,2016.0,£
+16,95.0,1.0,Deferred taxation,Deferred taxation 61231 47245,61231,2017.0,£
+17,96.0,0.0,Deferred taxation,Deferred taxation 61231 47245,47245,2016.0,£
+18,86.0,1.0,NET ASSETS,NET ASSETS 2216925 2153137,2216925,2017.0,£
+19,91.0,0.0,NET ASSETS,NET ASSETS 2216925 2153137,2153137,2016.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 1000 1000,1000,2017.0,£
+21,95.0,0.0,Called up share capital,Called up share capital 1000 1000,1000,2016.0,£
+22,96.0,1.0,Fair value reserve,Fair value reserve 234213 168122,234213,2017.0,£
+23,96.0,0.0,Fair value reserve,Fair value reserve 234213 168122,168122,2016.0,£
+24,95.0,1.0,Profit and loss account,Profit and loss account 1981712 1984015,1981712,2017.0,£
+25,96.0,0.0,Profit and loss account,Profit and loss account 1981712 1984015,1984015,2016.0,£
+26,89.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 2216925 2153137,2216925,2017.0,£
+27,91.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 2216925 2153137,2153137,2016.0,£

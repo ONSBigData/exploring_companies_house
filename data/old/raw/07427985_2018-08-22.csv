@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 31 31,31,2017.0,£7000
+1,96.0,0.0,Note,Note 31 31,31,2016.0,£7000
+2,96.0,1.0,Inventories,Inventories 13 30 40,30,2017.0,£7000
+3,96.0,0.0,Inventories,Inventories 13 30 40,40,2016.0,£7000
+4,96.0,1.0,Cash and cash equivalents,Cash and cash equivalents 15 15,15,2017.0,£7000
+5,96.0,0.0,Cash and cash equivalents,Cash and cash equivalents 15 15,15,2016.0,£7000
+6,95.0,1.0,Total assets,Total assets 103 94,103,2017.0,£7000
+7,95.0,0.0,Total assets,Total assets 103 94,94,2016.0,£7000
+8,94.0,1.0,Share capital Accumulated losses,Share capital Accumulated losses 17 78 5,78,2017.0,£7000
+9,96.0,0.0,Share capital Accumulated losses,Share capital Accumulated losses 17 78 5,5,2016.0,£7000
+10,66.0,1.0,Total equity,Total equity 78 5,78,2017.0,£7000
+11,96.0,0.0,Total equity,Total equity 78 5,5,2016.0,£7000
+12,96.0,1.0,Trade and other payables,Trade and other payables 181 99,181,2017.0,£7000
+13,95.0,0.0,Trade and other payables,Trade and other payables 181 99,99,2016.0,£7000
+14,96.0,1.0,Total liabilities,Total liabilities 181 99,181,2017.0,£7000
+15,96.0,0.0,Total liabilities,Total liabilities 181 99,99,2016.0,£7000
+16,96.0,1.0,Total equity and liabilities,Total equity and liabilities 103 94,103,2017.0,£7000
+17,96.0,0.0,Total equity and liabilities,Total equity and liabilities 103 94,94,2016.0,£7000

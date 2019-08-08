@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Intangible assets,Intangible assets 16000 19200,16000,2018.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 16000 19200,19200,2017.0,£
+2,96.0,1.0,Stocks,Stocks 5000 5000,5000,2018.0,£
+3,96.0,0.0,Stocks,Stocks 5000 5000,5000,2017.0,£
+4,96.0,1.0,Debtors,Debtors 110763 97200,110763,2018.0,£
+5,96.0,0.0,Debtors,Debtors 110763 97200,97200,2017.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 56445 68810,56445,2018.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 56445 68810,68810,2017.0,£
+8,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 114718 116160,114718,2018.0,£
+9,95.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 114718 116160,116160,2017.0,£
+10,85.0,1.0,Net current assets,Net current assets 57490 54850,57490,2018.0,£
+11,0.0,0.0,Net current assets,Net current assets 57490 54850,54850,2017.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities  99946 74050,99946,2018.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities  99946 74050,74050,2017.0,£
+14,96.0,1.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 31592 19494,31592,2018.0,£
+15,95.0,0.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 31592 19494,19494,2017.0,£
+16,96.0,1.0,Provisions for liabilities,Provisions for liabilities 5094 106,5094,2018.0,£
+17,96.0,0.0,Provisions for liabilities,Provisions for liabilities 5094 106,106,2017.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 100 100,100,2018.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 100 100,100,2017.0,£
+20,95.0,1.0,Profit and loss account,Profit and loss account 63160 54350,63160,2018.0,£
+21,96.0,0.0,Profit and loss account,Profit and loss account 63160 54350,54350,2017.0,£

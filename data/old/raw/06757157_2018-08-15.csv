@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,68.0,1.0,Note,Note 000 000,000,2017.0,£000
+1,91.0,0.0,Note,Note 000 000,000,2016.0,£000
+2,96.0,1.0,Tangible assets,Tangible assets 10 33 31,33,2017.0,£000
+3,96.0,0.0,Tangible assets,Tangible assets 10 33 31,31,2016.0,£000
+4,96.0,1.0,Stocks .,Stocks . 41 7021 5460,7021,2017.0,£000
+5,96.0,0.0,Stocks .,Stocks . 41 7021 5460,5460,2016.0,£000
+6,96.0,1.0,Debtors,Debtors 12 4119 1826,4119,2017.0,£000
+7,94.0,0.0,Debtors,Debtors 12 4119 1826,1826,2016.0,£000
+8,94.0,1.0,Cash at bank and in hand,Cash at bank and in hand 13 573 291,573,2017.0,£000
+9,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 13 573 291,291,2016.0,£000
+10,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 14 12575 8452,12575,2017.0,£000
+11,95.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 14 12575 8452,8452,2016.0,£000
+12,96.0,1.0,Net current liabilities,Net current liabilities 862 875,862,2017.0,£000
+13,96.0,0.0,Net current liabilities,Net current liabilities 862 875,875,2016.0,£000
+14,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 829 844,829,2017.0,£000
+15,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 829 844,844,2016.0,£000
+16,96.0,1.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 14  17,14,2017.0,£000
+17,87.0,0.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 14  17,17,2016.0,£000
+18,96.0,1.0,Net liabilities,Net liabilities 829 861,829,2017.0,£000
+19,96.0,0.0,Net liabilities,Net liabilities 829 861,861,2016.0,£000
+20,96.0,1.0,Profit and loss account,Profit and loss account 829 861,829,2017.0,£000
+21,96.0,0.0,Profit and loss account,Profit and loss account 829 861,861,2016.0,£000
+22,96.0,1.0,Total equity,Total equity 829 861,829,2017.0,£000
+23,96.0,0.0,Total equity,Total equity 829 861,861,2016.0,£000

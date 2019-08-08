@@ -1,0 +1,11 @@
+,conf,currYr,label,source,value,year,unit
+0,97.0,1.0,Debtors,Debtors 2 4 4,4,2017.0,£
+1,97.0,0.0,Debtors,Debtors 2 4 4,4,2016.0,£
+2,95.0,1.0,Creditors amounts falling due within 3 one year,one year 1130 1130,1130,2017.0,£
+3,96.0,0.0,Creditors amounts falling due within 3 one year,one year 1130 1130,1130,2016.0,£
+4,96.0,1.0,Net current liabilities,Net current liabilities 1126 1126,1126,2017.0,£
+5,96.0,0.0,Net current liabilities,Net current liabilities 1126 1126,1126,2016.0,£
+6,95.0,1.0,Called up share capital,Called up share capital 4 1000 1000,1000,2017.0,£
+7,95.0,0.0,Called up share capital,Called up share capital 4 1000 1000,1000,2016.0,£
+8,96.0,1.0,Profit and loss reserves,Profit and loss reserves 2126 2126,2126,2017.0,£
+9,96.0,0.0,Profit and loss reserves,Profit and loss reserves 2126 2126,2126,2016.0,£

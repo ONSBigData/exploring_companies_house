@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2018 2017,2018,2018.0,£
+1,96.0,0.0,Note,Note 2018 2017,2017,2017.0,£
+2,94.0,1.0,Fixed assets Investments,Fixed assets Investments 7 7369 8,7369,2018.0,£
+3,96.0,0.0,Fixed assets Investments,Fixed assets Investments 7 7369 8,8,2017.0,£
+4,97.0,1.0,Other receivables,Other receivables 8 2 2,2,2018.0,£
+5,97.0,0.0,Other receivables,Other receivables 8 2 2,2,2017.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 9 14657 5865,14657,2018.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 9 14657 5865,5865,2017.0,£
+8,96.0,1.0,Net current liabilities,Net current liabilities 14655 5863,14655,2018.0,£
+9,96.0,0.0,Net current liabilities,Net current liabilities 14655 5863,5863,2017.0,£
+10,93.0,1.0,Net liabilities,Net liabilities 7286 5855,7286,2018.0,£
+11,95.0,0.0,Net liabilities,Net liabilities 7286 5855,5855,2017.0,£
+12,96.0,1.0,Ordinary shares Accumulated losses,Ordinary shares Accumulated losses 10 10 10 7296 5865,7296,2018.0,£
+13,96.0,0.0,Ordinary shares Accumulated losses,Ordinary shares Accumulated losses 10 10 10 7296 5865,5865,2017.0,£
+14,94.0,1.0,Total shareholders deficit,Total shareholders deficit 7286 5855,7286,2018.0,£
+15,96.0,0.0,Total shareholders deficit,Total shareholders deficit 7286 5855,5855,2017.0,£

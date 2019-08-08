@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 6 549591 390101,549591,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 6 549591 390101,390101,2016.0,£
+2,96.0,1.0,Debtors,Debtors 7 1485379 1484559,1485379,2017.0,£
+3,96.0,0.0,Debtors,Debtors 7 1485379 1484559,1484559,2016.0,£
+4,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 1067758 367868,1067758,2017.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 1067758 367868,367868,2016.0,£
+6,96.0,1.0,Creditors amounts falling due within 8 one year,one year 1477329 1396842,1477329,2017.0,£
+7,95.0,0.0,Creditors amounts falling due within 8 one year,one year 1477329 1396842,1396842,2016.0,£
+8,95.0,1.0,Net current assets,Net current assets 1075808 455585,1075808,2017.0,£
+9,96.0,0.0,Net current assets,Net current assets 1075808 455585,455585,2016.0,£
+10,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 1625399 845686,1625399,2017.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 1625399 845686,845686,2016.0,£
+12,96.0,1.0,Provisions for liabilities,Provisions for liabilities 10 55479,10,2017.0,£
+13,96.0,0.0,Provisions for liabilities,Provisions for liabilities 10 55479,55479,2016.0,£
+14,94.0,1.0,Net assets,Net assets 1569920 845686,1569920,2017.0,£
+15,96.0,0.0,Net assets,Net assets 1569920 845686,845686,2016.0,£
+16,94.0,1.0,Called up share capital,Called up share capital 10 4 1,4,2017.0,£
+17,91.0,0.0,Called up share capital,Called up share capital 10 4 1,1,2016.0,£
+18,95.0,1.0,Share premium account,Share premium account 199999 199999,199999,2017.0,£
+19,96.0,0.0,Share premium account,Share premium account 199999 199999,199999,2016.0,£
+20,95.0,1.0,Profit and loss reserves,Profit and loss reserves 1369920 645686,1369920,2017.0,£
+21,96.0,0.0,Profit and loss reserves,Profit and loss reserves 1369920 645686,645686,2016.0,£
+22,96.0,1.0,Total equity,Total equity 1569920 845686,1569920,2017.0,£
+23,96.0,0.0,Total equity,Total equity 1569920 845686,845686,2016.0,£

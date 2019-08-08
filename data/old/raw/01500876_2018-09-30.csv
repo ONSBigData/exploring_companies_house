@@ -1,0 +1,31 @@
+,conf,currYr,label,source,value,year,unit
+0,58.0,1.0,Note,Note 000 7000,000,2017.0,£000
+1,87.0,0.0,Note,Note 000 7000,7000,2016.0,£000
+2,93.0,1.0,Fixed assets ntatigible assets  Tangible assets,ntatigible assets 8 Tangible assets 9 4962 219 2612 281,2612,2017.0,£000
+3,96.0,0.0,Fixed assets ntatigible assets  Tangible assets,ntatigible assets 8 Tangible assets 9 4962 219 2612 281,281,2016.0,£000
+4,96.0,1.0,Stocks,Stocks 10 1959 1604,1959,2017.0,£000
+5,94.0,0.0,Stocks,Stocks 10 1959 1604,1604,2016.0,£000
+6,95.0,1.0,Debtors,Debtors   11 5061 7155,5061,2017.0,£000
+7,80.0,0.0,Debtors,Debtors   11 5061 7155,7155,2016.0,£000
+8,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 3244 5542,3244,2017.0,£000
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 3244 5542,5542,2016.0,£000
+10,95.0,1.0,Creditors amounts falling due within one year,within one year 12 4298 3431,4298,2017.0,£000
+11,96.0,0.0,Creditors amounts falling due within one year,within one year 12 4298 3431,3431,2016.0,£000
+12,96.0,1.0,Net current assets,Net current assets 5966 10870,5966,2017.0,£000
+13,93.0,0.0,Net current assets,Net current assets 5966 10870,10870,2016.0,£000
+14,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 11147 13763,11147,2017.0,£000
+15,92.0,0.0,Total assets less current liabilities,Total assets less current liabilities 11147 13763,13763,2016.0,£000
+16,96.0,1.0,Creditors amounts falling after more than one year,one year 14 781 762,781,2017.0,£000
+17,96.0,0.0,Creditors amounts falling after more than one year,one year 14 781 762,762,2016.0,£000
+18,96.0,1.0,Deferred tax liability,Deferred tax liability 7 468 280,468,2017.0,£000
+19,96.0,0.0,Deferred tax liability,Deferred tax liability 7 468 280,280,2016.0,£000
+20,92.0,1.0,Net assets,Net assets 9898 12721,9898,2017.0,£000
+21,96.0,0.0,Net assets,Net assets 9898 12721,12721,2016.0,£000
+22,96.0,1.0,Called up share capital,Called up share capital 15 619 619,619,2017.0,£000
+23,96.0,0.0,Called up share capital,Called up share capital 15 619 619,619,2016.0,£000
+24,96.0,1.0,Capital contribution rserve,Capital contribution rserve 439 353,439,2017.0,£000
+25,97.0,0.0,Capital contribution rserve,Capital contribution rserve 439 353,353,2016.0,£000
+26,95.0,1.0,Profit and loss account,Profit and loss account 8840 11749,8840,2017.0,£000
+27,88.0,0.0,Profit and loss account,Profit and loss account 8840 11749,11749,2016.0,£000
+28,94.0,1.0,Total shareholders funds,Total shareholders funds 9898 12721,9898,2017.0,£000
+29,96.0,0.0,Total shareholders funds,Total shareholders funds 9898 12721,12721,2016.0,£000

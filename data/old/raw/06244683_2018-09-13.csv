@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Fixed assets,Fixed assets 0 0,0,2017.0,£
+1,93.0,0.0,Fixed assets,Fixed assets 0 0,0,2016.0,£
+2,96.0,1.0,Current assets,Current assets 2501 2501,2501,2017.0,£
+3,96.0,0.0,Current assets,Current assets 2501 2501,2501,2016.0,£
+4,96.0,1.0,Prepayments and accrued income,Prepayments and accrued income 0 0,0,2017.0,£
+5,94.0,0.0,Prepayments and accrued income,Prepayments and accrued income 0 0,0,2016.0,£
+6,90.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 0 0,0,2017.0,£
+7,91.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 0 0,0,2016.0,£
+8,88.0,1.0,Net current assets,Net current assets 2501 2501,2501,2017.0,£
+9,96.0,0.0,Net current assets,Net current assets 2501 2501,2501,2016.0,£
+10,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 2501 2501,2501,2017.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 2501 2501,2501,2016.0,£
+12,95.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 0 0,0,2017.0,£
+13,91.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 0 0,0,2016.0,£
+14,91.0,1.0,Provisions for liabilities,Provisions for liabilities 0 0,0,2017.0,£
+15,88.0,0.0,Provisions for liabilities,Provisions for liabilities 0 0,0,2016.0,£
+16,96.0,1.0,Capital and reserves,Capital and reserves 2501 2501,2501,2017.0,£
+17,96.0,0.0,Capital and reserves,Capital and reserves 2501 2501,2501,2016.0,£

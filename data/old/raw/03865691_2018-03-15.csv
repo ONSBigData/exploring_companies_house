@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,September  September . Note,30September 30 September . Note 2017  2016   000  000,000,2017.0,£000
+1,93.0,0.0,September  September . Note,30September 30 September . Note 2017  2016   000  000,000,2016.0,£000
+2,95.0,1.0,Trade and other receivables,Trade and other receivables 7 1 1,1,2017.0,£000
+3,96.0,0.0,Trade and other receivables,Trade and other receivables 7 1 1,1,2016.0,£000
+4,95.0,1.0,Trade and other payables      NET CURRENT LIABILITIES .,Trade and other payables  8 9300  9300 NET CURRENT LIABILITIES . 9299 9299,9299,2017.0,£000
+5,94.0,0.0,Trade and other payables      NET CURRENT LIABILITIES .,Trade and other payables  8 9300  9300 NET CURRENT LIABILITIES . 9299 9299,9299,2016.0,£000
+6,0.0,1.0,NET LIABILITIES,NET LIABILITIES    875 875,875,2017.0,£000
+7,87.0,0.0,NET LIABILITIES,NET LIABILITIES    875 875,875,2016.0,£000
+8,96.0,1.0,Called up share capital .  .   Share premium account,Called up share capital .  9. 1441 1441 Share premium account  4899 4899,4899,2017.0,£000
+9,96.0,0.0,Called up share capital .  .   Share premium account,Called up share capital .  9. 1441 1441 Share premium account  4899 4899,4899,2016.0,£000
+10,91.0,1.0,Profit and loss account,Profit and loss account    7215 7215,7215,2017.0,£000
+11,96.0,0.0,Profit and loss account,Profit and loss account    7215 7215,7215,2016.0,£000
+12,96.0,1.0,SHAREHOLDERS DEFICITFUNDS,SHAREHOLDERS DEFICITFUNDS  875  875,875,2017.0,£000
+13,86.0,0.0,SHAREHOLDERS DEFICITFUNDS,SHAREHOLDERS DEFICITFUNDS  875  875,875,2016.0,£000

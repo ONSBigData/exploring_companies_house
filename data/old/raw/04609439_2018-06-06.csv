@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,90.0,1.0,Intangible assets,Intangible assets 4 749 1249,749,2017.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 4 749 1249,1249,2016.0,£
+2,95.0,1.0,Tangible assets,Tangible assets 5 20717 22054,20717,2017.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 5 20717 22054,22054,2016.0,£
+4,96.0,1.0,Stocks,Stocks 6 52521 102999,52521,2017.0,£
+5,94.0,0.0,Stocks,Stocks 6 52521 102999,102999,2016.0,£
+6,87.0,1.0,Debtors,Debtors 7 799097 363243,799097,2017.0,£
+7,96.0,0.0,Debtors,Debtors 7 799097 363243,363243,2016.0,£
+8,82.0,1.0,Cash at bank and in hand,Cash at bank and in hand 610848 533967,610848,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 610848 533967,533967,2016.0,£
+10,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 8 317826 113884,317826,2017.0,£
+11,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 8 317826 113884,113884,2016.0,£
+12,96.0,1.0,Net current assets,Net current assets 1144640 886325,1144640,2017.0,£
+13,96.0,0.0,Net current assets,Net current assets 1144640 886325,886325,2016.0,£
+14,96.0,1.0,Total assets Jess current liabilities,Total assets Jess current liabilities 1166106 909628,1166106,2017.0,£
+15,95.0,0.0,Total assets Jess current liabilities,Total assets Jess current liabilities 1166106 909628,909628,2016.0,£
+16,95.0,1.0,Provisions for liabilities,Provisions for liabilities 1629 1423,1629,2017.0,£
+17,79.0,0.0,Provisions for liabilities,Provisions for liabilities 1629 1423,1423,2016.0,£
+18,96.0,1.0,Net assets,Net assets 1164477 908205,1164477,2017.0,£
+19,95.0,0.0,Net assets,Net assets 1164477 908205,908205,2016.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 5100 5100,5100,2017.0,£
+21,91.0,0.0,Called up share capital,Called up share capital 5100 5100,5100,2016.0,£
+22,95.0,1.0,Profit and loss account,Profit and loss account 1159377 903105,1159377,2017.0,£
+23,96.0,0.0,Profit and loss account,Profit and loss account 1159377 903105,903105,2016.0,£
+24,96.0,1.0,Total equity,Total equity 1164477 908205,1164477,2017.0,£
+25,95.0,0.0,Total equity,Total equity 1164477 908205,908205,2016.0,£

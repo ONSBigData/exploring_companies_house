@@ -1,0 +1,63 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Investments,Investments 10 1317530 1317530,1317530,2017.0,£
+1,96.0,0.0,Investments,Investments 10 1317530 1317530,1317530,2016.0,£
+2,94.0,1.0,Debtors,Debtors 1 20523506 20523506,20523506,2017.0,£
+3,90.0,0.0,Debtors,Debtors 1 20523506 20523506,20523506,2016.0,£
+4,93.0,1.0,Cash,Cash 4282 4444,4282,2017.0,£
+5,96.0,0.0,Cash,Cash 4282 4444,4444,2016.0,£
+6,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 13 15524631 12796122,15524631,2017.0,£
+7,64.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 13 15524631 12796122,12796122,2016.0,£
+8,95.0,1.0,Net current assets,Net current assets 003157 7731828,003157,2017.0,£
+9,91.0,0.0,Net current assets,Net current assets 003157 7731828,7731828,2016.0,£
+10,93.0,1.0,Total assets less current liabilities,Total assets less current liabilities 6320687 9049358,6320687,2017.0,£
+11,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 6320687 9049358,9049358,2016.0,£
+12,95.0,1.0,Creditors amounts falling due after more than 14 one year,one year 14323021 13084919,14323021,2017.0,£
+13,96.0,0.0,Creditors amounts falling due after more than 14 one year,one year 14323021 13084919,13084919,2016.0,£
+14,96.0,1.0,Net liabilities,Net liabilities 8002334 4035561,8002334,2017.0,£
+15,95.0,0.0,Net liabilities,Net liabilities 8002334 4035561,4035561,2016.0,£
+16,97.0,1.0,Called up share capital,Called up share capital 16 200 200,200,2017.0,£
+17,96.0,0.0,Called up share capital,Called up share capital 16 200 200,200,2016.0,£
+18,95.0,1.0,Profit and loss account,Profit and loss account 16 8002534 4035761,8002534,2017.0,£
+19,96.0,0.0,Profit and loss account,Profit and loss account 16 8002534 4035761,4035761,2016.0,£
+20,96.0,1.0,Shareholders deficit,Shareholders deficit 8002334 4035561,8002334,2017.0,£
+21,96.0,0.0,Shareholders deficit,Shareholders deficit 8002334 4035561,4035561,2016.0,£
+0,94.0,1.0,Loans,Loans 14323021 13084919 14323021 13084919,14323021,2017.0,£
+1,90.0,0.0,Loans,Loans 14323021 13084919 14323021 13084919,13084919,2016.0,£
+2,95.0,1.0,Loan,Loan 1 14323021 13084919 14323021 13084919,14323021,2017.0,£
+3,96.0,0.0,Loan,Loan 1 14323021 13084919 14323021 13084919,13084919,2016.0,£
+4,94.0,1.0,Loan,Loan 2 15299257 12796121 15299257 12796121,15299257,2017.0,£
+5,96.0,0.0,Loan,Loan 2 15299257 12796121 15299257 12796121,12796121,2016.0,£
+6,95.0,1.0,Accelerated capital allowances,Accelerated capital allowances 214457 240171,214457,2017.0,£
+7,96.0,0.0,Accelerated capital allowances,Accelerated capital allowances 214457 240171,240171,2016.0,£
+8,96.0,1.0,Other,Other 12346 25714,12346,2017.0,£
+9,96.0,0.0,Other,Other 12346 25714,25714,2016.0,£
+10,96.0,1.0,Tax assets  liabilities,Tax assets  liabilities 226803 214457,226803,2017.0,£
+11,96.0,0.0,Tax assets  liabilities,Tax assets  liabilities 226803 214457,214457,2016.0,£
+12,95.0,1.0,The deferred tax asset at  August  has been calculated based on the rate of   August,The deferred tax asset at 31 August 2017 has been calculated based on the rate of 17 3 August 2016 18,2016,2017.0,£
+13,93.0,0.0,The deferred tax asset at  August  has been calculated based on the rate of   August,The deferred tax asset at 31 August 2017 has been calculated based on the rate of 17 3 August 2016 18,18,2016.0,£
+0,96.0,1.0,Negative goodwill,Negative goodwill 2 5983248 6332988,5983248,2017.0,£
+1,95.0,0.0,Negative goodwill,Negative goodwill 2 5983248 6332988,6332988,2016.0,£
+2,96.0,1.0,Tangible assets Oo,Tangible assets Oo 22741167 23463803,22741167,2017.0,£
+3,96.0,0.0,Tangible assets Oo,Tangible assets Oo 22741167 23463803,23463803,2016.0,£
+4,96.0,1.0,Debtors,Debtors 11 460809 2205727,460809,2017.0,£
+5,96.0,0.0,Debtors,Debtors 11 460809 2205727,2205727,2016.0,£
+6,96.0,1.0,Cash,Cash 1321588 790567,1321588,2017.0,£
+7,95.0,0.0,Cash,Cash 1321588 790567,790567,2016.0,£
+8,94.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 13 16480979 13171315,16480979,2017.0,£
+9,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 13 16480979 13171315,13171315,2016.0,£
+10,96.0,1.0,Net current liabilities,Net current liabilities 14698582 10175021,14698582,2017.0,£
+11,96.0,0.0,Net current liabilities,Net current liabilities 14698582 10175021,10175021,2016.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 2059337 6955794,2059337,2017.0,£
+13,94.0,0.0,Total assets less current liabilities,Total assets less current liabilities 2059337 6955794,6955794,2016.0,£
+14,96.0,1.0,Creditors amounts falling due after more than one year,one year 14 14323021 13084919,14323021,2017.0,£
+15,96.0,0.0,Creditors amounts falling due after more than one year,one year 14 14323021 13084919,13084919,2016.0,£
+16,96.0,1.0,Deferred tax,Deferred tax 15 226803 214457,226803,2017.0,£
+17,96.0,0.0,Deferred tax,Deferred tax 15 226803 214457,214457,2016.0,£
+18,95.0,1.0,Net liabilities,Net liabilities 12490487 6343582,12490487,2017.0,£
+19,96.0,0.0,Net liabilities,Net liabilities 12490487 6343582,6343582,2016.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 16 200 200,200,2017.0,£
+21,96.0,0.0,Called up share capital,Called up share capital 16 200 200,200,2016.0,£
+22,96.0,1.0,Profit and loss account,Profit and loss account 16 12490687 6343782,12490687,2017.0,£
+23,96.0,0.0,Profit and loss account,Profit and loss account 16 12490687 6343782,6343782,2016.0,£
+24,95.0,1.0,Shareholders deficit,Shareholders deficit 12490487 6343582,12490487,2017.0,£
+25,96.0,0.0,Shareholders deficit,Shareholders deficit 12490487 6343582,6343582,2016.0,£

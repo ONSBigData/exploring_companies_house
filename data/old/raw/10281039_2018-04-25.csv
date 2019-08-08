@@ -1,0 +1,9 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Called up share capital,Called up share capital 10 100,10,2017.0,£
+1,95.0,0.0,Called up share capital,Called up share capital 10 100,100,2016.0,£
+0,96.0,1.0,Tangible assets,Tangible assets 5 2769,5,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 5 2769,2769,2016.0,£
+2,96.0,1.0,Debtors,Debtors 6 4907,6,2017.0,£
+3,97.0,0.0,Debtors,Debtors 6 4907,4907,2016.0,£
+4,96.0,1.0,CREDITORS amounts falling due within one year,CREDITORS amounts falling due within one year 7 6987,7,2017.0,£
+5,94.0,0.0,CREDITORS amounts falling due within one year,CREDITORS amounts falling due within one year 7 6987,6987,2016.0,£

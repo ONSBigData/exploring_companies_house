@@ -1,0 +1,45 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Notes,Notes 2018 2017,2018,2018.0,£
+1,96.0,0.0,Notes,Notes 2018 2017,2017,2017.0,£
+2,96.0,1.0,Tangible fixed Assets,Tangible fixed Assets 1 1761,1,2018.0,£
+3,81.0,0.0,Tangible fixed Assets,Tangible fixed Assets 1 1761,1761,2017.0,£
+4,96.0,1.0,Debtors,Debtors 12 62317 60410,62317,2018.0,£
+5,96.0,0.0,Debtors,Debtors 12 62317 60410,60410,2017.0,£
+6,67.0,1.0,Cash at Bank and in hand,Cash at Bank and in hand 336363 523200,336363,2018.0,£
+7,90.0,0.0,Cash at Bank and in hand,Cash at Bank and in hand 336363 523200,523200,2017.0,£
+8,94.0,1.0,Totat Current Assets,Totat Current Assets 398680 583611,398680,2018.0,£
+9,96.0,0.0,Totat Current Assets,Totat Current Assets 398680 583611,583611,2017.0,£
+10,96.0,1.0,Creditors,Creditors  13 6047 26339,6047,2018.0,£
+11,95.0,0.0,Creditors,Creditors  13 6047 26339,26339,2017.0,£
+12,96.0,1.0,Tota Current Liabilities,Tota Current Liabilities  6047 26339,6047,2018.0,£
+13,96.0,0.0,Tota Current Liabilities,Tota Current Liabilities  6047 26339,26339,2017.0,£
+14,49.0,1.0,Net Current Assets,Net Current Assets 392633 587271,392633,2018.0,£
+15,96.0,0.0,Net Current Assets,Net Current Assets 392633 587271,587271,2017.0,£
+16,86.0,1.0,Totai Assets less Liabilities,Totai Assets less Liabilities 393513 559032,393513,2018.0,£
+17,96.0,0.0,Totai Assets less Liabilities,Totai Assets less Liabilities 393513 559032,559032,2017.0,£
+18,94.0,1.0,Unrestricted Funds,Unrestricted Funds 15 315526 496183,315526,2018.0,£
+19,95.0,0.0,Unrestricted Funds,Unrestricted Funds 15 315526 496183,496183,2017.0,£
+20,96.0,1.0,Restricted Funds,Restricted Funds 15 77987 62849,77987,2018.0,£
+21,86.0,0.0,Restricted Funds,Restricted Funds 15 77987 62849,62849,2017.0,£
+22,96.0,1.0,Total of Accumulated Funds carried forward,Total of Accumulated Funds carried forward 393513 559032,393513,2018.0,£
+23,96.0,0.0,Total of Accumulated Funds carried forward,Total of Accumulated Funds carried forward 393513 559032,559032,2017.0,£
+0,96.0,1.0,Donations and Legacies Other Trading Activities Income from Investments Income from Charitable Activities onan,Donations and Legacies Other Trading Activities Income from Investments Income from Charitable Activities onan 85794 3402 5790 116 299957 3402 5790 116 385751 13942 4898 1364 476350,1364,2018.0,£
+1,96.0,0.0,Donations and Legacies Other Trading Activities Income from Investments Income from Charitable Activities onan,Donations and Legacies Other Trading Activities Income from Investments Income from Charitable Activities onan 85794 3402 5790 116 299957 3402 5790 116 385751 13942 4898 1364 476350,476350,2017.0,£
+2,94.0,1.0,Total income,Total income 85794 309265 395059 496553,395059,2018.0,£
+3,96.0,0.0,Total income,Total income 85794 309265 395059 496553,496553,2017.0,£
+4,96.0,1.0,Raising Funds,Raising Funds 30 100 30100 20450,30100,2018.0,£
+5,96.0,0.0,Raising Funds,Raising Funds 30 100 30100 20450,20450,2017.0,£
+6,94.0,1.0,Charitable Activities,Charitable Activities 100845 429632 530478 637465,530478,2018.0,£
+7,53.0,0.0,Charitable Activities,Charitable Activities 100845 429632 530478 637465,637465,2017.0,£
+8,96.0,1.0,Total Expenditure,Total Expenditure 100846 459732 560578 657914,560578,2018.0,£
+9,96.0,0.0,Total Expenditure,Total Expenditure 100846 459732 560578 657914,657914,2017.0,£
+10,96.0,1.0,Net income   v,Net income 15052 150467 v 165519 161362,165519,2018.0,£
+11,95.0,0.0,Net income   v,Net income 15052 150467 v 165519 161362,161362,2017.0,£
+12,73.0,1.0,Inter Fund Transfers,Inter Fund Transfers 18 30190  30190,30190,2018.0,£
+13,13.0,0.0,Inter Fund Transfers,Inter Fund Transfers 18 30190  30190,30190,2017.0,£
+14,90.0,1.0,Net Movement in Funds    reo,Net Movement in Funds 30190  180657 reo 165519 161362,165519,2018.0,£
+15,96.0,0.0,Net Movement in Funds    reo,Net Movement in Funds 30190  180657 reo 165519 161362,161362,2017.0,£
+16,96.0,1.0,Total Funds Brought Forward,Total Funds Brought Forward 15 62849 496 183 559032 720394,559032,2018.0,£
+17,41.0,0.0,Total Funds Brought Forward,Total Funds Brought Forward 15 62849 496 183 559032 720394,720394,2017.0,£
+18,56.0,1.0,Total Funds Carried Forward,Total Funds Carried Forward 15 7798 315526 393513  569032,393513,2018.0,£
+19,85.0,0.0,Total Funds Carried Forward,Total Funds Carried Forward 15 7798 315526 393513  569032,569032,2017.0,£

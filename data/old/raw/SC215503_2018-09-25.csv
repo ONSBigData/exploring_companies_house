@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,92.0,1.0,Investments,Investments 10 1325755 1422674,1325755,2018.0,£
+1,96.0,0.0,Investments,Investments 10 1325755 1422674,1422674,2017.0,£
+2,96.0,1.0,Debtors,Debtors 11 357174 232098,357174,2018.0,£
+3,96.0,0.0,Debtors,Debtors 11 357174 232098,232098,2017.0,£
+4,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 12 22266 20444,22266,2018.0,£
+5,93.0,0.0,Cash at bank and in hand,Cash at bank and in hand 12 22266 20444,20444,2017.0,£
+6,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 13 251575 201466,251575,2018.0,£
+7,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 13 251575 201466,201466,2017.0,£
+8,93.0,1.0,Net current assets,Net current assets 127865 51076,127865,2018.0,£
+9,96.0,0.0,Net current assets,Net current assets 127865 51076,51076,2017.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 1453620 1473750,1453620,2018.0,£
+11,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 1453620 1473750,1473750,2017.0,£
+12,96.0,1.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 13 409103 452625,409103,2018.0,£
+13,95.0,0.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 13 409103 452625,452625,2017.0,£
+14,95.0,1.0,Net assets,Net assets 1044517 1021125,1044517,2018.0,£
+15,94.0,0.0,Net assets,Net assets 1044517 1021125,1021125,2017.0,£
+16,95.0,1.0,Called up share capital,Called up share capital 15 319688 319688,319688,2018.0,£
+17,96.0,0.0,Called up share capital,Called up share capital 15 319688 319688,319688,2017.0,£
+18,94.0,1.0,Profit and loss account,Profit and loss account 724829 701437,724829,2018.0,£
+19,93.0,0.0,Profit and loss account,Profit and loss account 724829 701437,701437,2017.0,£
+20,94.0,1.0,Total equity,Total equity 1044517 1021125,1044517,2018.0,£
+21,95.0,0.0,Total equity,Total equity 1044517 1021125,1021125,2017.0,£

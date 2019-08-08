@@ -1,0 +1,9 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors,Debtors 2 4709 4737,4709,2017.0,£
+1,96.0,0.0,Debtors,Debtors 2 4709 4737,4737,2016.0,£
+2,95.0,1.0,Creditors amounts falling due within one year,one year 3 4707 4819,4707,2017.0,£
+3,96.0,0.0,Creditors amounts falling due within one year,one year 3 4707 4819,4819,2016.0,£
+4,97.0,1.0,Net current assets,Net current assets 2 2,2,2017.0,£
+5,96.0,0.0,Net current assets,Net current assets 2 2,2,2016.0,£
+6,96.0,1.0,Called up share capital,Called up share capital 4 2 2,2,2017.0,£
+7,97.0,0.0,Called up share capital,Called up share capital 4 2 2,2,2016.0,£

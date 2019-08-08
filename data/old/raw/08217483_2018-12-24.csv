@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,93.0,1.0,Tangible assets,Tangible assets 2 6891 165,6891,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 2 6891 165,165,2017.0,£
+2,96.0,1.0,Investment properties,Investment properties 3 1400000 1290550,1400000,2018.0,£
+3,96.0,0.0,Investment properties,Investment properties 3 1400000 1290550,1290550,2017.0,£
+4,95.0,1.0,Debtors,Debtors 4 21317 22322,21317,2018.0,£
+5,96.0,0.0,Debtors,Debtors 4 21317 22322,22322,2017.0,£
+6,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 18446 22683,18446,2018.0,£
+7,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 18446 22683,22683,2017.0,£
+8,91.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 5 888247 938440,888247,2018.0,£
+9,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 5 888247 938440,938440,2017.0,£
+10,96.0,1.0,Net current liabilities,Net current liabilities 848484 893435,848484,2018.0,£
+11,96.0,0.0,Net current liabilities,Net current liabilities 848484 893435,893435,2017.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 558407 397280,558407,2018.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 558407 397280,397280,2017.0,£
+14,96.0,1.0,Provisions for liabilities,Provisions for liabilities 23747 23747,23747,2018.0,£
+15,96.0,0.0,Provisions for liabilities,Provisions for liabilities 23747 23747,23747,2017.0,£
+16,96.0,1.0,Net assets,Net assets 534660 373533,534660,2018.0,£
+17,76.0,0.0,Net assets,Net assets 534660 373533,373533,2017.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 6 100 100,100,2018.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 6 100 100,100,2017.0,£
+20,96.0,1.0,Revaluation reserve    Profit and loss reserves,Revaluation reserve 7 300703 191253 Profit and loss reserves 233857 182180,233857,2018.0,£
+21,96.0,0.0,Revaluation reserve    Profit and loss reserves,Revaluation reserve 7 300703 191253 Profit and loss reserves 233857 182180,182180,2017.0,£
+22,96.0,1.0,Total equity,Total equity 534660 373533,534660,2018.0,£
+23,96.0,0.0,Total equity,Total equity 534660 373533,373533,2017.0,£

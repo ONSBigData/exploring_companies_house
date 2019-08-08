@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 9 339003 243218,339003,2017.0,£
+1,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 9 339003 243218,243218,2016.0,£
+2,94.0,1.0,Cash at bank and in hand,Cash at bank and in hand 1100 1215,1100,2017.0,£
+3,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 1100 1215,1215,2016.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,year 10 19235 819,19235,2017.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,year 10 19235 819,819,2016.0,£
+6,96.0,1.0,Net current assets, Net current assets   320868 243614,320868,2017.0,£
+7,90.0,0.0,Net current assets, Net current assets   320868 243614,243614,2016.0,£
+8,94.0,1.0,Total assets less current liabilities,Total assets less current liabilities 320868 243614,320868,2017.0,£
+9,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 320868 243614,243614,2016.0,£
+10,67.0,1.0,Called up share capital,Called up share capital 11 1 4,1,2017.0,£
+11,93.0,0.0,Called up share capital,Called up share capital 11 1 4,4,2016.0,£
+12,96.0,1.0,Profit and loss account,Profit and loss account 12 320867 243613,320867,2017.0,£
+13,96.0,0.0,Profit and loss account,Profit and loss account 12 320867 243613,243613,2016.0,£
+14,86.0,1.0,Equity attributable to the owners of the parent company,parent company  320868 243614,320868,2017.0,£
+15,42.0,0.0,Equity attributable to the owners of the parent company,parent company  320868 243614,243614,2016.0,£

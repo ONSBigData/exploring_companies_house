@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Tangible assets,Tangible assets 4 207651 67438,207651,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 4 207651 67438,67438,2017.0,£
+2,92.0,1.0,Stocks,Stocks 5 64150 64340,64150,2018.0,£
+3,96.0,0.0,Stocks,Stocks 5 64150 64340,64340,2017.0,£
+4,96.0,1.0,Debtors,Debtors 6 160909 111568,160909,2018.0,£
+5,96.0,0.0,Debtors,Debtors 6 160909 111568,111568,2017.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 32300 86195,32300,2018.0,£
+7,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 32300 86195,86195,2017.0,£
+8,92.0,1.0,Creditors Amounts falling due within one year i,Creditors Amounts falling due within one year i 189136 118059,189136,2018.0,£
+9,94.0,0.0,Creditors Amounts falling due within one year i,Creditors Amounts falling due within one year i 189136 118059,118059,2017.0,£
+10,95.0,1.0,Net current assets,Net current assets 68223 144044,68223,2018.0,£
+11,96.0,0.0,Net current assets,Net current assets 68223 144044,144044,2017.0,£
+12,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 275874 211482,275874,2018.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 275874 211482,211482,2017.0,£
+14,96.0,1.0,Creditors Amounts falling due after more than one year i,Creditors Amounts falling due after more than one year i 110154 16052,110154,2018.0,£
+15,78.0,0.0,Creditors Amounts falling due after more than one year i,Creditors Amounts falling due after more than one year i 110154 16052,16052,2017.0,£
+16,95.0,1.0,Provisions for liabilities,Provisions for liabilities 9871 13487,9871,2018.0,£
+17,64.0,0.0,Provisions for liabilities,Provisions for liabilities 9871 13487,13487,2017.0,£
+18,41.0,1.0,Net assets,Net assets 155849 181943,155849,2018.0,£
+19,95.0,0.0,Net assets,Net assets 155849 181943,181943,2017.0,£
+20,96.0,1.0,Called up share carital,Called up share carital 8 2500 2500,2500,2018.0,£
+21,95.0,0.0,Called up share carital,Called up share carital 8 2500 2500,2500,2017.0,£
+22,96.0,1.0,Profit and loss account,Profit and loss account 153349 179443,153349,2018.0,£
+23,95.0,0.0,Profit and loss account,Profit and loss account 153349 179443,179443,2017.0,£

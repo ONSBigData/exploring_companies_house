@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,None Notes,None Notes 2015 2014,2015,2015.0,£
+1,95.0,0.0,None Notes,None Notes 2015 2014,2014,2014.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 4 2061250 2069000,2061250,2015.0,£
+3,90.0,0.0,Tangible assets,Tangible assets 4 2061250 2069000,2069000,2014.0,£
+4,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 1 1,1,2015.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 1 1,1,2014.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 5 2100000 2100000,2100000,2015.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 5 2100000 2100000,2100000,2014.0,£
+8,96.0,1.0,Net current liabilities,Net current liabilities 2099999 2099999,2099999,2015.0,£
+9,96.0,0.0,Net current liabilities,Net current liabilities 2099999 2099999,2099999,2014.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities  38749 30999,38749,2015.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities  38749 30999,30999,2014.0,£
+12,96.0,1.0,Called up share capital,Called up share capital 6 1 1,1,2015.0,£
+13,96.0,0.0,Called up share capital,Called up share capital 6 1 1,1,2014.0,£
+14,95.0,1.0,Profit and loss account,Profit and loss account 7 38750 31000,38750,2015.0,£
+15,96.0,0.0,Profit and loss account,Profit and loss account 7 38750 31000,31000,2014.0,£
+16,96.0,1.0,Shareholders funds,Shareholders funds 38749 30999,38749,2015.0,£
+17,96.0,0.0,Shareholders funds,Shareholders funds 38749 30999,30999,2014.0,£

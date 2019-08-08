@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5 1435207 998270,1435207,2017.0,£
+1,71.0,0.0,Tangible assets,Tangible assets 5 1435207 998270,998270,2016.0,£
+2,96.0,1.0,Investments,Investments 6 750 750,750,2017.0,£
+3,96.0,0.0,Investments,Investments 6 750 750,750,2016.0,£
+4,96.0,1.0,Stocks,Stocks 476693 475005,476693,2017.0,£
+5,96.0,0.0,Stocks,Stocks 476693 475005,475005,2016.0,£
+6,96.0,1.0,Debtors,Debtors 7 1160437 1324599,1160437,2017.0,£
+7,68.0,0.0,Debtors,Debtors 7 1160437 1324599,1324599,2016.0,£
+8,93.0,1.0,Cash at bank and in hand,Cash at bank and in hand 91561 294837,91561,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 91561 294837,294837,2016.0,£
+10,93.0,1.0,Creditors amounts falling due within one year,within one year 8 372371 377214,372371,2017.0,£
+11,65.0,0.0,Creditors amounts falling due within one year,within one year 8 372371 377214,377214,2016.0,£
+12,96.0,1.0,Net current assets,Net current assets 1356320 1717227,1356320,2017.0,£
+13,94.0,0.0,Net current assets,Net current assets 1356320 1717227,1717227,2016.0,£
+14,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 2792277 2716247,2792277,2017.0,£
+15,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 2792277 2716247,2716247,2016.0,£
+16,0.0,1.0,Provisions for liabilities,Provisions for liabilities 52903 47382,52903,2017.0,£
+17,95.0,0.0,Provisions for liabilities,Provisions for liabilities 52903 47382,47382,2016.0,£
+18,95.0,1.0,Net assets,Net assets 2739374 2668865,2739374,2017.0,£
+19,95.0,0.0,Net assets,Net assets 2739374 2668865,2668865,2016.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 4000 1000,4000,2017.0,£
+21,77.0,0.0,Called up share capital,Called up share capital 4000 1000,1000,2016.0,£
+22,96.0,1.0,Profit and loss account,Profit and loss account 2738374 2667865,2738374,2017.0,£
+23,96.0,0.0,Profit and loss account,Profit and loss account 2738374 2667865,2667865,2016.0,£
+24,96.0,1.0,Shareholders funds,Shareholders funds 2739374 2668865,2739374,2017.0,£
+25,96.0,0.0,Shareholders funds,Shareholders funds 2739374 2668865,2668865,2016.0,£

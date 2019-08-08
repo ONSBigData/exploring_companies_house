@@ -1,0 +1,11 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 7 9427,7,2017.0,$1
+1,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 7 9427,9427,2016.0,$1
+2,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 8 4539,8,2017.0,$1
+3,94.0,0.0,Cash at bank and in hand,Cash at bank and in hand 8 4539,4539,2016.0,$1
+4,95.0,1.0,Creditors amounts falling due within one year.,Creditors amounts falling due within one year. 10 32182,10,2017.0,$1
+5,95.0,0.0,Creditors amounts falling due within one year.,Creditors amounts falling due within one year. 10 32182,32182,2016.0,$1
+6,96.0,1.0,Called up share capital,Called up share capital 11 118,11,2017.0,$1
+7,94.0,0.0,Called up share capital,Called up share capital 11 118,118,2016.0,$1
+8,96.0,1.0,Profit and loss account,Profit and loss account 12 18334,12,2017.0,$1
+9,96.0,0.0,Profit and loss account,Profit and loss account 12 18334,18334,2016.0,$1

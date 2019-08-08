@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Tangible asscts,Tangible asscts 4 3244 185,3244,2017.0,£
+1,95.0,0.0,Tangible asscts,Tangible asscts 4 3244 185,185,2016.0,£
+2,96.0,1.0,Debtors,Debtors 5 6462 648,6462,2017.0,£
+3,96.0,0.0,Debtors,Debtors 5 6462 648,648,2016.0,£
+4,96.0,1.0,Cash at bank,Cash at bank 2254 4392,2254,2017.0,£
+5,94.0,0.0,Cash at bank,Cash at bank 2254 4392,4392,2016.0,£
+6,95.0,1.0,Amounts falling due within one year,Amounts falling due within one year 6 4574 3519,4574,2017.0,£
+7,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 6 4574 3519,3519,2016.0,£
+8,83.0,1.0,None NET CURRENT ASSETS,None NET CURRENT ASSETS 4142 1521,4142,2017.0,£
+9,95.0,0.0,None NET CURRENT ASSETS,None NET CURRENT ASSETS 4142 1521,1521,2016.0,£
+10,96.0,1.0,LIABILITIES,LIABILITIES 7386 1706,7386,2017.0,£
+11,96.0,0.0,LIABILITIES,LIABILITIES 7386 1706,1706,2016.0,£
+12,96.0,1.0,NET ASSETS,NET ASSETS 6737 1706,6737,2017.0,£
+13,95.0,0.0,NET ASSETS,NET ASSETS 6737 1706,1706,2016.0,£
+14,96.0,1.0,Called up share capital,Called up share capital 8 8,8,2017.0,£
+15,96.0,0.0,Called up share capital,Called up share capital 8 8,8,2016.0,£
+16,95.0,1.0,None Retained earnings,None Retained earnings 6729 1698,6729,2017.0,£
+17,95.0,0.0,None Retained earnings,None Retained earnings 6729 1698,1698,2016.0,£
+18,96.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 6737 1706,6737,2017.0,£
+19,95.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 6737 1706,1706,2016.0,£

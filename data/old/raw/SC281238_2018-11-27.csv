@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 3 1432 1913,1432,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 3 1432 1913,1913,2017.0,£
+2,96.0,1.0,Stocks,Stocks 41008 40049,41008,2018.0,£
+3,96.0,0.0,Stocks,Stocks 41008 40049,40049,2017.0,£
+4,96.0,1.0,Debtors,Debtors 4 13371 11651,13371,2018.0,£
+5,96.0,0.0,Debtors,Debtors 4 13371 11651,11651,2017.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 1691 1989,1691,2018.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 1691 1989,1989,2017.0,£
+8,96.0,1.0,Creditors amounts falling due within one year,one year 5 39084 51998,39084,2018.0,£
+9,96.0,0.0,Creditors amounts falling due within one year,one year 5 39084 51998,51998,2017.0,£
+10,96.0,1.0,Net current assets,Net current assets 16986 1691,16986,2018.0,£
+11,96.0,0.0,Net current assets,Net current assets 16986 1691,1691,2017.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 18418 3604,18418,2018.0,£
+13,87.0,0.0,Total assets less current liabilities,Total assets less current liabilities 18418 3604,3604,2017.0,£
+14,96.0,1.0,Creditors amounts falling due after more than one year,more than one year 6 96057 108953,96057,2018.0,£
+15,94.0,0.0,Creditors amounts falling due after more than one year,more than one year 6 96057 108953,108953,2017.0,£
+16,96.0,1.0,Net liabilities,Net liabilities 77639 105349,77639,2018.0,£
+17,95.0,0.0,Net liabilities,Net liabilities 77639 105349,105349,2017.0,£
+18,96.0,1.0,Profit and loss reserves,Profit and loss reserves 77641 105351,77641,2018.0,£
+19,96.0,0.0,Profit and loss reserves,Profit and loss reserves 77641 105351,105351,2017.0,£
+20,96.0,1.0,Total equity,Total equity 77639 105349,77639,2018.0,£
+21,96.0,0.0,Total equity,Total equity 77639 105349,105349,2017.0,£

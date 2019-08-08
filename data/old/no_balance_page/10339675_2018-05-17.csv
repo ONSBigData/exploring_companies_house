@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Year,Year 2017 2016,2017,2017.0,£0
+1,95.0,0.0,Year,Year 2017 2016,2016,2016.0,£0
+2,96.0,1.0,Directors loan account,Directors loan account 0 0,0,2017.0,£0
+3,96.0,0.0,Directors loan account,Directors loan account 0 0,0,2016.0,£0
+4,96.0,1.0,Trade creditors,Trade creditors 60 0,60,2017.0,£0
+5,96.0,0.0,Trade creditors,Trade creditors 60 0,0,2016.0,£0
+6,97.0,1.0,Corporation tax,Corporation tax 642 0,642,2017.0,£0
+7,96.0,0.0,Corporation tax,Corporation tax 642 0,0,2016.0,£0
+8,96.0,1.0,Other tax and social security,Other tax and social security 92 0,92,2017.0,£0
+9,96.0,0.0,Other tax and social security,Other tax and social security 92 0,0,2016.0,£0
+10,96.0,1.0,Other creditors,Other creditors 0 0,0,2017.0,£0
+11,95.0,0.0,Other creditors,Other creditors 0 0,0,2016.0,£0
+12,96.0,1.0,Total,Total 794 0,794,2017.0,£0
+13,96.0,0.0,Total,Total 794 0,0,2016.0,£0

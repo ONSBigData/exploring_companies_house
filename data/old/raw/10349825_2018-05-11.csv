@@ -1,0 +1,9 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Tangible assets,Tangible assets 6 78912,6,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 6 78912,78912,2016.0,£
+2,96.0,1.0,Debtors,Debtors 7 45491,7,2017.0,£
+3,96.0,0.0,Debtors,Debtors 7 45491,45491,2016.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 112785,8,2017.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 112785,112785,2016.0,£
+6,95.0,1.0,Creditors amounts falling due after one year,Creditors amounts falling due after one year 9 70000,9,2017.0,£
+7,96.0,0.0,Creditors amounts falling due after one year,Creditors amounts falling due after one year 9 70000,70000,2016.0,£

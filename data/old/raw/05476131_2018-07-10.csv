@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,92.0,1.0, i,i 07072018 91,07072018,2018.0,£
+1,96.0,0.0, i,i 07072018 91,91,2017.0,£
+0,95.0,1.0,Notes,Notes 2018 2017,2018,2018.0,£
+1,96.0,0.0,Notes,Notes 2018 2017,2017,2017.0,£
+2,96.0,1.0,Tangible Assets,Tangible Assets 2 4814 3346,4814,2018.0,£
+3,96.0,0.0,Tangible Assets,Tangible Assets 2 4814 3346,3346,2017.0,£
+4,88.0,1.0,Debtors,Debtors 3 11782 1856,11782,2018.0,£
+5,95.0,0.0,Debtors,Debtors 3 11782 1856,1856,2017.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 31361 16152,31361,2018.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 31361 16152,16152,2017.0,£
+8,96.0,1.0,CREDITORS Amounts falling due within one year,43143 18008 CREDITORS Amounts falling due within one year 4 30618 14277,30618,2018.0,£
+9,95.0,0.0,CREDITORS Amounts falling due within one year,43143 18008 CREDITORS Amounts falling due within one year 4 30618 14277,14277,2017.0,£
+10,94.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 12525 3731,12525,2018.0,£
+11,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 12525 3731,3731,2017.0,£
+12,96.0,1.0,Provisions for Liabilities  deferred taxation,Provisions for Liabilities  deferred taxation 456 456,456,2018.0,£
+13,96.0,0.0,Provisions for Liabilities  deferred taxation,Provisions for Liabilities  deferred taxation 456 456,456,2017.0,£
+14,88.0,1.0,NET ASSETS,NET ASSETS  16883  6621,16883,2018.0,£
+15,81.0,0.0,NET ASSETS,NET ASSETS  16883  6621,6621,2017.0,£
+16,96.0,1.0,Called up share capital   Profit and loss account,Called up share capital 100 100 Profit and loss account 16783 6521,16783,2018.0,£
+17,96.0,0.0,Called up share capital   Profit and loss account,Called up share capital 100 100 Profit and loss account 16783 6521,6521,2017.0,£
+18,95.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS  16883  6621,16883,2018.0,£
+19,74.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS  16883  6621,6621,2017.0,£

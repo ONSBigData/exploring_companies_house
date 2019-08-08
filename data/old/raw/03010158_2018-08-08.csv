@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,64.0,1.0,Note,Note 000 000,000,2017.0,£'000
+1,1.0,0.0,Note,Note 000 000,000,2016.0,£'000
+2,96.0,1.0,Tangible assets,Tangible assets 38426 38698,38426,2017.0,£'000
+3,96.0,0.0,Tangible assets,Tangible assets 38426 38698,38698,2016.0,£'000
+4,88.0,1.0,Stocks,Stocks 1942 1668,1942,2017.0,£'000
+5,96.0,0.0,Stocks,Stocks 1942 1668,1668,2016.0,£'000
+6,94.0,1.0,Debtors,Debtors 7612 10385,7612,2017.0,£'000
+7,95.0,0.0,Debtors,Debtors 7612 10385,10385,2016.0,£'000
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 6735 292,6735,2017.0,£'000
+9,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 6735 292,292,2016.0,£'000
+10,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 14 8801 10070,8801,2017.0,£'000
+11,95.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 14 8801 10070,10070,2016.0,£'000
+12,94.0,1.0,Net current assets,Net current assets 7488 2275,7488,2017.0,£'000
+13,93.0,0.0,Net current assets,Net current assets 7488 2275,2275,2016.0,£'000
+14,96.0,1.0,Total assets fess current liabilities,Total assets fess current liabilities  45914 40973,45914,2017.0,£'000
+15,31.0,0.0,Total assets fess current liabilities,Total assets fess current liabilities  45914 40973,40973,2016.0,£'000
+16,96.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 15 35076 26187,35076,2017.0,£'000
+17,96.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 15 35076 26187,26187,2016.0,£'000
+18,85.0,1.0,Net assets,Net assets 10838 14786,10838,2017.0,£'000
+19,96.0,0.0,Net assets,Net assets 10838 14786,14786,2016.0,£'000
+20,96.0,1.0,Called up share capital,Called up share capital 16 610 610,610,2017.0,£'000
+21,95.0,0.0,Called up share capital,Called up share capital 16 610 610,610,2016.0,£'000
+22,93.0,1.0,Profit and loss. account,Profit and loss. account 10228 14176,10228,2017.0,£'000
+23,96.0,0.0,Profit and loss. account,Profit and loss. account 10228 14176,14176,2016.0,£'000
+24,96.0,1.0,Total equity,Total equity 10838 14786,10838,2017.0,£'000
+25,96.0,0.0,Total equity,Total equity 10838 14786,14786,2016.0,£'000

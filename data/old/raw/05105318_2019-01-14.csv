@@ -1,0 +1,5 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors,Debtors 100 100,100,2018.0,£
+1,96.0,0.0,Debtors,Debtors 100 100,100,2017.0,£
+2,95.0,1.0,Creditors,Creditors  39732 39732,39732,2018.0,£
+3,96.0,0.0,Creditors,Creditors  39732 39732,39732,2017.0,£

@@ -1,0 +1,31 @@
+,conf,currYr,label,source,value,year,unit
+0,93.0,1.0,Investments,Investments 5 489528 482764,489528,2017.0,£
+1,95.0,0.0,Investments,Investments 5 489528 482764,482764,2016.0,£
+2,96.0,1.0,Debtors,Debtors 6 1988 1996,1988,2017.0,£
+3,96.0,0.0,Debtors,Debtors 6 1988 1996,1996,2016.0,£
+4,96.0,1.0,Cash at bank,Cash at bank 199522 179158,199522,2017.0,£
+5,96.0,0.0,Cash at bank,Cash at bank 199522 179158,179158,2016.0,£
+6,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 7 3534 3535,3534,2017.0,£
+7,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 7 3534 3535,3535,2016.0,£
+8,96.0,1.0,Net current assets,Net current assets 197976 177619,197976,2017.0,£
+9,96.0,0.0,Net current assets,Net current assets 197976 177619,177619,2016.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 687504 660383,687504,2017.0,£
+11,91.0,0.0,Total assets less current liabilities,Total assets less current liabilities 687504 660383,660383,2016.0,£
+12,96.0,1.0,Net assets,Net assets 687504 660383,687504,2017.0,£
+13,81.0,0.0,Net assets,Net assets 687504 660383,660383,2016.0,£
+14,96.0,1.0,Capital accounts,Capital accounts 8 273560 273560,273560,2017.0,£
+15,95.0,0.0,Capital accounts,Capital accounts 8 273560 273560,273560,2016.0,£
+16,95.0,1.0,Current accounts,Current accounts 8 413944 386823,413944,2017.0,£
+17,96.0,0.0,Current accounts,Current accounts 8 413944 386823,386823,2016.0,£
+0,91.0,1.0,Investments,Investments 7 755 725,755,2017.0,£
+1,93.0,0.0,Investments,Investments 7 755 725,725,2016.0,£
+2,89.0,1.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 755 725,755,2017.0,£
+3,94.0,0.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 755 725,725,2016.0,£
+4,89.0,1.0,Deferred tax,Deferred tax 8 40 39,40,2017.0,£
+5,96.0,0.0,Deferred tax,Deferred tax 8 40 39,39,2016.0,£
+6,96.0,1.0,NET ASSETS,NET ASSETS 715 686,715,2017.0,£
+7,94.0,0.0,NET ASSETS,NET ASSETS 715 686,686,2016.0,£
+8,96.0,1.0,Called up share capital,Called up share capital 9 300 300,300,2017.0,£
+9,96.0,0.0,Called up share capital,Called up share capital 9 300 300,300,2016.0,£
+10,96.0,1.0,Retained earnings,Retained earnings 415 386,415,2017.0,£
+11,96.0,0.0,Retained earnings,Retained earnings 415 386,386,2016.0,£

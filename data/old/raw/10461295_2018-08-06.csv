@@ -1,0 +1,9 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Investment property,Investment property 4 1250000,4,2018.0,£
+1,96.0,0.0,Investment property,Investment property 4 1250000,1250000,2017.0,£
+2,96.0,1.0,Debtors,Debtors 5 147,5,2018.0,£
+3,95.0,0.0,Debtors,Debtors 5 147,147,2017.0,£
+4,95.0,1.0,Amounts falling due within one year,Amounts falling due within one year 6 64846,6,2018.0,£
+5,97.0,0.0,Amounts falling due within one year,Amounts falling due within one year 6 64846,64846,2017.0,£
+6,96.0,1.0,Amounts falling due after more than one year,year 7 1157192,7,2018.0,£
+7,96.0,0.0,Amounts falling due after more than one year,year 7 1157192,1157192,2017.0,£

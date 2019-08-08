@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2017 2016,2017,2017.0,£
+1,96.0,0.0,Note,Note 2017 2016,2016,2016.0,£
+2,95.0,1.0,Tangible Fixed Assets,Tangible Fixed Assets 39 582070 488071,582070,2017.0,£
+3,96.0,0.0,Tangible Fixed Assets,Tangible Fixed Assets 39 582070 488071,488071,2016.0,£
+4,95.0,1.0,Debtors,Debtors 4 2056606 1437038,2056606,2017.0,£
+5,95.0,0.0,Debtors,Debtors 4 2056606 1437038,1437038,2016.0,£
+6,96.0,1.0,Rent guarantee held,Rent guarantee held 378248 378059,378248,2017.0,£
+7,96.0,0.0,Rent guarantee held,Rent guarantee held 378248 378059,378059,2016.0,£
+8,91.0,1.0,Cash at bank and in hand,Cash at bank and in hand 154914 493490,154914,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 154914 493490,493490,2016.0,£
+10,96.0,1.0,Creditors amounts falling due within one year,within one year 5 802433 701900,802433,2017.0,£
+11,94.0,0.0,Creditors amounts falling due within one year,within one year 5 802433 701900,701900,2016.0,£
+12,95.0,1.0,Net current assets,Net current assets 1787335 1606687,1787335,2017.0,£
+13,96.0,0.0,Net current assets,Net current assets 1787335 1606687,1606687,2016.0,£
+14,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 2369405 2094758,2369405,2017.0,£
+15,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 2369405 2094758,2094758,2016.0,£
+16,96.0,1.0,Creditors amounts falling due after more than one year,after more than one year 6 56684 12754,56684,2017.0,£
+17,96.0,0.0,Creditors amounts falling due after more than one year,after more than one year 6 56684 12754,12754,2016.0,£
+18,96.0,1.0,NET ASSETS,NET ASSETS  2312721 2082004,2312721,2017.0,£
+19,96.0,0.0,NET ASSETS,NET ASSETS  2312721 2082004,2082004,2016.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 7 100 100,100,2017.0,£
+21,96.0,0.0,Called up share capital,Called up share capital 7 100 100,100,2016.0,£
+22,95.0,1.0,Profit and loss account,Profit and loss account 2312621 2081904,2312621,2017.0,£
+23,96.0,0.0,Profit and loss account,Profit and loss account 2312621 2081904,2081904,2016.0,£
+24,95.0,1.0,TOTAL SHAREHOLDERS FUNDS,TOTAL SHAREHOLDERS FUNDS  2312721 2082004,2312721,2017.0,£
+25,96.0,0.0,TOTAL SHAREHOLDERS FUNDS,TOTAL SHAREHOLDERS FUNDS  2312721 2082004,2082004,2016.0,£

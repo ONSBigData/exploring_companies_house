@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Notes,Notes 2018 2017,2018,2018.0,£
+1,96.0,0.0,Notes,Notes 2018 2017,2017,2017.0,£
+2,96.0,1.0,Tangible Assets,Tangible Assets 4 16629 16629,16629,2018.0,£
+3,96.0,0.0,Tangible Assets,Tangible Assets 4 16629 16629,16629,2017.0,£
+4,96.0,1.0,Debtors,Debtors 5 58651 49989,58651,2018.0,£
+5,96.0,0.0,Debtors,Debtors 5 58651 49989,49989,2017.0,£
+6,95.0,1.0,CREDITORS amounts falling due within one year,due within one year 6 3720 9534,3720,2018.0,£
+7,94.0,0.0,CREDITORS amounts falling due within one year,due within one year 6 3720 9534,9534,2017.0,£
+8,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 54931 40455,54931,2018.0,£
+9,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 54931 40455,40455,2017.0,£
+10,96.0,1.0,CREDITORS amounts falling due after more than one year,after more than one year 7 52423 37947,52423,2018.0,£
+11,84.0,0.0,CREDITORS amounts falling due after more than one year,after more than one year 7 52423 37947,37947,2017.0,£
+12,94.0,1.0,NET ASSETS,NET ASSETS 19137 19137,19137,2018.0,£
+13,96.0,0.0,NET ASSETS,NET ASSETS 19137 19137,19137,2017.0,£
+14,96.0,1.0,Called Up Share Capital,Called Up Share Capital 8 6 6,6,2018.0,£
+15,96.0,0.0,Called Up Share Capital,Called Up Share Capital 8 6 6,6,2017.0,£
+16,20.0,1.0,Share Premium Account,Share Premium Account 9 19131 19131 19137  19137,19137,2018.0,£
+17,20.0,0.0,Share Premium Account,Share Premium Account 9 19131 19131 19137  19137,19137,2017.0,£

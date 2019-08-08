@@ -1,0 +1,29 @@
+,conf,currYr,label,source,value,year,unit
+0,87.0,1.0,Investment properties,Investment properties 2 905000 905000,905000,2018.0,£
+1,87.0,0.0,Investment properties,Investment properties 2 905000 905000,905000,2017.0,£
+2,96.0,1.0,Stocks,Stocks 6620852 6620852,6620852,2018.0,£
+3,96.0,0.0,Stocks,Stocks 6620852 6620852,6620852,2017.0,£
+4,96.0,1.0,Debtors,Debtors 3  375921 274518,375921,2018.0,£
+5,96.0,0.0,Debtors,Debtors 3  375921 274518,274518,2017.0,£
+6,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 166665 98022,166665,2018.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 166665 98022,98022,2017.0,£
+8,96.0,1.0,Creditors amounts falling due within one year,year 4 225565 73966,225565,2018.0,£
+9,96.0,0.0,Creditors amounts falling due within one year,year 4 225565 73966,73966,2017.0,£
+10,95.0,1.0,Net current assets,Net current assets 6937873 6919426,6937873,2018.0,£
+11,95.0,0.0,Net current assets,Net current assets 6937873 6919426,6919426,2017.0,£
+12,92.0,1.0,Total assets less current liabilities,Total assets less current liabilities 7842873 7824426,7842873,2018.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 7842873 7824426,7824426,2017.0,£
+14,96.0,1.0,Creditors amounts falling due after more than one year,than one year 5 695701 843126,695701,2018.0,£
+15,96.0,0.0,Creditors amounts falling due after more than one year,than one year 5 695701 843126,843126,2017.0,£
+16,96.0,1.0,Provisions for liabilities,Provisions for liabilities 474725 477646,474725,2018.0,£
+17,96.0,0.0,Provisions for liabilities,Provisions for liabilities 474725 477646,477646,2017.0,£
+18,95.0,1.0,Net assets,Net assets 6672447 6503654,6672447,2018.0,£
+19,96.0,0.0,Net assets,Net assets 6672447 6503654,6503654,2017.0,£
+20,93.0,1.0,Called up share capital,Called up share capital 6 2002 2002,2002,2018.0,£
+21,96.0,0.0,Called up share capital,Called up share capital 6 2002 2002,2002,2017.0,£
+22,69.0,1.0,Investment property reserves,Investment property reserves 4818572 4815651,4818572,2018.0,£
+23,95.0,0.0,Investment property reserves,Investment property reserves 4818572 4815651,4815651,2017.0,£
+24,95.0,1.0,Profit and loss reserves,Profit and loss reserves 1851873 1686001,1851873,2018.0,£
+25,94.0,0.0,Profit and loss reserves,Profit and loss reserves 1851873 1686001,1686001,2017.0,£
+26,49.0,1.0,Total equity,Total equity 6672447 6503654,6672447,2018.0,£
+27,96.0,0.0,Total equity,Total equity 6672447 6503654,6503654,2017.0,£

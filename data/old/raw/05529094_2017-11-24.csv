@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Fixed assets,Fixed assets 4800 8059,4800,2017.0,£
+1,95.0,0.0,Fixed assets,Fixed assets 4800 8059,8059,2016.0,£
+2,96.0,1.0,Current assets Prepayments and accrued income,Current assets Prepayments and accrued income 9661 27476 808 433,808,2017.0,£
+3,96.0,0.0,Current assets Prepayments and accrued income,Current assets Prepayments and accrued income 9661 27476 808 433,433,2016.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8436 11357,8436,2017.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8436 11357,11357,2016.0,£
+6,95.0,1.0,Net current assets,Net current assets 2033 16552,2033,2017.0,£
+7,96.0,0.0,Net current assets,Net current assets 2033 16552,16552,2016.0,£
+8,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 6833 24611,6833,2017.0,£
+9,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 6833 24611,24611,2016.0,£
+10,96.0,1.0,Accruals and deferred income,Accruals and deferred income 6278 4853,6278,2017.0,£
+11,94.0,0.0,Accruals and deferred income,Accruals and deferred income 6278 4853,4853,2016.0,£
+12,96.0,1.0,Capital and reserves,Capital and reserves 555 19758,555,2017.0,£
+13,96.0,0.0,Capital and reserves,Capital and reserves 555 19758,19758,2016.0,£
+14,96.0,1.0,M Langridge,M Langridge 13282 30025 39500 3807,39500,2017.0,£
+15,96.0,0.0,M Langridge,M Langridge 13282 30025 39500 3807,3807,2016.0,£
+16,76.0,1.0,M Langridge,M Langridge 6870 32622 12470 13282,12470,2017.0,£
+17,96.0,0.0,M Langridge,M Langridge 6870 32622 12470 13282,13282,2016.0,£

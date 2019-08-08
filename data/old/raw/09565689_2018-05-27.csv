@@ -1,0 +1,43 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Intangible assets,Intangible assets 0 0,0,2017.0,£
+1,83.0,0.0,Intangible assets,Intangible assets 0 0,0,2016.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 0 0,0,2017.0,£
+3,61.0,0.0,Tangible assets,Tangible assets 0 0,0,2016.0,£
+4,95.0,1.0,Investments,Investments 0 0,0,2017.0,£
+5,87.0,0.0,Investments,Investments 0 0,0,2016.0,£
+6,96.0,1.0,Total fixed assets,Total fixed assets 0 0,0,2017.0,£
+7,80.0,0.0,Total fixed assets,Total fixed assets 0 0,0,2016.0,£
+8,96.0,1.0,Stocks,Stocks 0 0,0,2017.0,£
+9,85.0,0.0,Stocks,Stocks 0 0,0,2016.0,£
+10,93.0,1.0,Debtors,Debtors 9415 11912,9415,2017.0,£
+11,93.0,0.0,Debtors,Debtors 9415 11912,11912,2016.0,£
+12,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 414548 252628,414548,2017.0,£
+13,93.0,0.0,Cash at bank and in hand,Cash at bank and in hand 414548 252628,252628,2016.0,£
+14,96.0,1.0,Investments,Investments 0 0,0,2017.0,£
+15,94.0,0.0,Investments,Investments 0 0,0,2016.0,£
+16,96.0,1.0,Total current assets,Total current assets 423963 264540,423963,2017.0,£
+17,96.0,0.0,Total current assets,Total current assets 423963 264540,264540,2016.0,£
+18,93.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 420598 264366,420598,2017.0,£
+19,95.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 420598 264366,264366,2016.0,£
+20,96.0,1.0,Net current assets liabilities,Net current assets liabilities 3365 174,3365,2017.0,£
+21,94.0,0.0,Net current assets liabilities,Net current assets liabilities 3365 174,174,2016.0,£
+22,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 3365 174,3365,2017.0,£
+23,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 3365 174,174,2016.0,£
+24,96.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 0 0,0,2017.0,£
+25,93.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 0 0,0,2016.0,£
+26,90.0,1.0,Provision for liabilities,Provision for liabilities 0 0,0,2017.0,£
+27,76.0,0.0,Provision for liabilities,Provision for liabilities 0 0,0,2016.0,£
+28,93.0,1.0,Total net assets liabilities,Total net assets liabilities 3365 174,3365,2017.0,£
+29,94.0,0.0,Total net assets liabilities,Total net assets liabilities 3365 174,174,2016.0,£
+30,96.0,1.0,Called up share capital,Called up share capital 2 2,2,2017.0,£
+31,96.0,0.0,Called up share capital,Called up share capital 2 2,2,2016.0,£
+32,96.0,1.0,Share premium account,Share premium account 0 0,0,2017.0,£
+33,77.0,0.0,Share premium account,Share premium account 0 0,0,2016.0,£
+34,96.0,1.0,Revaluation reserve,Revaluation reserve 0 0,0,2017.0,£
+35,75.0,0.0,Revaluation reserve,Revaluation reserve 0 0,0,2016.0,£
+36,95.0,1.0,Other reserves,Other reserves 0 0,0,2017.0,£
+37,87.0,0.0,Other reserves,Other reserves 0 0,0,2016.0,£
+38,96.0,1.0,Profit and loss account,Profit and loss account 3363 172,3363,2017.0,£
+39,96.0,0.0,Profit and loss account,Profit and loss account 3363 172,172,2016.0,£
+40,96.0,1.0,Shareholders tunds,Shareholders tunds 3365 174,3365,2017.0,£
+41,91.0,0.0,Shareholders tunds,Shareholders tunds 3365 174,174,2016.0,£

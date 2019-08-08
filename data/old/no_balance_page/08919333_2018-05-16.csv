@@ -1,0 +1,35 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 4 12313 17557,12313,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 4 12313 17557,17557,2016.0,£
+2,95.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 6 100893 203527,100893,2017.0,£
+3,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 6 100893 203527,203527,2016.0,£
+4,94.0,1.0,Cash at bank and in hand,Cash at bank and in hand 7 92753 215296,92753,2017.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 7 92753 215296,215296,2016.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,year 8 160114 177707,160114,2017.0,£
+7,95.0,0.0,Creditors amounts falling due within one year,year 8 160114 177707,177707,2016.0,£
+8,95.0,1.0,Net current assets,Net current assets 33532 241116,33532,2017.0,£
+9,95.0,0.0,Net current assets,Net current assets 33532 241116,241116,2016.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 343845 258673,343845,2017.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 343845 258673,258673,2016.0,£
+12,96.0,1.0,Net assets,Net assets 343845 258673,343845,2017.0,£
+13,96.0,0.0,Net assets,Net assets 343845 258673,258673,2016.0,£
+14,95.0,1.0,Called up share capital,Called up share capital 3 3,3,2017.0,£
+15,96.0,0.0,Called up share capital,Called up share capital 3 3,3,2016.0,£
+16,55.0,1.0,Profit and loss account,Profit and loss account 343842 258670,343842,2017.0,£
+17,96.0,0.0,Profit and loss account,Profit and loss account 343842 258670,258670,2016.0,£
+0,96.0,1.0,At  September,At 1 September 2016 25185 10737 35922,10737,2017.0,£
+1,95.0,0.0,At  September,At 1 September 2016 25185 10737 35922,35922,2016.0,£
+2,96.0,1.0,Additions,Additions  4739 4739,4739,2017.0,£
+3,96.0,0.0,Additions,Additions  4739 4739,4739,2016.0,£
+4,96.0,1.0,At  August,At 31 August 2017 25185 15476 40661,15476,2017.0,£
+5,96.0,0.0,At  August,At 31 August 2017 25185 15476 40661,40661,2016.0,£
+6,96.0,1.0,At  September,At 1 September 2016 15740 2625 18365,2625,2017.0,£
+7,96.0,0.0,At  September,At 1 September 2016 15740 2625 18365,18365,2016.0,£
+8,96.0,1.0,Charge for the year on owned assets,Charge for the year on owned assets 6297 3686 9983,3686,2017.0,£
+9,96.0,0.0,Charge for the year on owned assets,Charge for the year on owned assets 6297 3686 9983,9983,2016.0,£
+10,95.0,1.0,At  August,At 31 August 2017 22037 6311 28348,6311,2017.0,£
+11,96.0,0.0,At  August,At 31 August 2017 22037 6311 28348,28348,2016.0,£
+12,96.0,1.0,At  August,At 31 August 2017 3148 9165 12313,9165,2017.0,£
+13,96.0,0.0,At  August,At 31 August 2017 3148 9165 12313,12313,2016.0,£
+14,96.0,1.0,At  August,At 31 August 2016 9445 8112 17557,8112,2017.0,£
+15,95.0,0.0,At  August,At 31 August 2016 9445 8112 17557,17557,2016.0,£

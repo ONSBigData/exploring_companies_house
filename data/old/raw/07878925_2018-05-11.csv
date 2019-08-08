@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 4 19631 29610,19631,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 4 19631 29610,29610,2016.0,£
+2,96.0,1.0,Debtors,Debtors 5 43545 13194,43545,2017.0,£
+3,96.0,0.0,Debtors,Debtors 5 43545 13194,13194,2016.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,within one year 6 110561 95112,110561,2017.0,£
+5,75.0,0.0,Creditors amounts falling due within one year,within one year 6 110561 95112,95112,2016.0,£
+6,96.0,1.0,Net current liabilities,Net current liabilities 7633 29480,7633,2017.0,£
+7,96.0,0.0,Net current liabilities,Net current liabilities 7633 29480,29480,2016.0,£
+8,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 11998 130,11998,2017.0,£
+9,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 11998 130,130,2016.0,£
+10,96.0,1.0,Net assets,Net assets 8520 130,8520,2017.0,£
+11,96.0,0.0,Net assets,Net assets 8520 130,130,2016.0,£
+12,90.0,1.0,Called up share capital,Called up share capital 1 1,1,2017.0,£
+13,95.0,0.0,Called up share capital,Called up share capital 1 1,1,2016.0,£
+14,96.0,1.0,Profit and loss account,Profit and loss account 8519 129,8519,2017.0,£
+15,83.0,0.0,Profit and loss account,Profit and loss account 8519 129,129,2016.0,£
+16,95.0,1.0,Shareholders funds,Shareholders funds 8520 130,8520,2017.0,£
+17,95.0,0.0,Shareholders funds,Shareholders funds 8520 130,130,2016.0,£

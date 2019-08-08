@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Tangible Assets,Tangible Assets 1 0,1,2017.0,£
+1,94.0,0.0,Tangible Assets,Tangible Assets 1 0,0,2016.0,£
+2,93.0,1.0,Stocks,Stocks 0 0,0,2017.0,£
+3,93.0,0.0,Stocks,Stocks 0 0,0,2016.0,£
+4,89.0,1.0,Debtors,Debtors 0 0,0,2017.0,£
+5,95.0,0.0,Debtors,Debtors 0 0,0,2016.0,£
+6,96.0,1.0,Bank and cash in hand,Bank and cash in hand 147 147  200 200,200,2017.0,£
+7,96.0,0.0,Bank and cash in hand,Bank and cash in hand 147 147  200 200,200,2016.0,£
+8,93.0,1.0,CREDITORS  amounts falling due within one year,CREDITORS  amounts falling due within one year 360 240,360,2017.0,£
+9,92.0,0.0,CREDITORS  amounts falling due within one year,CREDITORS  amounts falling due within one year 360 240,240,2016.0,£
+10,96.0,1.0,.Called up equity share capital,.Called up equity share capital 2 400 100,400,2017.0,£
+11,27.0,0.0,.Called up equity share capital,.Called up equity share capital 2 400 100,100,2016.0,£
+12,92.0,1.0,Profit  Loss Account,Profit  Loss Account 313 176,313,2017.0,£
+13,89.0,0.0,Profit  Loss Account,Profit  Loss Account 313 176,176,2016.0,£

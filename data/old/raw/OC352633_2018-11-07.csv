@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Tangible fixed assets,Tangible fixed assets 4 209780 203273,209780,2018.0,£
+1,96.0,0.0,Tangible fixed assets,Tangible fixed assets 4 209780 203273,203273,2017.0,£
+2,96.0,1.0,Stocks,Stocks 10350 10350,10350,2018.0,£
+3,95.0,0.0,Stocks,Stocks 10350 10350,10350,2017.0,£
+4,95.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 5 730769 534883,730769,2018.0,£
+5,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 5 730769 534883,534883,2017.0,£
+6,96.0,1.0,Bank and cash balances,Bank and cash balances 1081 3,1081,2018.0,£
+7,95.0,0.0,Bank and cash balances,Bank and cash balances 1081 3,3,2017.0,£
+8,96.0,1.0,Creditors amounts falling due within one year,year 6 763773 586621,763773,2018.0,£
+9,96.0,0.0,Creditors amounts falling due within one year,year 6 763773 586621,586621,2017.0,£
+10,96.0,1.0,Net current liabilities,Net current liabilities 21573 41385,21573,2018.0,£
+11,95.0,0.0,Net current liabilities,Net current liabilities 21573 41385,41385,2017.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 188207 161888,188207,2018.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 188207 161888,161888,2017.0,£
+14,96.0,1.0,Creditors amounts falling due after more than one year,than one year 7 60808 23826,60808,2018.0,£
+15,96.0,0.0,Creditors amounts falling due after more than one year,than one year 7 60808 23826,23826,2017.0,£
+16,96.0,1.0,Net assets,Net assets 127399 138062,127399,2018.0,£
+17,96.0,0.0,Net assets,Net assets 127399 138062,138062,2017.0,£
+18,96.0,1.0,Other amounts,Other amounts 8 127399 138062,127399,2018.0,£
+19,96.0,0.0,Other amounts,Other amounts 8 127399 138062,138062,2017.0,£
+20,95.0,1.0,Loans and other debts due to members,Loans and other debts due to members 8 127399 138062,127399,2018.0,£
+21,96.0,0.0,Loans and other debts due to members,Loans and other debts due to members 8 127399 138062,138062,2017.0,£

@@ -1,0 +1,33 @@
+,conf,currYr,label,source,value,year,unit
+0,81.0,1.0,Note,Note 000 000,000,2018.0,£000
+1,71.0,0.0,Note,Note 000 000,000,2017.0,£000
+2,96.0,1.0,Intangible assets,Intangible assets 4051 4688,4051,2018.0,£000
+3,95.0,0.0,Intangible assets,Intangible assets 4051 4688,4688,2017.0,£000
+4,95.0,1.0,Plant and equipment,Plant and equipment 10 39545 10321,39545,2018.0,£000
+5,96.0,0.0,Plant and equipment,Plant and equipment 10 39545 10321,10321,2017.0,£000
+6,96.0,1.0,Stocks,Stocks 5097 4606,5097,2018.0,£000
+7,95.0,0.0,Stocks,Stocks 5097 4606,4606,2017.0,£000
+8,92.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 86992 62051,86992,2018.0,£000
+9,95.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 86992 62051,62051,2017.0,£000
+10,96.0,1.0,Derivative financial instruments,Derivative financial instruments 473 194,473,2018.0,£000
+11,96.0,0.0,Derivative financial instruments,Derivative financial instruments 473 194,194,2017.0,£000
+12,90.0,1.0,Cash at bank and in hand,Cash at bank and in hand 118076 88283,118076,2018.0,£000
+13,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 118076 88283,88283,2017.0,£000
+14,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 16 202388 151569,202388,2018.0,£000
+15,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 16 202388 151569,151569,2017.0,£000
+16,96.0,1.0,Net current assets,Net current assets 8250 3565,8250,2018.0,£000
+17,95.0,0.0,Net current assets,Net current assets 8250 3565,3565,2017.0,£000
+18,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 51846 18574,51846,2018.0,£000
+19,91.0,0.0,Total assets less current liabilities,Total assets less current liabilities 51846 18574,18574,2017.0,£000
+20,96.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 17 30648 429,30648,2018.0,£000
+21,96.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 17 30648 429,429,2017.0,£000
+22,95.0,1.0,Provisions,Provisions 18 574 1259,574,2018.0,£000
+23,96.0,0.0,Provisions,Provisions 18 574 1259,1259,2017.0,£000
+24,95.0,1.0,Net assets,Net assets 20624 16886,20624,2018.0,£000
+25,95.0,0.0,Net assets,Net assets 20624 16886,16886,2017.0,£000
+26,96.0,1.0,Hedging reserve,Hedging reserve 393 155,393,2018.0,£000
+27,96.0,0.0,Hedging reserve,Hedging reserve 393 155,155,2017.0,£000
+28,96.0,1.0,Profit and loss account,Profit and loss account 20231 16731,20231,2018.0,£000
+29,96.0,0.0,Profit and loss account,Profit and loss account 20231 16731,16731,2017.0,£000
+30,96.0,1.0,Shareholders funds,Shareholders funds 20624 16886,20624,2018.0,£000
+31,95.0,0.0,Shareholders funds,Shareholders funds 20624 16886,16886,2017.0,£000

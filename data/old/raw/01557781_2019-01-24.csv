@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Notes,Notes 2018 2017,2018,2018.0,£
+1,95.0,0.0,Notes,Notes 2018 2017,2017,2017.0,£
+2,96.0,1.0,Cash at bank,Cash at bank 53415 28762,53415,2018.0,£
+3,96.0,0.0,Cash at bank,Cash at bank 53415 28762,28762,2017.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,within one year 2 119275 97731,119275,2018.0,£
+5,82.0,0.0,Creditors amounts falling due within one year,within one year 2 119275 97731,97731,2017.0,£
+6,95.0,1.0,Net current liabilities,Net current liabilities 65860 68969,65860,2018.0,£
+7,96.0,0.0,Net current liabilities,Net current liabilities 65860 68969,68969,2017.0,£
+8,96.0,1.0,Net liabilities,Net liabilities 65858 68967,65858,2018.0,£
+9,93.0,0.0,Net liabilities,Net liabilities 65858 68967,68967,2017.0,£
+10,94.0,1.0,Called up share capital,Called up share capital 9 9,9,2018.0,£
+11,91.0,0.0,Called up share capital,Called up share capital 9 9,9,2017.0,£
+12,96.0,1.0,Profit and loss account,Profit and loss account 65867 68976,65867,2018.0,£
+13,82.0,0.0,Profit and loss account,Profit and loss account 65867 68976,68976,2017.0,£
+14,96.0,1.0,Shareholders funds,Shareholders funds 65858 68967,65858,2018.0,£
+15,95.0,0.0,Shareholders funds,Shareholders funds 65858 68967,68967,2017.0,£

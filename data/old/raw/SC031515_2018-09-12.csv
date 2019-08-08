@@ -1,0 +1,9 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Debtors,Debtors 10 10,10,2017.0,£
+1,96.0,0.0,Debtors,Debtors 10 10,10,2016.0,£
+2,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 10 10,10,2017.0,£
+3,93.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 10 10,10,2016.0,£
+4,96.0,1.0,Called up share capital,Called up share capital 99200 99200,99200,2017.0,£
+5,96.0,0.0,Called up share capital,Called up share capital 99200 99200,99200,2016.0,£
+6,95.0,1.0,Profit  loss account,Profit  loss account 99200 99200,99200,2017.0,£
+7,94.0,0.0,Profit  loss account,Profit  loss account 99200 99200,99200,2016.0,£

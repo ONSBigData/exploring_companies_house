@@ -1,0 +1,29 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2018 2017,2018,2006.0,£
+1,96.0,0.0,Note,Note 2018 2017,2017,2005.0,£
+2,96.0,1.0,FIXED ASSETS,FIXED ASSETS 4 20864 29140,20864,2006.0,£
+3,96.0,0.0,FIXED ASSETS,FIXED ASSETS 4 20864 29140,29140,2005.0,£
+4,95.0,1.0,Stock,Stock 644 787,644,2006.0,£
+5,96.0,0.0,Stock,Stock 644 787,787,2005.0,£
+6,96.0,1.0,Debtors,Debtors 14926 12501,14926,2006.0,£
+7,96.0,0.0,Debtors,Debtors 14926 12501,12501,2005.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 21979 23725,21979,2006.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 21979 23725,23725,2005.0,£
+10,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 50122 56892,50122,2006.0,£
+11,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 50122 56892,56892,2005.0,£
+12,96.0,1.0,NET CURRENT LIABILITIES,NET CURRENT LIABILITIES 12573 19879,12573,2006.0,£
+13,96.0,0.0,NET CURRENT LIABILITIES,NET CURRENT LIABILITIES 12573 19879,19879,2005.0,£
+14,96.0,1.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 8291 9261,8291,2006.0,£
+15,95.0,0.0,TOTAL ASSETS LESS CURRENT LIABILITIES,TOTAL ASSETS LESS CURRENT LIABILITIES 8291 9261,9261,2005.0,£
+16,95.0,1.0,Deferred tax,Deferred tax 4000 5800,4000,2006.0,£
+17,96.0,0.0,Deferred tax,Deferred tax 4000 5800,5800,2005.0,£
+18,95.0,1.0,NET ASSETS,NET ASSETS  4291  3461,4291,2006.0,£
+19,93.0,0.0,NET ASSETS,NET ASSETS  4291  3461,3461,2005.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 100 100,100,2006.0,£
+21,96.0,0.0,Called up share capital,Called up share capital 100 100,100,2005.0,£
+22,96.0,1.0,Profit and loss account,Profit and loss account 4191 3361,4191,2006.0,£
+23,96.0,0.0,Profit and loss account,Profit and loss account 4191 3361,3361,2005.0,£
+24,96.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS  4291  3461,4291,2006.0,£
+25,92.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS  4291  3461,3461,2005.0,£
+0,70.0,1.0,The average number of employees during the year was,The average number of employees during the year was 2 20173,2,2006.0,£
+1,54.0,0.0,The average number of employees during the year was,The average number of employees during the year was 2 20173,20173,2005.0,£

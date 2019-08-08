@@ -1,0 +1,35 @@
+,conf,currYr,label,source,value,year,unit
+0,71.0,1.0,Goodwill,Goodwill 11 5678719 5678719,5678719,2017.0,£
+1,11.0,0.0,Goodwill,Goodwill 11 5678719 5678719,5678719,2016.0,£
+2,96.0,1.0,Other intangible assets,Other intangible assets 12 14170 66082,14170,2017.0,£
+3,95.0,0.0,Other intangible assets,Other intangible assets 12 14170 66082,66082,2016.0,£
+4,96.0,1.0,Property plant and equipment,Property plant and equipment 13 527127 672318,527127,2017.0,£
+5,95.0,0.0,Property plant and equipment,Property plant and equipment 13 527127 672318,672318,2016.0,£
+6,96.0,1.0,Deferred tax asset,Deferred tax asset 17 100423 118374,100423,2017.0,£
+7,96.0,0.0,Deferred tax asset,Deferred tax asset 17 100423 118374,118374,2016.0,£
+8,80.0,1.0,Inventories,Inventories 14 4384182 3169809,4384182,2017.0,£
+9,90.0,0.0,Inventories,Inventories 14 4384182 3169809,3169809,2016.0,£
+10,76.0,1.0,Trade and other receivables,Trade and other receivables 15 1486076 4974319,1486076,2017.0,£
+11,76.0,0.0,Trade and other receivables,Trade and other receivables 15 1486076 4974319,4974319,2016.0,£
+12,75.0,1.0,Cash and cash equivalents,Cash and cash equivalents 15 10252090 13433168,10252090,2017.0,£
+13,75.0,0.0,Cash and cash equivalents,Cash and cash equivalents 15 10252090 13433168,13433168,2016.0,£
+14,76.0,1.0,Total assets,Total assets 22442787 28112789,22442787,2017.0,£
+15,76.0,0.0,Total assets,Total assets 22442787 28112789,28112789,2016.0,£
+16,93.0,1.0,Trade and other payables,Trade and other payables 18 273257 6609083,273257,2017.0,£
+17,90.0,0.0,Trade and other payables,Trade and other payables 18 273257 6609083,6609083,2016.0,£
+18,70.0,1.0,Current tax liabilities,Current tax liabilities 32585 5533,32585,2017.0,£
+19,95.0,0.0,Current tax liabilities,Current tax liabilities 32585 5533,5533,2016.0,£
+20,95.0,1.0,Provisions,Provisions 19 241452 177308,241452,2017.0,£
+21,94.0,0.0,Provisions,Provisions 19 241452 177308,177308,2016.0,£
+22,82.0,1.0,Net current assets,Net current assets 10575054 14785372,10575054,2017.0,£
+23,93.0,0.0,Net current assets,Net current assets 10575054 14785372,14785372,2016.0,£
+24,74.0,1.0,Net assets,Net assets 16895493 21320865,16895493,2017.0,£
+25,81.0,0.0,Net assets,Net assets 16895493 21320865,21320865,2016.0,£
+26,80.0,1.0,Share capital  .,Share capital 20 . 13500000 13500000,13500000,2017.0,£
+27,83.0,0.0,Share capital  .,Share capital 20 . 13500000 13500000,13500000,2016.0,£
+28,82.0,1.0,Retained profits,Retained profits 21 3395493 6685998,3395493,2017.0,£
+29,74.0,0.0,Retained profits,Retained profits 21 3395493 6685998,6685998,2016.0,£
+30,96.0,1.0,Reserve for share based payment,Reserve for share based payment  26  1134867,26,2017.0,£
+31,89.0,0.0,Reserve for share based payment,Reserve for share based payment  26  1134867,1134867,2016.0,£
+32,72.0,1.0,Total equity,Total equity 16895493 21320865,16895493,2017.0,£
+33,72.0,0.0,Total equity,Total equity 16895493 21320865,21320865,2016.0,£

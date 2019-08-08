@@ -1,0 +1,7 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Debtors,Debtors 4 9998,4,2017.0,£
+1,97.0,0.0,Debtors,Debtors 4 9998,9998,2016.0,£
+2,96.0,1.0,Creditors Amounts Falling Due Within One Year,Creditors Amounts Falling Due Within One Year 5 1807,5,2017.0,£
+3,96.0,0.0,Creditors Amounts Falling Due Within One Year,Creditors Amounts Falling Due Within One Year 5 1807,1807,2016.0,£
+4,96.0,1.0,Creditors Amounts Falling Due After More Than One Year,Creditors Amounts Falling Due After More Than One Year 6 10600,6,2017.0,£
+5,96.0,0.0,Creditors Amounts Falling Due After More Than One Year,Creditors Amounts Falling Due After More Than One Year 6 10600,10600,2016.0,£

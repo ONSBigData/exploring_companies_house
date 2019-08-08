@@ -1,0 +1,31 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Notes,Notes 2017 2016,2017,2017.0,£
+1,96.0,0.0,Notes,Notes 2017 2016,2016,2016.0,£
+2,96.0,1.0,Intangible assets,Intangible assets 3 659895 209896,659895,2017.0,£
+3,61.0,0.0,Intangible assets,Intangible assets 3 659895 209896,209896,2016.0,£
+4,96.0,1.0,Tangible assets,Tangible assets 4 3820266 2761672,3820266,2017.0,£
+5,96.0,0.0,Tangible assets,Tangible assets 4 3820266 2761672,2761672,2016.0,£
+6,96.0,1.0,Debtors .,Debtors . 208726 152635,208726,2017.0,£
+7,96.0,0.0,Debtors .,Debtors . 208726 152635,152635,2016.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 140013 244692,140013,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 140013 244692,244692,2016.0,£
+10,95.0,1.0,.,. 393119 441707,393119,2017.0,£
+11,95.0,0.0,.,. 393119 441707,441707,2016.0,£
+12,96.0,1.0,Creditors amounts falling due within one year .,Creditors amounts falling due within one year . 5 3361982 2216058,3361982,2017.0,£
+13,92.0,0.0,Creditors amounts falling due within one year .,Creditors amounts falling due within one year . 5 3361982 2216058,2216058,2016.0,£
+14,96.0,1.0,Net current liabilities   ad,Net current liabilities  2968863 ad 77435 1,77435,2017.0,£
+15,15.0,0.0,Net current liabilities   ad,Net current liabilities  2968863 ad 77435 1,1,2016.0,£
+16,94.0,1.0,Total assets less current liabilities,Total assets less current liabilities  1511298 1197217,1511298,2017.0,£
+17,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities  1511298 1197217,1197217,2016.0,£
+18,96.0,1.0,Creditors amounts falling due after one year,Creditors amounts falling due after one year 5 915964 752952,915964,2017.0,£
+19,96.0,0.0,Creditors amounts falling due after one year,Creditors amounts falling due after one year 5 915964 752952,752952,2016.0,£
+20,96.0,1.0,Provisions for liabilities,Provisions for liabilities 84861 60000,84861,2017.0,£
+21,96.0,0.0,Provisions for liabilities,Provisions for liabilities 84861 60000,60000,2016.0,£
+22,96.0,1.0,Net assets .,Net assets . 510473 384265,510473,2017.0,£
+23,95.0,0.0,Net assets .,Net assets . 510473 384265,384265,2016.0,£
+24,43.0,1.0,Share capital me,Share capital me 6 1 1,1,2017.0,£
+25,96.0,0.0,Share capital me,Share capital me 6 1 1,1,2016.0,£
+26,96.0,1.0,Reserves,Reserves 510472 384264,510472,2017.0,£
+27,76.0,0.0,Reserves,Reserves 510472 384264,384264,2016.0,£
+28,91.0,1.0,Equity shareholders funds,Equity shareholders funds  510473 384265,510473,2017.0,£
+29,96.0,0.0,Equity shareholders funds,Equity shareholders funds  510473 384265,384265,2016.0,£

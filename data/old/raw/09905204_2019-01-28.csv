@@ -1,0 +1,37 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Fixed assets intangible assets,intangible assets 19437 21137,19437,2018.0,£000
+1,95.0,0.0,Fixed assets intangible assets,intangible assets 19437 21137,21137,2017.0,£000
+2,94.0,1.0,Tangible assets co,Tangible assets co 18090 14547,18090,2018.0,£000
+3,95.0,0.0,Tangible assets co,Tangible assets co 18090 14547,14547,2017.0,£000
+4,95.0,1.0,Stocks,Stocks 10 10380 11881,10380,2018.0,£000
+5,94.0,0.0,Stocks,Stocks 10 10380 11881,11881,2017.0,£000
+6,96.0,1.0,Debtors I,Debtors I 24945 24360,24945,2018.0,£000
+7,95.0,0.0,Debtors I,Debtors I 24945 24360,24360,2017.0,£000
+8,96.0,1.0,Deferred tax asset recoverable in more than one year,Deferred tax asset recoverable in more than one year 16 2742 2041,2742,2018.0,£000
+9,94.0,0.0,Deferred tax asset recoverable in more than one year,Deferred tax asset recoverable in more than one year 16 2742 2041,2041,2017.0,£000
+10,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 7537 6650,7537,2018.0,£000
+11,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 7537 6650,6650,2017.0,£000
+12,95.0,1.0,Corporation tax Trade and other payables,Corporation tax Trade and other payables 12 12 452 147 54799 58802 188 188,188,2018.0,£000
+13,96.0,0.0,Corporation tax Trade and other payables,Corporation tax Trade and other payables 12 12 452 147 54799 58802 188 188,188,2017.0,£000
+14,95.0,1.0,Provisions due within one year,Provisions due within one year 1215 3131 3178,3131,2018.0,£000
+15,94.0,0.0,Provisions due within one year,Provisions due within one year 1215 3131 3178,3178,2017.0,£000
+16,95.0,1.0,Other interest bearing loans and borrowings,Other interest bearing loans and borrowings 1214 2767 2120,2767,2018.0,£000
+17,96.0,0.0,Other interest bearing loans and borrowings,Other interest bearing loans and borrowings 1214 2767 2120,2120,2017.0,£000
+18,96.0,1.0,Net current liabilities,Net current liabilities 15545 19315 188 188,188,2018.0,£000
+19,96.0,0.0,Net current liabilities,Net current liabilities 15545 19315 188 188,188,2017.0,£000
+20,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 21982 16369 188 188,188,2018.0,£000
+21,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 21982 16369 188 188,188,2017.0,£000
+22,96.0,1.0,Other interest bearing loans and borrowings,Other interest bearing loans and borrowings 13 26354 11705,26354,2018.0,£000
+23,96.0,0.0,Other interest bearing loans and borrowings,Other interest bearing loans and borrowings 13 26354 11705,11705,2017.0,£000
+24,95.0,1.0,Provisions,Provisions 15 7184 11574,7184,2018.0,£000
+25,96.0,0.0,Provisions,Provisions 15 7184 11574,11574,2017.0,£000
+26,96.0,1.0,Net pension deficit,Net pension deficit 17 254 167,254,2018.0,£000
+27,96.0,0.0,Net pension deficit,Net pension deficit 17 254 167,167,2017.0,£000
+28,96.0,1.0,Net liabilities,Net liabilities 11810 7077 188 188,188,2018.0,£000
+29,96.0,0.0,Net liabilities,Net liabilities 11810 7077 188 188,188,2017.0,£000
+30,96.0,1.0,Called up share capital,Called up share capital 19 48 48 48 48,48,2018.0,£000
+31,96.0,0.0,Called up share capital,Called up share capital 19 48 48 48 48,48,2017.0,£000
+32,96.0,1.0,Share premium Profit and loss account,Share premium Profit and loss account 677 677 12535 7802 677 677 913 913,913,2018.0,£000
+33,96.0,0.0,Share premium Profit and loss account,Share premium Profit and loss account 677 677 12535 7802 677 677 913 913,913,2017.0,£000
+34,94.0,1.0,Shareholders deficit,Shareholders deficit 11810 7077 188 188,188,2018.0,£000
+35,96.0,0.0,Shareholders deficit,Shareholders deficit 11810 7077 188 188,188,2017.0,£000

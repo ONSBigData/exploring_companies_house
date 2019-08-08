@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5 891 1932,891,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 5 891 1932,1932,2016.0,£
+2,96.0,1.0,Stocks,Stocks 221008 161189,221008,2017.0,£
+3,96.0,0.0,Stocks,Stocks 221008 161189,161189,2016.0,£
+4,95.0,1.0,Debtors,Debtors 6 10755 10755,10755,2017.0,£
+5,96.0,0.0,Debtors,Debtors 6 10755 10755,10755,2016.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 203507 311766,203507,2017.0,£
+7,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 203507 311766,311766,2016.0,£
+8,96.0,1.0,Creditors amounts falling due within one year,within one year 7 307426 274584,307426,2017.0,£
+9,92.0,0.0,Creditors amounts falling due within one year,within one year 7 307426 274584,274584,2016.0,£
+10,95.0,1.0,Net current assets,Net current assets 127 844 209126,844,2017.0,£
+11,43.0,0.0,Net current assets,Net current assets 127 844 209126,209126,2016.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 128735 211058,128735,2017.0,£
+13,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 128735 211058,211058,2016.0,£
+14,95.0,1.0,Creditors amounts falling due after more than one year,after more than one year 8 163269 202739,163269,2017.0,£
+15,96.0,0.0,Creditors amounts falling due after more than one year,after more than one year 8 163269 202739,202739,2016.0,£
+16,94.0,1.0,Net liabilitiesassets,Net liabilitiesassets 34534 8319,34534,2017.0,£
+17,96.0,0.0,Net liabilitiesassets,Net liabilitiesassets 34534 8319,8319,2016.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 100 100,100,2017.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 100 100,100,2016.0,£
+20,95.0,1.0,Profit and loss account,Profit and loss account 34634 8219,34634,2017.0,£
+21,96.0,0.0,Profit and loss account,Profit and loss account 34634 8219,8219,2016.0,£
+22,95.0,1.0,Shareholders deficitfunds,Shareholders deficitfunds 34534 8319,34534,2017.0,£
+23,96.0,0.0,Shareholders deficitfunds,Shareholders deficitfunds 34534 8319,8319,2016.0,£

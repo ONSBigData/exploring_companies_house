@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,93.0,1.0,Cash and balances at central banks,Cash and balances at central banks 5 51 35 35,35,2017.0,£m
+1,92.0,0.0,Cash and balances at central banks,Cash and balances at central banks 5 51 35 35,35,2016.0,£m
+2,89.0,1.0,Financial investments .,Financial investments 0.3  03 07 07,07,2017.0,£m
+3,90.0,0.0,Financial investments .,Financial investments 0.3  03 07 07,07,2016.0,£m
+0,91.0,1.0,Total shareholders equity,Total shareholders equity 3882 3759,3882,2017.0,£m
+1,95.0,0.0,Total shareholders equity,Total shareholders equity 3882 3759,3759,2016.0,£m
+2,86.0,1.0,Total equity,Total equity 3882 3759,3882,2017.0,£m
+3,96.0,0.0,Total equity,Total equity 3882 3759,3759,2016.0,£m
+4,91.0,1.0,Total liabilities and equity,Total liabilities and equity 80089 89810,80089,2017.0,£m
+5,96.0,0.0,Total liabilities and equity,Total liabilities and equity 80089 89810,89810,2016.0,£m
+0,87.0,1.0,Balance sheet total .  .,Balance sheet total 50.9 253 15.6 21 79,21,2017.0,£m
+1,69.0,0.0,Balance sheet total .  .,Balance sheet total 50.9 253 15.6 21 79,79,2016.0,£m
+0,95.0,1.0,. Derivative assets Exchange rate contracts Crosscurrency swaps,1. Derivative assets Exchange rate contracts Crosscurrency swaps  1  1,1,2017.0,£m
+1,38.0,0.0,. Derivative assets Exchange rate contracts Crosscurrency swaps,1. Derivative assets Exchange rate contracts Crosscurrency swaps  1  1,1,2016.0,£m
+2,95.0,1.0,. Derivative assets Exchange rate contracts Securitisation cross currency swaps,2. Derivative assets Exchange rate contracts Securitisation cross currency swaps 5 21 1 12,1,2017.0,£m
+3,56.0,0.0,. Derivative assets Exchange rate contracts Securitisation cross currency swaps,2. Derivative assets Exchange rate contracts Securitisation cross currency swaps 5 21 1 12,12,2016.0,£m
+4,90.0,1.0,. Derivative assets Interest rate contracts Bermudan swaptions,3. Derivative assets Interest rate contracts Bermudan swaptions 6 7 1 3,1,2017.0,£m
+5,94.0,0.0,. Derivative assets Interest rate contracts Bermudan swaptions,3. Derivative assets Interest rate contracts Bermudan swaptions 6 7 1 3,3,2016.0,£m
+6,96.0,1.0,. FVTPL Loans and advances to customers Rollup mortgage portfolio,8. FVTPL Loans and advances to customers Rollup mortgage portfolio 64 63 2 4,2,2017.0,£m
+7,97.0,0.0,. FVTPL Loans and advances to customers Rollup mortgage portfolio,8. FVTPL Loans and advances to customers Rollup mortgage portfolio 64 63 2 4,4,2016.0,£m
+8,96.0,1.0,. Derivative liabilities Interest rate contracts Bermudan swaptions q,11. Derivative liabilities Interest rate contracts Bermudan swaptions q 2 1 2,1,2017.0,£m
+9,95.0,0.0,. Derivative liabilities Interest rate contracts Bermudan swaptions q,11. Derivative liabilities Interest rate contracts Bermudan swaptions q 2 1 2,2,2016.0,£m
+10,96.0,1.0,Total net assets,Total net assets 69 327,69,2017.0,£m
+11,96.0,0.0,Total net assets,Total net assets 69 327,327,2016.0,£m
+12,92.0,1.0,Total expenseincome,Total expenseincome 12 9,12,2017.0,£m
+13,96.0,0.0,Total expenseincome,Total expenseincome 12 9,9,2016.0,£m

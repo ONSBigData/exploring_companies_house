@@ -1,0 +1,7 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Debtors,Debtors 356791 282608,356791,2016.0,£
+1,95.0,0.0,Debtors,Debtors 356791 282608,282608,2015.0,£
+2,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 501 495,501,2016.0,£
+3,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 501 495,495,2015.0,£
+4,48.0,1.0,Creditors amounts falling due within one year,year 366491 291 346,291,2016.0,£
+5,91.0,0.0,Creditors amounts falling due within one year,year 366491 291 346,346,2015.0,£

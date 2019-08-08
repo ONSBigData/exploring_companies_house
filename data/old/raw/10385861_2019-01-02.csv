@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Tangible assets,Tangible assets 5 91668 110001,91668,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 5 91668 110001,110001,2017.0,£
+2,94.0,1.0,Debtors,Debtors 6 295395 372813,295395,2018.0,£
+3,92.0,0.0,Debtors,Debtors 6 295395 372813,372813,2017.0,£
+4,94.0,1.0,Cash at bank  in hand,Cash at bank  in hand 618371 337644,618371,2018.0,£
+5,96.0,0.0,Cash at bank  in hand,Cash at bank  in hand 618371 337644,337644,2017.0,£
+6,74.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year  250068 168261,250068,2018.0,£
+7,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year  250068 168261,168261,2017.0,£
+8,96.0,1.0,Accruals,Accruals  48854 71022,48854,2018.0,£
+9,96.0,0.0,Accruals,Accruals  48854 71022,71022,2017.0,£
+10,75.0,1.0,Net Current Assets Liabifities,Net Current Assets Liabifities 619309 471174,619309,2018.0,£
+11,95.0,0.0,Net Current Assets Liabifities,Net Current Assets Liabifities 619309 471174,471174,2017.0,£
+12,92.0,1.0,Total Assets tess Current Liabilities,Total Assets tess Current Liabilities 710977 581175,710977,2018.0,£
+13,95.0,0.0,Total Assets tess Current Liabilities,Total Assets tess Current Liabilities 710977 581175,581175,2017.0,£
+14,95.0,1.0,Defined Benefit Pension Surptus,Defined Benefit Pension Surptus  8 77000 572000,77000,2018.0,£
+15,87.0,0.0,Defined Benefit Pension Surptus,Defined Benefit Pension Surptus  8 77000 572000,572000,2017.0,£
+16,95.0,1.0,Net Assets Liabilities,Net Assets Liabilities 1287977 1153175,1287977,2018.0,£
+17,95.0,0.0,Net Assets Liabilities,Net Assets Liabilities 1287977 1153175,1153175,2017.0,£
+18,96.0,1.0,Profit  Loss Reserves,Profit  Loss Reserves 787977 653175,787977,2018.0,£
+19,81.0,0.0,Profit  Loss Reserves,Profit  Loss Reserves 787977 653175,653175,2017.0,£
+20,95.0,1.0,Ordinary Share Capital Issued,Ordinary Share Capital Issued 500000 500000,500000,2018.0,£
+21,95.0,0.0,Ordinary Share Capital Issued,Ordinary Share Capital Issued 500000 500000,500000,2017.0,£
+22,96.0,1.0,Total Equity,Total Equity 1287977 1153175,1287977,2018.0,£
+23,83.0,0.0,Total Equity,Total Equity 1287977 1153175,1153175,2017.0,£

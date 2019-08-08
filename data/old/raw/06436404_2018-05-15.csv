@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5 355858 49200,355858,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 5 355858 49200,49200,2016.0,£
+2,96.0,1.0,Stocks,Stocks 89150 92850,89150,2017.0,£
+3,96.0,0.0,Stocks,Stocks 89150 92850,92850,2016.0,£
+4,96.0,1.0,Debtors    Cash at bank and in hand,Debtors 6 215660 199272 Cash at bank and in hand 179585 254681,179585,2017.0,£
+5,96.0,0.0,Debtors    Cash at bank and in hand,Debtors 6 215660 199272 Cash at bank and in hand 179585 254681,254681,2016.0,£
+6,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 199825 137868,199825,2017.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 199825 137868,137868,2016.0,£
+8,96.0,1.0,Net current assets,Net current assets  284570  408935,284570,2017.0,£
+9,0.0,0.0,Net current assets,Net current assets  284570  408935,408935,2016.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 640428 458135,640428,2017.0,£
+11,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 640428 458135,458135,2016.0,£
+12,95.0,1.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 8 10425 11266,10425,2017.0,£
+13,96.0,0.0,Creditors amounts falling due after more than one year,Creditors amounts falling due after more than one year 8 10425 11266,11266,2016.0,£
+14,96.0,1.0,Deferred taxation,Deferred taxation 9 6795 6058,6795,2017.0,£
+15,96.0,0.0,Deferred taxation,Deferred taxation 9 6795 6058,6058,2016.0,£
+16,93.0,1.0,Net assets,Net assets 623208 440811,623208,2017.0,£
+17,96.0,0.0,Net assets,Net assets 623208 440811,440811,2016.0,£
+18,96.0,1.0,Called up share capital .,Called up share capital .  12 400 100,400,2017.0,£
+19,94.0,0.0,Called up share capital .,Called up share capital .  12 400 100,100,2016.0,£
+20,95.0,1.0,Profit and loss account,Profit and loss account 623108 440711,623108,2017.0,£
+21,96.0,0.0,Profit and loss account,Profit and loss account 623108 440711,440711,2016.0,£
+22,94.0,1.0,Shareholder funds,Shareholder funds 623208 440811,623208,2017.0,£
+23,96.0,0.0,Shareholder funds,Shareholder funds 623208 440811,440811,2016.0,£

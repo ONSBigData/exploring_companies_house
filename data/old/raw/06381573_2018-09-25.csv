@@ -1,0 +1,43 @@
+,conf,currYr,label,source,value,year,unit
+0,7.0,1.0,Note,Note 2017 2016,2017,2017.0,£
+1,96.0,0.0,Note,Note 2017 2016,2016,2016.0,£
+2,96.0,1.0,Tangible Assets,Tangible Assets 9  100,9,2017.0,£
+3,92.0,0.0,Tangible Assets,Tangible Assets 9  100,100,2016.0,£
+4,96.0,1.0,Debtors,Debtors 10 29876 36499,29876,2017.0,£
+5,96.0,0.0,Debtors,Debtors 10 29876 36499,36499,2016.0,£
+6,94.0,1.0,Cash at bank and in hand,Cash at bank and in hand 81217 120551,81217,2017.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 81217 120551,120551,2016.0,£
+8,57.0,1.0,Creditors Amount falling due within one year .,Creditors Amount falling due within one year 11.  5403 7611,5403,2017.0,£
+9,96.0,0.0,Creditors Amount falling due within one year .,Creditors Amount falling due within one year 11.  5403 7611,7611,2016.0,£
+10,96.0,1.0,Net current assets  liabilities,Net current assets  liabilities 105690 149439,105690,2017.0,£
+11,96.0,0.0,Net current assets  liabilities,Net current assets  liabilities 105690 149439,149439,2016.0,£
+12,96.0,1.0,Net assets,Net assets 12 105690 149539,105690,2017.0,£
+13,96.0,0.0,Net assets,Net assets 12 105690 149539,149539,2016.0,£
+14,96.0,1.0,Restricted income funds,Restricted income funds 19956 100,19956,2017.0,£
+15,96.0,0.0,Restricted income funds,Restricted income funds 19956 100,100,2016.0,£
+16,95.0,1.0,General reserve .,General reserve . 85734 149439,85734,2017.0,£
+17,96.0,0.0,General reserve .,General reserve . 85734 149439,149439,2016.0,£
+18,96.0,1.0,Total charity funds,Total charity funds 14 105690 149539,105690,2017.0,£
+19,96.0,0.0,Total charity funds,Total charity funds 14 105690 149539,149539,2016.0,£
+0,96.0,1.0,Funds Funds,Funds Funds 2017 2016,2017,2017.0,£
+1,96.0,0.0,Funds Funds,Funds Funds 2017 2016,2016,2016.0,£
+2,95.0,1.0,Funds Funds 2017 2016 income Note     Donations and legacies,income Note     Donations and legacies 3 2377  2377 4817,2377,2017.0,£
+3,95.0,0.0,Funds Funds 2017 2016 income Note     Donations and legacies,income Note     Donations and legacies 3 2377  2377 4817,4817,2016.0,£
+4,87.0,1.0,Charitable activities,Charitable activities 4 6580 107757 114337 320564,114337,2017.0,£
+5,96.0,0.0,Charitable activities,Charitable activities 4 6580 107757 114337 320564,320564,2016.0,£
+6,96.0,1.0,Other income .,Other income . 383  383 63395,383,2017.0,£
+7,96.0,0.0,Other income .,Other income . 383  383 63395,63395,2016.0,£
+8,96.0,1.0,Total income,Total income 9340 107757 117097 388796,117097,2017.0,£
+9,96.0,0.0,Total income,Total income 9340 107757 117097 388796,388796,2016.0,£
+10,96.0,1.0,Charitable activities,Charitable activities 64567 87901 152468 668003,152468,2017.0,£
+11,96.0,0.0,Charitable activities,Charitable activities 64567 87901 152468 668003,668003,2016.0,£
+12,96.0,1.0,Total expenditure,Total expenditure 69528 87901 157429 668003,157429,2017.0,£
+13,96.0,0.0,Total expenditure,Total expenditure 69528 87901 157429 668003,668003,2016.0,£
+14,90.0,1.0,Net incomeexpenditure before other gains and losses,before other gains and losses  60188 19856  40332  279207,40332,2017.0,£
+15,92.0,0.0,Net incomeexpenditure before other gains and losses,before other gains and losses  60188 19856  40332  279207,279207,2016.0,£
+16,96.0,1.0,Net movement in funds,Net movement in funds  63705 19856  43849  279207,43849,2017.0,£
+17,93.0,0.0,Net movement in funds,Net movement in funds  63705 19856  43849  279207,279207,2016.0,£
+18,96.0,1.0,Total funds brought forward,Total funds brought forward 15 149439 100 149539 428746,149539,2017.0,£
+19,96.0,0.0,Total funds brought forward,Total funds brought forward 15 149439 100 149539 428746,428746,2016.0,£
+20,95.0,1.0,Total funds carried forward,Total funds carried forward 14  85734  19956  105690  149539,105690,2017.0,£
+21,93.0,0.0,Total funds carried forward,Total funds carried forward 14  85734  19956  105690  149539,149539,2016.0,£

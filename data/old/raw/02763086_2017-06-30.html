@@ -1,0 +1,2915 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:hmrc="http://hmrc.gov.uk/" xmlns:ix="http://www.xbrl.org/2008/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2010-04-20" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:uk-bus="http://www.xbrl.org/uk/cd/business/2009-09-01" xmlns:uk-direp="http://www.xbrl.org/uk/reports/direp/2009-09-01" xmlns:uk-gaap="http://www.xbrl.org/uk/gaap/core/2009-09-01" xmlns:xbrl="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <head>
+        <meta content="application/xhtml+xml; charset=UTF-8" http-equiv="content-type"/>
+        <meta content="CATO" name="generation_system"/>
+        <title>
+            Accounts Submission
+        </title>
+
+        <style type="text/css">
+            /*! normalize.css v2.0.1 | MIT License | git.io/normalize */
+
+/* ==========================================================================
+   HTML5 display definitions
+   ========================================================================== */
+
+html {
+    font-family: sans-serif; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-print-color-adjust: exact; /* 3 */
+}
+
+/*
+ * Corrects `block` display not defined in IE 8/9.
+ */
+
+* {
+    white-space: normal;
+    position: relative;
+    zoom: 1;
+    z-index: 2;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+    display: block;
+}
+
+/*
+ * Corrects `inline-block` display not defined in IE 8/9.
+ */
+
+audio,
+canvas,
+video {
+    display: inline-block;
+
+}
+
+/*
+ * Prevents modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+
+/*
+ * Addresses styling for `hidden` attribute not present in IE 8/9.
+ */
+
+[hidden] {
+    display: none;
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+/*
+ * 1. Sets default font family to sans-serif.
+ * 2. Prevents iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+html {
+    font-family: sans-serif; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+    -ms-text-size-adjust: 100%; /* 2 */
+}
+
+/*
+ * Removes default margin.
+ */
+body {
+    margin: 0;
+}
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+
+/*
+ * Addresses `outline` inconsistency between Chrome and other browsers.
+ */
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers.
+ */
+a:active,
+a:hover {
+    outline: 0;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+body {
+    font-size: 13px;
+}
+
+/*
+ * Addresses `h1` font sizes within `section` and `article` in Firefox 4+,
+ * Safari 5, and Chrome.
+ */
+h1 {
+    font-size: 2em;
+}
+
+/*
+ * Addresses styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+/*
+ * Addresses style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+b,
+strong {
+    font-weight: bold;
+}
+
+/*
+ * Addresses styling not present in Safari 5 and Chrome.
+ */
+
+dfn {
+    font-style: italic;
+}
+
+/*
+ * Addresses styling not present in IE 8/9.
+ */
+mark {
+    background: #ff0;
+    color: #000;
+}
+
+
+/*
+ * Corrects font family set oddly in Safari 5 and Chrome.
+ */
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, serif;
+    font-size: 1em;
+}
+
+/*
+ * Improves readability of pre-formatted text in all browsers.
+ */
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/*
+ * Sets consistent quote types.
+ */
+q {
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+/*
+ * Addresses inconsistent and variable font size in all browsers.
+ */
+small {
+    font-size: 80%;
+}
+
+/*
+ * Prevents `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/* ==========================================================================
+   Embedded content
+   ========================================================================== */
+
+/*
+ * Removes border when inside `a` element in IE 8/9.
+ */
+img {
+    border: 0;
+}
+
+/*
+ * Corrects overflow displayed oddly in IE 9.
+ */
+svg:not(:root) {
+    overflow: hidden;
+}
+
+/* ==========================================================================
+   Figures
+   ========================================================================== */
+
+/*
+ * Addresses margin not present in IE 8/9 and Safari 5.
+ */
+figure {
+    margin: 0;
+}
+
+/* ==========================================================================
+   Forms
+   ========================================================================== */
+
+/*
+ * Define consistent border, margin, and padding.
+ */
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+/*
+ * 1. Corrects color not being inherited in IE 8/9.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+legend {
+    border: 0; /* 1 */
+    padding: 0; /* 2 */
+}
+
+/*
+ * 1. Corrects font family not being inherited in all browsers.
+ * 2. Corrects font size not being inherited in all browsers.
+ * 3. Addresses margins set differently in Firefox 4+, Safari 5, and Chrome
+ */
+button,
+input,
+select,
+textarea {
+    font-family: inherit; /* 1 */
+    font-size: 100%; /* 2 */
+    margin: 0; /* 3 */
+}
+
+/*
+ * Addresses Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+button,
+input {
+    line-height: normal;
+}
+
+/*
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Corrects inability to style clickable `input` types in iOS.
+ * 3. Improves usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+button,
+html input[type="button"], /* 1 */
+input[type="reset"],
+input[type="submit"] {
+    -webkit-appearance: button; /* 2 */
+    cursor: pointer; /* 3 */
+}
+
+/*
+ * Re-set default cursor for disabled elements.
+ */
+button[disabled],
+input[disabled] {
+    cursor: default;
+}
+
+/*
+ * 1. Addresses box sizing set to `content-box` in IE 8/9.
+ * 2. Removes excess padding in IE 8/9.
+ */
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+}
+
+/*
+ * 1. Addresses `appearance` set to `searchfield` in Safari 5 and Chrome.
+ * 2. Addresses `box-sizing` set to `border-box` in Safari 5 and Chrome
+ *    (include `-moz` to future-proof).
+ */
+input[type="search"] {
+    -webkit-appearance: textfield; /* 1 */
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box; /* 2 */
+    box-sizing: content-box;
+}
+
+/*
+ * Removes inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+/*
+ * Removes inner padding and border in Firefox 4+.
+ */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE 8/9.
+ * 2. Improves readability and alignment in all browsers.
+ */
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+}
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+
+/*
+ * Remove most spacing between table cells.
+ */
+table {
+    border-spacing: 10px;
+}
+
+/*------------------------------------*\
+$HELPER
+\*------------------------------------*/
+/**
+* A series of helper classes to use arbitrarily. Only use a helper class if an
+* element/component doesn't already have a class to which you could apply this
+* styling, e.g. if you need to float `.main-nav` left then add `float:left;` to
+* that ruleset as opposed to adding the `.float--left` class to the markup.
+*
+* A lot of these classes carry `!important` as you will always want them to win
+* out over other selectors.
+*/
+/**
+* Add/remove floats
+*/
+.float--right {
+    float: right!important;
+}
+.float--left {
+    float: left !important;
+}
+.float--none {
+    float: none !important;
+}
+
+/**
+* Text alignment
+*/
+.text--left {
+    text-align: left !important;
+}
+.text--center {
+    text-align: center!important;
+}
+.text--right {
+    text-align: right !important;
+}
+/**
+* Add/remove margins
+*/
+.push {
+    margin: 0!important;
+}
+.push--top {
+    margin-top: 0!important;
+}
+.push--right {
+    margin-right: 0!important;
+}
+.push--bottom {
+    margin-bottom: 0!important;
+}
+.push--left {
+    margin-left: 0!important;
+}
+.push--ends {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+.push--sides {
+    margin-right: 0!important;
+    margin-left: 0!important;
+}
+.push-half {
+    margin: 0!important;
+}
+.push-half--top {
+    margin-top: 0!important;
+}
+.push-half--right {
+    margin-right: 0!important;
+}
+.push-half--bottom {
+    margin-bottom: 0!important;
+}
+.push-half--left {
+    margin-left: 0!important;
+}
+.push-half--ends {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+.push-half--sides {
+    margin-right: 0!important;
+    margin-left: 0!important;
+}
+.flush {
+    margin: 0!important;
+}
+.flush--top {
+    margin-top: 0!important;
+}
+.flush--right {
+    margin-right: 0!important;
+}
+.flush--bottom {
+    margin-bottom: 0!important;
+}
+.flush--left {
+    margin-left: 0!important;
+}
+.flush--ends {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+.flush--sides {
+    margin-right: 0!important;
+    margin-left: 0!important;
+}
+
+/**
+* Add/remove paddings
+*/
+.soft {
+    padding: 0!important;
+}
+.soft--top {
+    padding-top: 0!important;
+}
+.soft--right {
+    padding-right: 0!important;
+}
+.soft--bottom {
+    padding-bottom: 0!important;
+}
+.soft--left {
+    padding-left: 0!important;
+}
+.soft--ends {
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+}
+.soft--sides {
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
+.soft-half {
+    padding: 0!important;
+}
+.soft-half--top {
+    padding-top: 0!important;
+}
+.soft-half--right {
+    padding-right: 0!important;
+}
+.soft-half--bottom {
+    padding-bottom: 0!important;
+}
+.soft-half--left {
+    padding-left: 0!important;
+}
+.soft-half--ends {
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+}
+.soft-half--sides {
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
+.hard {
+    padding: 0!important;
+}
+.hard--top {
+    padding-top: 0!important;
+}
+.hard--right {
+    padding-right: 0!important;
+}
+.hard--bottom {
+    padding-bottom: 0!important;
+}
+.hard--left {
+    padding-left: 0!important;
+}
+.hard--ends {
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+}
+.hard--sides {
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
+.inline-block {
+    display: inline-block !important;
+}
+
+/**
+* Add a help cursor to any element that gives the user extra information on
+* `:hover`.
+*/
+.informative {
+    cursor: help!important;
+}
+
+/**
+* Mute an object by reducing its opacity.
+*/
+.muted {
+    opacity: 0.5!important;
+    filter: alpha(opacity 50)!important;
+}
+
+/**
+* Align items to the right where they imply progression/movement forward, e.g.:
+*
+*
+*/
+.proceed {
+    text-align: right!important;
+}
+
+/**
+* Add a right-angled quote to links that imply movement, e.g.:
+*
+*
+*/
+.go:after {
+    content: "\00A0" "\00BB"!important;
+}
+
+/**
+* Apply capital case to an element (usually a `strong`).
+*/
+.caps {
+    text-transform: uppercase!important;
+}
+
+/**
+* Underline text
+*/
+.underline {
+    text-decoration: underline!important;
+}
+
+/**
+ * Making 'strong' text stand out.
+ */
+.strong {
+    font-weight: bold;
+}
+
+/**
+ * JS and NON-JS specific behaviour.
+ */
+.js .js-hidden {
+    display: none !important;
+}
+.no-js .js-visible {
+    display: none !important;
+}
+
+/**
+ * Centers the content of the element.
+ */
+.center {
+    text-align: center;
+}
+
+/**
+ * Headings should be bold.
+ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+    font-weight: bold;
+}
+
+/**
+ * Increase the body size.
+ */
+.body {
+    font-size: 160%;
+}
+
+.content {
+    line-height: 1.25;
+    font-family: 'nta', Arial, sans-serif;
+    font-size: 12px;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    max-width: 1020px;
+    margin: 0 auto;
+}
+.content * {
+  box-sizing: border-box;
+}
+
+/**
+ * Explicit class telling the browser to break words when don't fit in one line.
+ */
+.word-break {
+    word-wrap: break-word;
+}
+
+
+/*** TYPOGRAPHY ***/
+h1 {
+    font-weight: bold;
+    font-size: 18px;
+}
+.ct-body h1 {
+    font-size: 14px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 16px;
+}
+h3 {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.heading-large {
+    font-size: 24px;
+    line-height: 1.11111;
+    font-weight: 400;
+    text-transform: none;
+    font-weight: 700;
+    margin-bottom: 0.41667em;
+}
+
+h3.heading-small {
+    background-color: #2b8cc4;
+    color: #fff;
+    display: inline-block;
+    padding: 0.25em 0.5em;
+    margin-bottom: 0;
+}
+h2.heading-small span {
+    display: block;
+}
+
+.heading-medium {
+    font-size: 19px;
+    line-height: 1.25;
+    font-weight: 400;
+    text-transform: none;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+}
+
+.heading-small {
+    font-size: 14px;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none;
+    font-weight: 700;
+    margin-bottom: 0.3125em;
+}
+
+p {
+    margin-top: 0.3125em;
+    margin-bottom: 1.25em;
+}
+p.accounts-upload {
+    font-size: 1.3em;
+}
+
+pre,
+code {
+    font-size: 13px;
+    line-height: 19px;
+    color: #0b0c0c;
+    background-color: #f8f8f8;
+    border: 1px solid #bfc1c3;
+    padding: 3px 7px;
+}
+
+.comps-body, .accounts-body {
+    font-family: 'Times New Roman';
+}
+
+.margin-large {
+    margin-top: 4em;
+}
+
+.margin-xx-large {
+    margin-top: 10em;
+}
+
+/*** LAYOUTS ***/
+
+.comps-body, .ct-body {
+  page-break-before:always;
+}
+details {
+    clear: both;
+}
+.page-number {
+    display: block;
+    text-align: right;
+}
+.header {
+    padding: 5px;
+}
+
+
+/*** GRID ***/
+
+.inner-block {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.grid-wrapper:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+@media all {
+    .grid-wrapper {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+}
+.grid-divider {
+    border-bottom: 1px solid #bfc1c3;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.grid-divider:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+@media all {
+    .grid-divider {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}
+.grid {
+    float: left;
+    width: 100%;
+}
+@media all {
+    .grid-1-4 {
+        width: 25%;
+    }
+}
+@media all {
+    .grid-1-3 {
+        width: 33.33333%;
+    }
+}
+@media all {
+    .grid-1-2 {
+        width: 50%;
+    }
+}
+@media all {
+    .grid-2-3 {
+        width: 66.66667%;
+    }
+}
+@media all {
+    .grid-3-4 {
+        width: 75%;
+    }
+}
+.grid .inner-block {
+    padding: 0;
+}
+@media all {
+    .grid .inner-block {
+        margin: 0 15px;
+    }
+}
+.inner-block .grid-wrapper {
+    padding: 0;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.inner-block .grid-divider {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/*** TABLE ***/
+table {
+    font-family: Times New Roman;
+    width: 100%;
+    padding-bottom: 15px;
+}
+th {
+    font-weight: bold;
+    vertical-align: top;
+    text-align: left;
+}
+td {
+    vertical-align: top;
+    text-align: left;
+}
+
+.table-heading {
+    text-align: right;
+    font-style: italic
+}
+
+td.figure,
+td.total,
+td.total-no-top-border,
+td.grandtotal,
+td.total-no-top-border,
+td.grandtotal-no-top-border,
+th.figure {
+    vertical-align: middle;
+    text-align: right;
+    padding: 2px 5px;
+    white-space: nowrap;
+    width: 10%;
+}
+td.description {
+    width: 50%;
+}
+td.total {
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+}
+td.total-no-top-border {
+    border-bottom: black solid 1px;
+}
+td.grandtotal-no-top-border {
+    border-bottom: black double 5px;
+}
+td.grandtotal {
+    border-top: black solid 1px;
+    border-bottom: black double 5px;
+}
+td.align-right {
+    text-align: right;
+}
+
+table.wrap th,
+table.wrap td {
+    white-space: normal;
+}
+
+@media print {
+    td.figure,
+    td.total,
+    td.total-no-top-border,
+    td.grandtotal,
+    td.total-no-top-border,
+    td.grandtotal-no-top-border,
+    th.figure {
+        width: 15%;
+    }
+}
+
+/** FIELD LEVEL ***/
+.field-number {
+  margin-right: 0.25em;
+  font-weight: 700;
+}
+
+/** LISTS **/
+details,
+summary {
+    display: block;
+}
+menu,
+ol,
+ul {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+ul,
+ol {
+    list-style-type: none;
+}
+
+ul.with-list-style {
+    font-size: 1.3em;
+    list-style: disc;
+    margin-left: 3em;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+.list-bullet {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+.list--dashed {
+    padding-left: 1.5em;
+}
+.list--dashed li:before {
+    content: '-';
+    display: inline-block;
+    margin-left: -1.5em;
+    width: 1.5em;
+}
+
+.logo {
+  display: block;
+}
+
+ul.accounts-comps-ct {
+   margin-top: 240px;
+   text-align:center;
+   font-size:24px;
+}
+
+.page-break {
+    min-height: 400px;
+    page-break-before:always;
+}
+
+.iris_hr {
+    page-break-after: always;
+}
+
+.page-break-only {
+    page-break-before: always;
+}
+
+.no-page-break {
+  page-break-inside: avoid;
+}
+
+.page {
+    height: 261mm;
+    margin: 0 auto;
+    page-break-after: always;
+    position: relative;
+    width: 185mm;
+}
+
+.scaled .page {
+    height: 230mm;
+    width: 160mm;
+}
+
+@page {
+    size: A4;
+}
+
+@media print {
+    html, body {
+        height: 261mm;
+        width: 185mm;
+    }
+}
+
+@media screen {
+    .page {
+        margin-bottom: 5em
+    }
+}
+
+.section-marker {
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+.page-footer {
+    box-sizing: border-box;
+    height: 100%;
+    left: 0;
+    padding-top: 135%;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.draft .page-break,
+.draft #AccountsHeader {
+    zoom: expression(this.runtimeStyle.zoom="1", this.insertBefore(document.createElement("i"), this.firstChild).className="ie-after");
+}
+
+.draft .page:after,
+.draft .page-break:after,
+.draft #AccountsHeader:after {
+    content: "Draft";
+    color: #888;
+    display: block;
+    font-size: 128px;
+    left: 50%;
+    line-height: 1em;
+    margin: -64px 0 0 -210px;
+    opacity: 0.5;
+    position: absolute;
+    text-transform: uppercase;
+    top: 50%;
+    -moz-transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+    -o-transform: rotate(-30deg);
+    -ms-transform: rotate(-30deg);
+    transform: rotate(-30deg);
+    z-index: 5;
+}
+
+.draft .page .ie-after,
+.draft .page-break .ie-after,
+.draft #AccountsHeader .ie-after {
+    color: #888;
+    display: block;
+    filter: alpha(opacity=50);
+    font-size: 128px;
+    left: 50%;
+    line-height: 1em;
+    margin: -64px 0 0 -210px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 50%;
+    z-index: 5;
+    zoom: expression(this.runtimeStyle.zoom="1", this.innerHTML = "DRAFT");
+}
+
+.split-equally tr td,
+.split-equally tr td.figure,
+.split-equally tr td.total {
+    width: 50%;
+}
+
+.negative,
+.debit {
+    white-space: nowrap;
+}
+        </style>
+
+    </head>
+
+    <body xml:lang="en">
+        <div class="accounts-body">
+<div class="wholedoc">
+
+
+
+
+
+
+
+
+
+<div id="IxbrlHeader" style="display:none">
+    <ix:header>
+        <ix:hidden>
+            <ix:nonNumeric contextRef="CY" name="uk-bus:EntityDormant">false</ix:nonNumeric>
+            <ix:nonNumeric contextRef="CY" name="uk-bus:EntityTrading">true</ix:nonNumeric>
+            
+            
+            <ix:nonNumeric contextRef="CY_END" name="uk-bus:StartDateForPeriodCoveredByReport">2015-11-01</ix:nonNumeric>
+            <ix:nonNumeric contextRef="CY_END" name="uk-bus:EndDateForPeriodCoveredByReport">2016-10-31</ix:nonNumeric>
+             
+              
+            <ix:nonNumeric contextRef="DIRECTOR1" name="uk-gaap:NameDirectorSigningAccounts"/>
+            
+
+            
+            
+        </ix:hidden>
+        <ix:references>
+            <link:schemaRef xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.xbrl.org/uk/gaap/core/2009-09-01/uk-gaap-full-2009-09-01.xsd" xlink:type="simple"/>
+        </ix:references>
+        <ix:resources>
+            
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_PERIOD">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_START">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+</entity>
+<period>
+    <instant>2015-11-01</instant>
+</period>
+</context>
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_PERIOD">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_START">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+</entity>
+<period>
+    <instant>2014-11-01</instant>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+</entity>
+<period>
+    <instant>2015-10-31</instant>
+</period>
+</context>
+
+
+            
+
+
+
+
+    
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="DIRECTOR1">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-bus:EntityOfficersDimension">uk-bus:Director1</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="DIRECTOR1_START">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:EntityOfficersDimension">uk-bus:Director1</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2015-11-01</instant>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="DIRECTOR1_END">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:EntityOfficersDimension">uk-bus:Director1</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_COMPANYSECRETARY">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-bus:EntityOfficersDimension">uk-bus:CompanySecretary</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+</context>
+
+
+
+
+            
+
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_ENTITYOFFICERSDIMENSION_ALLENTITYOFFICERS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:EntityOfficersDimension">uk-bus:AllEntityOfficers</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_ENTITYOFFICERSDIMENSION_ALLENTITYOFFICERS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:EntityOfficersDimension">uk-bus:AllEntityOfficers</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="REGISTEREDOFFICE">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:EntityContactTypeDimension">uk-bus:RegisteredOffice</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+
+<unit xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="monetaryAccounts">
+    <measure>iso4217:GBP</measure>
+</unit>
+
+<unit xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="pureAccounts">
+    <measure>xbrli:pure</measure>
+</unit>
+
+<unit xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="sharesAccounts">
+    <measure>xbrli:shares</measure>
+</unit>
+
+            
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_WITHINONEYEAR">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:WithinOneYear</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_WITHINONEYEAR">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:WithinOneYear</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2015-10-31</instant>
+</period>
+</context>
+
+
+            
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_AFTERONEYEAR">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:AfterOneYear</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_AFTERONEYEAR">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:AfterOneYear</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2015-10-31</instant>
+</period>
+</context>
+
+
+            
+
+
+
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_CY_START">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    </entity>
+    <period>
+        <instant>2015-10-31</instant>
+    </period>
+    </context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_SHARECLASSESDIMENSION_ALLORDINARYSHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllOrdinaryShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_SHARECLASSESDIMENSION_ALLORDINARYSHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllOrdinaryShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_SHARECLASSESDIMENSION_ALLORDINARYSHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllOrdinaryShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_CY_START_SHARECLASSESDIMENSION_ALLORDINARYSHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllOrdinaryShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2015-10-31</instant>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_SHARECLASSESDIMENSION_ALLPREFERENCESHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllPreferenceShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_SHARECLASSESDIMENSION_ALLPREFERENCESHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllPreferenceShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_SHARECLASSESDIMENSION_ALLPREFERENCESHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllPreferenceShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_CY_START_SHARECLASSESDIMENSION_ALLPREFERENCESHARES">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-bus:ShareClassesDimension">uk-bus:AllPreferenceShares</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2015-10-31</instant>
+</period>
+</context>
+
+
+            
+
+
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_IFACD_NETGOODWILL">
+        <entity>
+            <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:NetGoodwill</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <instant>2015-10-31</instant>
+        </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_IFACD_INTANGIBLEASSETSOTHERTHANGOODWILL">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:IntangibleAssetsOtherThanGoodwill</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2015-10-31</instant>
+    </period>
+    </context>
+
+
+
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_IFACD_NETGOODWILL">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:NetGoodwill</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2016-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_IFACD_INTANGIBLEASSETSOTHERTHANGOODWILL">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:IntangibleAssetsOtherThanGoodwill</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2016-10-31</instant>
+    </period>
+    </context>
+
+
+            
+
+
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_TFACD_LANDBUILDINGS">
+        <entity>
+            <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:LandBuildings</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <instant>2015-10-31</instant>
+        </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_TFACD_PLANTMACHINERY">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:PlantMachinery</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2015-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_TFACD_FIXTURESFITTINGS">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:FixturesFittings</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2015-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_TFACD_OFFICEEQUIPMENT">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:OfficeEquipment</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2015-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_TFACD_MOTORVEHICLES">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:MotorVehicles</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2015-10-31</instant>
+    </period>
+    </context>
+
+
+
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_TFACD_LANDBUILDINGS">
+        <entity>
+            <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:LandBuildings</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <instant>2016-10-31</instant>
+        </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_TFACD_PLANTMACHINERY">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:PlantMachinery</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2016-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_TFACD_FIXTURESFITTINGS">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:FixturesFittings</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2016-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_TFACD_OFFICEEQUIPMENT">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:OfficeEquipment</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2016-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_TFACD_MOTORVEHICLES">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:MotorVehicles</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <instant>2016-10-31</instant>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_TFACD_LANDBUILDINGS">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:LandBuildings</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_TFACD_PLANTMACHINERY">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:PlantMachinery</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_TFACD_FIXTURESFITTINGS">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:FixturesFittings</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_TFACD_OFFICEEQUIPMENT">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:OfficeEquipment</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+    </context>
+    <context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_TFACD_MOTORVEHICLES">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetClassesDimension">uk-gaap:MotorVehicles</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+    </context>
+
+
+
+
+
+            
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_TANGIBLEFIXEDASSETOWNERSHIPDIMENSION_OWNEDORFREEHOLDTANGIBLEFIXEDASSETS">
+    <entity>
+        <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+        <segment>
+            <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetOwnershipDimension">uk-gaap:OwnedOrFreeholdTangibleFixedAssets</xbrldi:explicitMember>
+        </segment>
+    </entity>
+    <period>
+        <startDate>2015-11-01</startDate>
+        <endDate>2016-10-31</endDate>
+    </period>
+</context>
+        
+        
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_TANGIBLEFIXEDASSETOWNERSHIPDIMENSION_OWNEDORFREEHOLDTANGIBLEFIXEDASSETS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetOwnershipDimension">uk-gaap:OwnedOrFreeholdTangibleFixedAssets</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_TANGIBLEFIXEDASSETOWNERSHIPDIMENSION_LEASEDTANGIBLEFIXEDASSETS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetOwnershipDimension">uk-gaap:LeasedTangibleFixedAssets</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_TANGIBLEFIXEDASSETOWNERSHIPDIMENSION_LEASEDTANGIBLEFIXEDASSETS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:TangibleFixedAssetOwnershipDimension">uk-gaap:LeasedTangibleFixedAssets</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_IFACD_NETGOODWILL">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:NetGoodwill</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_IFACD_NETGOODWILL">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:NetGoodwill</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+
+        
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_IFACD_INTANGIBLEASSETSOTHERTHANGOODWILL">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:IntangibleAssetsOtherThanGoodwill</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2015-11-01</startDate>
+    <endDate>2016-10-31</endDate>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_IFACD_INTANGIBLEASSETSOTHERTHANGOODWILL">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:IntangibleFixedAssetClassesDimension">uk-gaap:IntangibleAssetsOtherThanGoodwill</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <startDate>2014-11-01</startDate>
+    <endDate>2015-10-31</endDate>
+</period>
+</context>
+
+
+            
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_BETWEENONEFIVEYEARS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:BetweenOneFiveYears</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_BETWEENONEFIVEYEARS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:BetweenOneFiveYears</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2015-10-31</instant>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="CY_END_MORETHANFIVEYEARS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:MoreThanFiveYears</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2016-10-31</instant>
+</period>
+</context>
+
+
+<context xmlns="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:uk-aurep="http://www.xbrl.org/uk/reports/aurep/2009-09-01" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:xlink="http://www.w3.org/1999/xlink" id="PY_END_MORETHANFIVEYEARS">
+<entity>
+    <identifier scheme="http://www.companieshouse.gov.uk/">02763086</identifier>
+    <segment>
+        <xbrldi:explicitMember dimension="uk-gaap:MaturitiesDimension">uk-gaap:MoreThanFiveYears</xbrldi:explicitMember>
+    </segment>
+</entity>
+<period>
+    <instant>2015-10-31</instant>
+</period>
+</context>
+
+
+        </ix:resources>
+    </ix:header>
+    
+</div>
+<div class="margin-xx-large" id="AccountsHeader">
+        
+<div class="header">
+    <h1 class="text--center">
+        <ix:nonNumeric contextRef="CY" name="uk-bus:EntityCurrentLegalOrRegisteredName">ADDON SOFTWARE LIMITED</ix:nonNumeric>
+    </h1>
+</div>
+
+
+        <h2 class="center margin-large">Company Registration Number:<br/>
+            <ix:nonNumeric contextRef="CY" name="uk-bus:UKCompaniesHouseRegisteredNumber">02763086</ix:nonNumeric>
+            (England and Wales)
+
+        </h2>
+
+        <h2 class="text--center margin-large" id="accountsHeaderTitle">
+            Unaudited Micro-Entity Financial Statements (Balance Sheet and Footnotes only)
+            
+            
+        </h2>
+
+        <h2 class="text--center margin-large">
+            Period of accounts
+        </h2>
+
+        <h2 class="text--center margin-large">
+            Start date: 01 November 2015
+        </h2>
+
+        <h2 class="text--center">
+            End date: 31 October 2016
+        </h2>
+</div>
+
+
+
+
+
+
+<div class="page-break" id="CompanyInformation">
+    
+<div class="header">
+    <h1 class="text--center">
+        <ix:nonNumeric contextRef="CY" name="uk-bus:EntityCurrentLegalOrRegisteredName">ADDON SOFTWARE LIMITED</ix:nonNumeric>
+    </h1>
+</div>
+
+    <h2 class="text--center">Company Information</h2>
+    <p class="text--center">
+        <strong>for the Period Ended 31 October 2016</strong>
+    </p>
+    <br/>
+    <br/>
+    <br/>
+    <table>
+        <tbody>
+            
+            <tr>
+                <td>
+                    
+                    <b>Director:</b>
+                    
+                </td>
+                <td> </td>
+                <td>
+                    <ix:nonNumeric contextRef="DIRECTOR1" name="uk-bus:NameEntityOfficer">Tony John Payne</ix:nonNumeric>
+                </td>
+            </tr>
+            
+            <tr>
+                <td> </td>
+            </tr>
+            <tr>
+                <td> </td>
+            </tr>
+            
+
+            <tr>
+                <td>
+                    <b>Registered office:</b>
+                </td>
+                <td> </td>
+                <td>
+                     
+                        <ix:nonNumeric contextRef="REGISTEREDOFFICE" name="uk-bus:AddressLine1">Buckthorn</ix:nonNumeric>
+                        <br/>
+                    
+                    
+                        <ix:nonNumeric contextRef="REGISTEREDOFFICE" name="uk-bus:AddressLine2">Tilstock Close</ix:nonNumeric>
+                        <br/>
+                    
+                    
+                        <ix:nonNumeric contextRef="REGISTEREDOFFICE" name="uk-bus:AddressLine3">Tilstock</ix:nonNumeric>
+                        <br/>
+                    
+                    
+                        <ix:nonNumeric contextRef="REGISTEREDOFFICE" name="uk-bus:PrincipalLocation-CityOrTown">Whitchurch</ix:nonNumeric>
+                        <br/>
+                    
+                    
+                        <ix:nonNumeric contextRef="REGISTEREDOFFICE" name="uk-bus:CountyRegion">Shropshire</ix:nonNumeric>
+                        <br/>
+                    
+                    
+                        GBR
+                        <br/>
+                    
+                    
+                        <ix:nonNumeric contextRef="REGISTEREDOFFICE" name="uk-bus:PostalCodeZip">SY13 3PG</ix:nonNumeric>
+                        <br/>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td> </td>
+            </tr>
+            <tr>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Company Registration Number:</b>
+                </td>
+                <td> </td>
+                <td>
+                    <ix:nonNumeric contextRef="CY" name="uk-bus:UKCompaniesHouseRegisteredNumber">02763086</ix:nonNumeric>
+                    <span id="companyInformationCRNRegion">(England and Wales)</span>
+                </td>
+            </tr>
+            <tr>
+                <td> </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<div class="page-break" id="BalanceSheet">
+    
+<div class="header">
+    <h1 class="text--center">
+        <ix:nonNumeric contextRef="CY" name="uk-bus:EntityCurrentLegalOrRegisteredName">ADDON SOFTWARE LIMITED</ix:nonNumeric>
+    </h1>
+</div>
+
+    <h2 class="text--center">Micro-Entity Balance sheet</h2>
+    <p class="text--center">
+        <strong>As at <ix:nonNumeric contextRef="CY_END" format="ixt:datelonguk" name="uk-bus:BalanceSheetDate">31 October 2016</ix:nonNumeric>
+</strong>
+    </p>
+    <table cellspacing="10">
+        <tbody>
+            
+
+
+
+
+<tr>
+
+    <th class="table-heading"/>
+
+    
+
+    <th class="table-heading">
+<br/>2016<br/>£</th>
+
+    
+    <th class="table-heading">
+<br/>2015<br/>£</th>
+    
+
+</tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Called up share capital not paid:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CalledUpShareCapitalNotPaidNotExpressedAsCurrentAsset" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CalledUpShareCapitalNotPaidNotExpressedAsCurrentAsset" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+
+            
+              
+
+
+
+
+    <tr class="figures">
+
+        <td>Fixed assets:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:FixedAssets" unitRef="monetaryAccounts">1</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:FixedAssets" unitRef="monetaryAccounts">1</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+            
+              <tr>
+<th class="strong" colspan="3">Current assets</th>
+</tr>
+              
+                
+
+
+
+
+    <tr class="figures">
+
+        <td>Stocks:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:StocksInventory" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:StocksInventory" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+              
+              
+                
+
+
+
+
+    <tr class="figures">
+
+        <td>Debtors:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:Debtors" unitRef="monetaryAccounts">12,468</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:Debtors" unitRef="monetaryAccounts">12,468</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+              
+              
+               
+
+
+
+
+    <tr class="figures">
+
+        <td>Cash at bank and in hand:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CashBankInHand" unitRef="monetaryAccounts">97</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CashBankInHand" unitRef="monetaryAccounts">110</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+              
+              
+
+
+
+
+    <tr class="figures">
+
+        <td class="strong">Total current assets:</td>
+
+        
+
+        <td class="strong total">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CurrentAssets" unitRef="monetaryAccounts">12,565</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="total">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CurrentAssets" unitRef="monetaryAccounts">12,578</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Prepayments and accrued income:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:PrepaymentsAccruedIncomeNotExpressedWithinCurrentAssetSubtotal" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:PrepaymentsAccruedIncomeNotExpressedWithinCurrentAssetSubtotal" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Creditors: amounts falling due within one year:</td>
+
+        
+
+        <td class="strong figure">
+        
+            <span class="negative">(
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CreditorsDueWithinOneYear" unitRef="monetaryAccounts">457</ix:nonFraction>
+
+            )</span>
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            <span class="negative">(
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CreditorsDueWithinOneYear" unitRef="monetaryAccounts">457</ix:nonFraction>
+
+            )</span>
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Net current assets (liabilities):</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:NetCurrentAssetsLiabilities" unitRef="monetaryAccounts">12,108</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:NetCurrentAssetsLiabilities" unitRef="monetaryAccounts">12,121</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Total assets less current liabilities:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:TotalAssetsLessCurrentLiabilities" unitRef="monetaryAccounts">12,109</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:TotalAssetsLessCurrentLiabilities" unitRef="monetaryAccounts">12,122</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Creditors: amounts falling due after more than one year:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CreditorsDueAfterOneYear" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CreditorsDueAfterOneYear" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Provision for liabilities:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:ProvisionsForLiabilitiesCharges" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:ProvisionsForLiabilitiesCharges" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Accruals and deferred income:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:AccrualsDeferredIncome" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:AccrualsDeferredIncome" unitRef="monetaryAccounts">0</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+
+
+
+    <tr class="figures">
+
+        <td>Total net assets (liabilities):</td>
+
+        
+
+        <td class="strong grandtotal">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:NetAssetsLiabilitiesIncludingPensionAssetLiability" unitRef="monetaryAccounts">12,109</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="grandtotal">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:NetAssetsLiabilitiesIncludingPensionAssetLiability" unitRef="monetaryAccounts">12,122</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+
+            
+              <tr>
+<th class="strong" colspan="3">Capital and reserves</th>
+</tr>
+              
+                
+
+
+
+
+    <tr class="figures">
+
+        <td>Called up share capital:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CalledUpShareCapital" unitRef="monetaryAccounts">100</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:CalledUpShareCapital" unitRef="monetaryAccounts">100</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+              
+              
+                 
+
+
+
+
+    <tr class="figures">
+
+        <td>Profit and loss account:</td>
+
+        
+
+        <td class="strong figure">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:ProfitLossAccountReserve" unitRef="monetaryAccounts">12,009</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="figure">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:ProfitLossAccountReserve" unitRef="monetaryAccounts">12,022</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+              
+              
+
+
+
+
+    <tr class="figures">
+
+        <td class="strong">Total shareholders funds:</td>
+
+        
+
+        <td class="strong grandtotal">
+        
+            
+            
+
+<ix:nonFraction contextRef="CY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:ShareholderFunds" unitRef="monetaryAccounts">12,109</ix:nonFraction>
+
+            
+        
+        </td>
+
+        
+        <td class="grandtotal">
+        
+        
+            
+            
+
+<ix:nonFraction contextRef="PY_END" decimals="0" format="ixt:numcommadot" name="uk-gaap:ShareholderFunds" unitRef="monetaryAccounts">12,122</ix:nonFraction>
+
+            
+        
+        
+        </td>
+        
+
+    </tr>
+
+
+            
+
+        </tbody>
+    </table>
+</div>
+ 
+
+
+
+<div class="page-break" id="BalanceSheetContinued">
+    
+<div class="header">
+    <h1 class="text--center">
+        <ix:nonNumeric contextRef="CY" name="uk-bus:EntityCurrentLegalOrRegisteredName">ADDON SOFTWARE LIMITED</ix:nonNumeric>
+    </h1>
+</div>
+
+    <h2 class="text--center">Balance sheet continued</h2>
+    <p class="text--center">
+        <strong>As at 31 October 2016</strong>
+    </p>
+
+    
+    <p>
+        
+          <ix:nonNumeric contextRef="CY" name="uk-gaap:CompanyEntitledToExemptionUnderSection477CompaniesAct2006">For the year ending 31 October 2016 the company was entitled to exemption under section 477 of the Companies Act 2006 relating to small companies.</ix:nonNumeric>
+        
+    </p>
+    
+
+    
+    <p>
+        <ix:nonNumeric contextRef="CY" name="uk-gaap:MembersHaveNotRequiredCompanyToObtainAnAudit">The members have not required the company to obtain an audit in accordance with section 476 of the Companies Act 2006.</ix:nonNumeric>
+    </p>
+    
+
+    
+    <p>
+        <ix:nonNumeric contextRef="CY" name="uk-direp:DirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct">The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to accounting records and the preparation of accounts.</ix:nonNumeric>
+    </p>
+    
+
+    
+    <p>
+        <ix:nonNumeric contextRef="CY" name="uk-direp:AccountsAreInAccordanceWithSpecialProvisionsCompaniesActRelatingToSmallCompanies">These accounts have been prepared and delivered in accordance with the provisions of the small companies regime applicable to micro-entities.</ix:nonNumeric>
+    </p>
+    
+
+    
+    <p>
+        The financial statements were approved by the Board of Directors on
+        <ix:nonNumeric contextRef="CY_END" format="ixt:datelonguk" name="uk-gaap:DateApprovalAccounts">30 June 2017</ix:nonNumeric>
+    </p>
+
+    <p class="strong">
+        SIGNED ON BEHALF OF THE BOARD BY:
+        <br/>
+    </p>
+    
+    <p>
+        Name: <ix:nonNumeric contextRef="DIRECTOR1" name="uk-bus:NameEntityOfficer">Tony John Payne</ix:nonNumeric>
+        <br/>
+        Status: Director
+    </p>
+    
+
+    
+
+
+ 
+</div>
+
+
+
+
+
+
+<div id="StatutoryNotes">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+</div>
+    </body>
+</html>

@@ -1,0 +1,73 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Syndicate,Syndicate 2017 2016,2017,2017.0,£
+1,96.0,0.0,Syndicate,Syndicate 2017 2016,2016,2016.0,£
+2,93.0,1.0,Syndicate participation rights,Syndicate participation rights 12  56353 56353 125353,56353,2017.0,£
+3,96.0,0.0,Syndicate participation rights,Syndicate participation rights 12  56353 56353 125353,125353,2016.0,£
+4,96.0,1.0,Financial investments,Financial investments 13 1780632  1780632 1785398,1780632,2017.0,£
+5,96.0,0.0,Financial investments,Financial investments 13 1780632  1780632 1785398,1785398,2016.0,£
+6,96.0,1.0,Deposits with ceding undertakings,Deposits with ceding undertakings 119  119 125,119,2017.0,£
+7,96.0,0.0,Deposits with ceding undertakings,Deposits with ceding undertakings 119  119 125,125,2016.0,£
+8,94.0,1.0,Total investments,Total investments 1780751  1780751 1785523,1780751,2017.0,£
+9,96.0,0.0,Total investments,Total investments 1780751  1780751 1785523,1785523,2016.0,£
+10,96.0,1.0,Provision for unearned premiums,Provision for unearned premiums 7 115137  115137 107983,115137,2017.0,£
+11,95.0,0.0,Provision for unearned premiums,Provision for unearned premiums 7 115137  115137 107983,107983,2016.0,£
+12,96.0,1.0,Claims outstanding,Claims outstanding 7 396610  396610 273823,396610,2017.0,£
+13,96.0,0.0,Claims outstanding,Claims outstanding 7 396610  396610 273823,273823,2016.0,£
+14,95.0,1.0,Other technical provisions,Other technical provisions 421700  421700 308995,421700,2017.0,£
+15,96.0,0.0,Other technical provisions,Other technical provisions 421700  421700 308995,308995,2016.0,£
+16,96.0,1.0,Total reinsurers share of technical provisions,Total reinsurers share of technical provisions 933447  933447 690801,933447,2017.0,£
+17,96.0,0.0,Total reinsurers share of technical provisions,Total reinsurers share of technical provisions 933447  933447 690801,690801,2016.0,£
+18,96.0,1.0,Policyholders,Policyholders 38  38 25,38,2017.0,£
+19,96.0,0.0,Policyholders,Policyholders 38  38 25,25,2016.0,£
+20,96.0,1.0,Intermediaries,Intermediaries 345125  345125 344138,345125,2017.0,£
+21,96.0,0.0,Intermediaries,Intermediaries 345125  345125 344138,344138,2016.0,£
+22,96.0,1.0,Arising out of reinsurance operations,Arising out of reinsurance operations 14 38704 138057 176761 21875,176761,2017.0,£
+23,96.0,0.0,Arising out of reinsurance operations,Arising out of reinsurance operations 14 38704 138057 176761 21875,21875,2016.0,£
+24,96.0,1.0,Other debtors,Other debtors 15 256647  256647 273968,256647,2017.0,£
+25,96.0,0.0,Other debtors,Other debtors 15 256647  256647 273968,273968,2016.0,£
+26,95.0,1.0,Total debtors,Total debtors 640514 138057 778571 640006,778571,2017.0,£
+27,94.0,0.0,Total debtors,Total debtors 640514 138057 778571 640006,640006,2016.0,£
+28,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 16 267358 139256 406614 465193,406614,2017.0,£
+29,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 16 267358 139256 406614 465193,465193,2016.0,£
+30,96.0,1.0,Other,Other 667  667 668,667,2017.0,£
+31,96.0,0.0,Other,Other 667  667 668,668,2016.0,£
+32,96.0,1.0,Total other assets,Total other assets 268025 139256 407281 465861,407281,2017.0,£
+33,96.0,0.0,Total other assets,Total other assets 268025 139256 407281 465861,465861,2016.0,£
+34,96.0,1.0,Accrued interest,Accrued interest 4965  4965 4383,4965,2017.0,£
+35,96.0,0.0,Accrued interest,Accrued interest 4965  4965 4383,4383,2016.0,£
+36,96.0,1.0,Deferred acquisition costs,Deferred acquisition costs 7 189976  189976 172124,189976,2017.0,£
+37,96.0,0.0,Deferred acquisition costs,Deferred acquisition costs 7 189976  189976 172124,172124,2016.0,£
+38,95.0,1.0,Other prepayments and accrued income,Other prepayments and accrued income 9317  9317 7933,9317,2017.0,£
+39,95.0,0.0,Other prepayments and accrued income,Other prepayments and accrued income 9317  9317 7933,7933,2016.0,£
+40,95.0,1.0,Total prepayments and accrued income,Total prepayments and accrued income 204258  204258 184440,204258,2017.0,£
+41,96.0,0.0,Total prepayments and accrued income,Total prepayments and accrued income 204258  204258 184440,184440,2016.0,£
+42,84.0,1.0,Total assets,Total assets 3826995 333666 4160661 3891984,4160661,2017.0,£
+43,95.0,0.0,Total assets,Total assets 3826995 333666 4160661 3891984,3891984,2016.0,£
+0,96.0,1.0,Syndicate,Syndicate 2017 2016,2017,2017.0,£
+1,96.0,0.0,Syndicate,Syndicate 2017 2016,2016,2016.0,£
+2,96.0,1.0,Members capital classified as a liability,Members capital classified as a liability 90145 261161 171016 308011,171016,2017.0,£
+3,96.0,0.0,Members capital classified as a liability,Members capital classified as a liability 90145 261161 171016 308011,308011,2016.0,£
+4,96.0,1.0,Provision for unearned premiums,Provision for unearned premiums 7 706920  706920 690698,706920,2017.0,£
+5,96.0,0.0,Provision for unearned premiums,Provision for unearned premiums 7 706920  706920 690698,690698,2016.0,£
+6,96.0,1.0,Claims outstanding  gross amount,Claims outstanding  gross amount 7 2809190  2809190 2412684,2809190,2017.0,£
+7,96.0,0.0,Claims outstanding  gross amount,Claims outstanding  gross amount 7 2809190  2809190 2412684,2412684,2016.0,£
+8,96.0,1.0,Total technical provisions,Total technical provisions 3516110  3516110 3103382,3516110,2017.0,£
+9,96.0,0.0,Total technical provisions,Total technical provisions 3516110  3516110 3103382,3103382,2016.0,£
+10,96.0,1.0,Deposits received from reinsurers,Deposits received from reinsurers 13230  13230 20478,13230,2017.0,£
+11,96.0,0.0,Deposits received from reinsurers,Deposits received from reinsurers 13230  13230 20478,20478,2016.0,£
+12,93.0,1.0,Arising out of direct insurance operations,Arising out of direct insurance operations 57185  57185 34548,57185,2017.0,£
+13,96.0,0.0,Arising out of direct insurance operations,Arising out of direct insurance operations 57185  57185 34548,34548,2016.0,£
+14,96.0,1.0,Arising out of reinsurance operations,Arising out of reinsurance operations 165592  165592 153506,165592,2017.0,£
+15,95.0,0.0,Arising out of reinsurance operations,Arising out of reinsurance operations 165592  165592 153506,153506,2016.0,£
+16,96.0,1.0,Other creditors,Other creditors 17 132239 72505 204744 245497,204744,2017.0,£
+17,96.0,0.0,Other creditors,Other creditors 17 132239 72505 204744 245497,245497,2016.0,£
+18,96.0,1.0,Total creditors,Total creditors 355016 72505 427521 433551,427521,2017.0,£
+19,95.0,0.0,Total creditors,Total creditors 355016 72505 427521 433551,433551,2016.0,£
+20,96.0,1.0,Other accruals and deferred income,Other accruals and deferred income 32784  32784 26562,32784,2017.0,£
+21,96.0,0.0,Other accruals and deferred income,Other accruals and deferred income 32784  32784 26562,26562,2016.0,£
+22,96.0,1.0,Total liabilities,Total liabilities 3826995 333666 4160661 3891984,4160661,2017.0,£
+23,96.0,0.0,Total liabilities,Total liabilities 3826995 333666 4160661 3891984,3891984,2016.0,£
+24,95.0,1.0,Loans and other debts due to members,Loans and other debts due to members 90145 261161 171016 308011,171016,2017.0,£
+25,96.0,0.0,Loans and other debts due to members,Loans and other debts due to members 90145 261161 171016 308011,308011,2016.0,£
+26,96.0,1.0,Total members interests,Total members interests 90145 261161 171016 308011,171016,2017.0,£
+27,96.0,0.0,Total members interests,Total members interests 90145 261161 171016 308011,308011,2016.0,£

@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Current assets,Current assets 39801 41271,39801,2018.0,£
+1,96.0,0.0,Current assets,Current assets 39801 41271,41271,2017.0,£
+2,96.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 13564 22071,13564,2018.0,£
+3,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 13564 22071,22071,2017.0,£
+4,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 26237 19200,26237,2018.0,£
+5,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 26237 19200,19200,2017.0,£
+6,96.0,1.0,Accruals and deferred income,Accruals and deferred income 1146 555,1146,2018.0,£
+7,70.0,0.0,Accruals and deferred income,Accruals and deferred income 1146 555,555,2017.0,£
+8,96.0,1.0,Capital and reserves,Capital and reserves 25091 18645,25091,2018.0,£
+9,93.0,0.0,Capital and reserves,Capital and reserves 25091 18645,18645,2017.0,£
+10,95.0,1.0,Loan  interest repayable on demand,Loan 0 interest repayable on demand 2868 9535 2868 9535,2868,2018.0,£
+11,95.0,0.0,Loan  interest repayable on demand,Loan 0 interest repayable on demand 2868 9535 2868 9535,9535,2017.0,£
+0,95.0,1.0,Loan  interest repayable on demand,Loan 0 interest repayable on demand 619 3486 2868,3486,2018.0,£
+1,96.0,0.0,Loan  interest repayable on demand,Loan 0 interest repayable on demand 619 3486 2868,2868,2017.0,£

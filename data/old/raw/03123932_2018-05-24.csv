@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,BALANCE SHEET  ch,BALANCE SHEET 3 ch 2018 2017,2018,2018.0,£
+1,91.0,0.0,BALANCE SHEET  ch,BALANCE SHEET 3 ch 2018 2017,2017,2017.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 2291 2291,2291,2018.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 2291 2291,2291,2017.0,£
+4,87.0,1.0,Debtors   Balance at bank and in hand,Debtors   Balance at bank and in hand 2050 2575,2050,2018.0,£
+5,96.0,0.0,Debtors   Balance at bank and in hand,Debtors   Balance at bank and in hand 2050 2575,2575,2017.0,£
+6,96.0,1.0,CREDITORS   Amounts falling due,CREDITORS   Amounts falling due 4471 4510,4471,2018.0,£
+7,96.0,0.0,CREDITORS   Amounts falling due,CREDITORS   Amounts falling due 4471 4510,4510,2017.0,£
+8,27.0,1.0,NET LIABILITIES  ASSETS,NET LIABILITIES  ASSETS  130 356,130,2018.0,£
+9,0.0,0.0,NET LIABILITIES  ASSETS,NET LIABILITIES  ASSETS  130 356,356,2017.0,£
+10,96.0,1.0,Called up share capital,Called up share capital 3 3,3,2018.0,£
+11,96.0,0.0,Called up share capital,Called up share capital 3 3,3,2017.0,£
+12,96.0,1.0,Income and expenditure account,Income and expenditure account 133 353,133,2018.0,£
+13,96.0,0.0,Income and expenditure account,Income and expenditure account 133 353,353,2017.0,£

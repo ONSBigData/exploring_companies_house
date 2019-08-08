@@ -1,0 +1,87 @@
+,conf,currYr,label,source,value,year,unit
+0,80.0,1.0,Notes,Notes 000 000 000 000,000,2017.0,£'000
+1,31.0,0.0,Notes,Notes 000 000 000 000,000,2016.0,£'000
+2,92.0,1.0,Intangible assets,Intangible assets 10 3140 3653,3140,2017.0,£'000
+3,96.0,0.0,Intangible assets,Intangible assets 10 3140 3653,3653,2016.0,£'000
+4,94.0,1.0,Tangible assets,Tangible assets 11 561 446,561,2017.0,£'000
+5,96.0,0.0,Tangible assets,Tangible assets 11 561 446,446,2016.0,£'000
+6,87.0,1.0,Debtors,Debtors 13 5610 5375,5610,2017.0,£'000
+7,94.0,0.0,Debtors,Debtors 13 5610 5375,5375,2016.0,£'000
+8,96.0,1.0,Cash at bank,Cash at bank 3177 2368,3177,2017.0,£'000
+9,96.0,0.0,Cash at bank,Cash at bank 3177 2368,2368,2016.0,£'000
+10,95.0,1.0,Amounts falling due within one year,Amounts falling due within one year 14 3439 2633,3439,2017.0,£'000
+11,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 14 3439 2633,2633,2016.0,£'000
+12,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 5348 5110,5348,2017.0,£'000
+13,88.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 5348 5110,5110,2016.0,£'000
+14,94.0,1.0,LIABILITIES,LIABILITIES 9049 9209,9049,2017.0,£'000
+15,95.0,0.0,LIABILITIES,LIABILITIES 9049 9209,9209,2016.0,£'000
+16,92.0,1.0,Amounts falling due after more than one year,year 15 3296,15,2017.0,£'000
+17,94.0,0.0,Amounts falling due after more than one year,year 15 3296,3296,2016.0,£'000
+18,94.0,1.0,ACCRUALS AND DEFERRED INCOME,ACCRUALS AND DEFERRED INCOME 19 3819,19,2017.0,£'000
+19,0.0,0.0,ACCRUALS AND DEFERRED INCOME,ACCRUALS AND DEFERRED INCOME 19 3819,3819,2016.0,£'000
+20,96.0,1.0,Called up share capital,Called up share capital 20 302,20,2017.0,£'000
+21,96.0,0.0,Called up share capital,Called up share capital 20 302,302,2016.0,£'000
+22,93.0,1.0,Share premium,Share premium 21 9388,21,2017.0,£'000
+23,94.0,0.0,Share premium,Share premium 21 9388,9388,2016.0,£'000
+24,96.0,1.0,Retained earnings,Retained earnings 21 7756 8158,7756,2017.0,£'000
+25,96.0,0.0,Retained earnings,Retained earnings 21 7756 8158,8158,2016.0,£'000
+0,92.0,1.0,Notes,Notes 000 000 000 000,000,2017.0,£'000
+1,87.0,0.0,Notes,Notes 000 000 000 000,000,2016.0,£'000
+2,94.0,1.0,Tangible assets,Tangible assets 1 38 53,38,2017.0,£'000
+3,96.0,0.0,Tangible assets,Tangible assets 1 38 53,53,2016.0,£'000
+4,96.0,1.0,Investments,Investments 12 12760 12760,12760,2017.0,£'000
+5,96.0,0.0,Investments,Investments 12 12760 12760,12760,2016.0,£'000
+6,96.0,1.0,Debtors,Debtors 13 4670 4686,4670,2017.0,£'000
+7,95.0,0.0,Debtors,Debtors 13 4670 4686,4686,2016.0,£'000
+8,96.0,1.0,Cash at bank,Cash at bank 734 356,734,2017.0,£'000
+9,96.0,0.0,Cash at bank,Cash at bank 734 356,356,2016.0,£'000
+10,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 14 1491 1243,1491,2017.0,£'000
+11,95.0,0.0,Amounts falling due within one year,Amounts falling due within one year 14 1491 1243,1243,2016.0,£'000
+12,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 3913 3799,3913,2017.0,£'000
+13,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 3913 3799,3799,2016.0,£'000
+14,96.0,1.0,LIABILITIES,LIABILITIES 16771 16612,16771,2017.0,£'000
+15,96.0,0.0,LIABILITIES,LIABILITIES 16771 16612,16612,2016.0,£'000
+16,96.0,1.0,Amounts falling due after more than one year,year 15 4558 4568,4558,2017.0,£'000
+17,95.0,0.0,Amounts falling due after more than one year,year 15 4558 4568,4568,2016.0,£'000
+18,96.0,1.0,PROVISIONS FOR LIABILITIES,PROVISIONS FOR LIABILITIES 18  9,18,2017.0,£'000
+19,91.0,0.0,PROVISIONS FOR LIABILITIES,PROVISIONS FOR LIABILITIES 18  9,9,2016.0,£'000
+20,96.0,1.0,ACCRUALS AND DEFERRED INCOME,ACCRUALS AND DEFERRED INCOME 19 25 20,25,2017.0,£'000
+21,96.0,0.0,ACCRUALS AND DEFERRED INCOME,ACCRUALS AND DEFERRED INCOME 19 25 20,20,2016.0,£'000
+22,94.0,1.0,NET ASSETS,NET ASSETS 12128 12015,12128,2017.0,£'000
+23,95.0,0.0,NET ASSETS,NET ASSETS 12128 12015,12015,2016.0,£'000
+24,96.0,1.0,Called up share capital,Called up share capital 20 302 302,302,2017.0,£'000
+25,96.0,0.0,Called up share capital,Called up share capital 20 302 302,302,2016.0,£'000
+26,96.0,1.0,Share premium,Share premium 21 9388 9388,9388,2017.0,£'000
+27,95.0,0.0,Share premium,Share premium 21 9388 9388,9388,2016.0,£'000
+28,96.0,1.0,Retained earnings,Retained earnings 21 2438 2325,2438,2017.0,£'000
+29,96.0,0.0,Retained earnings,Retained earnings 21 2438 2325,2325,2016.0,£'000
+30,95.0,1.0,Companys profit for the financial year,Companys profit for the financial year 113 751,113,2017.0,£'000
+31,95.0,0.0,Companys profit for the financial year,Companys profit for the financial year 113 751,751,2016.0,£'000
+0,96.0,1.0,Profit before taxation,Profit before taxation 393 314,393,2017.0,£'000
+1,96.0,0.0,Profit before taxation,Profit before taxation 393 314,314,2016.0,£'000
+2,96.0,1.0,Depreciation charges,Depreciation charges 247 238,247,2017.0,£'000
+3,96.0,0.0,Depreciation charges,Depreciation charges 247 238,238,2016.0,£'000
+4,92.0,1.0,Amortisation,Amortisation 13 538,13,2017.0,£'000
+5,86.0,0.0,Amortisation,Amortisation 13 538,538,2016.0,£'000
+6,96.0,1.0,Finance costs,Finance costs 256 250,256,2017.0,£'000
+7,96.0,0.0,Finance costs,Finance costs 256 250,250,2016.0,£'000
+8,96.0,1.0,Finance income,Finance income 2 4,2,2017.0,£'000
+9,96.0,0.0,Finance income,Finance income 2 4,4,2016.0,£'000
+10,72.0,1.0,Increase in trade and other debtors,Increase in trade and other debtors 256 376,256,2017.0,£'000
+11,96.0,0.0,Increase in trade and other debtors,Increase in trade and other debtors 256 376,376,2016.0,£'000
+12,96.0,1.0,Increase in trade and other creditors,Increase in trade and other creditors 963 308,963,2017.0,£'000
+13,96.0,0.0,Increase in trade and other creditors,Increase in trade and other creditors 963 308,308,2016.0,£'000
+14,96.0,1.0,Cash generated from operations,Cash generated from operations 2114 1298,2114,2017.0,£'000
+15,96.0,0.0,Cash generated from operations,Cash generated from operations 2114 1298,1298,2016.0,£'000
+16,96.0,1.0,Cash and cash equivalents,Cash and cash equivalents 3177 2368,3177,2017.0,£'000
+17,96.0,0.0,Cash and cash equivalents,Cash and cash equivalents 3177 2368,2368,2016.0,£'000
+18,96.0,1.0,Cash and cash equivalents,Cash and cash equivalents 2368 3673,2368,2017.0,£'000
+19,96.0,0.0,Cash and cash equivalents,Cash and cash equivalents 2368 3673,3673,2016.0,£'000
+0,91.0,1.0,Revenue,Revenue 10839000 10041000,10839000,2017.0,£'000
+1,92.0,0.0,Revenue,Revenue 10839000 10041000,10041000,2016.0,£'000
+2,91.0,1.0,EBITDA,EBITDA 2165000 2054000,2165000,2017.0,£'000
+3,91.0,0.0,EBITDA,EBITDA 2165000 2054000,2054000,2016.0,£'000
+4,96.0,1.0,EBITDA per head,EBITDA per head 23791 21621,23791,2017.0,£'000
+5,49.0,0.0,EBITDA per head,EBITDA per head 23791 21621,21621,2016.0,£'000
+6,92.0,1.0,Year end cash balance,Year end cash balance 3177000 2368000,3177000,2017.0,£'000
+7,91.0,0.0,Year end cash balance,Year end cash balance 3177000 2368000,2368000,2016.0,£'000

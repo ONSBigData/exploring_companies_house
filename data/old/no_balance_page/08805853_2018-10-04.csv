@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 648 20868,648,2017.0,£
+1,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 648 20868,20868,2016.0,£
+2,96.0,1.0,Amounts owed to group undertakings,Amounts owed to group undertakings 137752 195406,137752,2017.0,£
+3,94.0,0.0,Amounts owed to group undertakings,Amounts owed to group undertakings 137752 195406,195406,2016.0,£
+4,90.0,1.0,Accruals and deferred income,Accruals and deferred income 104440 121253,104440,2017.0,£
+5,95.0,0.0,Accruals and deferred income,Accruals and deferred income 104440 121253,121253,2016.0,£
+0,71.0,1.0,Tangible assets,Tangible assets 4 5270 228436,5270,2017.0,£
+1,92.0,0.0,Tangible assets,Tangible assets 4 5270 228436,228436,2016.0,£
+2,95.0,1.0,Debtors amounts falling due within one year,year 6745 93244,6745,2017.0,£
+3,96.0,0.0,Debtors amounts falling due within one year,year 6745 93244,93244,2016.0,£
+4,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 6 648 20868,648,2017.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 6 648 20868,20868,2016.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,one year 7 242192 342851,242192,2017.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,one year 7 242192 342851,342851,2016.0,£
+8,96.0,1.0,Net current liabilities,Net current liabilities 234799 228739,234799,2017.0,£
+9,96.0,0.0,Net current liabilities,Net current liabilities 234799 228739,228739,2016.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 229529 303,229529,2017.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 229529 303,303,2016.0,£
+12,96.0,1.0,Deferred tax,Deferred tax 8  1001,8,2017.0,£
+13,91.0,0.0,Deferred tax,Deferred tax 8  1001,1001,2016.0,£
+14,95.0,1.0,Net liabilities,Net liabilities 229529 1304,229529,2017.0,£
+15,96.0,0.0,Net liabilities,Net liabilities 229529 1304,1304,2016.0,£
+16,96.0,1.0,Called up share capital,Called up share capital 1 1,1,2017.0,£
+17,95.0,0.0,Called up share capital,Called up share capital 1 1,1,2016.0,£
+18,96.0,1.0,Profit and loss account,Profit and loss account 229530 1305,229530,2017.0,£
+19,95.0,0.0,Profit and loss account,Profit and loss account 229530 1305,1305,2016.0,£

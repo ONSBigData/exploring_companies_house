@@ -1,0 +1,13 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors,Debtors 129129 64992,129129,2018.0,£
+1,96.0,0.0,Debtors,Debtors 129129 64992,64992,2017.0,£
+2,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 26901 83928,26901,2018.0,£
+3,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 26901 83928,83928,2017.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,year 83631 139977,83631,2018.0,£
+5,92.0,0.0,Creditors amounts falling due within one year,year 83631 139977,139977,2017.0,£
+6,95.0,1.0,Called up share capital,Called up share capital 100010 100010,100010,2018.0,£
+7,95.0,0.0,Called up share capital,Called up share capital 100010 100010,100010,2017.0,£
+8,96.0,1.0,Profit and loss reserves,Profit and loss reserves 45083 21854,45083,2018.0,£
+9,96.0,0.0,Profit and loss reserves,Profit and loss reserves 45083 21854,21854,2017.0,£
+10,95.0,1.0,Total equity,Total equity 145093 78156,145093,2018.0,£
+11,96.0,0.0,Total equity,Total equity 145093 78156,78156,2017.0,£

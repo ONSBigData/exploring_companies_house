@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2017 2016,2017,2017.0,£
+1,96.0,0.0,Note,Note 2017 2016,2016,2016.0,£
+2,96.0,1.0,Debtors,Debtors 3 196013 196013,196013,2017.0,£
+3,95.0,0.0,Debtors,Debtors 3 196013 196013,196013,2016.0,£
+4,96.0,1.0,Creditors,Creditors 3 775735 775735,775735,2017.0,£
+5,95.0,0.0,Creditors,Creditors 3 775735 775735,775735,2016.0,£
+6,96.0,1.0,Net current liabilities,Net current liabilities 579722 579722,579722,2017.0,£
+7,95.0,0.0,Net current liabilities,Net current liabilities 579722 579722,579722,2016.0,£
+8,96.0,1.0,Called up share capital,Called up share capital 4 50000 50000,50000,2017.0,£
+9,96.0,0.0,Called up share capital,Called up share capital 4 50000 50000,50000,2016.0,£
+10,96.0,1.0,Share premium account,Share premium account 1556000 1556000,1556000,2017.0,£
+11,96.0,0.0,Share premium account,Share premium account 1556000 1556000,1556000,2016.0,£
+12,90.0,1.0,Profit and loss account,Profit and loss account 2185722 2185722,2185722,2017.0,£
+13,96.0,0.0,Profit and loss account,Profit and loss account 2185722 2185722,2185722,2016.0,£
+14,96.0,1.0,Total equity shareholders funds,Total equity shareholders funds 579722 579722,579722,2017.0,£
+15,96.0,0.0,Total equity shareholders funds,Total equity shareholders funds 579722 579722,579722,2016.0,£
+16,49.0,1.0,Signed on behalf of the boardon,Signed on behalf of the boardon 7 18,7,2017.0,£
+17,0.0,0.0,Signed on behalf of the boardon,Signed on behalf of the boardon 7 18,18,2016.0,£

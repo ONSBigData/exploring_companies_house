@@ -1,0 +1,11 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Notes,Notes 2017 2016,2017,2017.0,£
+1,96.0,0.0,Notes,Notes 2017 2016,2016,2016.0,£
+2,95.0,1.0,Cash and cash equivalents,Cash and cash equivalents 45697 62577,45697,2017.0,£
+3,94.0,0.0,Cash and cash equivalents,Cash and cash equivalents 45697 62577,62577,2016.0,£
+4,95.0,1.0,Trade and other payables,Trade and other payables 45697 62577,45697,2017.0,£
+5,93.0,0.0,Trade and other payables,Trade and other payables 45697 62577,62577,2016.0,£
+0,96.0,1.0,Cash and cash equivalents,Cash and cash equivalents 45697 45697 62577 62577,62577,2017.0,£
+1,96.0,0.0,Cash and cash equivalents,Cash and cash equivalents 45697 45697 62577 62577,62577,2016.0,£
+2,95.0,1.0,Trade and other payables,Trade and other payables 45697 45697 62577 62577,62577,2017.0,£
+3,95.0,0.0,Trade and other payables,Trade and other payables 45697 45697 62577 62577,62577,2016.0,£

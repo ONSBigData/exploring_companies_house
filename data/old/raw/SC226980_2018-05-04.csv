@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,FIXED ASSETS investments,investments 7 12,7,2017.0,£
+1,96.0,0.0,FIXED ASSETS investments,investments 7 12,12,2016.0,£
+2,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 9 16499 13416,16499,2017.0,£
+3,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 9 16499 13416,13416,2016.0,£
+4,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 5848 8079,5848,2017.0,£
+5,95.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 8 5848 8079,8079,2016.0,£
+6,95.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 10651 5337,10651,2017.0,£
+7,95.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 10651 5337,5337,2016.0,£
+8,51.0,1.0,LIABILITIES,LIABILITIES 10651 5349,10651,2017.0,£
+9,95.0,0.0,LIABILITIES,LIABILITIES 10651 5349,5349,2016.0,£
+10,94.0,1.0,NET ASSETS,NET ASSETS 10651 5349,10651,2017.0,£
+11,96.0,0.0,NET ASSETS,NET ASSETS 10651 5349,5349,2016.0,£
+12,96.0,1.0,Profit and loss account,Profit and loss account 10650 5348,10650,2017.0,£
+13,96.0,0.0,Profit and loss account,Profit and loss account 10650 5348,5348,2016.0,£

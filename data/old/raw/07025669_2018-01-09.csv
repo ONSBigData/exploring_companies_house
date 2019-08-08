@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Intangible assets,Intangible assets 3 456325 375161,456325,2017.0,£
+1,87.0,0.0,Intangible assets,Intangible assets 3 456325 375161,375161,2016.0,£
+2,96.0,1.0,Investments,Investments 5 13470 4850,13470,2017.0,£
+3,96.0,0.0,Investments,Investments 5 13470 4850,4850,2016.0,£
+4,96.0,1.0,Debtors,Debtors 6 57742 133567,57742,2017.0,£
+5,96.0,0.0,Debtors,Debtors 6 57742 133567,133567,2016.0,£
+6,77.0,1.0,Cash at bank and in hand,Cash at bank and in hand  14065 2584,14065,2017.0,£
+7,84.0,0.0,Cash at bank and in hand,Cash at bank and in hand  14065 2584,2584,2016.0,£
+8,96.0,1.0,.,. 431807 136148,431807,2017.0,£
+9,32.0,0.0,.,. 431807 136148,136148,2016.0,£
+10,96.0,1.0,Creditors amounts falling due within  one year,one year 7 184085 13826,184085,2017.0,£
+11,96.0,0.0,Creditors amounts falling due within  one year,one year 7 184085 13826,13826,2016.0,£
+12,92.0,1.0,Net current liabilitiesassets,Net current liabilitiesassets 52278 122322,52278,2017.0,£
+13,96.0,0.0,Net current liabilitiesassets,Net current liabilitiesassets 52278 122322,122322,2016.0,£
+14,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 430042 502333,430042,2017.0,£
+15,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 430042 502333,502333,2016.0,£
+16,96.0,1.0,Creditors amounts falling due after more than one year,more than one year 8 411012 417066,411012,2017.0,£
+17,0.0,0.0,Creditors amounts falling due after more than one year,more than one year 8 411012 417066,417066,2016.0,£
+18,96.0,1.0,Net assets,Net assets  19030 85267,19030,2017.0,£
+19,96.0,0.0,Net assets,Net assets  19030 85267,85267,2016.0,£
+20,76.0,1.0,Called up share capital,Called up share capital 9 150454 148886,150454,2017.0,£
+21,94.0,0.0,Called up share capital,Called up share capital 9 150454 148886,148886,2016.0,£
+22,59.0,1.0,Share premium account   Profit and loss reserves,Share premium account 1476395 1277536 Profit and loss reserves 1607819 1341155,1607819,2017.0,£
+23,96.0,0.0,Share premium account   Profit and loss reserves,Share premium account 1476395 1277536 Profit and loss reserves 1607819 1341155,1341155,2016.0,£
+24,96.0,1.0,Total equity,Total equity 19030 85267,19030,2017.0,£
+25,95.0,0.0,Total equity,Total equity 19030 85267,85267,2016.0,£

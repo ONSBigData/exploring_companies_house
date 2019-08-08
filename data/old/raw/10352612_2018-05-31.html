@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:accrep="http://xbrl.frc.org.uk/reports/2014-09-01/accrep" xmlns:aurep="http://xbrl.frc.org.uk/reports/2014-09-01/aurep" xmlns:bus="http://xbrl.frc.org.uk/cd/2014-09-01/business" xmlns:common="http://xbrl.frc.org.uk/general/2014-09-01/common" xmlns:core="http://xbrl.frc.org.uk/fr/2014-09-01/core" xmlns:countries="http://xbrl.frc.org.uk/cd/2014-09-01/countries" xmlns:curr="http://xbrl.frc.org.uk/cd/2014-09-01/currencies" xmlns:direp="http://xbrl.frc.org.uk/reports/2014-09-01/direp" xmlns:dpl="http://www.govtalk.gov.uk/uk/fr/tax/dpl-core/2013-10-01" xmlns:dpl-frc="http://www.govtalk.gov.uk/uk/fr/tax/dpl-frc/2015-02-14" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:frs-102="http://xbrl.frc.org.uk/FRS-102/2014-09-01" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2011-07-31" xmlns:lang="http://xbrl.frc.org.uk/cd/2014-09-01/languages" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:num="http://www.xbrl.org/dtr/type/numeric" xmlns:ref="http://www.xbrl.org/2006/ref" xmlns:types="http://xbrl.frc.org.uk/general/2014-09-01/types" xmlns:uk-countries="http://www.xbrl.org/uk/cd/countries/2009-09-01" xmlns:uk-ref="http://xbrl.frc.org.uk/general/2014-09-01/ref" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldie="http://xbrl.org/2006/xbrldi/errors" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrldte="http://xbrl.org/2005/xbrldt/errors" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xl="http://www.xbrl.org/2003/XLink" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <head>
+    <title>APEX SUPPLIERS LIMITED - Accounts</title>
+    <meta content="application/xhtml+xml; charset=UTF-8" http-equiv="Content-Type"/>
+    <style type="text/css">
+		body.report-body { margin: 0 8px; }
+		.page700 { min-height: 750px; background-color:transparent; }
+		.pagebreak { page-break-before:always }
+		.pageno { display: none!important }
+		.page-body { padding: 0; vertical-align: top }
+
+		.page700 a { color:#000000; text-decoration:none; font-size: 16px; }
+		.page700 a img { border-style: none; border-width: 0 }
+		.page700 hr { margin: 0; border: none; border-bottom:1px solid #202020 }
+		.page700 p { text-align:justify; margin-top:15px; margin-bottom:15px }
+		.page700 p strong { text-align:left }
+		.page700 p.subhead { font-weight:bold; margin-top:5px; margin-bottom:5px; text-align:left }
+		.page700 table.page { width: 100%; border-spacing: 0; font-family:Arial !important; font-size:16px }
+		.page700 table.tfont { font-size:16px }
+		.page700 table.page thead { display: table-header-group }
+		.page700 table tbody { vertical-align: top }
+		.page700 table.page700 thead th { height: 90px }
+		.page700 thead th { font-weight:normal; font-size:20px }
+		.page700 table.w100p, .page700 table.w550px { font-size:16px;margin-bottom:10px;  }
+		.page700 tr.spacer { height:10px }
+
+		.page700 .w95px { width: 85px; vertical-align:middle }
+		.page700 .w25px { width: 10px }
+		.page700 .w10px { width: 5px }
+		.page700 .w100p { width: 100% }
+		.page700 .w550px { width: 550px; }
+		.page700 .w200px { width: 200px }
+		.page700 .w98p{ width: 94%; }
+
+		.page700 .cover-company { text-align: center; font-size:20px; text-transform:uppercase;  }
+		.page700 .center { margin: auto }
+		.page700 .tcenter { text-align:center }
+		.page700 .left, .cmp-val { text-align: left }
+		.page700 .page-body .right { text-align: right; vertical-align:middle; float:none }
+		.page700 .report .right{ float:none; }
+		.page700 .report .left{ float:none; }
+		.page700 .bold { font-weight: bold }
+		.page700 .mb0 { margin-bottom:0 }
+		.page700 .mt0 { margin-top:0 }
+		.page700 .bbottom { border-bottom:1px solid #202020 }
+		.page700 .pageheader { font-size:19px; text-align:center; margin-top:5px; margin-bottom:20px }
+		.page700 .pageheader a { font-size:19px; }
+		.page700 .avoid_pagebreak { page-break-inside : avoid }
+		.page700 .cmp-val{ padding-bottom: 20px }
+		.page700 .leftHead { width: 230px; display: inline-block; font-weight:bold; vertical-align:top }
+		.page700 .contentHead { width: 270px; display: inline-block; vertical-align:top }
+		.page700 .page-number { width: 100px; display: inline-block; vertical-align:top; text-align:center }
+		.page700 .totalRow td { border-top:1px solid #202020; font-weight:bold; padding-top:3px; padding-bottom:3px; text-align:right; vertical-align:middle }
+		.page700 .totalCol { border-top:1px solid #202020; font-weight:bold; padding-bottom:5px; text-align:right; vertical-align:middle }
+		.page700 .gTotalCol { border-top:1px solid #202020; border-bottom:1px solid #202020; font-weight:bold; padding-bottom:1px; padding-top: 2px; text-align:right; vertical-align:middle }
+		.page700 .note-no { padding-top:16px; width: 20px; font-weight:bold; vertical-align:top }
+		.page700 .note-body { padding-top: 10px; }
+		.page700 .note-body-bottom { padding-bottom: 10px; }
+         .page700 .note-body .tag { padding-top: 10px;}
+        .page700 .note-body .tagged { margin-top: 10px !important;display:inline-block;}
+        .page700 .note-body .tag .tagged { margin-top:0px !important;display:inline-block;}
+         #note-Goodwill strong { margin-bottom: 10px !important;display:inline-block;position:relative;}
+         #note-LicencesAndPatents strong { margin-bottom: 10px !important;display:inline-block;position:relative;}
+         #note-DevelopmentExpenditures strong { margin-bottom: 10px !important;display:inline-block;position:relative;}
+         #note-ComputerSoftwareDevelopmentCosts strong { margin-bottom: 10px !important;display:inline-block;position:relative;}
+	</style>
+    <style media="print" type="text/css">
+		.page700 table.page, .page700 table.w100p, .page700 table.tfont, .page700 table.w550px { font-size:18px; }
+		.page700 a { font-size:18px; }
+		.page700 .cover-company { font-size: 24px; }
+		.page700 table th.w95px { font-size:20px; }
+		.page700 thead th { font-weight:normal; font-size: 20px; }
+		.page700 .pageheader { font-size:23px; text-align:center; margin-top:5px; margin-bottom:25px; }
+		.page700 .pageheader a { font-size:23px; }
+	</style>
+  </head>
+  <body class="report-body">
+    <div style="display:none">
+      <ix:header>
+        <ix:hidden>
+          <ix:nonNumeric contextRef="companyA" name="bus:StartDateForPeriodCoveredByReport">2016-08-31</ix:nonNumeric>
+          <ix:nonNumeric contextRef="companyA" name="bus:EndDateForPeriodCoveredByReport">2017-08-31</ix:nonNumeric>
+          <ix:nonNumeric contextRef="company" name="bus:EntityTradingStatus"/>
+          <ix:nonNumeric contextRef="company" name="bus:EntityDormantTruefalse">false</ix:nonNumeric>
+          <ix:nonNumeric contextRef="business_type" name="bus:LegalFormEntity"/>
+          <ix:nonNumeric contextRef="acc_legislation" name="bus:ApplicableLegislation"/>
+          <ix:nonNumeric contextRef="acc_type" name="bus:AccountsTypeFullOrAbbreviated"/>
+          <ix:nonNumeric contextRef="acc_audit_status" name="bus:AccountsStatusAuditedOrUnaudited"/>
+          <ix:nonNumeric contextRef="acc_standard" name="bus:AccountingStandardsApplied"/>
+          <ix:nonNumeric contextRef="director1" name="core:DirectorSigningFinancialStatements"/>
+          <ix:nonNumeric contextRef="director1" name="direp:DirectorSigningDirectorsReport"/>
+          <ix:nonNumeric contextRef="company" name="bus:NameProductionSoftware">Capium Accounts Production</ix:nonNumeric>
+          <ix:nonNumeric contextRef="company" name="bus:VersionProductionSoftware">1.1</ix:nonNumeric>
+        </ix:hidden>
+        <ix:references>
+          <link:schemaRef xlink:href="https://xbrl.frc.org.uk/FRS-102/2014-09-01/FRS-102-2014-09-01.xsd" xlink:type="simple"/>
+        </ix:references>
+        <ix:resources>
+          <xbrli:context id="acc_type">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:AccountsTypeDimension">bus:FullAccounts</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="acc_standard">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:AccountingStandardsDimension">bus:FRS102</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="acc_audit_status">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:AccountsStatusDimension">bus:AuditExemptWithAccountantsReport</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="acc_legislation">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:ApplicableLegislationDimension">bus:SmallCompaniesRegimeForAccounts</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="business_type">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:LegalFormEntityDimension">bus:PrivateLimitedCompanyLtd</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="company">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="companyA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="office">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:EntityContactTypeDimension">bus:RegisteredOffice</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="withinoneyear">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:MaturitiesOrExpirationPeriodsDimension">core:WithinOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="afteroneyear">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:MaturitiesOrExpirationPeriodsDimension">core:AfterOneYear</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="director1">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:EntityOfficersDimension">bus:Director1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="director1B">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:EntityOfficersDimension">bus:Director1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="StartPrevious">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2015-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="secretary">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:EntityOfficersDimension">bus:CompanySecretary1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="solicitor">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:ThirdPartyAgentStatusDimension">bus:LeadAgentIfApplicable</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="companyA_prev">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2016-08-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OrdinaryShareClass1">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:EntityShareClassesDimension">bus:OrdinaryShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2016-08-31</xbrli:startDate>
+              <xbrli:endDate>2017-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="OrdinaryShareClass1A">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="bus:EntityShareClassesDimension">bus:OrdinaryShareClass1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cost_investmentA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:InvestmentsMovementsDimension">core:CostValuation</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cost_investmentA_prev">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:InvestmentsMovementsDimension">core:CostValuation</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2016-08-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="addition_investmentA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:InvestmentsMovementsDimension">core:AdditionsToInvestments</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="disposal_investmentA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:InvestmentsMovementsDimension">core:DisposalsDecreaseInInvestments</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="reval_investmentA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:InvestmentsMovementsDimension">core:RevaluationsIncreaseDecreaseInInvestments</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="investmentA">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="investmentA_prev">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:FinancialInstrumentCurrentNon-currentDimension">core:Non-currentFinancialInstruments</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2016-08-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="share_capital">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:EquityClassesDimension">core:ShareCapital</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="pnl_reserve">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="core:EquityClassesDimension">core:RetainedEarningsAccumulatedLosses</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="dpl_item1_start">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="dpl:DetailedAnalysisDimension">dpl:Item1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2016-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="dpl_item1_end">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.companieshouse.gov.uk/">10352612</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="dpl:DetailedAnalysisDimension">dpl:Item1</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2017-08-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:unit id="GBP">
+            <xbrli:measure>iso4217:GBP</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="Shares">
+            <xbrli:measure>xbrli:shares</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="Pure">
+            <xbrli:measure>xbrli:pure</xbrli:measure>
+          </xbrli:unit>
+        </ix:resources>
+      </ix:header>
+    </div>
+    <div class="page700">
+      <table class="page">
+        <tbody>
+          <tr>
+            <td style="text-align: right">Registered Number : <ix:nonNumeric contextRef="company" name="bus:UKCompaniesHouseRegisteredNumber">10352612</ix:nonNumeric>
+</td>
+          </tr>
+          <tr>
+            <td style="text-align: right">England and Wales</td>
+          </tr>
+          <tr>
+            <td>
+              <p> </p>
+              <p> </p>
+              <p> </p>
+              <p class="cover-company">
+                <ix:nonNumeric contextRef="company" name="bus:EntityCurrentLegalOrRegisteredName">APEX SUPPLIERS LIMITED</ix:nonNumeric>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: center">
+              <br/>
+              <ix:nonNumeric contextRef="company" name="bus:ReportTitle">Unaudited Financial Statements</ix:nonNumeric>
+            </td>
+          </tr>
+          <tr>
+            <td> </td>
+          </tr>
+          <tr>
+            <td style="text-align: center">
+              <br/>
+              <br/>
+              <strong>Period of accounts</strong>
+              <br/>
+              <br/>
+              <strong>Start date:</strong>
+              <ix:nonNumeric contextRef="companyA" format="ixt:datedaymonthyearen" name="bus:StartDateForPeriodCoveredByReport">31 August 2016</ix:nonNumeric>
+              <br/>
+              <br/>
+              <strong>End date:</strong>
+              <ix:nonNumeric contextRef="companyA" format="ixt:datedaymonthyearen" name="bus:EndDateForPeriodCoveredByReport">31 August 2017</ix:nonNumeric>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pagebreak page700">
+      <table class="page">
+        <thead>
+          <tr>
+            <th>
+              <p class="pageheader">
+                <strong style="text-transform:uppercase;font-weight:100">APEX SUPPLIERS LIMITED</strong>
+                <br/>
+                <a class="bookmark" id="contents_page">Contents Page</a>
+                <br/>For the year ended 31 August 2017</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="page-body">
+              <div>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <table cellpadding="10" cellspacing="10" class="center tfont">
+                  <tr>
+                    <td class="contentHead">
+                      <a href="#business_information" id="a_1">Company Information</a>
+                      <br/>
+                      <br/>
+                    </td>
+                    <td class="page-number" valign="top"/>
+                  </tr>
+                  <tr>
+                    <td class="contentHead">
+                      <a href="#balance_sheet" id="a_2">Statement of Financial Position</a>
+                      <br/>
+                      <br/>
+                    </td>
+                    <td class="page-number" valign="top"/>
+                  </tr>
+                  <tr>
+                    <td class="contentHead">
+                      <a href="#notes_to_the_financial_statement" id="a_3">Notes to the Financial Statements</a>
+                      <br/>
+                      <br/>
+                    </td>
+                    <td class="page-number" valign="top"/>
+                  </tr>
+                </table>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pagebreak page700">
+      <table class="page">
+        <thead>
+          <tr>
+            <th>
+              <p class="pageheader" id="p_1">
+                <strong style="text-transform:uppercase;font-weight:100">APEX SUPPLIERS LIMITED</strong>
+                <br/>
+                <a class="bookmark" id="business_information">Company Information</a>
+                <br/>For the year ended 31 August 2017</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="page-body">
+              <div id="div_1">
+                <table border="0" cellpadding="5" cellspacing="0" class="center tfont">
+                  <tr>
+                    <td class="leftHead">Director</td>
+                    <td class="cmp-val">
+                      <ix:nonNumeric contextRef="director1" name="bus:NameEntityOfficer">Ali Hassan</ix:nonNumeric>
+                      <br/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="leftHead">Registered Number</td>
+                    <td class="cmp-val">
+                      <ix:nonNumeric contextRef="company" name="bus:UKCompaniesHouseRegisteredNumber">10352612</ix:nonNumeric>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="leftHead">Registered Office</td>
+                    <td class="cmp-val">
+                      <ix:nonNumeric contextRef="office" name="bus:AddressLine1">F20A WATERFRONT STUDIOS</ix:nonNumeric>
+                      <br/>
+                      <ix:nonNumeric contextRef="office" name="bus:AddressLine2">1 DOCK ROAD </ix:nonNumeric>
+                      <br/>
+                      <ix:nonNumeric contextRef="office" name="bus:PrincipalLocation-CityOrTown">LONDON</ix:nonNumeric>
+                      <br/>
+                      <ix:nonNumeric contextRef="office" name="bus:PostalCodeZip">E16 1AH</ix:nonNumeric>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="leftHead">Accountants</td>
+                    <td class="cmp-val">IHB Accountants Ltd<br/>F25 Waterfront Studios<br/>1 Dock Road<br/>London<br/>E16 1AH</td>
+                  </tr>
+                </table>
+                <div class="pageno">1</div>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pagebreak page700">
+      <table class="page">
+        <thead>
+          <tr>
+            <th>
+              <p class="pageheader" id="p_2">
+                <strong style="text-transform:uppercase;font-weight:100">APEX SUPPLIERS LIMITED</strong>
+                <br/>
+                <a class="bookmark" id="balance_sheet">Statement of Financial Position</a>
+                <br/>As at <ix:nonNumeric contextRef="companyA" format="ixt:datedaymonthyearen" name="bus:BalanceSheetDate">31 August 2017</ix:nonNumeric>
+</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="page-body">
+              <div id="div_2">
+                <table cellpadding="5" cellspacing="0" class="w100p center">
+                  <tr>
+                    <th> <br/> </th>
+                    <th class="tcenter w95px">Notes<br/> </th>
+                    <th class="right w95px">2017<br/>£</th>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Current assets</strong>
+                    </td>
+                    <td> </td>
+                    <td> </td>
+                  </tr>
+                  <tr>
+                    <td>Debtors</td>
+                    <td class="tcenter">2</td>
+                    <td class="right">
+                      <ix:nonFraction contextRef="companyA" decimals="0" format="ixt:numdotdecimal" name="core:Debtors" scale="0" unitRef="GBP">121,404</ix:nonFraction> </td>
+                  </tr>
+                  <tr>
+                    <td>Cash at bank and in hand</td>
+                    <td class="tcenter"/>
+                    <td class="right">
+                      <ix:nonFraction contextRef="companyA" decimals="0" format="ixt:numdotdecimal" name="core:CashBankOnHand" scale="0" unitRef="GBP">83,200</ix:nonFraction> </td>
+                  </tr>
+                  <tr>
+                    <td/>
+                    <td class="tcenter"/>
+                    <td class="totalCol">
+                      <ix:nonFraction contextRef="companyA" decimals="0" format="ixt:numdotdecimal" name="core:CurrentAssets" scale="0" unitRef="GBP">204,604</ix:nonFraction> </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Creditors: amount falling due within one year</strong>
+                    </td>
+                    <td class="tcenter">3</td>
+                    <td class="right">(<ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:Creditors" scale="0" unitRef="GBP">202,955</ix:nonFraction>)</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Net current assets</strong>
+                    </td>
+                    <td class="tcenter"/>
+                    <td class="gTotalCol">
+                      <ix:nonFraction contextRef="companyA" decimals="0" format="ixt:numdotdecimal" name="core:NetCurrentAssetsLiabilities" scale="0" unitRef="GBP">1,649</ix:nonFraction> </td>
+                  </tr>
+                  <tr class="spacer">
+                    <td> </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Total assets less current liabilities</strong>
+                    </td>
+                    <td class="tcenter"/>
+                    <td class="right">
+                      <ix:nonFraction contextRef="companyA" decimals="0" format="ixt:numdotdecimal" name="core:TotalAssetsLessCurrentLiabilities" scale="0" unitRef="GBP">1,649</ix:nonFraction> </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Net assets</strong>
+                    </td>
+                    <td class="tcenter"/>
+                    <td class="gTotalCol">
+                      <ix:nonFraction contextRef="companyA" decimals="0" format="ixt:numdotdecimal" name="core:NetAssetsLiabilities" scale="0" unitRef="GBP">1,649</ix:nonFraction> </td>
+                  </tr>
+                  <tr class="spacer">
+                    <td> </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <br/>
+                      <strong>Capital and reserves</strong>
+                    </td>
+                    <td> </td>
+                    <td> </td>
+                  </tr>
+                  <tr>
+                    <td>Called up share capital</td>
+                    <td class="tcenter">4</td>
+                    <td class="right">
+                      <ix:nonFraction contextRef="share_capital" decimals="0" format="ixt:numdotdecimal" name="core:Equity" scale="0" unitRef="GBP">100</ix:nonFraction> </td>
+                  </tr>
+                  <tr>
+                    <td>Profit and loss account</td>
+                    <td class="tcenter"/>
+                    <td class="right">
+                      <ix:nonFraction contextRef="pnl_reserve" decimals="0" format="ixt:numdotdecimal" name="core:Equity" scale="0" unitRef="GBP">1,549</ix:nonFraction> </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Shareholders funds</strong>
+                    </td>
+                    <td class="tcenter"/>
+                    <td class="gTotalCol">
+                      <ix:nonFraction contextRef="companyA" decimals="0" format="ixt:numdotdecimal" name="core:Equity" scale="0" unitRef="GBP">1,649</ix:nonFraction> </td>
+                  </tr>
+                  <tr class="spacer">
+                    <td> </td>
+                  </tr>
+                </table>
+                <br/>
+                <br/>
+                <div class="avoid_pagebreak">
+                  <ix:nonNumeric contextRef="company" name="direp:StatementThatCompanyEntitledToExemptionFromAuditUnderSection477CompaniesAct2006RelatingToSmallCompanies">For the year ended 31 August 2017 the company was entitled to exemption from audit under section 477 of the Companies Act 2006 relating to small companies.</ix:nonNumeric>
+                  <br/>
+                  <br/>Director's Responsibilities:<br/>
+<ol>
+<li>
+<ix:nonNumeric contextRef="company" name="direp:StatementThatMembersHaveNotRequiredCompanyToObtainAnAudit">The members have not required the company to obtain an audit of its accounts for the year in question in accordance with section 476</ix:nonNumeric>
+</li>
+<li>
+<ix:nonNumeric contextRef="company" name="direp:StatementThatDirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct">The directors acknowledge their responsibilities for complying with the requirements of the Companies Act 2006 with respect to accounting records and the preparation of accounts</ix:nonNumeric>
+</li>
+</ol>
+<ix:nonNumeric contextRef="company" name="direp:StatementThatAccountsHaveBeenPreparedInAccordanceWithProvisionsSmallCompaniesRegime">These accounts have been prepared and delivered in accordance with the special provisions applicable to companies subject to the small companies regime. The directors have elected not to include the profit and loss account within the financial statements.</ix:nonNumeric>
+</div>
+                <div class="avoid_pagebreak" style="margin-bottom:0px; margin-top:15px;text-align:left;">Signed on behalf of the board of directors<br/>
+<br/>
+<br/>
+<table class="w100p">
+<tr>
+<td style="width:100%">--------------------------------<br/>Ali Hassan<br/>Director</td>
+</tr>
+</table>
+<br/>Date approved by the board: <ix:nonNumeric contextRef="companyA" format="ixt:datedaymonthyearen" name="core:DateAuthorisationFinancialStatementsForIssue">31 May 2018</ix:nonNumeric>
+</div>
+                <div class="pageno">2</div>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pagebreak page700">
+      <table class="page">
+        <thead>
+          <tr>
+            <th>
+              <p class="pageheader" id="p_3">
+                <strong style="text-transform:uppercase;font-weight:100">APEX SUPPLIERS LIMITED</strong>
+                <br/>
+                <a class="bookmark" id="notes_to_the_financial_statement">Notes to the Financial Statements</a>
+                <br/>For the year ended 31 August 2017</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="page-body">
+              <div id="div_3">
+                <div class="note-body-bottom avoid_pagebreak" id="note-StatutoryInformation">
+                  <strong>Statutory Information</strong>
+                  <br/>
+                  <div class="tag tag-152">APEX SUPPLIERS LIMITED is a private limited company, limited by shares, domiciled in England and Wales, registration number 10352612.<br/>
+<br/>The presentation currency is £ sterling.</div>
+                </div>
+                <table class="w100p">
+                  <tr>
+                    <td class="note-no" style="padding-top:6px">1.</td>
+                    <td>
+                      <p class="subhead">
+                        <strong>Accounting Policies</strong>
+                      </p>
+                      <div class="note-body avoid_pagebreak" id="note-BasisOfAccounting">
+                        <strong>Basis of accounting</strong>
+                        <br/>
+                        <div class="tag tag-1">
+                          <ix:nonNumeric contextRef="company" name="core:GeneralDescriptionBasisMeasurementUsedInPreparingFinancialStatements">The financial statements are prepared under the historical cost convention and in accordance with the FRS 102 Financial Reporting Standard for Smaller Entities (effective January 2016).</ix:nonNumeric>
+                        </div>
+                      </div>
+                      <div class="note-body avoid_pagebreak" id="note-Turnover">
+                        <strong>Turnover</strong>
+                        <br/>
+                        <div class="tag tag-5">
+                          <ix:nonNumeric contextRef="company" name="core:RevenueRecognitionPolicy">Turnover comprises the invoiced value of goods and services supplied by the company, net of Value Added Tax and trade discounts.</ix:nonNumeric>
+                        </div>
+                      </div>
+                      <div class="note-body avoid_pagebreak" id="note-ForeignCurrencies">
+                        <strong>Foreign currencies</strong>
+                        <br/>
+                        <div class="tag tag-11">
+                          <ix:nonNumeric contextRef="company" name="core:ForeignCurrencyTranslationOperationsPolicy">Monetary assets and liabilities denominated in foreign currencies are translated into sterling at the rate of exchange ruling at the balance sheet date. Transactions in foreign currencies are recorded at the rate ruling at the date of the transaction. All foreign exchange differences are included to the profit and loss account.</ix:nonNumeric>
+                        </div>
+                      </div>
+                      <div class="note-body avoid_pagebreak" id="note-DeferredTaxation">
+                        <strong>Deferred taxation</strong>
+                        <br/>
+                        <div class="tag tag-12">
+                          <ix:nonNumeric contextRef="company" name="core:DeferredTaxPolicy">Deferred tax is provided in full in respect of taxation deferred by timing differences between the treatment of certain items for taxation and accounting purposes. The deferred tax balance has not been discounted.</ix:nonNumeric>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+                <div class="avoid_pagebreak">
+                  <table class="w100p">
+                    <tr>
+                      <td class="note-no" style="padding-top:6px;">2.</td>
+                      <td>
+                        <p class="subhead">Debtors: amounts falling due within one year</p>
+                        <table cellspacing="0" class="w100p" style="margin-top:-27px;">
+                          <tr>
+                            <th class="left" valign="top"/>
+                            <th class="right w95px">2017<br/>£</th>
+                          </tr>
+                          <tr>
+                            <td>Trade Debtors</td>
+                            <td class="right w95px">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:TradeDebtorsTradeReceivables" scale="0" unitRef="GBP">75,246</ix:nonFraction> </td>
+                          </tr>
+                          <tr>
+                            <td>Prepayments &amp; Accrued Income</td>
+                            <td class="right w95px">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:PrepaymentsAccruedIncome" scale="0" unitRef="GBP">45,358</ix:nonFraction> </td>
+                          </tr>
+                          <tr>
+                            <td>Other Debtors</td>
+                            <td class="right w95px">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:OtherDebtors" scale="0" unitRef="GBP">800</ix:nonFraction> </td>
+                          </tr>
+                          <tr>
+                            <td/>
+                            <td class="right w95px gTotalCol">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:Debtors" scale="0" unitRef="GBP">121,404</ix:nonFraction> </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <br/>
+                </div>
+                <div class="avoid_pagebreak">
+                  <table class="w100p">
+                    <tr>
+                      <td class="note-no" style="padding-top:6px;">3.</td>
+                      <td>
+                        <p class="subhead">Creditors: amount falling due within one year</p>
+                        <table cellspacing="0" class="w100p" style="margin-top:-27px;">
+                          <tr>
+                            <th class="left" valign="top"/>
+                            <th class="right w95px">2017<br/>£</th>
+                          </tr>
+                          <tr>
+                            <td>Trade Creditors</td>
+                            <td class="right w95px">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:TradeCreditorsTradePayables" scale="0" unitRef="GBP">96,965</ix:nonFraction> </td>
+                          </tr>
+                          <tr>
+                            <td>Corporation Tax</td>
+                            <td class="right w95px">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:CorporationTaxPayable" scale="0" unitRef="GBP">377</ix:nonFraction> </td>
+                          </tr>
+                          <tr>
+                            <td>Accrued Expenses</td>
+                            <td class="right w95px">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:AccruedLiabilitiesDeferredIncome" scale="0" unitRef="GBP">500</ix:nonFraction> </td>
+                          </tr>
+                          <tr>
+                            <td>Payments Received on Account</td>
+                            <td class="right w95px">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:PaymentsReceivedOnAccount" scale="0" unitRef="GBP">105,113</ix:nonFraction> </td>
+                          </tr>
+                          <tr>
+                            <td/>
+                            <td class="right w95px gTotalCol">
+                              <ix:nonFraction contextRef="withinoneyear" decimals="0" format="ixt:numdotdecimal" name="core:Creditors" scale="0" unitRef="GBP">202,955</ix:nonFraction> </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <br/>
+                </div>
+                <div class="avoid_pagebreak">
+                  <table class="w100p">
+                    <tr>
+                      <td class="note-no" style="padding-top:6px;">4.</td>
+                      <td>
+                        <p class="subhead">Share Capital</p>
+                        <div class="note-body">
+                          <table cellspacing="0" class="w100p" style="">
+                            <tr>
+                              <th class="left" valign="top">
+                                <strong>Allotted</strong>
+                                <br/>
+                              </th>
+                              <th class="right w95px">2017<br/>£</th>
+                            </tr>
+                            <tr>
+                              <td>
+                                <ix:nonFraction contextRef="OrdinaryShareClass1" decimals="0" format="ixt:numdotdecimal" name="core:NumberSharesAllotted" scale="0" unitRef="Shares">100</ix:nonFraction>
+                                <ix:nonNumeric contextRef="OrdinaryShareClass1" name="bus:DescriptionShareType">Class A</ix:nonNumeric> shares of £1.00 each</td>
+                              <td class="right w95px">100 </td>
+                            </tr>
+                            <tr>
+                              <td/>
+                              <td class="right w95px gTotalCol">100 </td>
+                            </tr>
+                          </table>
+                        </div>
+                        <br/>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div class="avoid_pagebreak">
+                  <table class="w100p">
+                    <tr>
+                      <td class="note-no" style="padding-top:6px;">5.</td>
+                      <td>
+                        <p class="subhead">Ultimate Controlling Party</p>
+                        <div class="note-body">
+                          <div>During the year under review, the company was under the control of the director, Mr Ali Hassan by virtue of his ownership of the issued share capital of the company.</div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div class="pageno">3</div>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>

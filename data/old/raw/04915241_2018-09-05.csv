@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,68.0,1.0,Note,Note 000 000,000,2017.0,£
+1,75.0,0.0,Note,Note 000 000,000,2016.0,£
+2,94.0,1.0,Tangible assets,Tangible assets 14 3951 3761,3951,2017.0,£
+3,95.0,0.0,Tangible assets,Tangible assets 14 3951 3761,3761,2016.0,£
+4,96.0,1.0,Inventories i,Inventories i 1338 1403,1338,2017.0,£
+5,96.0,0.0,Inventories i,Inventories i 1338 1403,1403,2016.0,£
+6,96.0,1.0,Debtors,Debtors 16 1860 1561,1860,2017.0,£
+7,96.0,0.0,Debtors,Debtors 16 1860 1561,1561,2016.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 17 36 99,36,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 17 36 99,99,2016.0,£
+10,92.0,1.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 18 15333 14711,15333,2017.0,£
+11,96.0,0.0,Creditors Amounts falling due within one year,Creditors Amounts falling due within one year 18 15333 14711,14711,2016.0,£
+12,94.0,1.0,Net current liabilities,Net current liabilities 12099 11648,12099,2017.0,£
+13,94.0,0.0,Net current liabilities,Net current liabilities 12099 11648,11648,2016.0,£
+14,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 8148 7887,8148,2017.0,£
+15,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 8148 7887,7887,2016.0,£
+16,91.0,1.0,Net liabilities,Net liabilities 8148 7887,8148,2017.0,£
+17,93.0,0.0,Net liabilities,Net liabilities 8148 7887,7887,2016.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 2 6000 6000,6000,2017.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 2 6000 6000,6000,2016.0,£
+20,93.0,1.0,Profit and loss account,Profit and loss account 14148 13887,14148,2017.0,£
+21,95.0,0.0,Profit and loss account,Profit and loss account 14148 13887,13887,2016.0,£
+22,96.0,1.0,Total equity,Total equity 8148 7887,8148,2017.0,£
+23,96.0,0.0,Total equity,Total equity 8148 7887,7887,2016.0,£

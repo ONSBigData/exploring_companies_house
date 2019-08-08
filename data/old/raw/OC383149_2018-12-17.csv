@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5 41567 51603,41567,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 5 41567 51603,51603,2017.0,£
+2,96.0,1.0,Debtors,Debtors 363817 250657,363817,2018.0,£
+3,96.0,0.0,Debtors,Debtors 363817 250657,250657,2017.0,£
+4,91.0,1.0,Cash at bank and in hand,Cash at bank and in hand 129279 261878,129279,2018.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 129279 261878,261878,2017.0,£
+6,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 233294 67058,233294,2018.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 233294 67058,67058,2017.0,£
+8,96.0,1.0,Net current assets,Net current assets 259802 445477,259802,2018.0,£
+9,96.0,0.0,Net current assets,Net current assets 259802 445477,445477,2017.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 301369 497080,301369,2018.0,£
+11,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 301369 497080,497080,2017.0,£
+12,96.0,1.0,Net assets,Net assets 301369 449768,301369,2018.0,£
+13,96.0,0.0,Net assets,Net assets 301369 449768,449768,2017.0,£
+14,96.0,1.0,Other amounts,Other amounts 301369 449768,301369,2018.0,£
+15,96.0,0.0,Other amounts,Other amounts 301369 449768,449768,2017.0,£
+16,94.0,1.0,Loans and other debts due to members,Loans and other debts due to members 301369 449768,301369,2018.0,£
+17,96.0,0.0,Loans and other debts due to members,Loans and other debts due to members 301369 449768,449768,2017.0,£

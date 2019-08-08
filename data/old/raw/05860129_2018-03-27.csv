@@ -1,0 +1,21 @@
+,conf,currYr,label,source,value,year,unit
+0,91.0,1.0,Notes,Notes 30 6 2017 30 6 2016,6,2017.0,£
+1,91.0,0.0,Notes,Notes 30 6 2017 30 6 2016,2016,2016.0,£
+2,93.0,1.0,Debtors,Debtors 2397 2393,2397,2017.0,£
+3,96.0,0.0,Debtors,Debtors 2397 2393,2393,2016.0,£
+4,92.0,1.0,Bank,Bank 3373 1463,3373,2017.0,£
+5,94.0,0.0,Bank,Bank 3373 1463,1463,2016.0,£
+6,95.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 5282 3300,5282,2017.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 5282 3300,3300,2016.0,£
+8,92.0,1.0,Net current assets,Net current assets 488 556,488,2017.0,£
+9,96.0,0.0,Net current assets,Net current assets 488 556,556,2016.0,£
+10,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 488 556,488,2017.0,£
+11,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 488 556,556,2016.0,£
+12,95.0,1.0,Loans repayable in more than one year,Loans repayable in more than one year 34500 34500,34500,2017.0,£
+13,47.0,0.0,Loans repayable in more than one year,Loans repayable in more than one year 34500 34500,34500,2016.0,£
+14,95.0,1.0,Total net assets,Total net assets 34012 33944,34012,2017.0,£
+15,61.0,0.0,Total net assets,Total net assets 34012 33944,33944,2016.0,£
+16,94.0,1.0,Called up share capital Share premium nu,Called up share capital Share premium nu 379 25364 379 25364,379,2017.0,£
+17,96.0,0.0,Called up share capital Share premium nu,Called up share capital Share premium nu 379 25364 379 25364,25364,2016.0,£
+18,95.0,1.0,Profit and loss account,Profit and loss account 59755 59687,59755,2017.0,£
+19,86.0,0.0,Profit and loss account,Profit and loss account 59755 59687,59687,2016.0,£

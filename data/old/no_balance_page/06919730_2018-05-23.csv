@@ -1,0 +1,55 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Investments,Investments 15 7570220 7570220,7570220,2017.0,£
+1,96.0,0.0,Investments,Investments 15 7570220 7570220,7570220,2016.0,£
+2,96.0,1.0,Creditors amounts falling due within one year,year 19 8350 8351,8350,2017.0,£
+3,94.0,0.0,Creditors amounts falling due within one year,year 19 8350 8351,8351,2016.0,£
+4,96.0,1.0,Net current liabilities,Net current liabilities 8350 8351,8350,2017.0,£
+5,93.0,0.0,Net current liabilities,Net current liabilities 8350 8351,8351,2016.0,£
+6,93.0,1.0,Total assets less current liabilities,Total assets less current liabilities 7561870 7561869,7561870,2017.0,£
+7,93.0,0.0,Total assets less current liabilities,Total assets less current liabilities 7561870 7561869,7561869,2016.0,£
+8,95.0,1.0,Creditors amounts falling due after more than one year,than one year 20 7164599 7193624,7164599,2017.0,£
+9,96.0,0.0,Creditors amounts falling due after more than one year,than one year 20 7164599 7193624,7193624,2016.0,£
+10,96.0,1.0,Net assets,Net assets 397271 368245,397271,2017.0,£
+11,95.0,0.0,Net assets,Net assets 397271 368245,368245,2016.0,£
+12,96.0,1.0,Called up share capital,Called up share capital 24 39000 39000,39000,2017.0,£
+13,96.0,0.0,Called up share capital,Called up share capital 24 39000 39000,39000,2016.0,£
+14,96.0,1.0,Share premium account,Share premium account 25 351000 351000,351000,2017.0,£
+15,96.0,0.0,Share premium account,Share premium account 25 351000 351000,351000,2016.0,£
+16,96.0,1.0,Profit and loss account,Profit and loss account 25 7271 21755,7271,2017.0,£
+17,95.0,0.0,Profit and loss account,Profit and loss account 25 7271 21755,21755,2016.0,£
+0,96.0,1.0,Ordinary shares of . each,390000 Ordinary shares of 0.10 each 39000 39000,39000,2017.0,£
+1,96.0,0.0,Ordinary shares of . each,390000 Ordinary shares of 0.10 each 39000 39000,39000,2016.0,£
+2,95.0,1.0,Not later than  year,Not later than 1 year 25726  48546,25726,2017.0,£
+3,0.0,0.0,Not later than  year,Not later than 1 year 25726  48546,48546,2016.0,£
+4,96.0,1.0,Later than  year and not later than  years,Later than 1 year and not later than 5 years 6642 69600,6642,2017.0,£
+5,96.0,0.0,Later than  year and not later than  years,Later than 1 year and not later than 5 years 6642 69600,69600,2016.0,£
+0,96.0,1.0,Notes to the financial statements,Notes to the financial statements 13  29,13,2017.0,£
+1,84.0,0.0,Notes to the financial statements,Notes to the financial statements 13  29,29,2016.0,£
+0,95.0,1.0,Intangible assets,Intangible assets 13 880953 1186068,880953,2017.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 13 880953 1186068,1186068,2016.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 14 209121 219086,209121,2017.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 14 209121 219086,219086,2016.0,£
+4,96.0,1.0,Stocks,Stocks 16 64143 125318,64143,2017.0,£
+5,96.0,0.0,Stocks,Stocks 16 64143 125318,125318,2016.0,£
+6,96.0,1.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 17 2686260 2059980,2686260,2017.0,£
+7,96.0,0.0,Debtors amounts falling due within one year,Debtors amounts falling due within one year 17 2686260 2059980,2059980,2016.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 18 232070 859219,232070,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 18 232070 859219,859219,2016.0,£
+10,96.0,1.0,Creditors amounts falling due within one year,year 19 2385024 2480049,2385024,2017.0,£
+11,95.0,0.0,Creditors amounts falling due within one year,year 19 2385024 2480049,2480049,2016.0,£
+12,96.0,1.0,Net current assets,Net current assets 597449 564468,597449,2017.0,£
+13,82.0,0.0,Net current assets,Net current assets 597449 564468,564468,2016.0,£
+14,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 1687523 1969622,1687523,2017.0,£
+15,91.0,0.0,Total assets less current liabilities,Total assets less current liabilities 1687523 1969622,1969622,2016.0,£
+16,96.0,1.0,Creditors amounts falling due after more than one year,than one year 20 2852753 2852753,2852753,2017.0,£
+17,96.0,0.0,Creditors amounts falling due after more than one year,than one year 20 2852753 2852753,2852753,2016.0,£
+18,96.0,1.0,Deferred taxation,Deferred taxation 23 25562 24552,25562,2017.0,£
+19,96.0,0.0,Deferred taxation,Deferred taxation 23 25562 24552,24552,2016.0,£
+20,96.0,1.0,Net liabilities,Net liabilities 1190792 907683,1190792,2017.0,£
+21,96.0,0.0,Net liabilities,Net liabilities 1190792 907683,907683,2016.0,£
+22,96.0,1.0,Called up share capital,Called up share capital 24 39000 39000,39000,2017.0,£
+23,96.0,0.0,Called up share capital,Called up share capital 24 39000 39000,39000,2016.0,£
+24,96.0,1.0,Share premium account,Share premium account 25 351000 351000,351000,2017.0,£
+25,96.0,0.0,Share premium account,Share premium account 25 351000 351000,351000,2016.0,£
+26,96.0,1.0,Profit and loss account,Profit and loss account 25 1580792 1297683,1580792,2017.0,£
+27,96.0,0.0,Profit and loss account,Profit and loss account 25 1580792 1297683,1297683,2016.0,£

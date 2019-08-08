@@ -1,0 +1,39 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 000 000,000,2018.0,£000
+1,96.0,0.0,Note,Note 000 000,000,2017.0,£000
+2,96.0,1.0,Intangible assets,Intangible assets 13 7136 6922,7136,2018.0,£000
+3,93.0,0.0,Intangible assets,Intangible assets 13 7136 6922,6922,2017.0,£000
+4,96.0,1.0,Property plant and equipment,Property plant and equipment 14 14654 14660,14654,2018.0,£000
+5,96.0,0.0,Property plant and equipment,Property plant and equipment 14 14654 14660,14660,2017.0,£000
+6,73.0,1.0,Investments,Investments 15 4352 6151,4352,2018.0,£000
+7,96.0,0.0,Investments,Investments 15 4352 6151,6151,2017.0,£000
+8,94.0,1.0,Inventories,Inventories 16 22042 24986,22042,2018.0,£000
+9,96.0,0.0,Inventories,Inventories 16 22042 24986,24986,2017.0,£000
+10,96.0,1.0,Trade and other receivables,Trade and other receivables 17 17836 23015,17836,2018.0,£000
+11,96.0,0.0,Trade and other receivables,Trade and other receivables 17 17836 23015,23015,2017.0,£000
+12,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 579 1047,579,2018.0,£000
+13,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 579 1047,1047,2017.0,£000
+14,96.0,1.0,Total current assets,Total current assets 40457 49048,40457,2018.0,£000
+15,96.0,0.0,Total current assets,Total current assets 40457 49048,49048,2017.0,£000
+16,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 18 27922 40042,27922,2018.0,£000
+17,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 18 27922 40042,40042,2017.0,£000
+18,96.0,1.0,Net current assets,Net current assets 12535 9006,12535,2018.0,£000
+19,96.0,0.0,Net current assets,Net current assets 12535 9006,9006,2017.0,£000
+20,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 38677 36739,38677,2018.0,£000
+21,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 38677 36739,36739,2017.0,£000
+22,93.0,1.0,Deferred income tax liabilities,Deferred income tax liabilities 20 381 211,381,2018.0,£000
+23,95.0,0.0,Deferred income tax liabilities,Deferred income tax liabilities 20 381 211,211,2017.0,£000
+24,95.0,1.0,Retirement benefit obligation,Retirement benefit obligation 21 7298 7413,7298,2018.0,£000
+25,96.0,0.0,Retirement benefit obligation,Retirement benefit obligation 21 7298 7413,7413,2017.0,£000
+26,96.0,1.0,Net assets,Net assets 30998 29115,30998,2018.0,£000
+27,96.0,0.0,Net assets,Net assets 30998 29115,29115,2017.0,£000
+28,96.0,1.0,Called up share capital,Called up share capital 23 19400 19400,19400,2018.0,£000
+29,96.0,0.0,Called up share capital,Called up share capital 23 19400 19400,19400,2017.0,£000
+30,96.0,1.0,Share premium account,Share premium account 23 1808 1808,1808,2018.0,£000
+31,96.0,0.0,Share premium account,Share premium account 23 1808 1808,1808,2017.0,£000
+32,93.0,1.0,Retained earnings,Retained earnings 8101 6372,8101,2018.0,£000
+33,96.0,0.0,Retained earnings,Retained earnings 8101 6372,6372,2017.0,£000
+34,93.0,1.0,Capital contribution,Capital contribution 1689 1535,1689,2018.0,£000
+35,96.0,0.0,Capital contribution,Capital contribution 1689 1535,1535,2017.0,£000
+36,95.0,1.0,Total shareholders funds,Total shareholders funds 30998 29115,30998,2018.0,£000
+37,96.0,0.0,Total shareholders funds,Total shareholders funds 30998 29115,29115,2017.0,£000

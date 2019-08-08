@@ -1,0 +1,19 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Fixed assets,Fixed assets 5818 6523,5818,2017.0,£
+1,94.0,0.0,Fixed assets,Fixed assets 5818 6523,6523,2016.0,£
+2,96.0,1.0,Current assets,Current assets 12373 23658,12373,2017.0,£
+3,96.0,0.0,Current assets,Current assets 12373 23658,23658,2016.0,£
+4,96.0,1.0,Prepayments and accrued income,Prepayments and accrued income 1556 987,1556,2017.0,£
+5,96.0,0.0,Prepayments and accrued income,Prepayments and accrued income 1556 987,987,2016.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 25659 41995,25659,2017.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 25659 41995,41995,2016.0,£
+8,96.0,1.0,Net current liabilities,Net current liabilities 11730 17350,11730,2017.0,£
+9,95.0,0.0,Net current liabilities,Net current liabilities 11730 17350,17350,2016.0,£
+10,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 5912 10827,5912,2017.0,£
+11,77.0,0.0,Total assets less current liabilities,Total assets less current liabilities 5912 10827,10827,2016.0,£
+12,96.0,1.0,Accruals and deferred income,Accruals and deferred income 5010 5816,5010,2017.0,£
+13,96.0,0.0,Accruals and deferred income,Accruals and deferred income 5010 5816,5816,2016.0,£
+14,96.0,1.0,Net liabilities,Net liabilities 10922 16643,10922,2017.0,£
+15,96.0,0.0,Net liabilities,Net liabilities 10922 16643,16643,2016.0,£
+16,96.0,1.0,Capital and reserves,Capital and reserves 10922 16643,10922,2017.0,£
+17,96.0,0.0,Capital and reserves,Capital and reserves 10922 16643,16643,2016.0,£

@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Intangible assets    Tangible assets,Intangible assets 7 41728542 48620913 Tangible assets 8 2976787 2909352,2976787,2017.0,£
+1,90.0,0.0,Intangible assets    Tangible assets,Intangible assets 7 41728542 48620913 Tangible assets 8 2976787 2909352,2909352,2016.0,£
+2,96.0,1.0,Stocks,Stocks 9 2450250 1991637,2450250,2017.0,£
+3,96.0,0.0,Stocks,Stocks 9 2450250 1991637,1991637,2016.0,£
+4,96.0,1.0,Debtors amounts falling due within one year,year 10 9003081 10026719,9003081,2017.0,£
+5,95.0,0.0,Debtors amounts falling due within one year,year 10 9003081 10026719,10026719,2016.0,£
+6,96.0,1.0,Debtors amounts falling due after more than one year,than one year 10 616000 4530500,616000,2017.0,£
+7,96.0,0.0,Debtors amounts falling due after more than one year,than one year 10 616000 4530500,4530500,2016.0,£
+8,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 11 7195474 8072021,7195474,2017.0,£
+9,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 11 7195474 8072021,8072021,2016.0,£
+10,92.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 9173494 12171555,9173494,2017.0,£
+11,96.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 9173494 12171555,12171555,2016.0,£
+12,95.0,1.0,LIABILITIES,LIABILITIES 53878823 63701820,53878823,2017.0,£
+13,96.0,0.0,LIABILITIES,LIABILITIES 53878823 63701820,63701820,2016.0,£
+14,96.0,1.0,Amounts failing due after more than one year,year 12  9500000,12,2017.0,£
+15,91.0,0.0,Amounts failing due after more than one year,year 12  9500000,9500000,2016.0,£
+16,87.0,1.0,NET ASSETS,NET ASSETS 53878823 54201820,53878823,2017.0,£
+17,96.0,0.0,NET ASSETS,NET ASSETS 53878823 54201820,54201820,2016.0,£
+18,96.0,1.0,Called up share capital,Called up share capital 15 100 100,100,2017.0,£
+19,96.0,0.0,Called up share capital,Called up share capital 15 100 100,100,2016.0,£
+20,96.0,1.0,Share premium    Retained earnings,Share premium 16 59628927 59628927 Retained earnings 16 5750204 5427207,5750204,2017.0,£
+21,96.0,0.0,Share premium    Retained earnings,Share premium 16 59628927 59628927 Retained earnings 16 5750204 5427207,5427207,2016.0,£
+22,96.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 4201820 53878823,4201820,2017.0,£
+23,92.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 4201820 53878823,53878823,2016.0,£

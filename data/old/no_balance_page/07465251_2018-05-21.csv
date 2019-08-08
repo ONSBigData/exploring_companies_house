@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets .,Tangible assets . 6 230 307,230,2018.0,£
+1,96.0,0.0,Tangible assets .,Tangible assets . 6 230 307,307,2017.0,£
+2,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 110636 106089,110636,2018.0,£
+3,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 110636 106089,106089,2017.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 11944 21956,11944,2018.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 11944 21956,21956,2017.0,£
+6,90.0,1.0,Net current assets,Net current assets  99978 84133,99978,2018.0,£
+7,96.0,0.0,Net current assets,Net current assets  99978 84133,84133,2017.0,£
+8,86.0,1.0,Total assets less current liabilities,Total assets less current liabilities 100208 84440,100208,2018.0,£
+9,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 100208 84440,84440,2017.0,£
+10,96.0,1.0,Creditors amounts falling due after more than one year,year 20000  20000,20000,2018.0,£
+11,0.0,0.0,Creditors amounts falling due after more than one year,year 20000  20000,20000,2017.0,£
+12,96.0,1.0,Net assets,Net assets  80208 64440,80208,2018.0,£
+13,96.0,0.0,Net assets,Net assets  80208 64440,64440,2017.0,£
+14,96.0,1.0,Called up share capital,Called up share capital 2000 2000,2000,2018.0,£
+15,96.0,0.0,Called up share capital,Called up share capital 2000 2000,2000,2017.0,£
+16,96.0,1.0,Revaluation reserve,Revaluation reserve 62440 57159,62440,2018.0,£
+17,96.0,0.0,Revaluation reserve,Revaluation reserve 62440 57159,57159,2017.0,£
+18,96.0,1.0,Profit and loss account,Profit and loss account 15768 5281,15768,2018.0,£
+19,95.0,0.0,Profit and loss account,Profit and loss account 15768 5281,5281,2017.0,£
+20,96.0,1.0,Members funds,Members funds 80208 64440,80208,2018.0,£
+21,96.0,0.0,Members funds,Members funds 80208 64440,64440,2017.0,£

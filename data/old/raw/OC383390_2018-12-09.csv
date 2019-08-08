@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5  89397,5,2018.0,£
+1,90.0,0.0,Tangible assets,Tangible assets 5  89397,89397,2017.0,£
+2,95.0,1.0,Debtors,Debtors 6 276 7470604,276,2018.0,£
+3,96.0,0.0,Debtors,Debtors 6 276 7470604,7470604,2017.0,£
+4,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 200546 385707,200546,2018.0,£
+5,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 200546 385707,385707,2017.0,£
+6,96.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 422 288514,422,2018.0,£
+7,96.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 7 422 288514,288514,2017.0,£
+8,95.0,1.0,Net current assets,Net current assets 200400 7567797,200400,2018.0,£
+9,96.0,0.0,Net current assets,Net current assets 200400 7567797,7567797,2017.0,£
+10,95.0,1.0,Net assets attributable to members,Net assets attributable to members 200400 7657194,200400,2018.0,£
+11,96.0,0.0,Net assets attributable to members,Net assets attributable to members 200400 7657194,7657194,2017.0,£
+12,96.0,1.0,Loans and other debts due to members within one year,Loans and other debts due to members within one year 9  1048310,9,2018.0,£
+13,90.0,0.0,Loans and other debts due to members within one year,Loans and other debts due to members within one year 9  1048310,1048310,2017.0,£
+14,95.0,1.0,Members capital .,Members capital . 9 200400 941100,200400,2018.0,£
+15,96.0,0.0,Members capital .,Members capital . 9 200400 941100,941100,2017.0,£
+16,78.0,1.0,Other reserves,Other reserves 9  5667784,9,2018.0,£
+17,85.0,0.0,Other reserves,Other reserves 9  5667784,5667784,2017.0,£
+18,96.0,1.0,Members other interests,Members other interests 9 200400 6608884,200400,2018.0,£
+19,96.0,0.0,Members other interests,Members other interests 9 200400 6608884,6608884,2017.0,£
+20,96.0,1.0,Loans and other debts due from members,Loans and other debts due from members 9 276 3669993,276,2018.0,£
+21,96.0,0.0,Loans and other debts due from members,Loans and other debts due from members 9 276 3669993,3669993,2017.0,£
+22,96.0,1.0,Loans and other debts due to members,Loans and other debts due to members 9  1048310,9,2018.0,£
+23,90.0,0.0,Loans and other debts due to members,Loans and other debts due to members 9  1048310,1048310,2017.0,£

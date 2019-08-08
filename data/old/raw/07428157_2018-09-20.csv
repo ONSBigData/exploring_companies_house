@@ -1,0 +1,67 @@
+,conf,currYr,label,source,value,year,unit
+0,93.0,1.0,Tangible assets,Tangible assets 9 262918 276563,262918,2018.0,£
+1,95.0,0.0,Tangible assets,Tangible assets 9 262918 276563,276563,2017.0,£
+2,93.0,1.0,Investment property,Investment property 210 224981 190000,224981,2018.0,£
+3,59.0,0.0,Investment property,Investment property 210 224981 190000,190000,2017.0,£
+4,91.0,1.0,Debtors,Debtors 12 20585 20032,20585,2018.0,£
+5,96.0,0.0,Debtors,Debtors 12 20585 20032,20032,2017.0,£
+6,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 215323 213224,215323,2018.0,£
+7,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 215323 213224,213224,2017.0,£
+8,88.0,1.0,Creditors amaunts falling due  within one year,Creditors amaunts falling due  within one year 43  32377 5447,32377,2018.0,£
+9,48.0,0.0,Creditors amaunts falling due  within one year,Creditors amaunts falling due  within one year 43  32377 5447,5447,2017.0,£
+10,96.0,1.0,Net current assets,Net current assets  203531 227809,203531,2018.0,£
+11,95.0,0.0,Net current assets,Net current assets  203531 227809,227809,2017.0,£
+12,80.0,1.0,Total asseta legs currant Nabilitles,Total asseta legs currant Nabilitles 689605 703181,689605,2018.0,£
+13,87.0,0.0,Total asseta legs currant Nabilitles,Total asseta legs currant Nabilitles 689605 703181,703181,2017.0,£
+14,93.0,1.0,Creditors amounts falling due after one vear,Creditors amounts falling due after one vear 9 14 94744 97454,94744,2018.0,£
+15,95.0,0.0,Creditors amounts falling due after one vear,Creditors amounts falling due after one vear 9 14 94744 97454,97454,2017.0,£
+16,95.0,1.0,Total assets less total liabilities,Total assets less total liabilities 603862 605727,603862,2018.0,£
+17,94.0,0.0,Total assets less total liabilities,Total assets less total liabilities 603862 605727,605727,2017.0,£
+18,96.0,1.0,Restricted funds,Restricted funds 16 232269 220519,232269,2018.0,£
+19,96.0,0.0,Restricted funds,Restricted funds 16 232269 220519,220519,2017.0,£
+20,95.0,1.0,Designated funds A,Designated funds A7 232000 272000,232000,2018.0,£
+21,96.0,0.0,Designated funds A,Designated funds A7 232000 272000,272000,2017.0,£
+22,90.0,1.0,Unrastricted funds,Unrastricted funds 139593 113208,139593,2018.0,£
+23,96.0,0.0,Unrastricted funds,Unrastricted funds 139593 113208,113208,2017.0,£
+24,34.0,1.0,Company Registration Number,Company Registration Number 07428157 7,07428157,2018.0,£
+25,96.0,0.0,Company Registration Number,Company Registration Number 07428157 7,7,2017.0,£
+0,94.0,1.0,Raising funds  Retail expenditure   ue      Fundraising expenses,Raising funds 4 Retail expenditure 24890  ue 24890 36785   36785 Fundraising expenses  18106   18106 1062   1062,1062,2018.0,£
+1,90.0,0.0,Raising funds  Retail expenditure   ue      Fundraising expenses,Raising funds 4 Retail expenditure 24890  ue 24890 36785   36785 Fundraising expenses  18106   18106 1062   1062,1062,2017.0,£
+2,96.0,1.0,Mini day centres,Mini day centres  42653  41653  48152  48152,48152,2018.0,£
+3,51.0,0.0,Mini day centres,Mini day centres  42653  41653  48152  48152,48152,2017.0,£
+4,96.0,1.0,Shopping services,Shopping services  18690  18690  17014  17014,17014,2018.0,£
+5,73.0,0.0,Shopping services,Shopping services  18690  18690  17014  17014,17014,2017.0,£
+6,96.0,1.0,Community navigator .,Community navigator .  8662  8662  16313  16313,16313,2018.0,£
+7,88.0,0.0,Community navigator .,Community navigator .  8662  8662  16313  16313,16313,2017.0,£
+8,96.0,1.0,Information and advice,Information and advice  30095 4272 34367   32240 32240,32240,2018.0,£
+9,94.0,0.0,Information and advice,Information and advice  30095 4272 34367   32240 32240,32240,2017.0,£
+10,96.0,1.0,Social enterprise,Social enterprise  124596  124596   121550  121550,121550,2018.0,£
+11,89.0,0.0,Social enterprise,Social enterprise  124596  124596   121550  121550,121550,2017.0,£
+12,93.0,1.0,Connect you,Connect you  14085  14085  7515  7515,7515,2018.0,£
+13,0.0,0.0,Connect you,Connect you  14085  14085  7515  7515,7515,2017.0,£
+14,96.0,1.0,Telephone befriending         Minibus     Total expenditure,Telephone befriending  4155  4155  4009  4009 Minibus  15506  15506 Total expenditure 42995 257444 4272 304708 37847 214553 32240 284640,32240,2018.0,£
+15,96.0,0.0,Telephone befriending         Minibus     Total expenditure,Telephone befriending  4155  4155  4009  4009 Minibus  15506  15506 Total expenditure 42995 257444 4272 304708 37847 214553 32240 284640,284640,2017.0,£
+16,96.0,1.0,Lossgain on revaluation of Investments,Lossgain on revaluation of Investments 1633   1633 1314   1314,1314,2018.0,£
+17,77.0,0.0,Lossgain on revaluation of Investments,Lossgain on revaluation of Investments 1633   1633 1314   1314,1314,2017.0,£
+18,96.0,1.0,NN Net incomeexpenditure befare transfers,NN Net incomeexpenditure befare transfers 45412 43005 4272 1865 48907 26556 8697 66766,8697,2018.0,£
+19,96.0,0.0,NN Net incomeexpenditure befare transfers,NN Net incomeexpenditure befare transfers 45412 43005 4272 1865 48907 26556 8697 66766,66766,2017.0,£
+20,96.0,1.0,Net movement in funds for the year,Net movement in funds for the year 26385 11750 40600 1865 62703 64469 65000 66766,65000,2018.0,£
+21,78.0,0.0,Net movement in funds for the year,Net movement in funds for the year 26385 11750 40600 1865 62703 64469 65000 66766,66766,2017.0,£
+22,91.0,1.0,Total funds brought forward,Total funds brought forward 113208 220519 272000 605727 175911  156050 207000 538961,207000,2018.0,£
+23,82.0,0.0,Total funds brought forward,Total funds brought forward 113208 220519 272000 605727 175911  156050 207000 538961,538961,2017.0,£
+24,96.0,1.0,Total funds carried forward,Total funds carried forward 139593 232269 232000 603862 113208 220519 272000 605727,272000,2018.0,£
+25,96.0,0.0,Total funds carried forward,Total funds carried forward 139593 232269 232000 603862 113208 220519 272000 605727,605727,2017.0,£
+0,96.0,1.0,Donations,Donations 5594 1157  6751 5452 137  5589,137,2018.0,£
+1,89.0,0.0,Donations,Donations 5594 1157  6751 5452 137  5589,5589,2017.0,£
+2,92.0,1.0,Grants,Grants 21655 33086  59741 19864 76353  96217,76353,2018.0,£
+3,39.0,0.0,Grants,Grants 21655 33086  59741 19864 76353  96217,96217,2017.0,£
+4,74.0,1.0,Contracts,Contracts 913 65874  67787  53613 23543 77156,23543,2018.0,£
+5,92.0,0.0,Contracts,Contracts 913 65874  67787  53613 23543 77156,77156,2017.0,£
+6,96.0,1.0,Fundraising activities,Fundraising activities 3612 4972  8584 1855   1855,1855,2018.0,£
+7,57.0,0.0,Fundraising activities,Fundraising activities 3612 4972  8584 1855   1855,1855,2017.0,£
+8,96.0,1.0,Bank interest     .,Bank interest 801   801 . 2518   2518,2518,2018.0,£
+9,91.0,0.0,Bank interest     .,Bank interest 801   801 . 2518   2518,2518,2017.0,£
+10,96.0,1.0,Dividends,Dividends 689   689 375   375,375,2018.0,£
+11,63.0,0.0,Dividends,Dividends 689   689 375   375,375,2017.0,£
+12,96.0,1.0,Sundry   .,Sundry 7977 1152 .  9129 13817 313  14130,313,2018.0,£
+13,61.0,0.0,Sundry   .,Sundry 7977 1152 .  9129 13817 313  14130,14130,2017.0,£

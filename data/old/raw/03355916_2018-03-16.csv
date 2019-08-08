@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5 50661 60426,50661,2017.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 5 50661 60426,60426,2016.0,£
+2,96.0,1.0,Stocks,Stocks 10132 10399,10132,2017.0,£
+3,96.0,0.0,Stocks,Stocks 10132 10399,10399,2016.0,£
+4,96.0,1.0,Debtors,Debtors 6 24297 21177,24297,2017.0,£
+5,96.0,0.0,Debtors,Debtors 6 24297 21177,21177,2016.0,£
+6,95.0,1.0,Cash at bank and in hand,Cash at bank and in hand 17322 44517,17322,2017.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 17322 44517,44517,2016.0,£
+8,96.0,1.0,Creditors Amounts falling due within one year,one year 7 178508 160846,178508,2017.0,£
+9,96.0,0.0,Creditors Amounts falling due within one year,one year 7 178508 160846,160846,2016.0,£
+10,95.0,1.0,Net current liabilities,Net current liabilities 126757 84753,126757,2017.0,£
+11,96.0,0.0,Net current liabilities,Net current liabilities 126757 84753,84753,2016.0,£
+12,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 76096 24327,76096,2017.0,£
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 76096 24327,24327,2016.0,£
+14,96.0,1.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 8 8863 11461,8863,2017.0,£
+15,96.0,0.0,Creditors Amounts falling due after more than one year,Creditors Amounts falling due after more than one year 8 8863 11461,11461,2016.0,£
+16,96.0,1.0,Taxation including deferred tax,Taxation including deferred tax 10132 12086,10132,2017.0,£
+17,95.0,0.0,Taxation including deferred tax,Taxation including deferred tax 10132 12086,12086,2016.0,£
+18,96.0,1.0,Net liabilities,Net liabilities 95091 47874,95091,2017.0,£
+19,96.0,0.0,Net liabilities,Net liabilities 95091 47874,47874,2016.0,£
+20,96.0,1.0,Called up share capital   Profit and loss account,Called up share capital 114 114 Profit and loss account 95205 47988,95205,2017.0,£
+21,96.0,0.0,Called up share capital   Profit and loss account,Called up share capital 114 114 Profit and loss account 95205 47988,47988,2016.0,£
+22,96.0,1.0,Shareholders deficit,Shareholders deficit 95091 47874,95091,2017.0,£
+23,96.0,0.0,Shareholders deficit,Shareholders deficit 95091 47874,47874,2016.0,£

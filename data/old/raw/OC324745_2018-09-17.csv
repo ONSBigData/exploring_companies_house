@@ -1,0 +1,9 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors,Debtors 3 303041 680964,303041,2006.0,£
+1,95.0,0.0,Debtors,Debtors 3 303041 680964,680964,2005.0,£
+2,95.0,1.0,Cash at bank,Cash at bank 1102 315809,1102,2006.0,£
+3,96.0,0.0,Cash at bank,Cash at bank 1102 315809,315809,2005.0,£
+4,95.0,1.0,Amounts falling due within one year,Amounts falling due within one year 4 304143 996773,304143,2006.0,£
+5,95.0,0.0,Amounts falling due within one year,Amounts falling due within one year 4 304143 996773,996773,2005.0,£
+6,48.0,1.0,Amounts due from members,Amounts due from members 3 302700 301938,302700,2006.0,£
+7,90.0,0.0,Amounts due from members,Amounts due from members 3 302700 301938,301938,2005.0,£

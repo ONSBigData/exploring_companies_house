@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,62.0,1.0,Investment properties,Investment properties 9 5880000 5733603,5880000,2017.0,£
+1,96.0,0.0,Investment properties,Investment properties 9 5880000 5733603,5733603,2016.0,£
+2,95.0,1.0,one year . ntercompany borrowings,ntercompany borrowings 10 2429282 2429282,2429282,2017.0,£
+3,96.0,0.0,one year . ntercompany borrowings,ntercompany borrowings 10 2429282 2429282,2429282,2016.0,£
+4,95.0,1.0,Other creditors,Other creditors 11 183163 159375,183163,2017.0,£
+5,96.0,0.0,Other creditors,Other creditors 11 183163 159375,159375,2016.0,£
+6,95.0,1.0,Net current liabilities,Net current liabilities 2612445 2588657,2612445,2017.0,£
+7,94.0,0.0,Net current liabilities,Net current liabilities 2612445 2588657,2588657,2016.0,£
+8,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 3267555 3144946,3267555,2017.0,£
+9,91.0,0.0,Total assets less current liabilities,Total assets less current liabilities 3267555 3144946,3144946,2016.0,£
+10,96.0,1.0,Deferred tax liability,Deferred tax liability 12 438476  413588,438476,2017.0,£
+11,30.0,0.0,Deferred tax liability,Deferred tax liability 12 438476  413588,413588,2016.0,£
+12,96.0,1.0,Net assets,Net assets 2829079 2731358,2829079,2017.0,£
+13,96.0,0.0,Net assets,Net assets 2829079 2731358,2731358,2016.0,£
+14,96.0,1.0,Called up share capital,Called up share capital 13 809760 809760,809760,2017.0,£
+15,96.0,0.0,Called up share capital,Called up share capital 13 809760 809760,809760,2016.0,£
+16,95.0,1.0,Revaluation reserve,Revaluation reserve 14 2165681 2019284,2165681,2017.0,£
+17,96.0,0.0,Revaluation reserve,Revaluation reserve 14 2165681 2019284,2019284,2016.0,£
+18,94.0,1.0,Accumulated losses,Accumulated losses 14 146362 97686,146362,2017.0,£
+19,95.0,0.0,Accumulated losses,Accumulated losses 14 146362 97686,97686,2016.0,£
+20,86.0,1.0,Total shareholders funds,Total shareholders funds 2829079 2731358,2829079,2017.0,£
+21,96.0,0.0,Total shareholders funds,Total shareholders funds 2829079 2731358,2731358,2016.0,£

@@ -1,0 +1,29 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Called up share capital not paid,Called up share capital not paid 000 000 000 000,000,2006.0,€
+1,96.0,0.0,Called up share capital not paid,Called up share capital not paid 000 000 000 000,000,2005.0,€
+2,96.0,1.0,Intangible Assets,Intangible Assets  000 000,000,2006.0,€
+3,74.0,0.0,Intangible Assets,Intangible Assets  000 000,000,2005.0,€
+4,95.0,1.0,Tangible fixed Assets,Tangible fixed Assets 2 200  200,200,2006.0,€
+5,3.0,0.0,Tangible fixed Assets,Tangible fixed Assets 2 200  200,200,2005.0,€
+6,96.0,1.0,Investments,Investments 000 000,000,2006.0,€
+7,96.0,0.0,Investments,Investments 000 000,000,2005.0,€
+8,96.0,1.0,Stocks,Stocks 000 000,000,2006.0,€
+9,96.0,0.0,Stocks,Stocks 000 000,000,2005.0,€
+10,95.0,1.0,Debtors  other items of property amount falling due within one year,amount falling due within one year 096  14242,096,2006.0,€
+11,28.0,0.0,Debtors  other items of property amount falling due within one year,amount falling due within one year 096  14242,14242,2005.0,€
+12,95.0,1.0,Investments,Investments 000 000,000,2006.0,€
+13,95.0,0.0,Investments,Investments 000 000,000,2005.0,€
+14,96.0,1.0,Payments and accrued income,Payments and accrued income 000 000,000,2006.0,€
+15,95.0,0.0,Payments and accrued income,Payments and accrued income 000 000,000,2005.0,€
+16,96.0,1.0,Creditors amounts falling due within one year,within one year 000  000,000,2006.0,€
+17,11.0,0.0,Creditors amounts falling due within one year,within one year 000  000,000,2005.0,€
+18,96.0,1.0,amounts falling due after more than one year,one year 1749 24917,1749,2006.0,€
+19,77.0,0.0,amounts falling due after more than one year,one year 1749 24917,24917,2005.0,€
+20,96.0,1.0,Creditors amounts falling due after  more than one year,more than one year 000 000,000,2006.0,€
+21,43.0,0.0,Creditors amounts falling due after  more than one year,more than one year 000 000,000,2005.0,€
+22,96.0,1.0,Provisions for liabilities and charges,charges 50000 50000,50000,2006.0,€
+23,96.0,0.0,Provisions for liabilities and charges,charges 50000 50000,50000,2005.0,€
+24,87.0,1.0,Accruals and deferred income,Accruals and deferred income 000 900,000,2006.0,€
+25,56.0,0.0,Accruals and deferred income,Accruals and deferred income 000 900,900,2005.0,€
+26,96.0,1.0,Untaxed reserves,Untaxed reserves 000 000,000,2006.0,€
+27,96.0,0.0,Untaxed reserves,Untaxed reserves 000 000,000,2005.0,€

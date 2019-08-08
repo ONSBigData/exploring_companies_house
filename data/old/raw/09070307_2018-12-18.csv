@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Investments,Investments 3 140023 100023,140023,2006.0,£
+1,96.0,0.0,Investments,Investments 3 140023 100023,100023,2005.0,£
+2,93.0,1.0,Cash at bank,Cash at bank 761 255,761,2006.0,£
+3,87.0,0.0,Cash at bank,Cash at bank 761 255,255,2005.0,£
+4,85.0,1.0,Amounts falling due within one year,Amounts falling due within one year 4 107902 82758,107902,2006.0,£
+5,95.0,0.0,Amounts falling due within one year,Amounts falling due within one year 4 107902 82758,82758,2005.0,£
+6,96.0,1.0,NET CURRENT ASSETS,NET CURRENT ASSETS 32882 17520,32882,2006.0,£
+7,95.0,0.0,NET CURRENT ASSETS,NET CURRENT ASSETS 32882 17520,17520,2005.0,£
+8,95.0,1.0,LIABILITIES,LIABILITIES 32882 17520,32882,2006.0,£
+9,90.0,0.0,LIABILITIES,LIABILITIES 32882 17520,17520,2005.0,£
+10,96.0,1.0,Called up share capital,Called up share capital 2 2,2,2006.0,£
+11,96.0,0.0,Called up share capital,Called up share capital 2 2,2,2005.0,£
+12,94.0,1.0,Retained carnings,Retained carnings 32880 17518,32880,2006.0,£
+13,96.0,0.0,Retained carnings,Retained carnings 32880 17518,17518,2005.0,£
+14,94.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 32882 17520,32882,2006.0,£
+15,91.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 32882 17520,17520,2005.0,£

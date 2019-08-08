@@ -1,0 +1,15 @@
+,conf,currYr,label,source,value,year,unit
+0,95.0,1.0,Investments,Investments 3908 3908,3908,2017.0,£000
+1,92.0,0.0,Investments,Investments 3908 3908,3908,2016.0,£000
+2,76.0,1.0,Debtors,Debtors 30189 29600,30189,2017.0,£000
+3,96.0,0.0,Debtors,Debtors 30189 29600,29600,2016.0,£000
+4,95.0,1.0,Creditors  amounts falling due within one year,due within one year 184 150,184,2017.0,£000
+5,96.0,0.0,Creditors  amounts falling due within one year,due within one year 184 150,150,2016.0,£000
+6,92.0,1.0,Net current assets,Net current assets 30005 29450,30005,2017.0,£000
+7,96.0,0.0,Net current assets,Net current assets 30005 29450,29450,2016.0,£000
+8,92.0,1.0,Total assets less current liabilities,liabilities 33913 33358,33913,2017.0,£000
+9,96.0,0.0,Total assets less current liabilities,liabilities 33913 33358,33358,2016.0,£000
+10,88.0,1.0,Creditors  amounts falling due after more than one,due after more than one 17001 16602,17001,2017.0,£000
+11,96.0,0.0,Creditors  amounts falling due after more than one,due after more than one 17001 16602,16602,2016.0,£000
+12,68.0,1.0,Company registration number,Company registration number 001 45374,001,2017.0,£000
+13,68.0,0.0,Company registration number,Company registration number 001 45374,45374,2016.0,£000

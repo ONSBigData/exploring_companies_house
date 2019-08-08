@@ -1,0 +1,77 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Debtors    Cash at bank and in hand,Debtors 13 43808 45990 Cash at bank and in hand  468815 379584,468815,2018.0,£
+1,96.0,0.0,Debtors    Cash at bank and in hand,Debtors 13 43808 45990 Cash at bank and in hand  468815 379584,379584,2017.0,£
+2,39.0,1.0,Creditors Amounts falling due within one year,within one year 14 47718 110028,47718,2018.0,£
+3,94.0,0.0,Creditors Amounts falling due within one year,within one year 14 47718 110028,110028,2017.0,£
+4,95.0,1.0,Net assets S,Net assets S 15 464905  315546,464905,2018.0,£
+5,57.0,0.0,Net assets S,Net assets S 15 464905  315546,315546,2017.0,£
+6,94.0,1.0,Unrestricted  General,Unrestricted  General 16 269941 265986,269941,2018.0,£
+7,96.0,0.0,Unrestricted  General,Unrestricted  General 16 269941 265986,265986,2017.0,£
+8,23.0,1.0,Restricted,Restricted 39259 49560,39259,2018.0,£
+9,95.0,0.0,Restricted,Restricted 39259 49560,49560,2017.0,£
+10,96.0,1.0,Total funds,Total funds 7 464905 315546,464905,2018.0,£
+11,96.0,0.0,Total funds,Total funds 7 464905 315546,315546,2017.0,£
+0,90.0,1.0,Notes to the financial statements,Notes to the financial statements  15 22,15,2018.0,£
+1,90.0,0.0,Notes to the financial statements,Notes to the financial statements  15 22,22,2017.0,£
+0,96.0,1.0,Unrestricted Designated Restricted,Unrestricted Designated Restricted  2018 2017,2018,2018.0,£
+1,95.0,0.0,Unrestricted Designated Restricted,Unrestricted Designated Restricted  2018 2017,2017,2017.0,£
+2,58.0,1.0,Donations and legacies Charitable activities whd,Donations and legacies Charitable activities whd 214421 15000 472970 214421  487970 29989 532022,29989,2018.0,£
+3,96.0,0.0,Donations and legacies Charitable activities whd,Donations and legacies Charitable activities whd 214421 15000 472970 214421  487970 29989 532022,532022,2017.0,£
+4,96.0,1.0,Other trading activities Investments ah,Other trading activities Investments ah 3424 207 3424 207 21864 546,21864,2018.0,£
+5,95.0,0.0,Other trading activities Investments ah,Other trading activities Investments ah 3424 207 3424 207 21864 546,546,2017.0,£
+6,96.0,1.0,Total,Total 233052 472970 706022 584421,706022,2018.0,£
+7,95.0,0.0,Total,Total 233052 472970 706022 584421,584421,2017.0,£
+8,96.0,1.0,Raising funds,Raising funds 5692 5692 7780,5692,2018.0,£
+9,96.0,0.0,Raising funds,Raising funds 5692 5692 7780,7780,2017.0,£
+10,95.0,1.0,Charitable activities,Charitable activities 67700 483271 550971 570647,550971,2018.0,£
+11,94.0,0.0,Charitable activities,Charitable activities 67700 483271 550971 570647,570647,2017.0,£
+12,96.0,1.0,Total,Total 73392 483271 556663 578427,556663,2018.0,£
+13,95.0,0.0,Total,Total 73392 483271 556663 578427,578427,2017.0,£
+14,95.0,1.0,Net incomeexpenditure for the year,Net incomeexpenditure for the year 159660 10301 149359 5994,149359,2018.0,£
+15,96.0,0.0,Net incomeexpenditure for the year,Net incomeexpenditure for the year 159660 10301 149359 5994,5994,2017.0,£
+16,95.0,1.0,Transfer between funds,Transfer between funds 16 155705 155705,155705,2018.0,£
+17,96.0,0.0,Transfer between funds,Transfer between funds 16 155705 155705,155705,2017.0,£
+18,95.0,1.0,Net movement in funds,Net movement in funds 3955 155705 10301 149359 5994,149359,2018.0,£
+19,96.0,0.0,Net movement in funds,Net movement in funds 3955 155705 10301 149359 5994,5994,2017.0,£
+20,96.0,1.0,Total funds as at  April   .,Total funds as at 1 April 2017 265986 . 49560 315546 309552,315546,2018.0,£
+21,96.0,0.0,Total funds as at  April   .,Total funds as at 1 April 2017 265986 . 49560 315546 309552,309552,2017.0,£
+22,96.0,1.0,Total funds at  March,Total funds at 31 March 2018 269941 155705 39259 464905 315546,464905,2018.0,£
+23,96.0,0.0,Total funds at  March,Total funds at 31 March 2018 269941 155705 39259 464905 315546,315546,2017.0,£
+0,95.0,1.0,. DONATIONS AND LEGACIES Unrestricted Restricted Total Total funds funds,funds funds 2018 2017,2018,2018.0,£
+1,96.0,0.0,. DONATIONS AND LEGACIES Unrestricted Restricted Total Total funds funds,funds funds 2018 2017,2017,2017.0,£
+2,96.0,1.0,Donations     Legacies,Donations 20951  20951 21989 Legacies 193470  193470 8000,193470,2018.0,£
+3,96.0,0.0,Donations     Legacies,Donations 20951  20951 21989 Legacies 193470  193470 8000,8000,2017.0,£
+4,95.0,1.0,ENil,214421 ENil 241421 29989,241421,2018.0,£
+5,96.0,0.0,ENil,214421 ENil 241421 29989,29989,2017.0,£
+6,96.0,1.0,. INCOME FROM CHARITABLE Unrestricted Restricted Total Total ACTIVITIES funds funds,. INCOME FROM CHARITABLE Unrestricted Restricted Total Total ACTIVITIES funds funds 2018 2017,2018,2018.0,£
+7,96.0,0.0,. INCOME FROM CHARITABLE Unrestricted Restricted Total Total ACTIVITIES funds funds,. INCOME FROM CHARITABLE Unrestricted Restricted Total Total ACTIVITIES funds funds 2018 2017,2017,2017.0,£
+8,95.0,1.0,Handyperson, Handyperson  15646 15646 31291,15646,2018.0,£
+9,96.0,0.0,Handyperson, Handyperson  15646 15646 31291,31291,2017.0,£
+10,96.0,1.0,Cold Weather, Cold Weather  10000 10000 10000,10000,2018.0,£
+11,96.0,0.0,Cold Weather, Cold Weather  10000 10000 10000,10000,2017.0,£
+12,94.0,1.0,BeaFriend, BeaFriend  48365 48365 48365,48365,2018.0,£
+13,96.0,0.0,BeaFriend, BeaFriend  48365 48365 48365,48365,2017.0,£
+14,96.0,1.0,Shopping, Shopping  34794 34794 34795,34794,2018.0,£
+15,96.0,0.0,Shopping, Shopping  34794 34794 34795,34795,2017.0,£
+16,95.0,1.0,Mens Shed, Mens Shed   7917 7917 4600,7917,2018.0,£
+17,96.0,0.0,Mens Shed, Mens Shed   7917 7917 4600,4600,2017.0,£
+18,96.0,1.0,Crimes against Older People     Wandsworth Clinical Commissioning Group  Home from Hospital ., Crimes against Older People  5000 5000 6286 Wandsworth Clinical Commissioning Group  Home from Hospital .  23500 23500 47000,23500,2018.0,£
+19,96.0,0.0,Crimes against Older People     Wandsworth Clinical Commissioning Group  Home from Hospital ., Crimes against Older People  5000 5000 6286 Wandsworth Clinical Commissioning Group  Home from Hospital .  23500 23500 47000,47000,2017.0,£
+20,96.0,1.0,Community Resilience, Community Resilience  70329 70329 81161,70329,2018.0,£
+21,96.0,0.0,Community Resilience, Community Resilience  70329 70329 81161,81161,2017.0,£
+22,96.0,1.0,Community Ward, Community Ward  18175 18175  36350,18175,2018.0,£
+23,0.0,0.0,Community Ward, Community Ward  18175 18175  36350,36350,2017.0,£
+24,96.0,1.0,Mens Shed os, Mens Shed os 7125 7125 2375,7125,2018.0,£
+25,96.0,0.0,Mens Shed os, Mens Shed os 7125 7125 2375,2375,2017.0,£
+26,96.0,1.0,The Henry Smith Charity,The Henry Smith Charity  12500 12500 12500,12500,2018.0,£
+27,96.0,0.0,The Henry Smith Charity,The Henry Smith Charity  12500 12500 12500,12500,2017.0,£
+28,96.0,1.0,Information and advice, Information and advice  18250 18250 16859,18250,2018.0,£
+29,96.0,0.0,Information and advice, Information and advice  18250 18250 16859,16859,2017.0,£
+30,96.0,1.0,Other, Other 15000  15000 15000,15000,2018.0,£
+31,96.0,0.0,Other, Other 15000  15000 15000,15000,2017.0,£
+32,96.0,1.0,Information and Advice, Information and Advice  39600 39600 38800,39600,2018.0,£
+33,96.0,0.0,Information and Advice, Information and Advice  39600 39600 38800,38800,2017.0,£
+34,96.0,1.0,Out and About, Out and About  13430 13430 13300,13430,2018.0,£
+35,96.0,0.0,Out and About, Out and About  13430 13430 13300,13300,2017.0,£
+36,96.0,1.0,Charges, Charges   2193 2193 6110,2193,2018.0,£
+37,96.0,0.0,Charges, Charges   2193 2193 6110,6110,2017.0,£

@@ -1,0 +1,25 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Notes,Notes 2017 2017 2016 2016,2016,2017.0,£7000
+1,96.0,0.0,Notes,Notes 2017 2017 2016 2016,2016,2016.0,£7000
+2,81.0,1.0,Investments,Investments 8 1,8,2017.0,£7000
+3,94.0,0.0,Investments,Investments 8 1,1,2016.0,£7000
+4,96.0,1.0,Deferred tax asset,Deferred tax asset 7 933,7,2017.0,£7000
+5,96.0,0.0,Deferred tax asset,Deferred tax asset 7 933,933,2016.0,£7000
+6,91.0,1.0,Debtors,Debtors 79 6969 5293,6969,2017.0,£7000
+7,96.0,0.0,Debtors,Debtors 79 6969 5293,5293,2016.0,£7000
+8,96.0,1.0,Creditors amounts falling due within one year,due within one year 10 11505 11553,11505,2017.0,£7000
+9,96.0,0.0,Creditors amounts falling due within one year,due within one year 10 11505 11553,11553,2016.0,£7000
+10,96.0,1.0,Net current liabilities,Net current liabilities 4536 4796,4536,2017.0,£7000
+11,96.0,0.0,Net current liabilities,Net current liabilities 4536 4796,4796,2016.0,£7000
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 4535 3862,4535,2017.0,£7000
+13,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 4535 3862,3862,2016.0,£7000
+14,96.0,1.0,Pension liability,Pension liability 12 4680 5183,4680,2017.0,£7000
+15,96.0,0.0,Pension liability,Pension liability 12 4680 5183,5183,2016.0,£7000
+16,96.0,1.0,Net liabilities,Net liabilities 9215 9045,9215,2017.0,£7000
+17,96.0,0.0,Net liabilities,Net liabilities 9215 9045,9045,2016.0,£7000
+18,96.0,1.0,Called up share capital,Called up share capital 11 6000 6000,6000,2017.0,£7000
+19,94.0,0.0,Called up share capital,Called up share capital 11 6000 6000,6000,2016.0,£7000
+20,95.0,1.0,Profit and loss account,Profit and loss account 15215 15045,15215,2017.0,£7000
+21,95.0,0.0,Profit and loss account,Profit and loss account 15215 15045,15045,2016.0,£7000
+22,96.0,1.0,Shareholders deficit,Shareholders deficit 9215 9045,9215,2017.0,£7000
+23,96.0,0.0,Shareholders deficit,Shareholders deficit 9215 9045,9045,2016.0,£7000

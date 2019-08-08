@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,94.0,1.0,Stocks,Stocks 214305 109098,214305,2018.0,£
+1,96.0,0.0,Stocks,Stocks 214305 109098,109098,2017.0,£
+2,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 210201 278301,210201,2018.0,£
+3,95.0,0.0,Cash at bank and in hand,Cash at bank and in hand 210201 278301,278301,2017.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,year 71326 91933,71326,2018.0,£
+5,90.0,0.0,Creditors amounts falling due within one year,year 71326 91933,91933,2017.0,£
+6,96.0,1.0,Net current assets,Net current assets 353180 295466,353180,2018.0,£
+7,96.0,0.0,Net current assets,Net current assets 353180 295466,295466,2017.0,£
+8,89.0,1.0,Total assets less current liabilities,Total assets less current liabilities 367 487 311702,487,2018.0,£
+9,72.0,0.0,Total assets less current liabilities,Total assets less current liabilities 367 487 311702,311702,2017.0,£
+10,96.0,1.0,Called up share capital,Called up share capital 2 2,2,2018.0,£
+11,96.0,0.0,Called up share capital,Called up share capital 2 2,2,2017.0,£
+12,82.0,1.0,Profit and loss reserves,Profit and loss reserves 367485 311700,367485,2018.0,£
+13,88.0,0.0,Profit and loss reserves,Profit and loss reserves 367485 311700,311700,2017.0,£
+14,95.0,1.0,Total equity,Total equity 367487 311702,367487,2018.0,£
+15,93.0,0.0,Total equity,Total equity 367487 311702,311702,2017.0,£

@@ -1,0 +1,9 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Investments,Investments 61902 61902,61902,2017.0,£
+1,96.0,0.0,Investments,Investments 61902 61902,61902,2016.0,£
+2,94.0,1.0,Debtors,Debtors 1 1,1,2017.0,£
+3,95.0,0.0,Debtors,Debtors 1 1,1,2016.0,£
+4,94.0,1.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 61902 61902,61902,2017.0,£
+5,62.0,0.0,Creditors amounts falling due within one year,Creditors amounts falling due within one year 61902 61902,61902,2016.0,£
+6,95.0,1.0,Net current liabilities,Net current liabilities 61901 61901,61901,2017.0,£
+7,93.0,0.0,Net current liabilities,Net current liabilities 61901 61901,61901,2016.0,£

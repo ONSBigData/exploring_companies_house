@@ -1,0 +1,17 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Stocks,Stocks 7 27042 20957,27042,2017.0,£
+1,96.0,0.0,Stocks,Stocks 7 27042 20957,20957,2016.0,£
+2,96.0,1.0,Debtors    Cash at bank,Debtors 8 68999 59124 Cash at bank 87917 191455,87917,2017.0,£
+3,96.0,0.0,Debtors    Cash at bank,Debtors 8 68999 59124 Cash at bank 87917 191455,191455,2016.0,£
+4,95.0,1.0,Amounts falling due within one year,Amounts falling due within one year 9 259302 326815,259302,2017.0,£
+5,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 9 259302 326815,326815,2016.0,£
+6,95.0,1.0,NET CURRENT LIABILITIES,NET CURRENT LIABILITIES 75344 55279,75344,2017.0,£
+7,96.0,0.0,NET CURRENT LIABILITIES,NET CURRENT LIABILITIES 75344 55279,55279,2016.0,£
+8,95.0,1.0,LIABILITIES,LIABILITIES 75344 55279,75344,2017.0,£
+9,96.0,0.0,LIABILITIES,LIABILITIES 75344 55279,55279,2016.0,£
+10,96.0,1.0,Called up share capital,Called up share capital 10 2 2,2,2017.0,£
+11,97.0,0.0,Called up share capital,Called up share capital 10 2 2,2,2016.0,£
+12,96.0,1.0,Retained earnings iB,Retained earnings iB 75346 55281,75346,2017.0,£
+13,96.0,0.0,Retained earnings iB,Retained earnings iB 75346 55281,55281,2016.0,£
+14,90.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 75344 55279,75344,2017.0,£
+15,96.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 75344 55279,55279,2016.0,£

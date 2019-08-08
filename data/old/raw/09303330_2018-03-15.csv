@@ -1,0 +1,11 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Cash at bank,Cash at bank 82 449,82,2017.0,£
+1,96.0,0.0,Cash at bank,Cash at bank 82 449,449,2016.0,£
+2,96.0,1.0,Debtors,Debtors 30  111 449,111,2017.0,£
+3,94.0,0.0,Debtors,Debtors 30  111 449,449,2016.0,£
+4,96.0,1.0,Amounts falling due within one year,Amounts falling due within one year 427 629,427,2017.0,£
+5,96.0,0.0,Amounts falling due within one year,Amounts falling due within one year 427 629,629,2016.0,£
+6,96.0,1.0,LIABILITIES,LIABILITIES 316 179,316,2017.0,£
+7,96.0,0.0,LIABILITIES,LIABILITIES 316 179,179,2016.0,£
+8,96.0,1.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 316 179,316,2017.0,£
+9,96.0,0.0,SHAREHOLDERS FUNDS,SHAREHOLDERS FUNDS 316 179,179,2016.0,£

@@ -1,0 +1,27 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Tangible assets,Tangible assets 5 59497 64951,59497,2018.0,£
+1,96.0,0.0,Tangible assets,Tangible assets 5 59497 64951,64951,2017.0,£
+2,96.0,1.0,Stock and work in progress,Stock and work in progress 36222 28264,36222,2018.0,£
+3,96.0,0.0,Stock and work in progress,Stock and work in progress 36222 28264,28264,2017.0,£
+4,96.0,1.0,Debtors,Debtors 6 55954 65839,55954,2018.0,£
+5,96.0,0.0,Debtors,Debtors 6 55954 65839,65839,2017.0,£
+6,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 13794 19044,13794,2018.0,£
+7,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 13794 19044,19044,2017.0,£
+8,96.0,1.0,Creditors amounts falling due within one year,within one year 7  118342 110624,118342,2018.0,£
+9,51.0,0.0,Creditors amounts falling due within one year,within one year 7  118342 110624,110624,2017.0,£
+10,96.0,1.0,Net current liabilitiesassets,Net current liabilitiesassets 12372 2523,12372,2018.0,£
+11,96.0,0.0,Net current liabilitiesassets,Net current liabilitiesassets 12372 2523,2523,2017.0,£
+12,96.0,1.0,Total assets less current liabilities,Total assets less current liabilities 47125 67474,47125,2018.0,£
+13,95.0,0.0,Total assets less current liabilities,Total assets less current liabilities 47125 67474,67474,2017.0,£
+14,96.0,1.0,Creditors amounts falling due after more than one year,after more than one year 8 30200 33944,30200,2018.0,£
+15,96.0,0.0,Creditors amounts falling due after more than one year,after more than one year 8 30200 33944,33944,2017.0,£
+16,96.0,1.0,Provisions for liabilities,Provisions for liabilities 11304 12990,11304,2018.0,£
+17,95.0,0.0,Provisions for liabilities,Provisions for liabilities 11304 12990,12990,2017.0,£
+18,95.0,1.0,Net assets,Net assets 5621 20540,5621,2018.0,£
+19,81.0,0.0,Net assets,Net assets 5621 20540,20540,2017.0,£
+20,96.0,1.0,Called up share capital,Called up share capital 6 6,6,2018.0,£
+21,97.0,0.0,Called up share capital,Called up share capital 6 6,6,2017.0,£
+22,96.0,1.0,Profit and loss account,Profit and loss account 5615 20534,5615,2018.0,£
+23,96.0,0.0,Profit and loss account,Profit and loss account 5615 20534,20534,2017.0,£
+24,96.0,1.0,Shareholders funds,Shareholders funds 5621 20540,5621,2018.0,£
+25,96.0,0.0,Shareholders funds,Shareholders funds 5621 20540,20540,2017.0,£

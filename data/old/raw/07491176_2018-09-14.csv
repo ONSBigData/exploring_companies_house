@@ -1,0 +1,23 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Note,Note 2018 2017,2018,2018.0,£
+1,96.0,0.0,Note,Note 2018 2017,2017,2017.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 154707 165500,154707,2018.0,£
+3,85.0,0.0,Tangible assets,Tangible assets 154707 165500,165500,2017.0,£
+4,96.0,1.0,Stocks,Stocks 3800 3800,3800,2018.0,£
+5,96.0,0.0,Stocks,Stocks 3800 3800,3800,2017.0,£
+6,94.0,1.0,Debtors,Debtors 1392845 1633210,1392845,2018.0,£
+7,96.0,0.0,Debtors,Debtors 1392845 1633210,1633210,2017.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 137939 21639,137939,2018.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 137939 21639,21639,2017.0,£
+10,94.0,1.0,Creditors amounts falling due within one year ff,Creditors amounts falling due within one year ff 2768495 2530458,2768495,2018.0,£
+11,95.0,0.0,Creditors amounts falling due within one year ff,Creditors amounts falling due within one year ff 2768495 2530458,2530458,2017.0,£
+12,83.0,1.0,Total assets less current liabilities,Total assets less current liabilities 1079204 706309,1079204,2018.0,£
+13,91.0,0.0,Total assets less current liabilities,Total assets less current liabilities 1079204 706309,706309,2017.0,£
+14,96.0,1.0,Creditors amounts falling due after more than ane year,year 12 994433 827199,994433,2018.0,£
+15,96.0,0.0,Creditors amounts falling due after more than ane year,year 12 994433 827199,827199,2017.0,£
+16,86.0,1.0,Called up share capital I,Called up share capital I4 1 1,1,2018.0,£
+17,96.0,0.0,Called up share capital I,Called up share capital I4 1 1,1,2017.0,£
+18,95.0,1.0,Profit and loss account,Profit and loss account 2073638 1533509,2073638,2018.0,£
+19,96.0,0.0,Profit and loss account,Profit and loss account 2073638 1533509,1533509,2017.0,£
+20,88.0,1.0,Shareholders deficit,Shareholders deficit 2073637 1533508,2073637,2018.0,£
+21,95.0,0.0,Shareholders deficit,Shareholders deficit 2073637 1533508,1533508,2017.0,£

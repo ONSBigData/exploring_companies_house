@@ -1,0 +1,55 @@
+,conf,currYr,label,source,value,year,unit
+0,96.0,1.0,Ordinary shares of . each,200 Ordinary shares of 0.01 each 2 2,2,2017.0,£
+1,97.0,0.0,Ordinary shares of . each,200 Ordinary shares of 0.01 each 2 2,2,2016.0,£
+0,95.0,1.0,Intangible assets,Intangible assets 14 5022108 5546175,5022108,2017.0,£
+1,96.0,0.0,Intangible assets,Intangible assets 14 5022108 5546175,5546175,2016.0,£
+2,96.0,1.0,Tangible assets,Tangible assets 15 121620 132630,121620,2017.0,£
+3,96.0,0.0,Tangible assets,Tangible assets 15 121620 132630,132630,2016.0,£
+4,96.0,1.0,Stocks,Stocks 16 4343864 4107407,4343864,2017.0,£
+5,96.0,0.0,Stocks,Stocks 16 4343864 4107407,4107407,2016.0,£
+6,96.0,1.0,Debtors,Debtors 17 3768695 4088834,3768695,2017.0,£
+7,95.0,0.0,Debtors,Debtors 17 3768695 4088834,4088834,2016.0,£
+8,96.0,1.0,Cash at bank and in hand,Cash at bank and in hand 18 1179639 896896,1179639,2017.0,£
+9,96.0,0.0,Cash at bank and in hand,Cash at bank and in hand 18 1179639 896896,896896,2016.0,£
+10,95.0,1.0,Creditors amounts falling due within one year,year 19 3052510 3214418,3052510,2017.0,£
+11,96.0,0.0,Creditors amounts falling due within one year,year 19 3052510 3214418,3214418,2016.0,£
+12,95.0,1.0,Net current assets,Net current assets 6239688 5878719,6239688,2017.0,£
+13,96.0,0.0,Net current assets,Net current assets 6239688 5878719,5878719,2016.0,£
+14,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 11383416 11557524,11383416,2017.0,£
+15,89.0,0.0,Total assets less current liabilities,Total assets less current liabilities 11383416 11557524,11557524,2016.0,£
+16,95.0,1.0,Creditors amounts falling due after more than one year,than one year 20 10207883 11988596,10207883,2017.0,£
+17,96.0,0.0,Creditors amounts falling due after more than one year,than one year 20 10207883 11988596,11988596,2016.0,£
+18,90.0,1.0,Deferred tax,Deferred tax 22 116008 59840,116008,2017.0,£
+19,96.0,0.0,Deferred tax,Deferred tax 22 116008 59840,59840,2016.0,£
+20,96.0,1.0,Net assets liabilities,Net assets liabilities 1059525 490912,1059525,2017.0,£
+21,95.0,0.0,Net assets liabilities,Net assets liabilities 1059525 490912,490912,2016.0,£
+22,96.0,1.0,Called up share capital,Called up share capital 24 2 2,2,2017.0,£
+23,97.0,0.0,Called up share capital,Called up share capital 24 2 2,2,2016.0,£
+24,88.0,1.0,Foreign exchange reserve,Foreign exchange reserve 23 672 1161,672,2017.0,£
+25,96.0,0.0,Foreign exchange reserve,Foreign exchange reserve 23 672 1161,1161,2016.0,£
+26,96.0,1.0,Profit and loss account,Profit and loss account 23 1058851 492075,1058851,2017.0,£
+27,96.0,0.0,Profit and loss account,Profit and loss account 23 1058851 492075,492075,2016.0,£
+0,94.0,1.0,Investments,Investments 8335000 8335000,8335000,2017.0,£
+1,96.0,0.0,Investments,Investments 8335000 8335000,8335000,2016.0,£
+2,96.0,1.0,Debtors,Debtors 2 2,2,2017.0,£
+3,97.0,0.0,Debtors,Debtors 2 2,2,2016.0,£
+4,96.0,1.0,Creditors amounts falling due within one year,year 1437936 319076,1437936,2017.0,£
+5,96.0,0.0,Creditors amounts falling due within one year,year 1437936 319076,319076,2016.0,£
+6,96.0,1.0,Net current liabilities,Net current liabilities 1437934 319074,1437934,2017.0,£
+7,96.0,0.0,Net current liabilities,Net current liabilities 1437934 319074,319074,2016.0,£
+8,95.0,1.0,Total assets less current liabilities,Total assets less current liabilities 6897066 8015926,6897066,2017.0,£
+9,96.0,0.0,Total assets less current liabilities,Total assets less current liabilities 6897066 8015926,8015926,2016.0,£
+10,86.0,1.0,Creditors amounts falling due after more than one year,than one year 10207883 11988596,10207883,2017.0,£
+11,96.0,0.0,Creditors amounts falling due after more than one year,than one year 10207883 11988596,11988596,2016.0,£
+12,96.0,1.0,Net liabilities,Net liabilities 3310817 3972670,3310817,2017.0,£
+13,96.0,0.0,Net liabilities,Net liabilities 3310817 3972670,3972670,2016.0,£
+14,96.0,1.0,Called up share capital,Called up share capital 2 2,2,2017.0,£
+15,97.0,0.0,Called up share capital,Called up share capital 2 2,2,2016.0,£
+16,96.0,1.0,Profit and loss account brought forward,Profit and loss account brought forward 3972672 1642437,3972672,2017.0,£
+17,96.0,0.0,Profit and loss account brought forward,Profit and loss account brought forward 3972672 1642437,1642437,2016.0,£
+18,94.0,1.0,Profitloss for the year,Profitloss for the year 661853 2330235,661853,2017.0,£
+19,96.0,0.0,Profitloss for the year,Profitloss for the year 661853 2330235,2330235,2016.0,£
+20,96.0,1.0,Profit and loss account carried forward,Profit and loss account carried forward 3310819 3972672,3310819,2017.0,£
+21,96.0,0.0,Profit and loss account carried forward,Profit and loss account carried forward 3310819 3972672,3972672,2016.0,£
+0,96.0,1.0,Notes to the financial statements,Notes to the financial statements 16  38,16,2017.0,£
+1,92.0,0.0,Notes to the financial statements,Notes to the financial statements 16  38,38,2016.0,£
